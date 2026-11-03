@@ -1,0 +1,224 @@
+Age
+State a person's exact numerical age or age range if possible, rather than describing them with generalising age categories (e.g. descriptors such as 'Gen X', 'Gen Z' or 'millennial').
+
+When referring to a person with dementia, avoid the term 'senile' and specify the type of dementia, if known.
+
+Disability, Neurodiversity and Health
+The University of Edinburgh recognises the social model of disability whereby individuals may have conditions and impairments but are disabled through how society is organised. For this reason, it generally recommends that the term 'disabled person' is preferable to 'a person who is disabled'. Nevertheless, when writing about disabled people's communities, try to use language preferred by each community. For example, some communities may prefer person-first language (e.g. 'a person with a disability') and some communities may prefer identity-first language (e.g. 'disabled person'). There is no universal consensus around terminology, although identity-first language is preferred by advocates of the social model of disability.
+
+People without a disability may be referred to as 'non-disabled'.
+
+Avoid euphemisms and condescending language when talking about disability, neurodivergence and mental health (e.g. disabled activists have often spoken out against terms like 'handi-capable', 'special needs', 'physically challenged', 'mentally challenged', 'diversability', 'superpowers' and 'brave').
+
+Avoid slurs and phrasings that imply that having a disability is negative (such as 'afflicted by', 'suffering from', 'crippled by', 'a victim of', 'handicapped by', 'confined to a wheelchair', 'wheelchair-bound').
+
+In general, use neutral, non-judgemental language when talking about personal circumstances (e.g. 'substance use' rather than 'substance abuse' or 'substance addiction').
+
+Be mindful of imagery that may reference violence (e.g. 'pull the trigger') or expressions that draw on language to do with disability (e.g. 'lame excuse').
+
+Avoid unnecessary comments on physical appearance and weight.
+
+Gender
+Please be aware of the difference between 'gender' and 'sex' and avoid using these terms interchangeably. 
+
+Avoid implying binary gender through the terms 'opposite sex' or 'opposite gender'. Instead refer to 'another sex' or 'another gender'.
+
+Avoid cisgenderism and cissexism and keep in mind that gender categories are inclusive of cis and trans people.
+
+'Transgender and gender-nonconforming (TGNC) people' is an umbrella term that may be used to refer to transgender, gender-nonconforming, genderqueer, gender-nonbinary, gender-creative, agender or two-spirit people. Avoid terms such as 'tranny', 'transvestite' and 'transsexual', unless they are the preferred terms of an individual.
+
+The term 'gender affirmation surgery' is preferred to 'sex change'.
+
+Avoid 'deadnaming' an individual if they now go by a different, preferred name.
+
+When referring to a named person, use their identified pronouns and avoid assuming pronouns if you are unsure. If pronouns are unknown, use the singular 'they'.
+
+When referring to an unnamed person, use the plural 'they' rather than 'he or she', 's/he' or 'he/she'. Reword to avoid using pronouns if appropriate.
+
+Avoid using the word 'man' to refer to the human species and in stereotyped clichés (e.g. 'mankind' or 'the right man for the job').
+
+Avoid gendered endings such as 'man' when describing occupations (e.g. 'postal worker' rather than 'postman', 'chairperson' rather than 'chairman'). Use gender-neutral titles as far as possible (e.g. 'actor' rather than 'actress', 'waiter' rather than 'waitress').
+
+Use terms such as 'parent', 'carer', 'guardian' or 'caregiver' if you do not know the gender identity of a person's parents.
+
+
+Race and Ethnicity
+
+General Writing Guidance
+When writing about race, ethnicity or nationality, it is essential to adhere to principles of inclusivity, accuracy and respect. The following guidance provides a framework for mindful and responsible language use:
+* Relevance: Only reference race, ethnicity or nationality when pertinent to the context of your writing. Avoid unnecessary categorisations or assumptions about individuals or communities based on these factors.
+* Respect for preferences: Prioritise individuals' preferences regarding how they wish to be described. Always ask for preferred terminology and respect individuals' self-identification.
+* Avoiding stereotypes: Challenge offensive terminology and stereotypes associated with race, ethnicity or nationality. Be mindful of language that perpetuates harmful stereotypes or reinforces systemic biases.
+* Acknowledging complexity: Recognise the multifaceted nature of identity, including intersections of race, ethnicity, nationality, gender, sexuality and other social factors. Avoid reductionist or oversimplified representations of identity.
+* Cultural sensitivity: Be sensitive to the cultural diversity and historical contexts shaping discussions of race, ethnicity and nationality. Take care to avoid cultural appropriation or misrepresentation in your writing.
+* International considerations: Be clear and specific, particularly when writing for international audiences. Consider variations in terminology and cultural norms across different regions and contexts.
+* Evolving language: Regularly review and update language choices to reflect evolving understandings of race, ethnicity and nationality. Stay attuned to community feedback and engage in ongoing dialogue to ensure language remains inclusive and respectful.
+
+Recommended Terminology
+Effective communication about race, ethnicity and nationality requires thoughtful consideration of language choices. The following recommendations aim to promote clarity, accuracy and inclusivity in writing.
+
+Capitalisation and hyphenation
+* Capitalise nationalities and ethnic groups. Racial groups are usually capitalised as proper nouns (e.g. 'Black' instead of 'black') to acknowledge that you are referring to a distinct cultural group and a shared sense of identity and community. However, please be aware that 'white' is not usually capitalised due to associated political connotations.
+* Do not hyphenate compound adjectives or nouns related to ethnicity (e.g. use 'Asian American' rather than 'Asian-American' or 'Black British' rather than 'Black-British').
+
+Minority ethnic group
+Placing 'ethnic' first can make ethnicity the main issue. There is often a tendency for 'ethnic' to be synonymous with non-white, which may imply that the issue lies with being non-white.
+* Avoid using 'minority' as a standalone term when discussing ethnicity or race. Please be aware that demographic populations vary by region so a particular racial or ethnic group may not be a minority in all regions.
+
+Regions of the world
+* It may be better to list the specific countries to which you are referring rather than grouping regions under umbrella terms. For example, care should be taken when grouping countries as 'Global South' or 'Global North' due to variation between countries in the southern or northern hemispheres and geographical inaccuracies with the concepts, given that some countries that are technically in the southern hemisphere are generally considered economically 'Global North' and vice versa. Likewise, the terms 'Western' and 'Eastern' homogenise many different countries. 'First World', 'Second World' and 'Third World' are generally considered outdated terms so it may be best to avoid them unless you are using them in their historical context.
+* Please also be aware that there is some discomfort around the terms 'developed countries' and 'developing countries' because the majority of 'developing countries' face economic or social issues today due to histories of colonisation by 'developed countries'. Some prefer to use the terms 'underdeveloped' or 'less developed' instead of 'developing' to reflect this power dynamic and to avoid portraying 'developed countries' as the ideal.
+
+BAME/BME / BIPOC
+
+* Please exercise caution when using these acronyms. While these terms are seen as convenient labels for discussing race and ethnicity, they can be problematic due to their lack of specificity. The use of these terms can imply individuals of many communities are homogenous, which fails to capture the range of identities. When discussing multiple racial or ethnic communities, aim to use specific terms such as 'Black communities, Latinx communities and Indigenous communities' rather than trying to apply one label to everyone involved.
+
+Terminology relating to Asian, Asian American and Pacific Islander identity
+* 'Asian' can be used to describe individuals from Asia generally but for accurate representation it is recommended that regional specificity is provided where possible. For example, 'South Asia', 'Southeast Asia' or 'East Asia' are acceptable; however, please note that each region encompasses multiple countries with different languages and cultures and respect must be shown to acknowledge their distinct ethnic identities and to avoid generalisation. Specify the country or ethnic group where possible.
+* Note that the terms 'Asian American' and 'British Asian' group individuals from different regions of Asia. Specify the individual's ethnicity where possible.
+* Avoid the use of the terms 'Far East' and 'Oriental' when referring to Asian people and cultures, as they are usually considered offensive and outdated. Nevertheless, 'Oriental' is sometimes used when referring to objects (for example 'Oriental rugs') so we recommend exercising caution when using the term in different contexts.
+
+Terminology relating to Black, African American and Black British identity
+* Capitalise the 'B' in Black to acknowledge that you are referring to a distinct cultural group and a shared sense of identity and community.
+* 'African American' or 'Black' may be used by individuals in the US and 'Black British' or 'Black' may be used by individuals in the UK, as per individual preference. Please note that many ethnicities are encompassed within these terms.
+* Use 'Black people' instead of 'Blacks' or 'the Blacks' to avoid dehumanising language.
+* Consider whether it is more appropriate to use language like 'philosophers from Black backgrounds' rather than 'Black philosophers', as some people prefer to put the person first and their racial or ethnic group afterwards. This may also help prevent confusion about whether you are referring to the field of study (Black philosophy) or the individual academic working in that field (who may or may not be Black themselves).
+* Avoid outdated or offensive terms like 'coloured' or 'Negro'. Please note that 'coloured' refers to a specific racial and ethnic classification in South Africa but is now considered inappropriate and offensive in other regions due to its colonial connotations.
+
+Terminology relating to Hispanic, Latino/a/x/é, Chicano/x identity
+* 'Latino/a/x' and 'Hispanic' are not synonymous so please be aware of their differences.
+* 'Hispanic' refers to those who belong to a Spanish-speaking community or country, including some countries in Latin America; however, please be aware that not all communities in Central and South America speak Spanish or Latin languages. 'Hispanic' may also no longer be a preferred term in some countries (such as the US).
+* 'Latino/a/x' may be preferred by individuals of Latin American descent. Please be aware that the terms 'Latino' or 'Latina' are gendered. The use of 'Latinx' or 'Latiné' are accepted as gender-neutral or nonbinary terms inclusive of all genders.
+* 'Chicano' or 'Chicana' refers to Mexican Americans, whose roots are in Mexico but who now reside in the United States. 'Chicanx' is the gender-neutral or nonbinary term.
+
+Terminology relating to Indigeneity
+When writing about an Indigenous person or an Indigenous community, use the name that they use for themselves as far as possible. Specify the nation, people or group, if known. If not known, 'Indigenous Peoples' is the preferred overarching term.
+* Capitalise 'Indigenous' when it refers to people to show that it is a political identity and denote it as a proper noun (as opposed to 'indigenous' being lower case when referring to 'indigenous plants').
+* Avoid using possessive phrasing (e.g. 'Canada's Indigenous Peoples') given that Indigenous Peoples may not want to identify with a settler colonial state or agree that they belong to it.
+
+
+However, please note that 'tribal nation' and 'tribal sovereignty' are often used in the context of the US when discussing Indigenous communities' political relationships with the federal government.
+
+In relation to North America:
+
+However, please note that the word 'Indian' is still commonly used within US politics (e.g. 'Bureau of Indian Affairs', 'National Congress of American Indians') and Indigenous Americans have different views on using it to describe themselves.
+
+* For Indigenous Peoples from Hawai'i, 'Kānaka Maoli', 'Native Hawai'ians' or 'Pacific Islanders' may be used.
+* For Indigenous Peoples from Alaska, 'Alaska Natives' should generally be used. Avoid the term 'Eskimo'.
+* For Indigenous Peoples from the Aleutian Islands, 'Aleut Peoples' or 'Aleutians' should generally be used. This territory is politically divided between the US and Russia.
+* There are three distinct Indigenous groups in Canada: First Nations, Métis and Inuit. While all can be described as 'Indigenous Peoples' or 'Aboriginal Peoples', please be aware that the terms 'First Nations', 'Métis' and 'Inuit' are not interchangeable.
+* Inuit are Indigenous Peoples living mainly in the regions currently known as Nunavut, the Northwest Territories, northern Quebec and Labrador. In the Inuktitut language the word 'Inuit' translates to 'the people', so it is advisable to avoid saying 'Inuit People' as this translates to 'the people people'. Use 'Inuk' when referring to an individual, 'Inuuk' when referring to two people and 'Inuit' for three or more people. Please also be aware that Inuit are not the same as Innu, who are an Indigenous group that primarily live in northeastern Quebec and southern Labrador.
+* Please note that many Indigenous communities do not recognise colonial borders and use different names to describe North America and the wider world (e.g. 'Turtle Island' is used by many Algonquian- and Iroquoian-speaking peoples).
+
+In relation to Oceania:
+* For Australia, 'Aboriginal Peoples' or 'Aboriginal Australians' should generally be used. 'Torres Strait Islander' or 'Torres Strait Island Australians' may be used for Indigenous Melanesian people from the Torres Strait Islands (currently part of the state of Queensland). Avoid 'Aboriginals' or 'Aborigines'.
+* Please be mindful of using Indigenous place names where possible (e.g. 'Uluru' rather than 'Ayers Rock' in Uluru-Kata Tjuta National Park) or using both the Indigenous place name and settler place name so that readers are made aware of sensitivities around the name.
+* Please be aware that the country formerly known as New Zealand is increasingly known as 'Aotearoa' and 'Aotearoa New Zealand'. For the Indigenous Peoples of Aotearoa, 'Māori' or 'the Māori people' should generally be used.
+
+In relation to North Africa:
+
+The term 'Berber' should be avoided as it is commonly viewed as outdated and offensive due to its colonial connotations and because it derives from the word 'barbarian'.
+* When known, refer to the specific Indigenous group (e.g. 'Shilhah', 'Riffians', 'Shawiya').
+* When referring to the language spoken by the Lmazighen, use 'Tamazight' rather than 'Berber'. When known, refer to the specific dialect (e.g. 'Tashelhit', 'Tarifit').
+* Please research the current preferred wording if writing about Indigenous Peoples from other regions (especially non-Anglophone regions).
+* When writing about the original inhabitants of a place (particularly in the past), avoid terms such as 'natives', 'savages', 'noble savages', 'barbaric' and 'uncivilised'.
+
+Terminology relating to Jewish identity and Judaism
+* Jewish identity can refer to both ethnicity and religion. Please do not assume an individual's religion from their ethnicity or vice versa. For example, not all people who identify as ethnically Jewish practice the religion of Judaism.
+* Both 'Jew' and 'Jewish person' as nouns are acceptable, but please respect personal preference. If the individual's preference is unknown, use 'Jewish person' as the term 'Jew' may have negative connotations and be considered offensive in certain contexts due to historical usage.
+
+Terminology relating to Middle Eastern and North African (MENA) communities
+* Specify the country where possible.
+* Use 'Arab American' or 'British Arab' cautiously for those with Arab ancestry. Please note that there are some people of Middle Eastern and North African descent who do not identify as Arab. When this is unknown, refer to the nation of origin.
+* Avoid conflating Middle Eastern and North African countries with the use of the word 'Arab', as they are not synonymous.
+* The term 'Semitic' historically refers to numerous communities of ancient Southwestern Asia including Amharic-, Aramaic-, Arabic- and Hebrew-speaking groups.
+* Some people prefer the terms 'Western Asia' or 'Southwestern Asia' to 'the Middle East' due to its colonial connotations and to decentre Europe geographically.
+
+In relation to the Bedouins:
+* The Bedouin are nomadic Arab tribes who inhabit the desert regions in the Arab Peninsula, North Africa, the Levant and Mesopotamia.
+* For the plural term, use 'Bedouin' or 'Bedū/Bedou'. All are acceptable, but consult individuals on preferred terminology.
+* The term 'Bedouin' can be used both as a singular and plural noun. When referring to a single member of the Bedouin people, you may use the form 'Bedouin' or 'Badawi.'
+* When known refer to the specific tribe, as it is important to consider regional differences and acknowledge distinct identities and heritage.
+
+Terminology relating to Traveller/Roma/Romani/Gypsy identity
+'Roma' and 'Romani' are often used interchangeably.
+* While some use the term 'Gypsy' to describe Romani people, many Roma people consider the term a racial slur so please respect self-identification.
+
+
+Terminology related to whiteness
+
+* Please do not capitalise 'white' due to associated political connotations.
+
+Terminology relating to mixed heritage
+* When describing a person of mixed heritage, ask for preferred terminology. Although terms such as 'mixed,' 'mixed-race,' 'biracial' and 'multiracial' are used frequently and interchangeably, some of these terms may hold negative connotations for individuals. Respect self-identification and when in doubt use 'people of mixed heritage' or 'people of mixed background' to emphasise the complexity of identity.
+* Avoid outdated and offensive terms like 'half-caste' or 'mulatto'.
+
+Refugees, Asylum Seekers and Migrants
+
+
+* Emphasise the humanity and rights of migrants in all contexts.
+
+Sexual Orientation
+When discussing sexual orientation, please be sensitive to how individuals identify and be specific where possible.
+* Terms that can be used include but are not limited to the following: 'lesbian', 'gay', 'bisexual', 'queer', 'polysexual', 'pansexual', 'asexual', 'heterosexual' and 'straight'.
+* Some people prefer not to use 'homosexual' so it can be advisable to instead use a term that is specific to the individual you are discussing (e.g. 'gay person', 'queer person', 'lesbian person').
+* While the term 'queer' has previously been used as an insult, it is increasingly used by many as a fluid and multifaceted term (e.g. 'queer person', 'queer culture', 'queer theory'). However, for some this word may still have negative connotations, political implications or be triggering so it is important to be sensitive to this.
+* If referring to multiple sexual/gender minority groups, umbrella terms include 'LGBTQ', 'LGBTQ+', 'LGBTQIA' and 'LGBTQIA+'. Please ensure you are using the correct term for the group of people you are referring to and avoid making generalisations.
+* Avoid using 'LGBT', 'LGB', 'gay' and 'lesbian' if referring to the whole LGBTQIA+ community.
+
+Socioeconomic Status
+Socioeconomic status refers to a range of different factors including income, education and occupation.
+* Avoid using deficit-based language such as 'disadvantaged', 'underprivileged', 'poor' and 'uneducated'. Instead, use language that is specific to each individual's circumstances (e.g. 'someone without a secondary school education', 'underrepresented', 'someone currently dealing with food insecurity', 'economically marginalised' or 'economically exploited').
+* Avoid language that defines a place where somebody lives or is from in a negative way (e.g. 'inner-city', 'ghetto' or 'slum') and try not to make generalisations about specific areas. When appropriate, the term 'working-class area' can be used; however, please be sensitive to how people from specific areas/communities choose to describe where they live.
+* Furthermore, avoid slurs such as 'ned' or 'chav' and be aware that terms referring to someone's socioeconomic status can be perceived in different ways depending on the specific country or culture.
+
+* Please be mindful and sensitive to the ways in which socioeconomic status can intersect with race and ethnicity in certain circumstances (e.g. in terms of accessibility, housing, healthcare). However, please do not assume a person's socioeconomic status based on their race or ethnicity.
+
+Content Warnings
+Content warnings notify readers of upcoming sensitive content or imagery that may have an upsetting or otherwise negative impact.
+
+Examples of Sensitive Content
+* Ableism
+* Abortion
+* Abuse
+* Animal cruelty
+* Blood and gore
+* Child abuse, paedophilia or incest
+* Classism
+* Death or dying
+* Drug or alcohol use
+* Eating disorders, body hatred or fatphobia
+* Hateful language directed at religious groups (e.g. Islamophobia, anti-Semitism)
+* Homophobia
+* Kidnapping or abduction
+* Mental health
+* Miscarriages
+* Nudity
+* Pornographic content
+* Racism and racial slurs
+* Self-harm or suicide
+* Sexual assault
+* Torture
+* Transphobia
+* Violence
+
+Where to Put Content Warnings?
+If sensitive content or imagery will appear throughout your book, we would recommend placing a content warning at the beginning of the book, in the prelims or introduction. You may also want to detail which chapters or pages contain the sensitive content or imagery, if some feature it more than others.
+Examples of phrasing:
+* 'This book explores aspects of X and contains depictions of Y. Please read with care.'
+* 'This book discusses the topics of X and Y, particularly [in chapters A and B / pages C to D]. Please read with care.'
+
+If sensitive content or imagery will appear in a particular chapter of your book in relation to a topic or text you are analysing, we would recommend placing a content warning at the beginning of the chapter in question.
+Examples of phrasing:
+* 'Please be aware that this chapter explores the topics of X and Y. Please read with care.'
+* 'Please be aware that [this text] was published in [decade] and contains language, attitudes, themes or characterisations that are [outdated / stereotypical / pejorative / derogatory / unacceptable].'
+
+Content Warnings for Illustrations
+We would recommend providing content warnings for illustrations that depict sensitive or potentially upsetting scenes. The content warning could be placed at the beginning of the chapter or within the chapter near the illustration.
+Examples of phrasing:
+* 'Please be aware that the illustration on page A depicts X.'
+* 'Please be aware that the illustration on the next page of this chapter depicts X.'
+
+The content warning could also be included in the List of Illustrations in the prelims of your book. In this case please add the content warning to your List of Illustrations after the caption / credit line of the relevant illustration and flag it to your Assistant Editor when you submit your book.
+Examples of phrasing:
+* 'Please be aware that this illustration depicts X.'

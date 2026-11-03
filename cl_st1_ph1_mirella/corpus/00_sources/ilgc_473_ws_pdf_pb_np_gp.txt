@@ -1,0 +1,52 @@
+PRINCIPLES
+
+Keep these principles in mind for how you use language:
+* Speak about characteristics only when they are relevant: If a person's gender or sexual orientation or race or disability isn't germane, leave it out.
+* Understand the implications of person-first language versus identity-first language: Identity-first language puts the characteristic first, as in "a disabled person," while person-first language would say "a person with a disability". Individuals often prefer one form over the other, and some organizations (such as the National Federation of the Blind) have called for identity-first language for their audience. Whenever possible, ask about and respect choices when people express a preference for a particular articulation. Similarly, people are not their circumstances-don't use terms such as "the disabled," "the differently abled," "the disadvantaged," "the homeless," or "a transgender" as nouns. Also, racial and ethnic terms should be used as adjectives, rather than nouns.
+* Understand that bias comes in many dimensions: An incomplete list includes race, ethnicity, (dis)ability, age, sex, gender, weight/health, wealth/income, politics, parental/family status, religion (including those who are not religious), nation of origin, immigration status, language/accent, and education level.
+* Be aware that some dimensions of bias are invisible: People don't always choose to disclose their religion, their sexual orientation, a cognitive disability, or other aspects of themselves. Don't make assumptions.
+* Recognize and avoid false hierarchies: Language can telegraph notions of "normalcy" or superiority (e.g., White over non-White, straight over gay/lesbian, abled over disabled, male over female), and these can be subtle. Language rooted in such hierarchies includes master/slave, whitelist/blacklist, and other idioms rooted in "white = good, black = bad". Be aware of and avoid gendered language (e.g., chairman, mankind, manpower, freshmen). Use equivalent language-for example, in contexts where comparing binary gendered groups of people is unavoidable, use "men" and "women" (not "men" and "girls"); be consistent in whether you refer to people by last name (preferred) or first name (don't refer to men by their last names and women by their first names).
+
+
+DIMENSIONS
+
+GENDER/SEX
+
+The terms "ladies," "gals," and "girls" have historically been used in ways that often demean women, and they should be avoided. "Guys" is rarely appropriate for printed copy, and it should never be used to refer to groups of people that include women. Forms that include a field to indicate a relationship should include "spouse" and/or "partner," in addition to "wife" and "husband" because the latter two options can exclude nonbinary people.
+
+"Gay" and "queer" are often considered interchangeable, though using "gay" broadly can be interpreted as disregarding lesbian, bisexual, and other LGBTQIA+ identities. "Queer" is generally more inclusive of LGBTQIA+ people besides gay men, but "queer" was long used derisively, and sometimes still is, so use carefully. Many members of the LGBTQIA+ community embrace the word "queer" in an effort to reclaim it on their own terms.
+
+RACE/ETHNICITY
+Talking about race and ethnicity can be especially difficult. The English language includes countless terms that are used explicitly as racial and ethnic slurs, as well as numerous terms that carry derogatory connotations. Complicating matters, some people use "race" and "ethnicity" as synonyms, while others insist they are distinct.
+
+If you know which term is most appropriate or is preferred by the people being described, use that term, understanding that all are acceptable. Some use the term "Latinx" to avoid the gendered language of "Latino/Latina," though many find the term offensive or inappropriate. Another term that some prefer is "Latine," and we will also use and allow this term.
+
+Similarly, the term BIPOC (Black, Indigenous, and people of color) can be polarizing. Some prefer it, while others argue that it reinforces long-standing inequities and creates new ones by highlighting Black and Indigenous people while making no mention of people of other ethnicities. And it is sometimes thought to refer to bisexual people of color. If a broad term is needed, person/people of color (POC) or student(s) of color (SOC) is preferred, but many individuals and groups now use "BIPOC" extensively.
+
+Many terms are used in broad, indistinct ways when specificity would be preferable. For example, the term "Asian" covers an enormous range of ethnicities and cultures from a vast geographical area, and although the term isn't generally considered offensive, its imprecision can be problematic. "Indigenous" is a broad term that can refer to native people from anywhere (the United States, Canada, Australia, New Zealand, etc.). Again, more precision is better, such as "Native American," "members of the Cherokee Nation," "Alaska Native," or "Native Hawaiian". Although some Native Americans identify as "Indians" or "American Indians," the term "Indian" is generally considered inappropriate. Similarly, "African American" and "Black" are not synonymous. An individual might identify as Afro-Latino or Afro-Caribbean, for instance, or Haitian American or Jamaican American. If race/ethnicity is warranted in a description and you are able to ask, find out how people prefer to be identified. In all situations, be as specific as possible.
+
+EDUCAUSE will capitalize "Black," "White," and "Brown" when referring to racial/ethnic groups. We will use these terms as adjectives (e.g., Black faculty, White students), not as nouns. We acknowledge different points of view about capitalizing "White" and agree that the term should be lowercase in terms such as "white supremacy." Similar debates surround the capitalization of "Brown," with some contending that the term is used as a broad catchall for too many groups of people to be useful. Usages for these terms are shifting, and we will continue to monitor changes.
+
+Various terms are used to refer to a person's status or position in social contexts, terms such as "minority," "minoritized," "marginalized," "underrepresented," "underserved," and "nontraditional." These terms are the subject of an ongoing and energetic debate and should be used carefully, understanding that specificity is beneficial instead of referring to "minorities" or "minoritized students," identify the specific group being discussed and the fact or finding (e.g., underrepresented in STEM disciplines). Many also consider the term "at risk" to be inappropriate.
+
+Terms that relate to race/ethnicity should be used as adjectives, not as nouns-for example, say "Black students and faculty" rather than "Blacks on campus."
+
+ABILITY/DISABILITY
+Although the term "disability" denotes a lack of some ability, don't frame discussions in those terms. Don't speak about people being confined to a wheelchair or suffering from blindness. People aren't victims of a disease or disability. Don't "heroize" people with disabilities or say they are successful despite a disability. Don't use terms such as "normal" or "healthy" to describe people without disabilities.
+
+Avoid calling disabilities "conditions" or characterizing them as problems. They are the facts of people's lives and are different from what other people experience, but they don't make anyone more or less of a person. Recognize difference for what it is-dissimilarity-and nothing more. Remember that many disabilities-cognitive and physical-are invisible.
+
+Accessible web design involves a broad range of considerations that fall outside the scope of this guide, but some dimensions of accessible web design do intersect with issues related to language, particularly in the area of instructions. If a resource directs users to "a red button," that can pose a problem for a colorblind user; directing users to "a red Submit button" would avoid that problem. An awareness of the subtle ways in which language overlooks certain users will help in the creation of content that enables everyone to participate equitably.
+
+SOCIOECONOMICS
+Bias can creep into discussions surrounding socioeconomics because income is sometimes characterized as being a function of ability or initiative. Be aware of subtle cues that hint at false connections. Avoid framing discussions in terms of privilege; focus instead on differences and implications.
+
+AGEISM
+Ageism ascribes certain qualities-positive or negative-to people based on their age. Although age discrimination is often considered to be something that affects older individuals, ageism can harm a person of any age by making assumptions about that person's abilities, attitudes, preferences, or experiences.
+
+IT TERMINOLOGY
+Some terminology that has been incorporated into IT labels and tools has discriminatory and offensive roots. For example, the term "penetration test" has sexual undertones, and the use of "male" and "female" to refer to cable connectors can be similarly offensive. If such terms must be used, be aware of the sensitivity.
+
+Members of the community have identified other words as terms to avoid when possible, including "white paper," "webmaster," "scrum master," and "master service agreement," understanding that alternative terms-such as "topic paper" or "main service agreement"-are not always direct synonyms.
+
+

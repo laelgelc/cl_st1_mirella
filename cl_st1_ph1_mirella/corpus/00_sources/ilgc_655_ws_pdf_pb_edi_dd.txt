@@ -1,0 +1,53 @@
+ Avoid                    Preferred
+    -----------------------  --------------------------------------------
+    disease, illness         condition, disability
+    suffering from autism    (avoid; use neutral description)
+    disorder                 acceptable when referring to the diagnosis of
+                             autism spectrum disorder [ASD]
+
+    Term                                    When to use
+    --------------------------------------  ---------------------------------------
+    "non-autistic" or "person without       if you've screened for and ruled out an
+    autism"                                 ASD diagnosis
+    "neurotypical"/"typically developing"   if you have thoroughly ruled out other
+                                            neurodevelopmental diagnoses
+    "general population"                    to refer to community participants who
+                                            may or may not have neurodevelopmental
+                                            diagnoses
+    "comparison group"                      with a description of relevant
+                                            characteristics
+
+
+    Avoid              Preferred
+    -----------------  ----------------------------------------
+    high functioning   autism without intellectual disability
+    low functioning    autism with intellectual disability
+
+
+
+    Avoid         Preferred
+    ------------  ----------------------------------------------------
+    at risk       increased/elevated likelihood, correlated with a
+                  diagnosis of autism
+    risk factor   associated factor, correlate, predictor
+
+
+    Avoid              Preferred
+    -----------------  --------------------
+    nonverbal          non-speaking
+    minimally verbal   minimally-speaking
+
+
+    Avoid              Preferred
+    -----------------  ----------------------------------------------------
+    autism symptoms    autistic traits, autism characteristics, features of
+    autism severity    autism
+
+
+
+    Avoid       Preferred
+    ----------  -------------------------------------
+    comorbid    co-existing, co-occurring, secondary
+
+
+

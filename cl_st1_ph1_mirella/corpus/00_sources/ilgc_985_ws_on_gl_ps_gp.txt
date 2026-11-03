@@ -1,0 +1,130 @@
+General principles
+
+While a list of preferred terms will help you make the most inclusive word choice in the moment, these guiding principles are meant to help you enter into a conversation or piece of communication with a more empathetic, inclusive mindset:
+
+People-first language
+
+Remember that there is more to a person than their descriptors. In writing (and in person) always put people before their characteristics. For example, instead of a "disabled person" or "female engineer," use "person with a disability" and "a woman on the engineering team."
+
+Universal phrases
+
+Because not every one of us shares the same background and experiences, it's important to avoid using language and terms that may alienate certain people or groups. This includes any business/industry jargon, acronyms and even some seemingly "common" idioms which don't translate well globally.
+
+Self-identification
+
+While we hope to provide guidelines on the most common preferred terms, there's no real way to know the personal preferences of every group or individual in every situation. If you're ever unsure, or it's unclear, just ask. Give everyone the opportunity to self-identify.
+
+No "normal"
+
+Take care not to write using your own group as the reference group, which oftentimes implies a position of normality and superiority. Use of the word "normal" as a comparison group can stigmatize people who are different.
+
+Mental disability/mentally handicapped
+Rarely is this characterization necessary in our writing. In the rare case it is relevant to the story, always be sure to use people-first language, and be specific with your description—you don't want to lump all diagnoses together. This is also another opportunity for self-identification.
+
+
+Additional considerations
+
+Overuse/misuse of diversity
+
+Many DEI leaders feel that the term "diversity" has lost its meaning. What started as an inspirational, idealistic term, has in some way become twisted, muddied and watered down to little more than a buzzword.
+
+One problem is that it lacks the emotional resonance needed to communicate the very real emotional root of equity and inclusion efforts. Not to mention it lacks the inference of action, which we need much more than just lip service.
+
+It's also too broad a term. Instead of saying you want "more diversity," specify what you really mean ie more people of color, women, LGBTQIA+ folks, veterans, individuals with disabilities, etc.
+
+Consider using "equality," "equity," "inclusion" and "belonging" in lieu of diversity.
+
+Black vs African American vs Black American
+
+There are a lot of differing views on the use and distinction between these terms. Because this descriptor is so subjective and personal, we encourage writers to simply ask. To reinforce our previous guidelines, always give the opportunity to self-identify.
+
+In cases you do use the terms, Black and Black American, capitalize the "b" in black. There should also be no hyphen in Black American and African American, unless the term is used as a descriptive adjective ie. African-American ancestry, African-American history, etc refer to the same groups.
+
+There are, however, some folks who don't feel as comfortable with the term Hispanic. So again this comes down to personal preference, and it would be best practice in this situation to allow people to self-identify.
+
+Generic "he" in tech
+
+Sometimes the pronoun "he" is used to describe technical roles or executive roles by default-particularly in job descriptions.
+
+Don't do this. Assuming that the default tech professional is a man perpetuates a misogynistic mentality, as well as the male-dominated reality of the industry. This is a great place to use the singular they.
+
+Inclusive greetings
+
+Echoing our guidelines around the use of more gender-neutral language, avoid addressing, acknowledging and greeting individuals and groups with assumed or collective gendered terms.
+
+Gender-neutral pronouns
+
+The singular "they" is the most common pronoun used by non-binary people, although not the only one. person whose gender is known, but does not identify as male or female. (Merriam-Webster)
+
+For example, when referring to a coworker whose pronouns are "they/them," you would say, "This is my friend, . I met them at work." Or "They are really great at their job."
+
+And if you're ever unsure of an individual's pronouns, just ask. Keep in mind our general principle of self-identification.
+
+It can also be helpful to indicate your pronouns in communication channels like in your email signature or Slack status. Not only does this provide the opportunity to self-identify, but it also normalizes the process and indicates a safe environment for individuals who identify as non-binary.
+
+Pronoun formatting and capitalization
+
+When writing one's pronouns, for example, in an email signature or below your name in a slide deck, choose the pronouns most accurate and authentic to who you are and how you identify.
+
+There's no hard and fast rule for how to format and/or capitalize pronouns. Typically, you'll see pronouns divided by slashes (e.g., she/her/hers or they/them). Capitalization is personal preference.
+
+Trigger warnings
+
+This watch-out may be more relevant to internal communication than external, but the guidelines remain the same in both cases.
+
+While Sprout fosters and encourages an environment of open communication, we also want every Sprout space to feel safe. This creates a need to acknowledge and address the necessity of a content or trigger warning.
+
+Common content warnings include, but are not limited to:
+
+Sexual Assault
+Abuse
+Child abuse/pedophilia/incest
+Animal cruelty or animal death
+Self-harm and suicide
+Eating disorders, body hatred and fat phobia
+Violence
+Pornographic content
+Kidnapping and abduction
+Death or dying
+Pregnancy/childbirth
+Miscarriages/abortion
+Blood
+Mental illness and ableism
+Racism and racial slurs
+Sexism and misogyny
+Classism
+Islamophobia
+
+A trigger warning usually takes the form of some emphasized (usually bold) text starting with a warning phrase (such as "trigger warning," "content warning," or just "warning") and describing in broad terms the upsetting nature of the content. Stay broad to avoid triggering in your warning.
+
+Some sample language might include: "Warning for content describing an experience with an eating disorder" "Content warning: child abduction"
+
+Writing for web accessibility
+
+Navigating online content can be difficult for people with disabilities. People with varying levels of hearing, sight, movement and cognitive impairment often rely on assistive technology—such as screen readers-to help identify and interpret what's displayed on a web page. These screen readers, however, need the proper page information and inputs to create a smooth user experience.
+
+There's a common misconception that web accessibility is purely a technical responsibility of developers, but we can all do our part to help ensure our content is as inclusive as possible.
+
+The following are writing-specific guidelines to help improve the readability of web content and communication for people with disabilities:
+
+Organize
+
+Be sure to divide large blocks of content up into smaller chunks.
+Keep sentences and paragraphs short and concise.
+Break content up with larger, descriptive headers that are as accurate and specific as possible.
+provided as early on—and as plainly stated—as possible.
+
+Provide
+
+Links that accurately describe the destination
+An indication when "links open in a new tab" (written in parentheses after link)
+Thoughtful, descriptive alt text for all visual content
+If the image is purely "decorative" and non-informational/necessary for further understanding of the article, add an empty tag (alt = "") to instruct the screen reader to skip it.
+Transcripts and captions for multimedia
+
+Avoid
+
+All caps
+Italics
+Acronyms without spelling out upon first use
+Jargon, idioms and language that would be considered overly technical

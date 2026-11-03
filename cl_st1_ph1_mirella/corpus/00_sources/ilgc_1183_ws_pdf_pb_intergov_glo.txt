@@ -1,0 +1,129 @@
+ANNEX II
+
+Terms requiring additional clarification from a language perspective
+
+1. ACCESS vs ACCESSIBILITY
+2. BRAILLE
+3. CAPTIONS vs SUBTITLES
+4. DEAF COMMUNITY
+5. DEAFBLIND
+6. DECLARATION AND DISCLOSURE
+7. DISABLED PERSON
+8. EASY READ
+9. HELP, SUPPORT, ASSISTANCE
+10. IMPAIRMENT vs DISABILITY
+11. INTEGRATION vs INCLUSION
+12. NEEDS vs REQUIREMENTS
+13. ORGANIZATIONS FOR/OF PERSONS WITH DISABILITIES
+14. PWD
+15. PLAIN LANGUAGE, PLAIN ENGLISH
+16. REASONABLE ACCOMMODATION
+17. SERVICE ANIMALS
+18. SIGN LANGUAGE AND INTERNATIONAL SIGN
+19. VISUAL IMPAIRMENT vs BLINDNESS
+
+1. ACCESS vs ACCESSIBILITY
+
+Access means the opportunity or right to do something or enter a place. For example, if you have a United Nations badge, you have access to the United Nations premises.
+
+Accessibility refers to the design of products, devices, services or environments so as to be usable by persons with or without disabilities, and includes information and communications. Physical accessibility, for example, involves the creation of a barrier-free environment where persons with disabilities can move freely. Using the example above, this means that you may have access to the United Nations premises, but accessibility is lacking if there are physical barriers such as stairs or heavy doors. While you may have access to United Nations documents in printed or digital form, the documents are not accessible unless they are available in the required format (such as Braille or Easy Read).
+
+Sometimes access is ensured but accessibility is not, so these terms are not equivalent and should be used in the right context.
+
+2. BRAILLE
+
+Braille is not a language. It is a system of raised dots that can be read with the fingers, used by people who are blind or who have low vision. Not all blind people can read Braille. Those who do can be referred to as Braille users. Everybody has the ability to learn to read Braille, so you should never assume that a Braille user is blind.
+
+The process of converting printed text to Braille is called "transcribing" (not "translating"). The "printing" process is called "embossing".
+
+3. CAPTIONS vs SUBTITLES
+
+Captions and subtitles are not the same, although they both appear as text at the bottom of the screen and represent speech.
+
+Captions are particularly useful for persons who have hearing impairments as they include information on background noises, speaker identification, description of music and other relevant details.
+
+Subtitles assume that the viewers can hear but cannot understand the language in the video – for example, in foreign-language films – and include dialogue only.
+
+Captions come in two forms: open or closed captions. Closed captioning can be turned off by the viewer, while open captions are embedded into the video and cannot be turned off. Live (or real-time) captioning is provided at accessible meetings, either remotely or on-site.
+
+All of these differences should be taken into account when using these terms.
+
+4. DEAF COMMUNITY
+
+"I am Deaf" (capitalized) is often used by individuals who are proud to belong to the "Deaf Community". They view themselves as a unique cultural and linguistic minority who use sign language as their primary language and share similar values. However, at the United Nations, we do not capitalize "deaf" or "deaf community".
+
+5. DEAFBLIND
+
+Deafblind individuals are a heterogeneous group of people who have significant sensory loss, including both blindness and deafness. At the United Nations, the form "deafblind" is preferred over "deaf-blind".
+
+6. DECLARATION AND DISCLOSURE
+
+Persons with disabilities have the right to share, or not to share, information about their disability status. In the workplace, we should move away from the traditional terms of "disclosure" or "declaration" of disability, as it can make it seem like the person is revealing a secret.
+
+The phrase "identify as a person with disability" should also be avoided, as it raises other issues around identity and belonging. Someone may have an impairment but still not identify as a person with a disability. The simple phrase "choose to share information about their disability/impairment" is appropriate when talking about people's choice to let their employer or colleagues know about their impairment or specific requirements.
+
+7. DISABLED PERSON
+
+In some countries, "disabled person" is the preferred term. This term must be kept when referring to their laws, policies or entities, for example, as it reflects the reality in the country or the author's deliberate choice. Quotation marks can be used if necessary. However, we recommend using people-first language in United Nations websites, documents and speech, with the term "persons with disabilities".
+
+8. EASY READ
+
+Easy Read is an accessible format primarily intended for persons with intellectual disabilities or who have difficulties understanding written text.
+
+The process of drafting an Easy Read version of a mainstream document is called "adaptation", not translation. However, like any other document, an Easy Read document written in one language can be translated into any other language, in which case we can call the result a translation.
+
+At the United Nations, when referring to this specific format, we prefer the term "Easy Read" over "easy-to-read" to avoid misunderstandings. For example, the phrase "the United Nations Chronicle is a quarterly, easy-to-read report on the work of the United Nations and its agencies" does not mean that the Chronicle is available in this accessible format, but simply that it is easy to read and to understand.
+
+9. HELP, SUPPORT, ASSISTANCE
+
+The terms "help", "support" and "assistance" have different connotations and are not interchangeable.
+
+The term "help" is not recommended, as it portrays persons with disabilities as helpless and dependent. "Support" and "assistance" are more empowering and appropriate terms, and can be used in expressions such as "participants requiring assistance" or "support measures for persons with disabilities".
+
+10. IMPAIRMENT vs DISABILITY
+
+Impairment refers to "any loss or abnormality of psychological, physiological or anatomical structure or function" (World Health Organization), while disability "results from the interaction between persons with impairments and attitudinal and environmental barriers that hinders their full and effective participation in society on an equal basis with others" (Convention on the Rights of Persons with Disabilities, preamble, para. (e)). Since these terms have different meanings, they are not interchangeable.
+
+11. INTEGRATION vs INCLUSION
+
+There is a substantial difference between integration and inclusion. Integration is the process of making a person adapt to or fit into society, while inclusion refers to the process of changing society to include everyone, regardless of their impairment status. When talking about persons with disabilities, the connotations of "inclusion" are positive, while those of "integration" are negative. These terms are therefore not interchangeable.
+
+12. NEEDS vs REQUIREMENTS
+
+Some United Nations entities and experts have shown a preference for the term "requirements" over "needs". This is in line with the human rights approach to disability, whereby we recognize that persons with disabilities are rights holders. The term "needs" is perceived as perpetuating the stereotype that persons with disabilities are needy or a burden, in particular when referring to "care needs". An example that illustrates this approach is that schools must provide Braille materials to students with visual impairments not because they need them, but because they have a right to quality education on an equal basis with other students.
+
+13. ORGANIZATIONS FOR/OF PERSONS WITH DISABILITIES
+
+Organizations "of" persons with disabilities should be distinguished from organizations "for" persons with disabilities.
+
+Organizations of persons with disabilities are led and controlled by persons with disabilities themselves. They represent the legitimate rights and interests of their members.
+
+On the other hand, organizations for persons with disabilities provide services or advocate on behalf of persons with disabilities, but are not led and controlled by those persons.
+
+14. PWD
+
+The abbreviation "PWD" or "pwd" to refer to persons with disabilities should never be used in formal United Nations documents.
+
+15. PLAIN LANGUAGE, PLAIN ENGLISH
+
+Plain language is communication that the audience can understand the first time they read or hear it. Complex language and jargon are avoided, and a number of other principles are applied such as using short sentences or avoiding the passive voice. It can also be called plain English, plain writing or clear writing. However, the context is particularly relevant. For example, if you mention that a document will be made "available in plain English", it may be understood to be in the English language only, excluding any other language. If that is not the case, "plain language" would be preferable.
+
+16. REASONABLE ACCOMMODATION
+
+In disability contexts, the term "accommodation", frequently used in the expression "reasonable accommodation", refers to necessary and appropriate modifications and adjustments to ensure that persons with disabilities can enjoy all human rights and fundamental freedoms.
+
+In order to avoid misunderstandings, other options can be used when referring to a place to live or stay, such as housing, lodging, place of residence or living arrangements. Nevertheless, the term accommodation can be used when there is no ambiguity.
+
+17. SERVICE ANIMALS
+
+Service animals have been trained to perform specific tasks for persons with disabilities. This may include animals that guide individuals with visual impairments, pull a wheelchair or fetch dropped items. Sometimes the term "animal" is preferred over "dog" to encompass other types of animals that provide similar services. For example, Capuchin monkeys have been trained to help persons with physical impairments to perform daily tasks. Other animals that can be trained or used to provide comfort include parrots, ferrets and horses.
+
+18. SIGN LANGUAGE AND INTERNATIONAL SIGN
+
+Sign languages all over the world are distinct from each other. There is Mexican Sign Language, Lithuanian Sign Language and so forth. Some countries, such as Canada, have more than one sign language. When referring to these specific languages, we need to capitalize each word in the name.
+
+There is no such thing as an international sign language, but there is something called International Sign. International Sign is a form of signing based on a series of agreed-upon signs that are used whenever deaf people from around the world meet at events. We therefore say, for example, that the United Nations provides International Sign interpretation, without calling it a language.
+
+19. VISUAL IMPAIRMENT vs BLINDNESS
+
+The term "visual impairment", or "vision impairment", encompasses a wide range of vision loss situations, of which blindness is just one. These terms are therefore not synonyms.

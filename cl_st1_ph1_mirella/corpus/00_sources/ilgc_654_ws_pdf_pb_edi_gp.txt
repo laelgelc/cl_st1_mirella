@@ -1,0 +1,90 @@
+Journal of Autism and Developmental Disorders
+Suggestions for Inclusive Language in JADD Submissions
+
+
+IDENTITY FIRST LANGUAGE (IFL; e.g., "autistic person") vs PERSON FIRST LANGUAGE (PFL; e.g., "person with autism")
+
+A plurality of opinions exist in the broader autism community about the use of PFL vs. IFL, and strong arguments exist on both sides of this debate. If participants are adults, ask them to state their preference (congruent with reporters' and journalists' guidelines (https://acl.gov/news-and-events/for-reporters; https://www.poynter.org/reporting-editing/2021/when-reporting-on-disability-advice-about-language-is-simple-just-ask/) and state this within the manuscript. If no preference is stated, use the more neutral term "on the autism spectrum". While preferences of self-advocates and families have shifted over the years, recent empirical studies have shown that autistic individuals tend to prefer IFL and/or the neutral term "person on the autism spectrum" over PFL.
+
+Currently, JADD is not excluding articles with either IFL or PFL.
+
+
+REFERRING TO AUTISM
+
+Authors refer to autism as a condition or disability instead of as a disease or illness. The term "disorder" may be used (particularly when referring to the diagnosis of autism spectrum disorder [ASD]), but neutral terms such as "condition" and "disability" are typically preferred when describing autism as an entity. Emotionally laden terms such as "suffering from autism" should be avoided. Notably, the terms "disease" or "illness" may still be appropriate when referring to co-occurring medical and psychiatric conditions (e.g., epilepsy, diabetes mellitus).
+
+  
+
+DESCRIBING NON-AUTISTIC INDIVIDUALS
+
+Refrain from using terms such as "healthy controls" or "normal controls." Specify how you've characterized comparison groups and provide rationale for your choice:
+
+Similarly, instead of "typical child" or "typical peer" JADD prefers "non-autistic children" or "children not diagnosed with a disability."
+
+
+BE SPECIFIC WHEN DESCRIBING PARTICIPANT GROUPS, SKILLS, ABILITIES, AND BEHAVIORS
+
+Avoid using the terms "high functioning" and "low functioning," particularly when referring to autism with and without intellectual disability (in which case "autism with intellectual disability" and "autism without intellectual disability" are preferred). The term "profound autism" is appropriate only for individuals who are found to meet the specific criteria for this classifier proposed by a recent Lancet Commission report. Authors are encouraged to describe characteristics of participants in detail across multiple domains and define subgroups descriptively whenever possible.
+
+
+AVOID USING "AT RISK" FOR DEVELOPING AUTISM
+
+Use terms such as an "increased/elevated likelihood" of being diagnosed with autism or "correlated with a diagnosis of autism". When considering factors that increase the likelihood of an autism diagnosis, the term "risk factor" is discouraged in favor of "associated factor," "correlate," or "predictor."
+
+
+LANGUAGE DESCRIPTIONS
+
+Rather than using vague terms such as "minimally verbal" or "nonverbal" use specific standardized categories that relate to both age and expected linguistic development. If specific standardized categories cannot be assigned, the terms "non-speaking" or "minimally-speaking" are preferred.
+
+
+FEATURES OF AUTISM
+
+The terms "autism symptoms" and "autism severity" are discouraged when referring to core features of autism or measures of these traits and behaviors. It is recommended that authors use neutral terms such as "autistic traits," "autism characteristics," or "features of autism" instead. The term "symptom" may still be appropriate when referring to specific features of co-occurring medical or psychiatric conditions (e.g., chest pain, diarrhea, anxiety, or hallucinations).
+
+BEHAVIORS
+
+In place of using vague terms, such as "disruptive behaviors," "challenging behaviors," and "autistic behaviors," describe the specific behaviors (e.g., self-injury, aggression, and elopement, in the case of so-called 'challenging' behaviors).
+
+
+FATALISTIC LANGUAGE
+
+Avoid terms that suggest that autism is uniformly detrimental, and will lead to poor outcomes for families, individuals on the spectrum, or society. JADD is moving toward focusing on articles and interventions which will be helpful to families, providers, and others, while decreasing the number of accepted articles focusing solely on weaknesses, problems, and deficits.
+
+
+STRENGTH BASED
+
+Include the strengths of the participants diagnosed with autism whenever possible, but do not minimize the challenges experienced by those on the autism spectrum and their families. Qualify those challenges experienced by individuals on the autism spectrum, (e.g., challenges associated with reduced educational or social opportunities or healthcare access), especially in cases where individual or structural factors beyond autism are significant contributors.
+
+
+MEANINGFUL OUTCOMES
+
+When reporting outcomes of interventions, describe how the changes may (at least theoretically) result in quality-of-life (QoL) improvements for the individual on the autism spectrum and/or families. JADD is unlikely to accept articles that produce small changes in outcomes that autistic people and their families do not find meaningful. Whenever possible, the social validity of an intervention should be assessed and reported on alongside the intervention's effects on behavior and other clinical outcomes.
+
+
+HARMFUL OR DEMEANING INTERVENTIONS
+
+Interventions that use painful procedures (e.g., operant conditioning with electric shocks) or procedures that increase the frequency of unwanted behaviors will not be considered for publication. Strengths-based approaches are increasingly accepted as best practice. Potential harms of both pharmacological and non-pharmacological interventions should be described.
+
+
+MEDICAL/PSYCHIATRIC CONDITIONS OCCURRING ALONGSIDE AUTISM
+
+The term "comorbid" is discouraged when referring to another medical, psychiatric, or developmental condition that occurs with autism. The terms "co-existing," "co-occurring," or "secondary" are preferred in these cases.
+
+
+PROVIDE CLARITY ON GENERALIZABILITY OF STUDY FINDINGS
+
+Please include the following information for all manuscript submissions whenever possible:
+
+- Procedures for sample selection and recruitment, including justification of choices to limit the demographics of the sample.
+- Major demographic characteristics including age, sex/gender, race, ethnicity, and indicators of socioeconomic status (e.g., parental education, household income).
+- Description of efforts made to recruit representative samples of the location in which the research takes place.
+- If data are available on the confirmation of autism diagnoses, co-occurring psychiatric conditions, intellectual or language abilities, and/or medication use, these variables should be reported regardless of their relevance to the aims of the study.
+
+
+DIVERSITY
+
+JADD endorses diversity and encourages authors to include the ethnicity of participants and whether participatory engagement occurred in research.
+
+also see more comprehensive guidelines related to equity, diversity, and inclusion published by APA (https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines.pdf)
+
+

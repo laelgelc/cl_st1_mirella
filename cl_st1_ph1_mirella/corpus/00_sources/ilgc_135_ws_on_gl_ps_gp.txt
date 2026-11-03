@@ -1,0 +1,90 @@
+Lead with curiosity and empathy
+Words help us make sense of the world we live in. Our language reflects our origins and life experiences. Examining the way we communicate with each other isn’t always easy. But when we embrace different perspectives with curiosity and empathy, we make that discomfort temporary while we learn. It also pushes us to ensure visibility and create space for others to lead.
+
+If you’re questioning a word or phrase, there’s likely a reason for it. Lean into your curiosity to look into its origins. If a word is unclear or potentially harmful, choose clear, direct language instead. Remember: metaphors can sometimes obscure meaning rather than communicate it.
+
+Question what you think is "normal"
+“Normal” is a construct manufactured to align with Eurocentric society. It’s important to confront and challenge what you consider “normal” or typical to create inclusive design. 
+
+Some parts of identity are based on biology, while others emerge because of society. We’re all shaped by many different things—gender, race, class, sexual orientation, religion, ability, age, and so on. That means people can experience multiple forms of discrimination and oppression at the same time.
+
+Challenge your assumptions and biases about what you consider normal or typical. And keep the biggest assumption in mind—assume the work begins with you.
+
+Include diversity in your content
+Intuit products are for everyone, regardless of age, race, sex (including pregnancy and childbirth), gender identity and expression, ethnicity, sexual orientation, religion, military/veteran status, and physical or mental disabilities. Our content should reflect that.
+
+What’s your default when designing? What names, family structures, and illustrations are you using? Who are you representing? 
+
+Be thoughtful about what you’re writing. Examine who’s in the picture and who’s out. Your designs should be inclusive of everyone.
+
+If you’re not sure about something, ask and don’t publish. There are people and resources at Intuit (such as our Employee Resource Groups) willing to help. We can all work together to make sure content is diverse, inclusive, and representative of all our customers.
+
+Only ask for info we really need
+The content decisions we make are powerful. Labels, fields, and other microcopy may be small, but they're important and affect the overall customer journey.
+
+Our customers’ product experiences don’t change based on their identity. This means we don't need to ask for personal info that doesn’t affect how customers use a product. 
+
+Gender, age, ethnicity, race
+It’s OK to collect this info for government forms or to meet other compliance requirements. Consider including a “why we need this” tooltip. This reassures customers that we have a legitimate reason for asking. (Understanding demographics for marketing purposes is typically not one.) In general, you shouldn’t need to mention these things unless they’re relevant to what customers are doing.
+
+If you ask customers to identify their ethnicity and race, consider asking the questions separately. For racial identity, let customers select as many options as they want. 
+
+Learn more about gender-neutral language
+
+Titles and forms of address
+If you’re designing a form field or an email, ask yourself why you need to include a title (Mr, Mrs, Ms, and so on). How is the info relevant? Should that be the first thing we ask customers? 
+
+From a voice and tone perspective, we rarely use titles to address our customers, so we shouldn’t need them at all. If you do have a valid reason for collecting the info, be sure to include a gender-neutral option (Mx), and make the field optional.
+
+Watch out for outdated terms
+As we learn more about how we talk about people, we learn that some terms used in the past just don’t cut it anymore. Most of those terms aren’t clear and don’t put people first. 
+
+People-first language is different from identity-first language in that it describes the person before the disability, condition, or diagnosis. For example, we’ve learned to use terms like disabled or person with a disability over crippled, handicapped, or insane. These terms are generally considered outdated, vague, and dehumanizing. 
+
+A big caveat to this is that not everyone prefers person-first language or newer terms. For example, some people prefer:
+
+Deaf or Hard of Hearing over hearing impaired or person who is Deaf.
+Disabled over differently abled, special needs, handicapable, or other euphemistic terms 
+Latino or Latina over Latinx
+Don't assume. Ask, listen, and learn.
+
+Context matters
+Like many language decisions, context is key. Idioms may be conversational, but they’re not always easily translatable or understood.  Some idiomatic expressions can be OK, like “Let’s take a look” or “I see what you mean”. Everyone sees—some using their hands, some with their eyes. It’s the brain that allows us to see.
+
+But most of the time idioms can be an opportunity to be clearer with your language.
+
+For example, “See more” as a CTA could be less vague. The active verb options (like “Show more”) describe what the action really is.
+
+Use gender-neutral language
+We communicate to customers in the second person (you), and when we refer to other people, we use third person and keep our language gender neutral, including pronouns. Don’t assume that the accountant, tax expert, or other financial professional is a he.
+
+If you find yourself in the awkward spot where the subject’s gender is unknown, write your way around it. Don’t use she/he, s/he, they or them, or one. If you absolutely can’t write your way around it, then it’s OK to use they, them, or their.
+
+When we write about a person, use the pronouns they go by. When in doubt, use the person’s name.
+
+In some instances, we ask users to select a gender for themselves or an employee. Unless a specific state or federal regulation requires a binary choice, present these three options:
+
+Female
+Male
+Non-binary/Other
+Don't use “Other” as an option by itself. You’re other-ing an entire group of people.
+
+To comply with tax regulations, in TurboTax we ask for a dependent’s gender. We don’t ask for the gender of the taxpayer or their spouse.
+
+Inclusive gender-neutral alternatives
+Avoid unnecessarily gendered language. There are other ways to be gender neutral and inclusive:
+
+Gender neutrality and inclusivity in other languages
+French, Portuguese, Spanish, and the other Romance languages are gender-oriented. This means that there are (almost) no neutral alternatives for nouns and pronouns.
+
+To write in a more inclusive and gender-neutral way, follow the Intuit guidelines and try to write around gender whenever possible.
+
+A few examples in Portuguese
+Welcome will be translated into “Bem-vindo”, which is the masculine form. There’s no neutral way to say “welcome” in Portuguese. Try to write something like “It’s good to have you here” or “We’re glad you’re here.” It’s longer but is a nice way to be gender-neutral and inclusive at the same time.
+
+When possible, omit gender-specific pronouns.
+
+Replace third person (she/he) with second person pronoun (you).
+
+Replace adjectives for neutral alternatives, such as indefinite adjectives, substantives, or objects.
+

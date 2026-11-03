@@ -1,0 +1,22 @@
+Recommended: Before launch, give everything a final check for completeness and clarity.
+Not recommended: Before launch, give everything a final sanity-check.
+
+Recommended: There are some baffling outliers in the data.
+Not recommended: There are some crazy outliers in the data.
+
+Recommended: It slows down the service, causing a poor user experience until the queue clears.
+Not recommended: It cripples the service, causing a poor user experience until the queue clears.
+
+Recommended: Replace the placeholder in this example with the appropriate value.
+Not recommended: Replace the dummy variable (/style/word-list#dummy-variable) in this example with the appropriate value.
+
+Recommended: Equipment installation takes around 16 person-hours to complete.
+Not recommended: Equipment installation takes around 16 man-hours to complete.
+
+Recommended: This API might be just what your globally conscious company needs to help all of humanity.
+Not recommended: This API might be just what your globally conscious company needs to help all of mankind.
+
+Recommended: You can allow requests from a range of IP addresses by entering a CIDR block instead of a single address in the field.
+Not recommended: You can allowlist a range of IP addresses by entering a CIDR block instead of a single address in the field.
+
+

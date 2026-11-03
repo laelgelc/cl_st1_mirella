@@ -1,0 +1,220 @@
+Topics
+
+Race/ethnicity
+Recommended:
+
+The nation or region of origin (e.g., Chinese Americans, Mexican Americans) is more specific than a generalized origin (e.g., Asian Americans, Latin Americans).
+Race vs. Ethnicity
+Race: physical differences that groups and cultures consider socially significant.
+Ethnicity: shared cultural characteristics such as language, ancestry, practices, and beliefs.
+Racial and ethnic groups are designated by proper nouns. Use "Black" instead of "black." However, "white" is preferred due to negative connotations of capitalizing this word.
+When writing about people of Asian ancestry from Asia, the term "Asian" is appropriate. For people of Asian descent from the United States and Canada, the appropriate term is "Asian American" or "Asian Canadian," respectively. To provide more specificity, "Asian origin" may be divided regionally, for example into South Asia, Southeast Asia, and East Asia. The corresponding terms (e.g., East Asian) can be used; however, refer to the specific nation or region of origin when possible.
+When writing about people of European ancestry, the terms "white," "European American," and “European Australian” are acceptable. Whenever possible, use the specific region or country.
+Indigenous Peoples
+When writing about Indigenous Peoples, use the names that they call themselves. In general, refer to an Indigenous group as a "people" or "nation" rather than as a "tribe." Capitalize “Indigenous” and “Indigenous People” when referring to a group; use lowercase for “people” when referring to a specific person. Whenever possible, specify the nation or people instead of using a generic term.
+North America: "Native American" and "Native North American" (avoid the term "Indian").
+Hawaiian Natives: Native American, Hawaiian Native, Indigenous Peoples of the Hawaiian Islands, and/or Pacific Islander (Pasifika).
+Canada: Indigenous Peoples or Aboriginal Peoples. If First Nation is used interchangeably with First Nations, use caution as some may have more preference for "Indigenous Peoples," for example, First Nation communities in Ontario have expressed publicly and politically that they prefer Indigenous Peoples.
+Inuit: Indigenous people in northern Canada, living mainly in Nunavut, Northwest Territories, northern Quebec, and Labrador. Ontario has a very small Inuit population. Inuit are not covered by the Indian Act. Use Inuk when referring to an individual, Inuuk when referring to two people, and Inuit for three or more people.
+Aleut: Aleut Peoples or Aleutians are the Indigenous people of the Aleutian Islands. The territory is politically divided between the United States and Russia. The Aleut language, Unangan (eastern district) and Unangas (western district) belongs to the Eskimo-Aleut language family. Avoid the term Eskimo when describing people.  
+Métis Peoples are people of mixed Indigenous and European ancestry.
+Alaska: Alaska Natives; avoid the term Eskimo.
+Latin America and Caribbean: Indigenous Peoples.
+Australia: Aboriginal People or Aboriginal Australians, Torres Strait Islander People or Torres Strait Island Australians.
+New Zealand: Māori or the Māori people.
+When writing about people of Southwest Asian and North African (SWANA), also known as Middle Eastern and North African (MENA) descent, state the nation of origin when possible. In some cases, people of MENA descent who claim Arab ancestry and reside in the United States may be referred to as Arab Americans. Note that not all SWANA regions or people are of Arab descent, and avoid using these interchangeably.
+When writing about people who identify as Hispanic, Latino/a/x/é, Chicano/x, or another related designation, authors should consult with their participants to determine the appropriate choice. It may be helpful to explain why a certain term was chosen for the particular research.
+The term "Latino" might be preferred by those originating from Latin America, including Brazil.
+Some use the word "Hispanic" to refer to those who speak Spanish; however, not every group in Latin America speaks Spanish, and many prefer decolonized descriptors.
+The word "Latino" is gendered, the use of the word "Latin@" to mean both Latino and Latina is now widely accepted. "Latinx" or “Latiné” can also be used as a gender-neutral or nonbinary term inclusive of all genders. There are reasons to use any of the terms "Latino," "Latina," "Latino/a," "Latin@," “Latiné” and/or "Latinx."
+To refer to non-white racial and ethnic groups collectively, use terms such as "people of color," “communities of color,” "underrepresented groups," or “people of the global majority” rather than "minorities," “BIPOC” (Black, Indigenous, and people of color) or “BAME” (Black, Asian, minority ethnic).
+Avoid using “white” and “Caucasian” interchangeably or referring to those broadly of European descent “Caucasian” unless specifically referencing those from the geographic Caucasus region.
+Avoid:
+
+Be aware of possible acculturation, which is the process by which groups or individuals adjust the social and cultural values, ideas, beliefs, and behavioral patterns of their culture of origin to those of a different culture (APA).
+Avoid the term, “minority.” Rather, a "minority group" is a population subgroup within ethnic, racial, social, religious, or other characteristics different from the majority of the population. If a distinction is needed, use a modifier when using the word, minority (e.g., ethnic minority, racial minority, racial-ethnic minority.)
+Nonparallel designations (e.g., African Americans and whites) should be avoided because one group is described by race, whereas the other group is not. Instead, use "African Americans and European Americans." Do not use the phrase "White Americans and racial minorities." Avoid pluralizing race without adding in "_ people”.
+Do not assume members of minority groups are underprivileged. Phrases such as “economically marginalized” and “economically exploited” may be used rather than “underprivileged.”
+Avoid essentialism. For example, phrases such as "the Black race" and "the white race" are essentialist in nature and considered inappropriate.
+Do not use hyphens in multiword names (e.g., write “Asian American participants,” not “Asian-American participants”).
+African American should not be used as an umbrella term for people of African ancestry worldwide because it obscures other ethnicities or national origins; in these cases, use "Black." The terms "Negro" and "Afro-American" are outdated and should not be used.
+It is problematic to group “Asian” and “Asian American” as if they are synonymous. The older term "Oriental" is primarily used to refer to cultural objects and is pejorative when used to refer to people.
+The use of the term “Caucasian” as an alternative to “white” or “European” is discouraged because it originated as a way of classifying “white” people as a race to be favorably compared with other races and misaligns populations within the racially diverse Caucasus region within a single racial designation
+"Hispanic" is not necessarily an all-encompassing term, and the labels "Hispanic" and "Latino" have different meanings.
+"Aboriginal Peoples" should always be together as opposed to Aboriginal or Aboriginals. Always capitalize and always make sure it's plural. It is never "Aborigines" as that term refers to Indigenous Peoples in Australia.
+In the Inuktitut language, the term “Inuit” translates to "the people" so avoid saying "Inuit People," which exhibits RAS syndrome and translates to "the people people."
+Inuit are not the same as Innu, who are an Indigenous group that primarily live in northeastern Quebec and southern Labrador.
+
+Gender
+Recommended:
+
+When writing about gender identity, descriptors with modifiers (e.g., cisgender women, transgender women) are more specific than descriptors without modifiers (e.g., women) or general nongendered terms (e.g., people, individuals). Explicitly report information about gender identities of participants rather than assuming cisgender identities. These terms are generally used in an identity-first way.
+Ask participants to disclose their gender identity and describe them in those terms.
+Gender vs. Sex
+Gender: refers to socially constructed attitudes, feelings, and behaviors that a given culture sometimes associates with a person's biological sex; use when referring to people as social groups
+Sex: refers to biological sex assignment based on external genitalia present at birth or karyotyping; use when biological distinction of sex assignment is predominant
+Gender identity: a component of gender that describes a person's psychological sense of their gender; distinct from sexual orientation
+Cisgender: individuals whose sex assigned at birth aligns with their gender identity
+Transgender: used as an adjective to refer to persons whose gender identity, expression, and/or role does not conform to what is culturally associated with their sex assigned at birth; other terms include gender-nonconforming, genderqueer, gender- nonbinary, gender-creative, agender, or two-spirit (two-spirit is specific to Indigenous and Native American communities)
+Transgender and gender-nonconforming (TGNC) people: generally agreed-upon umbrella term
+Sex assignment: use terms "assigned sex" or "sex assigned at birth"
+Use specific nouns to identify people or groups of people (e.g., women, men, transgender men, trans men, transgender women, trans women, cisgender women, cisgender men, gender-fluid people).
+Use "male" and "female" as adjectives when referring to people, not nouns.
+To refer to all human beings, use terms like "individuals," "people," or persons." Use the singular "they" to avoid making assumptions about an individual's gender.
+To avoid using gendered pronouns, rewrite sentences to eliminate the need for pronouns (ex. “Programmers should update the records when data is transferred from the head office” instead of “He/she should update the records when data is transferred to him/her from the head office.”)
+Use the gender-neutral singular "they”, rather than “he/she” or “s/he,” already in common use when the speaker doesn’t know the gender of the person being referred to.  
+Avoid:
+
+Avoid cisgenderism/cissexism (the belief that being cisgender is normative) and genderism (the belief that there are only two genders and that gender is automatically linked to an individual's sex assigned at birth.)
+Avoid usage of “transwomen” or “transmen” as we don’t use the terms “ciswomen” or “cismen.” “Women” and “men” is inclusive of cis and trans people.
+Avoid the terms “birth sex,” “natal sex,” “tranny,” “transvestite,” “transsexual,” “he/she,” and “hermaphrodite.” Intersex is the appropriate term for those with any of several sex characteristics that do not fit typical binary notions of male or female bodies.
+When referring to all human beings, avoid terms like “man” or “mankind.”
+Avoid gendered endings such as "man" in occupational titles (e.g., use "police officer" instead of "policeman").
+Opt for gender-neutral descriptors in general, particularly where the masc-associated word is gender neutral but was modified for a femme-associated connotation (e.g., “actor,” “comedian,” and “waiter” are gender-neutral and preferable to “actress,” “comedienne,” and “waitress.”)
+Do not refer to pronouns as "preferred pronouns" because this implies a choice about one's gender. Use the terms "identified pronouns" or "pronouns" instead.
+Avoid “he” or “she” as alternatives to the singular “they,” because such contractions imply an exclusively binary nature of gender. One recommendation is to rewrite sentences to avoid gendered pronouns altogether.
+Avoid referring to one sex or gender as the opposite sex or opposite gender; appropriate wording may be another sex or another gender.
+When possible, avoid using terms such as "assigned sex" or "sex assigned at birth" as it assumes the at birth designation determines the sort of puberty, characteristics, and socialization of an individual’s experience. This continues the binary view of sex and is exclusive to intersex and non-binary people.
+Instead use more descriptive language such as “people who were raised female/male” or “people who are assumed to be female/male.”
+Avoid using acronyms such as AFAB (assigned female at birth) and AMAB (assigned male at birth).
+Best practice is to ask participants to disclose how they identify.
+
+
+Sage is committed to promoting equity throughout our publishing program, and we believe that using language is a simple and powerful way to ensure the communities we serve feel welcomed, respected, safe, and able to fully engage with the publishing process and our published content. Inclusive language considerations are especially important when discussing topics like age, appearance, disability, ethnicity, gender, gender identity, race, religion, sexual orientation, socioeconomic status, emigration status, and weight. This guide for authors, editors and reviewers recommends preferred terminology on these topics. We recognize that language is constantly evolving and we’re committed to ensuring that this guide is continuously updated to reflect changing practices. We’re always open to feedback and suggestions on anything found here. Send us your comments via the anonymous form at the bottom of the page.
+
+Keep in mind that this guide isn't exhaustive, but we hope it serves as a helpful starting point. Please be aware that we've included sensitive and potentially triggering words here for the purposes of highlighting terminology to avoid.
+
+Self identification
+People may have their own preferences in terms of identifying language so where possible ask or find out what an individual’s preferred terms are and use those. If not possible, please prioritize the person-first language described in this guide.
+
+Topics
+
+Race/ethnicity
+
+Gender
+
+Sexual orientation
+Recommended:
+
+When writing about sexual orientation, the specific attributive names of people's orientations (e.g., lesbians, gay men, bisexual people, straight people) are more appropriate than broad group labels.
+Sexual orientation: part of individual identity that includes a person's sexual and emotional attraction to another person, or lack thereof, and the behavior and/or social affiliation that may result from this attraction. Conceptualized first by the degree to which a person feels sexual and emotional attraction and second as having a direction.
+Sexual orientation terms: lesbian, gay, heterosexual, straight, asexual, bisexual, queer, polysexual, and pansexual (also called multisexual and omnisexual). Please note this is a not an expansive list of all orientations. Sexual orientation label is predicated on a perceived or known gender identity of the other person (e.g., lesbian women or gay men), when possible.
+Use the umbrella term sexual and gender minorities to refer to multiple sexual and/or gender minority groups or to write about sexual orientation and gender diversity. Abbreviations such as LGBTQ, LGBTQ+, LGBTQIA, AND LGBTQIA+ may also be used to refer to multiple groups (if used, define the term and ensure it is representative of the groups you are writing about).
+The terms "straight" and "heterosexual" are both acceptable to use when referring to people who are attracted to individuals of another gender.
+Avoid:
+
+Do not use the terms “sexual preference,” “sexual identity,” or “sexual orientation identity.” Instead, use the term “sexual orientation.”
+The form "LGBT" is considered outdated, but there is not consensus about which abbreviation including or beyond LGBTQ to use.
+Avoid the terms “homosexual” and “homosexuality.” Instead, use specific, identity-first terms to describe people's sexual orientation (e.g., bisexual people, queer people).
+Using “bisexuality” in a manner that is trans-exclusive. Though the root “bi” suggests binary sex attraction, this is a misnomer and misconception. Bisexuality is commonly accepted to be gender inclusive.
+
+Age
+Recommended:
+
+Use exact ages or age ranges because they are more specific than broad categories.
+Any age: person, individual, etc.
+<12 years: infant, child, girl, boy, transgender girl, transgender boy, gender-fluid child, etc.
+13-17 years: adolescent, young person, youth, young woman, young man, female adolescent, male adolescent, agender adolescent, etc.
+>18 years: adult, woman, man, transgender man, trans man, transgender woman, trans woman, genderqueer adult, cisgender adult, etc.
+When necessary, use the term “older adults” or “older person/people.”
+Avoid:
+
+Avoid “othering” terms and overly broad categories that do not describe the participants accurately.
+When referring to older adults, avoid using terms such as seniors, elderly, the aged, aging dependents, and similar "othering" terms. Do not use “senile.” Use “dementia” instead of senility and specify type of dementia, when known.
+Generational descriptors (e.g., baby boomers, Gen X, millennials) are best used only when discussing studies related to the topic of generations.
+
+Disability
+Recommended:
+
+Names of conditions are more specific than categories of conditions or general references, such as "people with disabilities." The language to use for disability is evolving. The important part is to maintain the integrity of all individuals as human beings.
+Person-first vs. identity-first language:
+Person-first language emphasizes the person, not individual's disabling or chronic condition (e.g., person with paraplegia, people with substance use disorders, people with intellectual disabilities)
+Identity-first language can be used when the disability becomes the focus, which allows individuals to claim the disability and choose their identity rather than permitting others to name it or select terms with negative implications (e.g., blind person, autistic person, amputee)
+It is permissible to use either approach or to mix person-first and identity-first language unless, or until, you know that a group or individual clearly prefers a specific approach.
+Neurodiversity is a term that has been embraced by many advocacy movements by, and on behalf of, affected individuals, such as people with autism spectrum disorders and learning disabilities, because it shows there are natural variations in brain differences.
+Refer to individuals with disabilities as “patients” or “clients” within the context of a health care setting.
+Avoid:
+
+Avoid “othering” terms, slurs, and excessively negative labels.
+Avoid pictorial metaphoric or negativistic terms that imply restriction (e.g., “wheelchair bound”), excessive and negative labels (e.g., “AIDS victim”), and slurs (e.g., “cripple”).
+Avoid euphemisms that are condescending when describing individuals with disabilities (e.g., “special needs,” “physically challenged,” “handi-capable”).
+Avoid reducing people with disabilities to a bundle of deficiencies.
+
+Health/mental health
+Recommended:
+
+Use identity-first language when appropriate. Names of conditions are more specific than categories of conditions or general references.
+Use identity-first language when discussing mental illness. For example, “person living with a mental health condition” instead of “mentally ill.”
+Avoid:
+
+Avoid “othering” terms, slurs, and excessively negative labels
+Avoid framing suicide as a crime or an achievement or implying judgment about suicide. Instead of committed suicide, failed/successful suicide, use died by suicide or completed suicide.
+Avoid judgmental terms, phrases, or syntax regarding health conditions. For example, use “person with a substance use disorder” instead of “addict.”
+
+Socioeconomic status
+Recommended:
+
+When writing about socioeconomic status (SES), income ranges, or specific designations (e.g., “below the federal poverty threshold for a family of four”) are more specific than general labels (e.g., “low income”). SES encompasses not only income but also educational attainment, occupational prestige, and subjective perceptions of social status and social class.
+Use specific, person-first language such as "mothers who receive TANF [Temporary Assistance for Needy Families U.S. welfare program] benefits" (rather than "welfare mothers").
+Include racial and/or ethnic descriptors within SES categories when applicable.
+Use the term “unhoused” rather than homeless as it places the onus on systems rather than the individual.
+Avoid:
+
+Avoid using broad, pejorative, and generalizing terms, such as “the homeless,” “inner-city,” “ghetto,” “the projects,” “poverty stricken,” and “welfare reliant.”
+Avoid deficit-based language. Do not label people as “high school dropouts,” “being poorly educated,” or “having little education.” Provide more sensitive and specific descriptors, such as “people who do not have a grade school education” or “people who are unhoused.”
+Instead of writing about an “achievement gap,” write about an “opportunity gap.”
+
+Research participants/subjects/patients
+Recommended:
+
+Terms that indicate the context of the research (e.g., “patients,” “participants,” “clients”) are more specific than general terms (e.g., “people,” “children,” “women”). Structure your sentences in a way that acknowledges participants' contributions and agency. Use active voice to describe your actions and the actions of participants.
+Use descriptive terms such as "college students," "children," "respondents," "participants," "subjects," and "sample."
+Use the term "patient" to describe an individual diagnosed with a mental health, behavioral health, and/or medical disease, disorder, or problem who is receiving services from a health care provider.
+In academic, business, school, or other settings, the term "client" might be preferred instead.
+Case: an occurrence of a disorder or illness.
+Person: affected by disorder or illness and receiving care from a health care professional.
+Avoid:
+
+Avoid passive voice (e.g., “the trial was completed by the subjects and the data from participants was collected”) and use active voice instead (e.g., “the subjects completed the trial and we collected data from the participants”).
+Avoid broad clinical terms such as “borderline” and “at risk.”
+Avoid the term “failed” (e.g., eight participants “failed” to complete the Rorschach test) and instead use “did not complete.”
+
+Violent language
+Recommended:
+
+Use language that is neutral, inclusive, and non-judgmental about people and situations.
+Avoid:
+
+Avoid unnecessarily violent language. Look for alternatives when possible.
+Avoid terms like “killing it,” “take your best shot,” and “pull the trigger.” Instead use “doing a great job,” “give it a try,” and “give it a go,” respectively.
+Avoid “committed suicide” and use “died by suicide” or “completed suicide” instead.
+
+Profane language
+Recommended:
+
+Understand that some editors, reviewers, and readers may find any profanity to be offensive. Only include profanity, obscenities, and/or offensive language and terms when it is essential to the meaning of the article.
+Keep profanity in quotes and responses within the research if it is critical to the meaning or to retain a participant’s voice.
+Include a content or trigger warning as a disclaimer to readers.
+Consult other editors or people in the community to see if the use is appropriate and/or necessary.
+Ask the authors why they decided to use and/or keep these terms and why they are important to the research.
+Consider the author’s personal voice, point of view, context and whether the use of profane words is important to the content. For instance: if the content of the article challenges racial stereotypes around the use of profanity, it may be appropriate in that instance.
+Avoid:
+
+Avoid unnecessarily profane and offensive language. Look for alternatives or ways to not include the terms if they are not needed to understand the meaning, voice, or tone of the research.
+Avoid gratuitous or incongruous use of profanity that distracts from the text.
+Avoid including profanity for shock value or increased attention.
+Avoid changing profanity to euphemisms, as they may not have the same meaning and may still be offensive.
+
+Idiomatic language
+Recommended:
+
+Consider the etymologies, contexts, and connotations of idiomatic words or phrases. Many idioms, aphorisms, and colloquialisms derive from oppressive conditions or have bigoted origins.
+When in doubt, look it up: roots and histories of idioms and slang are often easily discoverable with a brief Google search.
+Make use of quotation marks when referring to words or phrases with problematic backgrounds if using them for legitimate scientific inquiry or exposition.
+Avoid:
+
+Avoid words and phrases that have problematic origins, especially those that perpetuate pejorative stereotypes about marginalized groups.
+Avoid turns of phrases like “off the reservation,” “hip, hip hooray,” and “grandfathered in” that are predicated on insulting and prejudiced racial, ethnic, and religious epithets and events.
+Avoid using phrases like “spirit animal,” “mantra,” “guru,” and other misappropriated words with great religious or spiritual weight in situ.
+If the author is not in the community, avoid appropriating African American Vernacular English (AAVE) or Black British English (BBE) words, phrases, and speech. Don’t co-opt or misidentify AAVE and/or BBE as part of more generalized slang or lingo.
+

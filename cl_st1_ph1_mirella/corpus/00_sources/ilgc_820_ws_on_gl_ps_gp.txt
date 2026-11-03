@@ -1,0 +1,64 @@
+Inclusive language examples
+
+Below are standard DEI terms to avoid and inclusive alternatives, categorized by area of impact:
+
+Gendered language
+
+Avoiding gendered language creates an environment that acknowledges different gender identities and experiences.
+
+Ableist language
+
+Certain words and phrases can marginalize people with disabilities. Using neutral alternatives fosters inclusion.
+
+Racially insensitive language
+
+Some commonly used phrases have negative connotations rooted in discrimination. Choosing neutral alternatives supports respectful communication.
+
+Inclusive workplace and DEI language
+
+Committing to diversity, equity, and inclusion requires careful attention to the language used in DEI efforts.
+
+How to be inclusive with language at work: 5 strategies
+
+Implementing inclusive language in the workplace requires intention and continuous effort. Here are five strategies for equitable communication:
+
+1. Avoid assumptions and stereotypes
+
+Unexamined assumptions can unintentionally reinforce bias. For example, assuming a coworker's gender identity based on appearance or using gendered language like "ladies and gentlemen" can exclude nonbinary employees. Instead, ask for a person's pronouns and use gender-neutral terms like "everyone."
+
+2. Normalize sharing pronouns
+
+Encourage employees to share their pronouns in email signatures, Slack profiles, and meeting introductions. This creates an environment where gender identity is acknowledged and respected. Rather than assuming someone's pronouns, asking or offering your own first normalizes the practice.
+
+3. Review job descriptions for bias
+
+The hiring process should be free from non-inclusive language that deters a diverse applicant pool from applying. Terms like "rockstar" and "aggressive" may carry unintended connotations that discourage applicants who don't see themselves reflected in those descriptors. Similarly, job postings should avoid gendered language, for example, by replacing "salesman" with "sales associate." Job descriptions should be clear, inclusive, and bias-free.
+
+4. Use plain language in communication
+
+Corporate jargon and complex wording can create unnecessary barriers, particularly for employees who are non-native English speakers. Opt for plain language to ensure clarity and accessibility in workplace documents and conversations. For example, choose words that clearly convey the intended message instead of using industry-specific acronyms that can be confusing.
+
+5. Leverage tools to identify non-inclusive terms
+
+Technology can help organizations maintain inclusive language standards. AI-driven writing assistants, bias checkers, and DEI term glossaries can flag outdated or problematic language and offer alternatives. Regularly review workplace materials with these tools to ensure that communication is respectful and reflects company values.
+
+Build a culture of belonging with inclusive language
+
+Inclusive language is a key driver of belonging, psychological safety, and inclusion in the workplace. Organizations can foster diversity, reduce bias, and create a welcoming environment for all employees by intentionally shifting communication.
+
+At Oyster, we help companies build equitable workplaces by providing tools and resources to support distributed teams. Learn more about how our strategic partnership can help you create a more diverse and globally inclusive workforce.
+
+FAQs
+
+How can we encourage employees to use inclusive language?
+
+Create an inclusive language guide and give it to employees. This guide should outline preferred terms and explain why specific phrases and stereotypes should be avoided. You can also encourage open discussions about bias and assumptions in workplace conversations to help team members recognize the impact of their words.
+
+What are some tools to help identify non-inclusive terms?
+
+Several tools are available to help businesses detect and swap out non-inclusive language. Platforms like Textio analyze job descriptions for bias, while Slack integrations like Better Allies flag problematic terms in real time and suggest gender-neutral alternatives. AI-powered tools like Gender Decoder review content for gendered language, while internal bots can scan workplace communication for DEI terms to avoid and recommend replacing them.
+
+What's the difference between person-first and identity-first language?
+
+Person-first language prioritizes the individual before their identity or condition. For example, saying "a person with a disability" acknowledges the person first rather than their condition. Identity-first language places the identity as a central part of who they are, like saying "a disabled person." Some communities prefer one approach over the other, so the best practice is to ask individuals how they would like to be referred to and follow their preferences.
+

@@ -1,0 +1,175 @@
+Examples of bias-free language
+
+The following are examples of bias-free language for gender. Both problematic and preferred examples are presented with explanatory comments.
+
+1. Differentiation of gender from sex
+
+Problematic:
+It was participants’ sex (whether they were women, men, or nonbinary), not their sexual orientation, that affected number of friendships.
+
+Preferred:
+It was participants’ gender (whether they were women, men, or nonbinary), not their sexual orientation, that affected number of friendships.
+
+Comment: Avoid confusing sex with gender.
+
+2. Discussion of humans in general
+
+Problematic:
+man, mankind
+man a project
+man–machine interface
+manpower
+man’s search for knowledge
+
+Preferred:
+people, humanity, human beings, humankind, human species
+staff a project, hire personnel, employ staff
+user–system interface, person–system interface, human–computer interface
+workforce, personnel, workers, human resources
+the search for knowledge
+
+Comment: Do not use “man” to refer to all human beings. Use more inclusive terms instead.
+
+3. Use of “males” and “females” as nouns
+
+Problematic:
+males, females
+
+Preferred:
+men, women, boys, girls
+cisgender men, cis men, cisgender women, cis women, cis people, cis allies
+transgender men, trans men, transgender women, trans women, transgender people, trans people
+gender-fluid people, gender-nonconforming people, gender-expansive people, gender-creative people, agender people, bigender people, genderqueer people
+individuals, adults, children, adolescents, people, humans
+
+Comment: Specific nouns reduce the possibility of stereotypic bias and often clarify discussion. Use “male” and “female” as adjectives where appropriate and relevant. “Male” and “female” may be appropriate as nouns when the age range is quite broad or ambiguous and everyone in the group identifies as male or female or when used to identify a transgender person, for example, “assigned female at birth” is correct, not “assigned girl at birth.” Otherwise, to refer to all people, use terms like “people” or “humans.” Avoid unparallel usage such as “10 men and 16 females.” Avoid automatically placing socially dominant groups first, for example, men then women.
+
+4. Discussion of a generic person
+
+Problematic:
+The client is usually the best judge of the value of his counseling.
+The client is usually the best judge of the value of his or her counseling.
+
+Preferred:
+The client is usually the best judge of the value of counseling.
+The client is usually the best judge of the value of their counseling.
+Clients are usually the best judges of the value of the counseling they receive.
+The best judge of counseling is usually the client.
+
+Comment: Do not use the generic “he” or “he or she” to refer to a generic person; instead, rewrite the sentence or use the singular “they.” When writing about a known individual, use that person’s identified pronouns.
+
+5. Respect for pronouns
+
+Problematic:
+preferred pronouns
+
+Preferred:
+identified pronouns
+self-identified pronouns
+pronouns
+
+Comment: Do not refer to the pronouns that transgender and gender-variant people use as “preferred pronouns,” as this implies a choice about one’s gender.
+
+6. Specifying gender when it is not relevant
+
+Problematic:
+female doctor, female physician
+male nurse
+
+Preferred:
+doctor, physician
+nurse
+
+Comment: Specify gender only if it is a variable or necessary to the discussion, for example, “13 doctors were women and 22 were men.”
+
+7. Use of gendered terminology
+
+Problematic:
+mothering
+
+Preferred:
+parenting
+nurturing [or specify exact behavior]
+
+Comment: Do not imply that only mothers care for children. Use gender-neutral terminology when available and appropriate.
+
+Problematic:
+research scientists often neglect their wives and children
+
+Preferred:
+research scientists often neglect their spouses and children
+
+Comment: People of any gender or sexual orientation can be research scientists.
+
+8. Use of gendered occupational titles
+
+Problematic:
+foreman
+housewife
+mailman
+salesmanship
+stewardess
+waitress
+
+Preferred:
+supervisor or superintendent
+postal worker or letter carrier
+homemaker
+selling ability
+flight attendant
+server
+
+Comment: Avoid gendered occupational titles; instead, use a gender-neutral term to avoid implying that all people in that role are of a particular gender.
+
+Problematic:
+chairman (of an academic department)
+
+Preferred:
+chairperson
+chair
+
+Comment: “Department head” may be appropriate; however, the term is not synonymous with “chair” and “chairperson” at all institutions. Use “chairman” only if it is known that the institution has established that form as an official title.
+
+Problematic:
+chairman (presiding office of a committee or meeting)
+
+Preferred:
+chairperson
+chair
+moderator
+discussion leader
+
+Comment: In parliamentary usage, “chairman” is the official term and should not be changed. Alternatives are acceptable in most writing.
+
+10. Use of adjectives in a gendered context
+
+Problematic:
+cautious men and timid women
+
+Preferred:
+cautious men and women, cautious people
+timid men and women, timid people
+
+Comment: Some adjectives, depending on whether the person described is a woman or a man, connote bias. The examples illustrate some common usages that may not always convey exact meaning, especially when paired. “Men” and “women” should only be used if these are the known genders of individuals.
+
+11. Parallel description of participants
+
+Problematic:
+girls and men
+
+Preferred:
+women and men
+
+Comment: Use parallel terms; “girls” is correct if the identified population being described pertains to adolescent or younger self-identified females.
+
+12. Comparison of sexes and genders or descriptions of couples
+
+Problematic:
+opposite sex
+opposite-gender couples
+
+Preferred:
+another sex
+mixed-gender couples
+
+Comment: Use of “opposite sex” and “opposite gender” implies a sexual binary and overemphasizes differences.

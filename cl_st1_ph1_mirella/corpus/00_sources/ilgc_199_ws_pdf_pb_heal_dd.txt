@@ -1,0 +1,102 @@
+Example 1.1	Common sentence
+We often had dificulty reaching Native American patients because of a lack of internet throughout the reservation.Principle-based revision
+We often had dificulty reaching Native American patients because of a lack of internet throughout the reservation. One participant stated, "Indians have always known how to live out here. It's only recently that not having the internet made it harder to be out here."Context
+Though some Native American people may refer to themselves and others using the term 'Indian', it is generally not appropriate to do so in publications as it is outdated and ambiguous. If specific participants request to be referred to in this manner, then it is best practice to do so when referring to them or using their quotes. Depending on the regional context, it would be appropriate to differentiate Native American and First Nations people. For more information on the terms "Native American", "Indigenous", and "First Nations", refer to Indigenous Peoples: Language Guidelines (Kessler, 2021).Example 1.2	Common sentence
+Our survey included 42 Latino individuals, and many participants from this group preferred intervention x over intervention y. One Latino participant stated that "[intervention x] was more in line with their goals for an active lifestyle".Principle-based revision
+Our survey included 42 Latino individuals, and many participants from this group preferred intervention x over intervention y. One participant who was assigned Latino for this study stated that "[intervention x] was more in line with their goals for an active lifestyle". In this work, we have chosen to use the broad grouping of Latinos, while not all participants readily identified with this term.Context
+Whenever ethical, respectful, and possible, note the identities participants prefer or that they were assigned a category when they differ from the general category name. While Latino is an acceptable term to use because of its standardization through previous literature, there might be instances where patients do not describe themselves with that term. In this example, a patient has been assigned the category of Latino and contributed to these results overall, however, when discussing this patient in particular, authors should honor the fact that this patient does not use the term Latino to describe themselves. This is generally true for any group name used during research but is especially pertinent for Latino/Latina/Latine patients, given the variety of terminology preferences documented within this group (Noe-Bustamante et al., 2020).
+We've chosen to place this example in plurality because, in this hypothetical, the participant does not identify with the broader Latino term and instead uses a different term. Referring to this participant using a term other than their stated term is disrespectful.
+Example 2.1	Common sentence
+Our dataset included 12,398 African American/ Black individuals.Principle-based revision
+Our dataset included information about 12,398 African American and/or Black individuals. Because of data limitations, we cannot determine how many individuals were Black, African American, or both.Context
+
+While often combined into one group, Black and African American are not interchangeable, and people may identify with both terms or only one (African American, African-American, Black, Black - Diversity Style Guide, 2015). It is important to note the diversity in cultural backgrounds, histories, and experiences of people of African descent. People might identify with the term African American for a variety of reasons, such as how the term highlights a shared origin in Africa and histories in the Americas. It is important to note that the histories of African Americans go beyond enslavement in the Americas and include resilience and unique contributions to art, science, and culture. Black might be a preferred term for certain individuals if they are recent immigrants from Africa or the Caribbean and do not share the histories and experiences of African Americans (Simms, 2018). If one is looking for a broad term to use, Black would be more appropriate than African American. African American is not representative of other ethnicities and nationalities, such as Afro-Caribbean, Haitian, and those from the African continent.Example 2.2	Common sentence
+A majority of BIPOC participants noted that their interactions with clinicians improved.Principle-based revision
+A majority of Black, African American, and Indigenous participants noted that their interactions with clinicians improved.Context
+
+The term "BIPOC" (Black, Indigenous, and people of color) expands on the term "POC" (Garcia, 2020). Though this term can be used to refer to a group that is made up of ALL the aforementioned identities, it should not be used for quantitative reporting. This avoids BIPOC being used as a catch-all term for "non-white" groups, which can be especially problematic when the research participants being discussed do not fully represent the term BIPOC.Example 2.3	Common sentence
+Our study population was composed of entirely minority status/underrepresented minority individuals.Principle-based revision
+Our study population was composed of individuals from groups historically and currently marginalized due to race within the U.S.
+
+Context
+
+The term "minority" is considered a pejorative. Furthermore, because "minority status" can be extended beyond racial groups (e.g., ethnic, gender, religious, etc.), it is important to be explicit about which groups are being discussed.
+
+The term "underrepresented minority" (URM) is often used to refer to racial groups which are underrepresented in specific settings. We recommend avoiding this term for the same reasons as avoiding the terms disadvantaged/under-resourced/under-served (see below). Furthermore, this term runs into issues of erasing exactly what groups are being discussed, similar to the term BIPOC.Example 2.4	Common sentence
+The population is disadvantaged/under- resources/under-served when compared to other populations across the U.S.Principle-based revision
+The population continues to be intentionally excluded/disinvested when compared to other populations across the U.S.Context
+
+Terms like "disadvantaged," "under-resourced," and "under-served" do not accurately capture why certain communities have been historically and continue to be intentionally excluded (AMA & AAMC Center for Health Justice, 2021). Health inequities do not happen by accident and are the product of historical and current policies that continue to impact many communities negatively. Furthermore, there are differences between not receiving enough services/resources and being intentionally excluded, and this should be acknowledged in how we frame our science.Example 2.5	Common sentence
+A significant number of Caucasian patients reported being unhappy with their interactions with the clinicians compared to Black patients.Principle-based revision
+A significant number of white patients reported being unhappy with their interactions with the clinicians compared to Black patients.Context
+
+Caucasian was originally described as a biological taxon of people from Europe, Western Asia, Central Asia, South Asia, North Africa, and the Horn of Africa. In the U.S., this term is used synonymously with white or people with European, Middle Eastern, and North African ancestry. Because of its origin as a pseudoscientific biological view of race (also referred to in contemporary texts as "race realism" or "human biodiversity" in an attempt to eschew racist roots) and its ambiguity (S. Kimmel, 2018), it should not be used. More specific terms that are appropriate for the study should be used instead. For more information on pseudoscientific biological views of race, refer to The Anti-racism Digital Library Glossary and Superior: The Return of Race Science (Saini, 2019).Example 2.6	Common sentence
+Our survey was conducted with 23 Native Americans who are citizens of various tribes in the US.Principle-based revision
+Our survey was conducted with 23 Native Americans. The breakdown of tribal citizenship is five Crow participants, eight Lakota participants, and 10 Blackfoot participants.Context
+
+Whenever ethical, respectful, and possible, name the tribal citizenship or Indigenous community of Native American participants. An example where this might not be possible is when there are not enough participants to preserve privacy.
+
+Example 2.7	Common sentence
+Of note, white patients had a much higher risk of disease x when compared to black patients.Principle-based revision
+Of note, white patients had a much higher risk of disease x when compared to Black patients.Context
+
+Following AP style guidelines (Explaining AP Style on Black and White, 2020), the "B" in Black is capitalized primarily to indicate group membership and common experiences of Blackness, which are unconnected to the uncapitalized color that is black. As Temple University instructor Lori L. Tharps explained: "Black with a capital 'B' refers to a group of people whose ancestors were born in Africa, were brought to the United States against their will, spilled their blood, sweat, and tears to build this nation into a world power and along the way managed to create glorious works of art, passionate music, scientific discoveries, a marvelous cuisine, and untold literary masterpieces... When a copyeditor deletes the capital 'B,' they are in effect deleting the history and contributions of my people." The practice of capitalization of Black identity terms began with W. E. B. Du Bois, who remarked poignantly, "Eight million Americans are entitled to a capital letter."
+
+Furthermore, AP style guidelines suggest not capitalizing the "w" in white as the AP did not find as much support for action. The AP "will watch closely how usage and thought evolve on these questions, and we will review our decision periodically" (Explaining AP Style on Black and White, 2020).
+
+
+Example 3.1	Common sentence
+Our dataset included information about 12,398 African American and/or Black individuals. Because of data limitations, we cannot determine how many individuals were Black, African American, or both.Principle-based revision
+Our dataset included information about 12,398 African American and/or Black individuals. Because of data limitations, we cannot determine how many individuals were identified as Black, African American, or both. Furthermore, data collection standards for race and ethnicity at the hospital during this time are not guaranteed to be self-identified.Context
+
+If an identity is not self-identified, it is assigned and should be mentioned as such, while also mentioning the context and potential issues regarding that assignment. For example, if identities are inferred using modeling techniques then it is important to provide details on how many patients this affected and the limitations of such an approach.Example 3.2	Common sentence
+Our	dataset	consisted	of	1,876	Native American individuals.Principle-based revision
+Our dataset consisted of 1,876 Native American individuals. Because we are performing a secondary analysis of the data, we are not able to determine more specific tribal citizenship or Indigenous community for these patients.Context
+
+It might not always be possible to represent a patient's identity accurately, especially when using secondary data such as the electronic health record. This data can often be presented as is. In these cases, it is best to acknowledge the limitation of the data and how that might impact the results and discussion.Example 3.3	Common sentence
+We	surveyed	Hawaiians	regarding	their opinions on tourism.Principle-based revision
+We surveyed residents of the U.S. state of Hawaii regarding their opinions on tourism. It is of note that Hawaiians (Kanaka Maoli) were a minority of the population surveyed, and the results of the survey may not reflect their voice.Context
+
+Note that Hawaiians refers to the Indigenous people of Hawaii, also known as the Kanaka Maoli. If interviewing citizens or residents of the U.S. state of Hawaii, be clear about it and note how it may dilute opinions from Indigenous Hawaiians.
+
+Example 3.4	Common sentence
+Hijra, trans women living in India, are especially susceptible to poverty.Principle-based revision
+Hijra (Hindi) are individuals who fulfill specific cultural and ceremonial roles in many areas of the Indian subcontinent. Hijra may also be transgender, intersex, or have any of other various identities. Hijra in India experience poverty due to socioeconomic and cultural forces.Context
+
+Avoid false cultural equivalences. When a term is unfamiliar to a general readership, be clear about existing false equivalences, and dispute them. This acts to push back against existing biases.
+
+Avoid italicization when a term does not have a proper English translation, including the original script if possible, so as to allow individuals to search in multiple languages if they are interested in a topic.Example 3.5	Common sentence
+Gay people tended to engage in high-risk sexual behaviors more often.Principle-based revision
+Gay people represented in our dataset reported fewer safer sex provisions than their heterosexual counterparts. However, it is important to note that the provisions were written from a heterosexual perspective and may not have as much applicability in the context of non-heterosexual practices.Context
+
+It is important to note how current systems are often not designed for various groups of people, which may mean the tools are the limitations themselves.
+
+Example 4.1	Common sentence
+In our study, the Blacks had an average age of 46 years.Principle-based revision
+In our study, Black participants had an average age of 46 years.Context
+
+Using "the" before "Blacks" turns this phrase into a noun and distances the author from the group while having an othering effect. This is not fixed by dropping "the" because the author is talking about people. Using race to describe people is fine, but not to define people. This would go similarly for other terms like "the Jews," "the whites," and "the Indians." Though some of these terms have more history tied with discrimination than others.Example 4.2	Common sentence
+28% of individuals reported being 'bisexual,' but this could not be confirmed in practice.Principle-based revision
+28% of individuals represented in our dataset were bisexual.Context
+
+Survey research is built on a certain amount of trust in participants. No one writes about questioning individuals who say they are heterosexual. Likewise, there should not be an interrogation of any individual's bisexuality. If they say they are bisexual, they are. For more information on the bisexual definition, refer to GLAAD Media Reference Guide - 11th Edition, 2022.Example 4.3	Common sentence
+The adult individual presented with a male gender identity and testicular pain and, upon examination, was discovered to be a true hermaphrodite.Principle-based revision
+A man who was not aware of their intersex status, presented with testicular pain. Differential diagnosis showcased that he possessed ovotestes.Context
+
+"Hermaphrodite" is an outdated and potentially offensive term, which originally refers to an organism that can produce viable oocytes and spermatozoa. Only use "hermaphrodite" when referring to such non-human organisms. Use intersex when referring to people (i.e. "intersex people"). Always use more specific differential diagnostic information where available and avoid over-pathologization (for instance, using "ovotestes" instead of "ovotesticular disorder"). Further, do not position individuals as being "true" or "false" in relation to gender and sex diversity; and do not refer to persons as "presenting" a gender identity, as they are that gender.Example 4.4	Common sentence
+Males in our dataset were defined as individuals born  male,  including  transsexual  and non-transsexual males.Principle-based revision
+Due to the influence of genetic makeup in relationship to Y-linked infertility, all individuals in our dataset were karyotyped, and cohort analytics were based on karyotyping results and gender identity.
+
+Context
+
+Do not refer to trans women as "males" as they are women. If an individual's chromosomal makeup is theorized to be important, you can report it after the genetic screening; if genetic screening is performed on everyone, do not single out trans people. For instance, "trans women were confirmed 46, XY because of [insert reasoning]. All cisgender women in the cohort were likewise confirmed as 46, XX." If the study does not have a genetic screening component, then forming cohorts is scientifically spurious and makes underlying assumptions about populations that may be false. In general, if a biological entity or capacity is a study target (such as the prostate, uterus, ability to breastfeed, ability to give birth, etc.), then the biological entities or capacities involved in those processes should be determined as existing or functioning as accurately as possible. Otherwise, the study is incomplete, lacks reproducibility, and contributes to the erasure of diversity.Example 4.5	Common sentence
+Homosexuals tended to engage in high-risk sexual behaviors more often.Principle-based revision
+Gay people represented in our dataset reported fewer safer sex provisions than their heterosexual counterparts. However, it is important to note that the provisions were written from a heterosexual perspective and may not have as much applicability in the context of non-heterosexual practices.Context
+
+Sweeping generalizations should be avoided, as should the term "homosexuals" in favor of gay people. While scientific results should generalize outside of the study population, it is important to provide context (historical, social, political, etc) for why this might be and to acknowledge limitations.Example 4.6	Common sentence
+Transgender Latinx participants who identify as men...Principle-based revision Latino transgender men...Context
+
+In this example, there is no need to discuss how the individual identifies, as one would not use this kind of language for other groups. example (one wouldn't do this for all groups), and it is enough to say they are transgender Latino participants. In general, saying that people "are" rather than "identify as" is important; respect for persons is an important component of biomedical practice, as outlined in the Belmont Report.
+
+Furthermore, Latinx is not a preferred term in these guidelines. If one must use a gender-neutral term, Latine is preferred.
+

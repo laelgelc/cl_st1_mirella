@@ -1,0 +1,61 @@
+Examples
+
+Less inclusive
+“Professor Smith (surname and title for a man) and Madeline (first name for a woman) will attend.”
+
+More inclusive
+“Professor Smith and Professor Jones will attend (surname and title for both).”
+
+Examples
+
+Less inclusive: “Guests are cordially invited to attend with their wives.”
+More inclusive: “Guests are cordially invited to attend with their partners.”
+
+Less inclusive: “Fathers babysit their children.”
+More inclusive: “Fathers care for their children.”
+
+Use gender-neutral words
+
+Less inclusive: “Mankind”
+More inclusive: “Humankind”; “humanity”; “human race”
+
+Less inclusive: “Plans to outsource some 19 services have not proceeded at the anticipated pace, as there are significant manpower shortages.”
+More inclusive: “Plans to outsource some 19 services have not proceeded at the anticipated pace, as there are significant staffing shortages.”
+
+Less inclusive: “Man-made”
+More inclusive “Artificial”; “human-created”
+
+Use the pronoun “one”
+
+Less inclusive: “A staff member in Antarctica earns less than he would in New York.”
+More inclusive: “You earn less in Antarctica than New York.” or “A staff member in Antarctica earns less than one in New York.”
+
+Use the relative pronoun “who”
+
+Less inclusive: “If a complainant is not satisfied with the board’s decision, he can ask for a rehearing.”
+More inclusive: “A complainant who is not satisfied with the board’s decision can ask for a rehearing.”
+
+Use a plural antecedent
+
+When referring to generic subjects, plural antecedents may be used in order to avoid gendered pronouns.
+
+Less inclusive: “A substitute judge must certify that he has familiarized himself with the record of the proceedings.”
+More inclusive: “Substitute judges must certify that they have familiarized themselves with the record of the proceedings.”
+
+Omit the gendered word
+
+Less inclusive: “Requests the Emergency Relief Coordinator to continue his/her efforts to strengthen the coordination of humanitarian assistance.”
+More inclusive: “Requests the Emergency Relief Coordinator to continue efforts to strengthen the coordination of humanitarian assistance.”
+
+Less inclusive: “A person must reside continuously in the Territory for 20 years before he may apply for permanent residence.”
+More inclusive: “A person must reside continuously in the Territory for 20 years before applying for permanent residence.”
+
+Use the passive voice
+
+Less inclusive: “The author of a communication must have direct and reliable evidence of the situation he is describing.”
+Better: “The author of a communication describing a situation must have direct and reliable evidence of the situation being described.”
+
+Note that the original context and emphasis could also be kept using “they are”, as in:
+
+“The author of a communication must have direct and reliable evidence of the situation that they are describing.”
+

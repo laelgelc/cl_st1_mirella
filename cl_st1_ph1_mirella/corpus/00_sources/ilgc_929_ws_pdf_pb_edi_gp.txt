@@ -1,0 +1,193 @@
+Below, we include a framework for how you should tackle your chapters, a practical checklist to ensure inclusivity in your writing and a set of guidelines for development.
+
+Framework
+
+Element | Guidance | Consider
+
+Historical, pioneering, or contemporary researchers and studies cited in your book
+Recognise key contributors from all backgrounds. When historical figures in the field lack diversity, try to balance their inclusion with more current and diverse researchers or publications.
+Consider the included figures in the field and additional research studies and publications.
+
+Terminology
+Ensure that all references to people, groups, populations, conditions and disabilities use the appropriate terminology and do not contain any derogatory, colloquial, inappropriate or otherwise incorrect language. For historical uses that should remain in place, consider adding context ('a widely used term at the time'). Ensure that quotations or paraphrases using outdated terms are attributed, contextualised and limited.
+Identify any outmoded or incorrect terminology and suggest the correct replacement or reframing. For historical references, insert context, attribution and/or quotations. Since terminology changes and usage is not universal, do your best to identify and use the most accurate word at the time.
+
+Chapter-opening vignettes, examples, scenarios and case studies
+Ensure that diverse contexts are included while avoiding stereotypes. Ensure that people's names used in examples, scenarios and case studies represent various countries of origin, ethnicities, genders and races. Ensure that names with ethnic or place associations are portrayed respectfully; avoid negative comparisons or stereotypes associated with particular national origins or identities.
+Consider the overall diversity and representation on a quantitative and qualitative basis. Consider reviewing problems and exercises to consider their context and inclusivity. Consider reviewing terminology, contexts and situations presented to ensure they are respectful of all populations.
+
+Presence of (and balanced perspectives on) events or concepts that are relevant to underrepresented groups
+Ensure you're writing about issues that are relevant to diverse populations. Ensure you are not avoiding or underestimating the impacts on diverse populations. Be aware of areas of concern regarding the operation of bias, such as public policy, social problems, health issues, political issues, business practices, economic conditions, etc.
+For each topic or concept, consider the perspective of different populations in relation to controversies, arguments, alternate points, etc. Consider additions to expose a variant point of view and widen context for students. If a topic is inherently divisive or sensitive, indicate to your editor at Sage that it should be reviewed with this in mind.
+
+Photos, artwork and illustrations
+When using photos or illustrations, seek to reflect demographically diverse populations. Ensure all populations are 'active', and that the individuals or groups aren't perpetuating stereotypes in the images we use to depict their lived experiences.
+Consider the quantity of images and the individuals and populations represented in them. Consider the role, depiction, connotation and purpose of the people represented, and the images themselves.
+
+References and citations
+Determine if referenced papers or data have been sourced from overrepresented groups (for example, does your text cite primarily white authors and researchers?).
+Where diversity is perceptible, suggest more diverse references, papers and data sources. Seek out specific efforts and committees within associations to drive more inclusive citations.
+
+The Fine Lines of Social (In)Justice (Arday, 2022)
+Whilst overt racism and discrimination are easier to spot, there is a fine, and often subjective, line between some of the more subtle forms of injustice.
+
+Figure elements referenced: Cultural appreciation, Storytelling, Representation, Promoting social justice, Reinforcing social injustice, Tokenism, Fetishization and voyeurism, Sensationalising suffering, Cultural appropriation.
+
+Figure 1 - The Wheel of Power and Privilege (Bauer, 2021; adapted from Sylvia Duckworth)
+This figure illustrates dimensions of marginalisation and power, adapted from Sylvia Duckworth's Wheel of Power/Privilege, spanning categories including sex, sexual orientation, age, culture, disability, ethnicity, geography, immigration status, income, indigeneity, language, marital status, race, religion and gender, with associated forms of bias such as homophobia, heterosexism, ageism, ableism, ethnocentrism, transphobia, xenophobia, classism, colonialism, racism and sexism.
+
+Author Checklist
+Theory and research draw from literature/methods outside of Eurocentric models/schools of thought
+Case studies are inclusive: they stick to the relevant facts, avoid label dumping and avoid stereotypes
+Theories used are broad, and any shortcomings or unmentioned aspects of the interpretations are clearly indicated
+Reference lists go beyond Western knowledge production
+Researchers acknowledge their own positionality and the implications of this within their field
+Language is accessible and, where relevant, considers and utilises pedagogical features
+If dialect is used, low- and high-prestige dialects do not perpetuate harmful stereotypes
+Current and historic figures are presented in a balanced way, i.e. harmful practices are acknowledged
+Where relevant, harm is acknowledged and a balanced view is presented (e.g. with historic figures)
+Physical attributes do not reinforce prejudicial beauty standards or harmful stereotypes
+Environmental (including systemic) factors are discussed alongside individual and familial ones.
+
+Language
+
+General Inclusive Language Considerations
+Here are some considerations to keep in mind when writing about people or groups in general.
+
+Self-Identification
+Different people have different preferred labels, and two people within the same demographic or community may refer to themselves in different ways. Whenever possible, ask individuals how they want to be identified and referred to. It may not always be possible to ask, if that's the case, do some research to try to understand how they want to be identified, or research the debate around labels more broadly to make an informed decision.
+
+Groups
+For groups of people, be specific where possible. For example, instead of referring to 'Native Americans' when referring to a single nation or tribe, try to specify which one is being referenced. If discussing gay men, specify that rather than saying 'LGBTQ people', which covers many identities. When in doubt, be specific.
+
+Avoid using 'the' to preface a group of people, such as 'the elderly' or 'the chronically ill'. This labels groups based on a single characteristic and can be dehumanising. It's better to say 'older adults' or 'people with chronic illnesses'.
+
+Refer to communities of people rather than a single community, which can imply that the community is a monolith. For example, use 'Vietnamese communities' instead of 'the Vietnamese community', unless you are referring to a single specific community.
+
+Person-First Language and Identity-First Language
+
+The goal of person-first language is to acknowledge the equal value of every individual, before attaching descriptions or identities to that person. It is recommended by many organisations and style guides, which you can find at the end of the document.
+
+In contrast, identity-first language places the characteristic first and can perpetuate the idea that someone's condition or circumstance defines who they are.
+
+Identity-First Language | Person-First Language
+
+Poor person | Person with a low income, person whose income falls below the UK poverty line
+Homeless person | Person who is unhoused, person who is experiencing homelessness
+School dropout | Person with less than a secondary school education
+Handicapped person | Person with a disability*
+Mentally ill person | Person with a mental health condition*
+*In both instances, it's best to specify what their condition or disability is, if this information is available. For example, use 'person with schizophrenia' over 'schizophrenic person'.
+
+Person-first language is not without its critics; many disability advocates consider person-first language harmful because of the message it sends, that being disabled is separate, shameful and unworthy of affirmation. If a person or group have specified how they want to be described, you should follow their preference, regardless of whether it is identity first or person first. However, when there is no clear community standard, we suggest prioritising person-first language.
+
+Use Gender-Neutral Language
+
+Use the singular 'they'. When referring to an individual of an unspecified gender, 'they' should be used instead of 'he', 'she' or even 'he/she'. Using 'he/she' perpetuates the gender binary.
+Instead of 'men and women', use 'people'. Like 'he/she', 'men and women' perpetuates the idea that gender is fixed and there are only two genders.
+
+Look for gender-neutral descriptions 
+
+Avoid using 'opposite sex' or 'opposite gender'. Although we typically understand sex to be divided between men and women, using the 'opposite sex' overlooks people who are intersex and may not fall into one of these two categories.
+
+Avoid Imprecise Language
+When in doubt, be specific. Imprecise language can lead to misinterpretations and generalisations, and, in some cases, it can perpetuate stereotypes. The following sections offer examples of how using more precise language can help authors avoid DEI issues.
+
+'Minority' Can Imply Inferiority
+When describing a person, it is best to be specific about their identity and not just describe them as a minority. This can prove to be a harmful label that obscures who a person really is and implies that they are inferior. Instead of saying, 'As a minority, Tessa has experienced discrimination', you could say, 'As a Black woman, Tessa has experienced racism and sexism'. The latter is more specific and therefore gives more information about who Tessa is and what she is experiencing.
+
+'Minorities' vs. 'Underrepresented Groups' vs. 'Marginalised People'
+Similarly, avoid using 'minorities' as a catch-all term to describe people who have been systemically marginalised or historically underrepresented. Again, 'minority' can imply inferiority. It overlooks the larger structures and systems that contributed to these groups of people being considered marginalised or 'other'.
+
+Similarly, when discussing data, 'underrepresented' signals that these groups or individuals were not included in certain areas.
+
+Mention Specific Races and Ethnicities When Possible
+The term 'people of colour' is often used to describe a group of people who are not white. There is some debate around the use of this term, but one thing that is clear is that it should not be used if a more specific label or descriptor is available. When referring to a group of Asian people, for example, 'Asian people' should be used over 'people of colour'. The latter term implies that there are more racial groups represented than there really are.
+
+Avoid Catch-All Terms
+Be mindful of terms that are used as a catch-all to describe certain circumstances. 'Poor' and 'impoverished' are prime examples of this. Although these are common descriptions for people who struggle with a variety of financial issues, they warrant further attention. What does it mean to say someone is 'poor', for example? Do they have a low income? Are they unemployed? Are they experiencing housing insecurity? Do they have secure housing and a job, yet must prioritise other things?
+
+In situations like this, it's best to talk to your editor and determine which language would be more precise. A chapter focusing on poverty may use 'a person whose income falls below the Minimum Income Standard' in one situation and 'a person experiencing food insecurity' in another situation, for example.
+
+Avoid Idioms or Colloquialisms
+Non-native English speakers find idioms and colloquialisms difficult in a learning environment. Although these words and expressions are used in everyday conversations, these phrases can mask meaning and make it difficult for every participant in a conversation to decode them.
+
+Make Language Accessible
+Accessible language is a critical method of inclusion and means that textbooks and other similar forms of educative works can be understood by learners across different abilities and ways of processing. Writing should be clear and straightforward and avoid colloquialisms, and pedagogical features (such as text boxes and figures) can help with complex terminology. Whilst analogies, stories and case studies are useful and aid understanding for many people, they should be included as well as rather than instead of robust explanations, so that learners who struggle with hypothetical and/or abstract thinking can still access content.
+
+Aim to:
+Use language that actively includes people and resonates with a wider audience.
+Ensure readers feel included reading your content by avoiding biases, slang or expressions that discriminate.
+Ensure that activity instructions are accessible (e.g. instead of just asking students to 'write notes…', make it clear that they could also record these notes as voice memos).
+
+Pedagogy
+
+Vignettes and Case Studies
+When vignettes or case studies open a chapter, this is the first thing a student sees. This sets the stage for the rest of the material and, ultimately, the rest of the text. Regardless of where vignettes and case studies appear in the chapter, given that these features are often the application of theory to the 'real world', they are a key part of making a text more diverse and inclusive.
+
+The sources for these features vary depending on discipline and approach. Some texts focus on real stories of individuals, situations or organisations, while others have fictional scenarios. Typically, a text is consistent in having all-fictional or all-real case studies/vignettes. These features also vary in whether they highlight a success story (e.g. a case study about a company that prioritises sustainability) or demonstrate a problem that is relevant to the chapter (e.g. a vignette about working with clients who are unhoused).
+
+Since these features are so similar, our guidelines focus less on distinctions between case studies and vignettes and more on guidelines for the type of story represented and the nature of the situation that is being described.
+
+Best Practices
+
+Stick to the (Relevant) Facts
+When writing or reviewing these features, consider the following: Does the case study stick to the facts? If not, what purpose do these details serve? Is it possible that these details could skew the readers' opinion of the people in the case study? Does this story perpetuate any stereotypes?
+
+Consider the Impact of Traumatic Stories
+We often use case studies and vignettes as a hook to get students interested in the chapter topic. In some disciplines, this may result in stories about traumatic events and situations that can be triggering for some students. Consider the impact such traumatic stories might have and evaluate which details verge on sensationalism.
+
+When vignettes/case studies have emotional, sensitive storylines, consider the following: How many vignettes/case studies in the book feature stories that could be considered traumatic? Whose trauma is being depicted? What purpose does this story serve? Are there any unnecessary details? Is there another way we could frame the issue? If it is essential to include sensitive material, then consider adding a content warning to prepare readers that they may find the content distressing and can skip it if they wish.
+
+Avoid Label Dumping
+Imagine that you've worked to develop a list of case studies/vignettes that are inclusive of systemically marginalised groups. This is a great first step. However, we may try to show that the people in these case studies are 'diverse' in ways that are clunky and unnatural. It's not enough to include people who are part of one or multiple marginalised groups. We must consider how people are described and whether those descriptions read as surface-level attempts to incorporate DEI.
+
+For example, it is common (especially in fictional scenarios) for people to be described in the following way: 'Kai is a 26-year-old bisexual immigrant from Japan who teaches geometry at a secondary school'. This is an example of label dumping. Kai's age, ethnicity, immigration status AND sexual orientation are all mentioned. If an author included this in a chapter, it would be clear that they were attempting to represent multiple marginalised communities, but they would be doing so in a way that could be read as inauthentic.
+
+When describing the subjects of a case study, consider the following: Could this read as label dumping? Are all of these descriptors necessary? How could we portray someone's race, immigration status, sexual orientation, etc., without using labels?
+
+Highlight Individuals' Unique Perspectives
+Similar to label dumping, it is also common to include individuals from marginalised groups but not engage with their background or perspective in a meaningful way. This would also be considered a surface-level attempt at diversity and inclusion.
+
+There should be vignettes featuring marginalised people where their identity is not the main focus. For example, not every case about a person of colour should focus on their race. White, cisgender and/or straight individuals are able to exist in the world without their race, gender or sexual orientation being the focus of everything they do. People from marginalised groups should be given the same treatment.
+
+Moving forward, the following should be considered: What unique perspective might this character have based on their background? Would it affect the sequence of events in the case study? Am I writing from my own perspective? How can I consider someone else's perspective? What can I do to highlight how someone's identity benefited them in this scenario?
+
+Find a Balance between Accurate and Equitable Representation
+As noted earlier, vignettes and case studies are extremely visible. And they are an obvious way to make a text more inclusive and representative of different groups. You should consider representation not only on the chapter level but across the entire book.
+
+While aiming for equitable representation, consider which groups have been historically underrepresented and systemically marginalised. At the same time, you should also aim for accurate representation regarding a profession or field. This is where data can help you determine how often certain groups should be represented. Finding this balance can be more difficult depending on the discipline and the structural barriers in place.
+
+When considering representation across your case studies, consider the following: What do these vignettes tell students about this discipline or field? Could these stories isolate certain students? Is one group represented more than other groups? If so, does this match the demographics in the field? How can I strive for better representation in this text?
+
+Consider Placement
+Some texts may have both case studies and vignettes. If a text has both features, it's important to consider how the placement of these elements may affect students. For example, are certain groups represented more in vignettes than in the case studies? This may be a problem, considering vignettes are often more visible than case studies.
+
+Ask yourself: Are certain groups represented more in vignettes than in case studies? Is one group painted in a more negative way than another group? If so, why is that? What can this text do to combat that portrayal?
+
+Be Mindful of Framing Groups as 'Problems'
+As mentioned earlier, these features typically focus on success stories or problem scenarios. When writing problem scenarios, carefully consider which stories you're representing and how they are framing the situation. Marginalised groups should not be overrepresented in these scenarios, since this could be perceived as biased or as perpetuating harmful stereotypes.
+
+In addition, consider what problems are represented in each scenario. Does the case study treat someone's identity as a barrier or a problem? When discussing someone's life circumstances, does the case study place blame on that individual or does it address the larger structures that contributed to this situation?
+
+Avoid Stereotypes
+Case studies and vignettes should also try to avoid stereotypes. This can be easier with fictional stories since they don't rely on someone's real lived experience. After outlining topics/subjects for case studies, review how marginalised groups are represented throughout all the case studies.
+
+For example, are people from certain cultures depicted as meek while others are depicted as assertive in line with well-known stereotypes? Are women depicted as emotional while men are depicted as practical? Are certain problems or life experiences only associated with people of a certain race, gender or socioeconomic status? Think about whether these stories might perpetuate harmful stereotypes and how they can be revised to combat such stereotypes.
+
+Aim to:
+Add examples which include a diverse range of perspectives and identities and which do not reinforce stereotypes. For example, consider the use of names and pronouns in examples.
+
+Theory and Perspective
+We would like all our textbooks to encourage critical thinking from readers and widen current schools of thought.
+
+In drawing on the literature or in recommended reading sections, it can be easy to introduce theories to students in terms of the theories being objective or 'value free'. However, borrowing from critical theory, you may consider showing how 'theory is always for someone, and for some purpose' (Cox, 1981). Doing so can teach students to think critically about the context a theorist was writing in, and to evaluate multiple perspectives. Also consider more explicitly referencing contested or openly racist views held by theorists presented in your textbook, such as eugenics, or racist beliefs.
+
+Aim to widen research beyond Eurocentric models and evidence, and ensure this is reflected in inclusive reference lists. Knowledge production has typically favoured Western ideology; for example, many sociologists discuss white Western scholars such as Bourdieu and Foucault, thus reinforcing white centrism in sociological research. Likewise, many psychologists neglect African models of psychology. This has an impact on subsequent elements of the research, for example, limiting research to Eurocentric methodologies when in fact other methods (e.g. critical race theory) can provide counter-narratives which open up questions of decolonising and promoting racial equity.
+
+Aim to:
+Include broad and inclusive reference lists that go beyond Western knowledge production.
+Introduce theoretical perspectives critically, and take into account the context in which a theorist was working and consider whether to reference any widely documented controversial or problematic views they held.
+Include studies which reflect global companies/perspectives and ensure that these are critically evaluated and not presented in such a way that any particular region or culture is presented as 'other', inferior, inherently negative or in a way that could be essentialising. For example, in a 'good/bad' comparison of the application of a specific policy, Western/Eurocentric parties should not make up the 'good' examples and minoritised parties the 'bad' examples.
+Ensure your presentation of theories and the literature helps students to think critically about the perspectives/content covered in the book. For example, your content could cover global and inclusive research as well as perspectives which destabilise generalisations and Eurocentric knowledge production.
+

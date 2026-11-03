@@ -1,0 +1,128 @@
+IT-SPECIFIC WORDS AND PHRASES
+Definition
+
+"Blackout dates" in the technological world are dates where something is inaccessible or denied, such as when operations are shut down for maintenance, when employees or executives are not allowed to trade in the company's share or when travel rewards and other special discounts or promotions are not available.
+
+In computing, a "blacklist" or "whitelist" is a basic access control mechanism; a "whitelist" allows everyone access, and a "blacklist" denies its members access.
+
+A "blackbox" is a reference to a physical machine (machine learning algorithms) or testing. In testing, "white box" indicates the presence of knowns and a clear view, and "black box" indicates unknowns or lack of visibility.
+
+A "blackhat," "Black Hat" or "blackhat" hacker are criminal hackers that concentrate on malicious breaking of cyber defenses for money or fame.
+A "whitehat," "White Hat" or "whitehat" hacker are ethical hackers who focus on testing cyber defenses as part of an organized corporate development process, cybersecurity plan or strategy.
+A "Gray Hat Hacker" is a hacker who exploits a weakness in cyber defense and brings the weakness to the attention of the owner, with the goal of improving security. They don't have permission to hack into a system; they bring attention to the system owner, so they are straddling between right and wrong. They think they're doing good, but they're still doing something illegal.
+
+A "grandfather" clause, "grandfather" policy or "grandfathering" in IT is a provision in which an old rule continues to apply to some existing situations while a new rule will apply to all future cases. Those exempt from the new rule are said to have grandfather rights, acquired rights, or to have been grandfathered in.
+
+The master-slave relationship in technology usually refers to a system where one - the master - controls or is at the top or head of other copies, processes or systems.
+
+In programming language design, a "first-class citizen" in a given programming language is an entity which supports all the operations generally available to other entities. These operations typically include being passed as an argument, returned from a function, modified and assigned to a variable.
+
+Mob programming (informally mobbing) is a software development approach where the whole team works on the same thing, at the same time, in the same space, and on the same computer.
+
+In cybersecurity, colorization of teams is used to differentiate between different roles or personas in a cybersecurity context. For example, the red team is "offensive security," white team is "coordinators or referees," the yellow team is the builders of software, etc.
+
+An original, and still technically intact, Old English meaning of the word dumb, which means to be mute/unable to speak. The function of a terminal is confined to the display and input of data (no local programmable data processing capability) and depends on the host computer for its processing power.
+
+A known test or sample values for an identifier or scheme that has no meaningful value.
+
+A test run to confirm or validate something that should follow very clear and simple logic. For example, after receiving the software build, sanity testing is performed to ensure that the code changes introduced are working as expected. If the sanity test fails, the build is rejected by the testing team to save time and money.
+
+Putting a product in front of people who are unfamiliar with it to learn more how they would use the product.
+
+A "male" connector is commonly referred to as a plug and has a solid pin for a center conductor. A "female" connector is commonly referred to as a jack and has a center conductor with a hole in it to accept the "male" pin.
+
+In cryptography and computer security, a man-in-the-middle attack is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other.
+
+The word "tribe" is sometimes used to mean a well-connected or organized group of people. "Tribal knowledge" refers to the collective information of people who work together for an organization such as employees in a unit. But using forms of tribe in this way are offensive to many American Indian and Alaska Native and world indigenous peoples.
+
+A brown bag lunch, sometimes referred to as a brown bag meeting, is an informal training session usually held during lunch, and implies that employees should bring their own lunches from home to participate.
+
+A "cakewalk" is an easy victory or task. "Takes the cake" means to win the prize or to rank first.
+
+The word "gypsy" originated as a term used to refer to the Romani (or Roma), a nomadic ethnic group who were characterized as thieves and swindlers. Hence, the term "gyp / gip" is used to refer to the act of stealing.
+
+This phrase is based on the erroneous idea that a company has to relax hiring standards in order to add people from different racial, ethnic, gender backgrounds.
+
+While "mantra" is a word or sound repeated to aid in concentration or meditation, the word is often used to imply someone's basic belief or belief that they live and work by.
+
+"Minority" literally means the smaller number or part, or a number that is less than half the whole number. Often "minority" refers to groups of people that are racially or ethnically different from the racial or ethnic "majority."
+
+A person who has or hasn't spoken the language in question from early childhood.
+
+A person who excels in a particular skill or activity.
+
+"No can do" is a colloquial or slang phrase that means "I cannot do it."
+
+To deviate from what's expected or customary; to behave unexpectedly or independently.
+
+"Open the kimono" means to reveal what is being planned or to share important information freely.
+
+The upper levels of a balcony, gallery, theater and often the least expensive.
+
+A North American Indian ceremony involving feasting, singing and dancing.
+
+Collaborative text editing or to designate what's included and what's not included.
+
+A Sherpa is a person with Tibetan heritage who lives in the Nepalese Himalayas. The ethnic group is well-known because there are so many Sherpas that have served as porters on mountain-climbing expeditions.
+
+Spirit animals are an important part of the belief system of some cultures and refer to a spirit that "helps guide or protect a person on a journey and whose characteristics that person shares or embodies."
+
+A totem pole or monumental pole is a tall structure created by Northwest Coast Indigenous peoples that showcases a nation's, family's or individuals history and displays their rights to certain territories, songs, dances and other aspects of their culture.
+
+Several colloquialisms use the word "blind" to describe a lack of awareness.
+
+Colloquially, labelling something "crazy" or "insane" is describing something that is chaotic, unorganized, or nonsensical.
+
+A lame or partly disabled state of being that is deprived of the capability for service or of strength, efficiency or wholeness.
+
+The origin of the word, "dumb," is a person who cannot speak.
+
+This phrase connotes that being deaf is the same as being unwilling to listen.
+
+Originally, the word was used in reference to people with reduced mobility, and now it's often a synonym for "uncool."
+
+These words are often (and problematically) used to describe a person who does not have disabilities.
+
+The definition of "see" can mean to look with one's eyes at something, and so is associated with vision. It can also be used on a website or in a story posted online to mean "refer to," "visit," "know" or "understand."
+
+An older, more experienced IT or cybersecurity person, who may be sought after for their experience and wisdom born from study and experience over a lifetime.
+
+In the past, when referring to others, the binary pronoun (he/she) and possessive pronoun (his/her) was often used.
+
+Term applies to people in the first year of a traditional four-year undergraduate degree program.
+
+Housekeeping refers to the management of business duties and tasks.
+
+To staff or furnish with a person or people, such as in customer service.
+
+Hours of a worker's time.
+
+People capable of doing the work necessary to complete a task.
+
+Pronouns that individuals use to substitute for themselves in the third-person and how they prefer to be referred to. Examples include: he/his/him, she/her/hers, they/their/theirs, ze/hir/hirs and ze/zir/zirs.
+
+A student who is a junior or senior in secondary school or college.
+
+Used to refer to people in a group or audience, regardless of their sex.
+
+Used to refer to women in a group or audience.
+
+The human race; humankind.
+
+Romantic or sexual attraction (or a combination) to persons of the opposite sex or gender, the same sex or gender, to both sexes or more than one gender.
+
+Gay is a term used to refer to homosexuality, a homosexual person, or a homosexual male.
+
+The word can mean first, but is commonly used to indicate a person who has not had sexual intercourse.
+
+L - Lesbian. Lesbian is a term used to refer to homosexual females.
+    G - Gay. Gay is a term used to refer to homosexuality, a homosexual person, or a homosexual male.
+    B - Bisexual. Bisexual is when a person is attracted to two sexes/genders.
+    T - Trans. Trans is an umbrella term for transgender and transsexual people.
+    Q - Queer. Queer is an umbrella term for all of those who are not heterosexual and/or cisgender.
+    Q - Questioning. Questioning is when a person isn't 100% sure of their sexual orientation and/or gender, and are trying to find their true identity.
+    I - Intersex. Intersex is when a person has an indeterminate mix of primary and secondary sex characteristics.
+    A - Asexuality. Asexuality is when a person experiences no (or little, if referring to demisexuality or grey-asexuality) sexual attraction to people.
+    A - Allies. Allies are a person who identifies as straight but supports people in the LGBTQQIAAP community
+    P - Pansexual. Pansexual is a person whose sexual attraction is not based on gender and may themselves be fluid when it comes to gender or sexual identity.
+    + - The "+" symbol simply stands for all of the other sexualities, sexes, and genders that aren't included in these few letters.

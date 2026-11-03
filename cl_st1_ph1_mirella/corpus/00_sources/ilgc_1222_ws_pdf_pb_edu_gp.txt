@@ -1,0 +1,354 @@
+General guidelines
+
+The remainder of this document goes into detail about specific terminologies and language use. However, there are a few key tips that can help anyone make sure they are using language more inclusively:
+
+Remember the purpose of inclusive language use: to make sure that everyone feels welcome, accepted, and respected. This can be challenging as students and staff have diverse experiences and needs. But in the end, it is worth it to ensure that everyone feels at home at the UG.
+
+Don't be afraid to ask. Different people have different preferences in terms of terminology and language use. This can depend on many factors, such as (cultural) background or age. Therefore, it is always best to ask people what they prefer, when this is possible and appropriate. Also, feel free to reach out to the UG's Diversity & Inclusion Office via diversity@rug.nl if you have any questions.
+
+Be aware of your personal biases. Often, the words we use reflect our assumptions about the world around us. Consider how your upbringing and biases might affect the language you use. For example, who do you consider 'normal' and who do you consider 'other' than you?
+
+Everyone makes mistakes. If you realize that you have accidentally offended someone, take a moment to reflect, apologize, and learn. Most people's natural reaction in this situation is to become defensive. That is normal. If you realize that you are feeling defensive, take a moment to reflect on why that might be, and if you can learn from the situation.
+
+Encourage inclusive course content. Lecturers are encouraged to create and utilize course content and methodologies that are inclusive. Teaching Academy Groningen has resources and trainings to support teachers in this. If you are a student that experiences exclusionary course content, or have ideas for improving course content to be more inclusive, you are encouraged to speak to your teacher or reach out to the Diversity & Inclusion Office via diversity@rug.nl.
+
+If you are treated disrespectfully, or see someone treated disrespectfully, please speak up. There are several mechanisms in place at the UG to ensure social safety. You can reach out to several contacts, listed on the social safety website.
+
+
+Identity-based language
+
+This section of the document is split into the following topics:
+
+Gender-aware language use
+Ability and disability
+Background, ethnicity, nationality, and migration
+
+Gender-aware language use
+
+This section provides some tips for using language around gender in an inclusive manner.
+
+Personal pronouns
+
+Personal pronouns are what we use to address ourselves and each other. For example, I/me/mine, you/your, he/him/his, she/her/hers, they/them/theirs.
+
+Note: you may have heard people talk about 'preferred' pronouns. But we recommend leaving out the word 'preferred', as this seems to indicate that someone's pronouns are optional. Instead, we can simply ask what pronouns somebody uses.
+
+It is a common false assumption that only people who use the singular 'they' pronoun, or trans people, need to share their pronouns and that people who 'look' cisgender and who use he/him or she/her pronouns do not need to share theirs. But we cannot tell the pronouns a person uses based on what they look like. Sharing our pronouns and asking for others' pronouns normalizes the understanding and use of various pronouns.
+
+Multiple pronouns or no pronouns
+
+Some people use multiple pronouns, e.g. he/they, while some people use none at all. Some others may be comfortable being addressed by all pronouns.
+
+If someone uses multiple pronouns, this means that they are happy to use either. It does not mean that you need to use both at the same time!
+
+Example: Thomas uses he/they pronouns. Last week I went out to eat with him. They really liked the food.
+Note: if someone uses he/they or she/they pronouns, try to use them fairly interchangeably. This does not mean that you need to count or switch consecutively. But if you choose to only use he/him if a person looks masculine, for example, then they may get the impression that you are not seeing and acknowledging their identity.
+
+If someone uses no pronouns at all, you can simply use the person's name instead.
+Example: Thomas doesn't use any pronouns. Last week I went out to eat with Thomas. Thomas really liked the food.
+Note: this is also a common practise in languages where there is no simple non-gendered alternative for personal pronouns.
+
+If someone uses any pronouns, you can choose how to address them. I.e. with she/her, he/him, or they/them.
+
+Singular 'they'
+
+The singular 'they' is used frequently in English to refer to somebody whose gender we do not know or whose gender is unimportant to the context, or to address somebody who uses the pronouns they/them/theirs.
+
+The singular 'they' is common in native English, and has been traced back to the 14th century to refer to someone whose gender is unknown or irrelevant. Yet its use as a non-binary pronoun is rather new. Non-native speakers often struggle with this term.
+
+Here are some rules for its usage:
+
+Use for someone we do not know/whose gender is unknown
+Example: 'Someone left their wallet on the bus. We should hand it in so that they get it back. The bus company might know them.'
+
+Use as a personal pronoun
+Example: 'Kai is my friend. They have a dog. I sometimes walk their dog for them.'
+
+We use the plural verb form for the singular 'they'
+Example: 'they are', not 'they is', even if we are talking about one person.
+
+We use the singular verb form with the singular noun even when talking about someone who uses they/them pronouns
+Example: 'Kai is', 'this person is', not 'Kai are', this person are'.
+
+Reflexive form: both 'themselves' and 'themself' are acceptable, but 'themselves' is more common even when referring to one person
+Example: 'Kai is going on holiday by themselves', 'Kai renovated the kitchen themself'
+
+Alternatives to the singular 'they'
+
+Especially for non-native English speakers, use of the singular 'they' when talking about people whose gender is unknown or people whose gender is not relevant to the context can be confusing. There are a few alternative strategies to avoid usage of the singular 'they' in this context.
+
+Please note: if the singular 'they' is being used as a non-binary pronoun, you should not use these alternatives.
+
+Strategies:
+
+Rewording the sentence
+Example: Every client got a care package delivered to them -> Each client received a care package
+
+Using the plural
+Example: A private person usually keeps to themselves -> Private people usually keep to themselves.
+
+Gender vs sex
+
+Tips:
+
+1. Avoid using 'male' and 'female' if you are referring to the social constructs/identities of man/woman/boy/girl, instead of to the biological sexual category.
+2. If you are talking about women, avoid using the term 'girls'. While common, it is patronising to refer to grown women as children; we do not usually do so for men.
+
+Noun forms
+
+It is common to use male-gendered noun forms in English when speaking about a default, or non-gendered, situation. However, male noun forms can be considered exclusionary to members of other genders, and can perpetuate gendered stereotypes.
+
+Academic use
+
+This section outlines the rules for using personal pronouns and the singular 'they' according to different academic reference styles.
+
+APA (7th edition)
+
+The APA 7th edition rules are as follows:
+
+Always use a person's self-identified pronouns.
+Use the singular 'they' to refer to someone whose gender is unknown or irrelevant to the context.
+Do not use 'he or she' alone as generic third-person pronouns. Only use 'he or she' if you know that these pronouns are the ones used by the persons being referred to.
+Do not use combination forms such as 's/he' or '(s)he'.
+If you do not know someone's pronouns, use the singular 'they' or reword the sentence to avoid any pronouns.
+
+MLA
+
+The MLA Handbook, 9th editions, offers this guidance on inclusive writing:
+
+Consider non-gender pronouns/terms if gender is not central to the idea expressed. For example, instead of 'Men and women in the job market' ... try 'Jobseekers often find....'
+Endorses the singular 'they': https://style.mla.org/using-singular-they
+
+Vancouver & Harvard
+
+As yet unknown as to whether the singular 'they' is accepted.
+
+Chicago
+
+As of the 17th edition, Chicago still recommends avoiding the singular 'they' as a generic reference, at least in formal writing, but the previous blanket prohibition has been listed (Section 5.256). For the first time, Chicago also offers guidance on using 'they/them' as an individual's personal pronouns, stating that 'any such preference should be generally respected' (Section 5.256).
+
+Other academic points of note
+
+In the academic context, it is important to pay attention to the following points:
+
+Try to avoid the default masculine
+E.g. 'If a philosopher considers this question, he will be required to…'
+
+In medical use
+E.g. It is common to speak in terms of pregnant women and fathers, and certain body parts as belonging to a specific gender. This is a grey area in medical research and writing.
+
+Titles
+Many female faculty and staff (including married women) prefer to be addressed as 'Ms', or, if the term applies, as 'Professor' or 'Dr', instead of as 'Mrs' (as their marital status is not relevant in this context). The Dutch Research Council (NWO), however, avoids using titles entirely, instead just stating the person's full name.
+
+First/last names
+Avoid using solely the first name for a woman where you would use the last name/full name if you were referring to a man. This is common in informal science writing and on the work floor.
+
+Content
+There is often a discrepancy in how men and women are written about. E.g. mentioning a female academic's appearance, parenting and family life, where this would not be done for a male academic. In addition, using bias, overgeneralization, or assumptions.
+
+Ability and disability
+
+This section addresses language use surrounding ability and disability: terminology, identity-first vs person-first language use, and avoiding slurs and value judgements.
+
+Identity-first language vs person-first language
+
+One common question that comes up when talking about ability and disability is whether to use identity-first language (for example, 'disabled person') or person-first language ('person with a disability'). There is no one 'right' way to use these terms, and people have different preferences. The following section describes the differences between identity-first and person-first language, but the most important thing is to respect the preferences of the person you are referring to. When possible, ask people how they like to be described. When this is not possible (for example when giving a presentation or referring to multiple people, it is recommended that you use a mix of identity-first and person-first language).
+
+Some disabled people and neurodivergent people prefer to use identity-first language because they see their disability or neurodivergence as a key part of their identity. In the autism community, for instance, some people prefer terminology such as 'autistic', 'autistic person', or 'autistic individual' because they understand autism as an inherent part of an individual's identity.
+
+Identity-first language is the opposite of person-first language. This terminology may be preferred by some people as it emphasizes that they are a person first and foremost.
+
+Avoid unnecessary references
+
+When it is not relevant to do so, avoid unnecessary references to the physical, mental or psychological capacity of a person or group. This avoids the (unconscious) discrimination, marginalization and stigmatization of people with disabilities based on their physical, intellectual, and/or psychological condition.
+
+Use adjectives, not nouns
+
+If it does matter to indicate that someone has a disability, use the term as an adjective, not as a noun. So do not write 'blind,' 'visually impaired,' or 'disabled,' but rather 'people with disabilities (auditory, visual, physical or intellectual)' or a 'blind or visually impaired person'.
+
+Social or medical model of disability
+
+There are two models of how society views disability: the social model and the medical model. The traditional language of disability has utilized a medical model. Under the medical model, impairments or differences should be "fixed" or changed by medical treatments – it looks at what is "wrong" with the person rather than what the person needs. In recent years, people in the disability rights movements have advocated for a social model of disability. In this model, we understand that disability is caused by the way society is organized, rather than individual differences – it looks at how to remove barriers that restrict disabled people. 
+
+In the medical model, disabilities are an aberration compared to "normal" traits. In the social model, disabilities are restrictions imposed by society. When writing or speaking about disability, it is recommended to utilize the social model. According to the social model a person does not 'have' a disability – disability is something a person experiences. The disability experienced is often caused by the approach taken by society/individuals which fails to take account of people with impairments and their associated support needs.
+
+Avoiding slurs
+
+It is very important to be aware of terms that have since become outdated and which are now considered to be slurs, even if they were not in the past. Some examples in English include the R-word, 'cripple(d)', and 'handicap(ped)'. If it is absolutely necessary to refer to these words, like in this document, one can use quotation marks.
+
+Avoiding value judgement
+
+Similarly, it is important to be aware of the value judgement expressed when talking about disability and neurodiversity. Often, much language around disability and neurodiversity can be seen as pitying, condescending, and patronizing – it suggests that the person would be 'better' if they were not disabled or neurodivergent. Examples (to avoid) therefore include:
+
+Wheelchair usage: we can describe somebody as using a wheelchair, or being a wheelchair user, instead of placing a value judgement such as 'wheelchair bound'.
+
+Instead of describing somebody as 'suffering from', 'hindered by,' or 'struggling with' a disability or a neurodivergent condition, we can simply describe them as a disabled or neurodivergent person: by using their identity as an adjective (see Identity-first language).
+
+Do not use the terms 'victim' and 'patient' to refer to a person or group of people with disabilities. Also avoid statements such as 'don't react so spastic' or 'blind spots'.
+
+The word 'impaired' can be offensive to some people, but others may use this term to describe themselves (i.e. 'visually impaired'). It is best to use this term with caution, and note that it may be interpreted differently in different (cultural) contexts.
+
+'Inspiration porn' refers to the phenomenon of disabled people being perceived and described as being 'inspiring' or 'inspirational' for their achievements. While this may be well-meant, it suggests that disabled people are exceptional for reaching the same achievements as able-bodied people, and that they are therefore expected to not be as successful or productive in their lives.
+
+Academic use
+
+This section outlines the rules for using person-first and identity-first language according to different academic reference styles.
+
+APA (7th edition)
+
+The APA 7th edition rules are as follows:
+
+Authors who write about identity are encouraged to use terms and descriptions that both honor and explain person-first and identity-first perspectives. Language should be selected with the understanding that the individual's preference supersedes matters of style. If you are uncertain about how a person identifies, it is recommended that you ask their preference.
+
+Both person-first and identity-first approaches to language are designed to respect disabled persons; both are fine choices overall. It is permissible to use either approach or to mix person-first and identity-first language unless or until you know that a group clearly prefers one approach, in which case, you should use the preferred approach.
+
+MLA
+
+The MLA Handbook, 9th editions, offers this guidance on inclusive writing:
+
+Respect for the terms preferred by a community should be shown in writing. Some groups self-identify with person-first language (i.e., a person with alcoholism), other groups prefer to claim a specific identity first (i.e., Deaf person).
+
+Background, ethnicity, race, nationality, and migration
+
+This section provides some tips for using language around background, ethnicity, race, nationality, and migration.
+
+Points for attention
+
+The use of 'native'
+
+The term 'native' is controversial. It is often used in three situations: to describe indigenous populations (1), to refer to where somebody was born or their migration background (2), and to talk about languages (3).
+
+1. In the first instance, the preference is to use the term 'indigenous'. E.g. instead of Native Americans, indigenous Americans.
+
+2. In the second instance, we can replace the word 'native' with a descriptor. E.g. 'native Dutch people' can be replaced with 'Dutch people born in the Netherlands', or 'Dutch people with no migration background', if this is what is meant. Here, the use of 'native' is not wrong per se, but can have negative or questionable connotations. For instance, is a person who was born in the Netherlands but whose parents are first-generation immigrants considered to be a native Dutch person? Why are we referring to this information?
+
+3. The term 'native' is still frequently used to describe a person's mother tongue. E.g. 'native English speaker'. However, it is advised to use this term with caution, as people can be fluent in a language without it being their first language.
+
+Migrant, expat, international, or immigrant?
+
+It is important to know the differences between and connotations of these terms.
+
+In everyday language, these terms are often used interchangeably to refer to people who live in a country different from the one they were born in. However, the connotations that they express can be controversial. For instance, 'immigrant' is often used by right-wing political parties and media in a negative manner to describe those fleeing bad living conditions in search for a better life, while 'expat' is preferred by wealthy, often white and Western, people who move primarily for work or leisure purposes.
+
+While neither term is wrong to use, it is recommended to use these terms with caution. Why do we choose a certain term for one group of people but not for another? This is often based on our own biases and prejudices.
+
+Asylum seeker or refugee?
+
+Similar to the above question, it is important to know the differences between these terms.
+
+
+Naturalization
+
+In the Netherlands, if a refugee or migrant has held a valid residence permit for a certain time period and has passed the civic integration exams, they may request naturalization. This means that they will become a Dutch citizen.
+
+Once a person has become a Dutch citizen, regardless of their migration background, it is insensitive (and incorrect) to refer to them as a refugee or migrant. From that moment forth, they are a Dutch citizen just like any other, albeit with a migration background.
+
+Nationality versus ethnicity
+
+The previous topics highlight the need for awareness when using terms surrounding nationality and ethnicity. E.g. if we say 'Everybody here is Dutch', do we mean that they have a Dutch passport? Were born in the Netherlands? Currently live in the Netherlands? Have a Dutch family background? Or simply speak Dutch? Especially in academia, when we are working with many international staff and students, a person's language abilities, place of residence, citizenship status, and migration background may be complex. Returning to the example 'Everybody here is Dutch', is better to be specific about what we mean, e.g.:
+
+Everybody here speaks Dutch
+Everybody here lives in the Netherlands
+Everybody here is a Dutch citizen
+Everybody here was born in the Netherlands
+Everybody here has a Dutch family background
+
+U.S.-centric language
+
+In spoken language, we often throw around the terms 'America' and 'American' when talking about North America (specifically, the U.S.). However, this implies that America as a whole only consists of the U.S., or that North America is the 'default' or only significant part of America, which dismisses Central America and South America as being equally valid (in fact, bigger) parts of America. It is therefore preferable to specifically refer to the United States, or North America, instead of simply 'America'.
+
+Academia and racism
+
+Countering racism in the academic world is still an important issue and should be at the top of our agenda. In terms of language use, examples of inclusive language awareness include caution when referring to outdated or historical texts, literature, and racial categorizations, as well as awareness when using terminology in the medical and STEM fields. 
+
+Theme-based language use
+
+This section of the document focuses on inclusive language use in:
+
+Emails and official language
+
+Titles
+
+Organizations usually register a person's title, which is then used in all forms, official letters, emails, and so on. In academia, the most common registered titles are Prof., Dr, Mr, and Ms.
+
+Mrs, Miss, or Ms?
+
+Mrs and Miss refer to a woman's marital status, which is almost always irrelevant in a work context. It is therefore recommended to use the term Ms for female addressees.
+
+Gender-neutral options
+
+Academic titles like Prof. and Dr are usefully non-gendered, and can therefore be used for male, female, and non-binary addressees. However, Mr and Ms are not. There are some strategies for greater inclusion:
+
+Mx: In the United Kingdom, the title Mx is becoming more common as an alternative to Mr and Ms. Mx can be used by those who do not want to be addressed by gendered titles. However, this title is not widely recognized outside the UK.
+
+No title: It is also possible to leave out the necessity of a title altogether. On many forms, for instance, the ticking a title box is mandatory, without any legal bearing. Although it is legally necessary to register a person's title in some instances, it is worth making tick-boxes like this optional in instances where the registration of a title is not a legal requirement. Alternatively, the person may tick that they prefer to be addressed with no title.
+
+Other terms of address
+
+Aside from titles, common terms of address in academic and organizational settings include examples like Sir and Madam, and Ladies and Gentlemen. Think of official letters or speeches.
+
+Below are some alternative options for such terms of address:
+
+Dear (esteemed) guest(s)
+Dear colleague(s)
+Dear participant(s)
+Dear alumni
+Dear student(s)
+Dear staff member(s)
+Dear team member(s)
+Dear (valued) client(s)
+Dear [insert department name]
+Dear XXX team
+Dear [insert recipient's name]
+To whom it may concern
+
+Human resources
+
+Gender options
+
+There are a few points to consider when registering a person's gender:
+
+Is it necessary? Is it compulsory or optional? If it is not legally necessary, any registration should be optional.
+
+Are you asking about gender or sex? Gender = a person's identity, sex = understood to mean a person's biological make-up. (Interestingly, the idea of sex as a biological binary system is also up for debate.)
+
+If you are registering sex: is intersex listed as an option? Is it clear that you are referring to the sex assigned at birth? Are other options than male/female provided? E.g. the US and the Netherlands are now (considering) adding an X option.
+
+If you are registering gender: is there a non-binary option listed? Is it clear that people can choose the gender they identify with?
+
+When asking about sex or gender, is it possible to answer 'Prefer not to disclose' or 'Other'?
+
+Name options
+
+A person's legal name may not be the name that they use in daily life. In the Netherlands, a person's roepnaam (nickname/chosen name) is often requested, i.e. the name that they would like to use in daily life.
+
+It may be that a person's dead name is still their legal name, but using it for the person in daily life is insensitive and may cause them hurt.
+
+Some points to consider when requesting a person's name include:
+
+Do you need to know their legal name or the name they use in daily life? Is this clear to the respondent?
+
+If you need a person's legal name: who will be able to view this? E.g. if a new colleague is appointed, they may not want their supervisor or colleagues to know their legal name – and certainly may not want it to be displayed on the Intranet or website.
+
+Make sure that all communications (aside from legal documents) use a person's chosen name instead of their legal name.
+
+Pronouns
+
+Personal pronouns, like she/her/hers, he/him/his, and they/them/theirs, are what we use to address others (for more explanation, see the Personal pronouns section). Instead of assuming which pronouns a person uses, it is better to give them the space to share their own pronouns. At the University, this could look like:
+
+Adding a pronoun section onto MePas (UG staff profile pages)
+Recording students' pronouns so that they are addressed correctly in communications
+Adding a pronoun section to staff details in Shared Services
+Adding a pronoun section to the UG email signature template
+Writing pronouns on UG badges for conferences and seminars
+Recommending that lecturers mention their own pronouns, and ask for students' pronouns, at the start of a course unit
+
+Note: when asking people to share their pronouns, the best practice is providing a field where people can write their own pronouns, instead of having tick-boxes. If you do provide tick-boxes, however, consider allowing respondents to tick multiple options and to offer an 'Other' option where people can share their pronouns if they are not listed.
+
+It is a common false assumption that only people who use the singular 'they' pronoun, or trans people, need to share their pronouns and that people who 'look' cisgender and who use he/him or she/her pronouns do not need to share theirs. But we cannot tell the pronouns a person uses based on what they look like. Sharing our pronouns and asking for others' pronouns normalizes the understanding and use of various pronouns.
+
+Editing personal details
+
+As people may choose to change their name or pronouns over the course of their life, it is important that they are also able to do so at work or in their studies. At the University, students and staff should have the possibility to change their details accessibly and without question.
+
+

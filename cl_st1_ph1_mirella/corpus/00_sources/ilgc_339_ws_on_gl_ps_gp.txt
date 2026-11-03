@@ -1,0 +1,47 @@
+OVERALL INCLUSIVE LANGUAGE PRINCIPLES
+
+It's not always necessary to fret over every word. A few big principles can take you quite far. Here are 6 that many folks involved with diversity and inclusion recommend.
+
+Person-first vs. identity-first language: Person/people-first language tends to be the preferred option for describing individuals and groups of people with a shared identity/identities, centering the individual as the most essential element, e.g., "a person with a disability" instead of "a disabled person". Identity-first language puts the descriptor first, and is more common among specific communities, such as the deaf community, where "deaf person" is generally preferred over "person with deafness". Ultimately, different groups have different preferences, and people within groups have different preferences. When in doubt, it's best to ask.
+
+Avoid idioms, jargons, and acronyms: Jargon and acronyms can exclude people who may not have specialized knowledge of a particular subject and impede effective communication as a result. Many idioms don't translate well from country to country, and some are rooted in negative connotations and stereotypes ("hold down the fort," "call a spade a spade" are examples).
+
+When speaking about disability, avoid phrases that suggest victimhood, e.g. "afflicted by," "victim of," "suffers from," "confined to a wheelchair". While you're at it, steer clear of euphemisms like "challenged," "differently abled," or "specially-abled," too.
+
+Don't underplay the impact of mental disabilities. Terms like "bipolar," "OCD" and "ADD" are descriptors of real psychiatric disabilities that people actually possess. They are not metaphors for everyday behaviors. Also, avoid derogatory terms that stem from the context of mental health, for example, "crazy," "mad," "schizo," or "psycho."
+
+"Guys" is not gender neutral. The "universal male" (i.e., using "guys" to mean "people") assumes that the normal, default human being is male. Although "he" and "man" are said to be neutral, numerous studies show that these words cause people specifically to think of males.
+
+If you aren't sure, ask. Strive to include language that reflects peoples' choice and style in how they talk about themselves.
+
+As language evolves and our understanding and empathy increases, it's often a good practice to dive deeper into specific word choice. Some of these words and phrases are benign, while many carry a fraught history or connotation. In all cases, there's likely a better and more specific option.
+
+Grandfathering/grandfather clause: A way to exempt some people from a change because of conditions that existed before the change (e.g. "we've grandfathered some users on an unlimited data plan"). The term "grandfather clause" originated in the American South in the 1890s as a way to defy the 15th Amendment and prevent black Americans from voting. A good alternative might be "legacy."
+
+Gypped: Racial slur for being defrauded, swindled or cheated. According to the Oxford English Dictionary, the term is "probably an abbreviation of 'gypsy,' a word commonly used to describe the Romani people."
+
+Lame: Originally used in reference to people with reduced mobility, now often a synonym for "uncool." Both types of uses are ableist.
+
+"Lower the bar": A phrase based on the erroneous idea that a company has to relax hiring standards in order to add people from different racial/ethnic/gender backgrounds. In fact, in many cases companies have a poorly designed hiring bar that fails to adequately evaluate highly qualified, and often diverse, candidates.
+
+Meritocracy: Belief in the flawed idea that hard work and talent alone are all that's needed to achieve success. Challenges like implicit bias, structural inequality and varying degrees of privilege or disadvantage mean meritocracy isn't currently a reality.
+
+Ninja/rockstar: Words sometimes used in tech job descriptions that can skew towards a gendered interpretation and discourage some groups from applying.
+
+Open the kimono: Problematic business jargon for disclosing information about the workings of a company. It has sexist and racist overtones.
+
+Peanut gallery: This term for heckling or unwanted disturbance originates in the 1920s when the peanut gallery referred to the back section of theaters, which were the only places that people of color were allowed to sit at the time. The phrase was meant to poke fun at the idea of people of color engaging in intellectualism.
+
+A SPECIAL NOTE ON THE GENERIC "HE" IN TECH
+
+Particularly in tech conversations and job descriptions, sometimes the pronoun "he" is used to describe technical roles or executive roles by default. Assuming that the normal, default tech person is a man has real consequences. In one survey on what deters women from male-dominated professions, a popular answer was the wording on job postings.
+
+The American Philosophical Association offers tips to eliminate the generic use of 'he':
+- Use plural nouns
+- Delete 'he', 'his', and 'him' altogether
+- Substitute articles ('the', 'a', 'an') for 'his' and 'who' for 'he'
+- Substitute 'one', 'we', or 'you'
+- Minimize use of indefinite pronouns (e.g. 'everybody', 'someone')
+- Use the passive voice [use sparingly]
+- Substitute nouns for pronouns [use sparingly]
+

@@ -1,0 +1,79 @@
+KEY PHRASES FOR TALKING ABOUT DIVERSITY AND INCLUSION IN TECH
+
+Ableism: Practices and dominant attitudes in society that assume there is an ideal body and mind that is better than all others.
+
+Accessibility: The practice of designing and developing web sites and web content that provide a great experience for all web users. (Sometimes abbreviated as a11y, representing "accessibility" as "a" followed by 11 more letters, followed by "y".)
+
+ADA: The Americans with Disabilities Act (ADA) is a U.S. civil rights law that prohibits discrimination against individuals with disabilities in all areas of public life, including jobs, schools, transportation, and all places that are open to the general public.
+
+Ageism: A system of beliefs, attitudes, and actions that stereotype and discriminate against individuals or groups on the basis of their age.
+
+Ally: Someone who supports a group other than their own (in terms of racial identity, gender, faith identity, sexual orientation, etc.) Allies acknowledge disadvantage and oppression of other groups; take risks and action on the behalf of others; and invest in strengthening their own knowledge and awareness of oppression.
+
+Affinity groups: A group of people who choose to meet to explore a shared identity such as race, gender, age, religion, and sexual orientation. These groups can be further broken down into smaller groups within the two major affinities (i.e. White men, White women, African American men/women, bi/multi-racial, etc.). At work these are sometimes called Employee Resource Groups, or ERGs.
+
+Amplification: A technique an ally can use to boost the message of a member of a less dominant group by repeating what that person said and giving them credit for it. For example, "Laura said to try 'git rebase -i master'. Give that a try and let her know how it works."
+
+Cisgender: Individuals whose gender identity and expression line up with their birth-assigned sex.
+
+Code of conduct: A set of rules issued by an organization outlining the acceptable and unacceptable behavior of a community or conference. It must have four complete parts:
+- statement of unacceptable behavior
+- how the policy will be enforced
+- how and whom to make an incident report to
+- training and reference materials for organizers, staff, and volunteers on how to respond to incident reports
+
+Code switching: The practice of mixing various languages and speech patterns in conversation - or more broadly, changing the way you express yourself culturally and linguistically based on different parts of your identity and how they are represented in the group you're with.
+
+Culture fit: The likelihood that a job candidate will be able to conform and adapt to the core values and collective behaviors that make up an organization. (Alternatives preferred at Buffer: cultural contribution, values fit.)
+
+Diversity: Individual differences (ability, learning styles, and life experiences) and group/social differences (race/ethnicity, class, gender, sexual orientation, country of origin, as well as cultural, political, religious, or other affiliations) that can be engaged in the service of learning.
+
+Dominant culture: The cultural beliefs, values, and traditions that are centered and dominant in society's structures and practices. Dominant cultural practices are thought of as "normal" and, therefore, preferred and right. As a result, diverse ways of life are often devalued, marginalized, and associated with low cultural capital. Conversely, in a multicultural society, various cultures are celebrated and respected equally.
+
+Equal Employment Opportunity (EEO): Title VII of the U.S. Civil Rights Act of 1964 that prohibits discrimination in any aspect of employment based on an individual's race, color, religion, sex, or national origin.
+
+FMLA: The Family and Medical Leave Act of 1993 (FMLA) is a United States federal law requiring covered employers to provide employees with job-protected and unpaid leave for qualified medical and family reasons.
+
+Gender identity: A person's perception of their gender, which may or may not correspond with their birth sex.
+
+HBCU: An acronym that stands for "historically black colleges and universities." These are institutions of higher education in the United States that were established with the intention of primarily serving the black community, though they have always allowed admission to students of all races. Most were created in the aftermath of the American Civil War.
+
+Implicit bias: The attitudes or stereotypes that affect our understanding, actions, and decisions in an unconscious manner. These biases are activated involuntarily and without an individual's awareness or intentional control.
+
+Impostor syndrome: A phenomenon in which high-achieving individuals are unable to internalize their accomplishments and instead constantly fear being exposed as a "fraud." Some research indicates that members of underrepresented groups are more likely to be affected by it than others.
+
+Inclusion: A dynamic state of operating in which diversity is leveraged to create a fair, healthy, and high-performing organization or community. An inclusive environment ensures equitable access to resources and opportunities for all. It also enables individuals and groups to feel safe, respected, engaged, motivated, and valued, for who they are and for their contributions toward organizational and societal goals.
+
+Inclusive design: The process of making your product intuitive, accessible to, and usable by as many people as reasonably possible without the need for special adaptation or specialized design.
+
+Inclusive development: The process of ensuring that all marginalized and excluded groups are stakeholders in development processes.
+
+Intersectionality: The interconnected nature of social categorizations such as race, class, and gender that can create overlapping and interdependent systems of discrimination or disadvantage. The term was coined by Kimberlé Crenshaw, who used it to describe the experiences of black women - who experience both sexism and racism.
+
+Latinx: A gender neutral term often used in lieu of the gendered "Latino" or "Latina" when referring to individuals with cultural ties to Latin America and individuals of Latin American descent.
+
+LGBTQIA: Acronym encompassing the diverse groups of lesbian, gay, bisexual, transgender, transsexual, queer, intersex and asexual populations and allies/alliances/associations.
+
+Mansplain: A portmanteau of the word "man" and "explain" used to describe the act of men explaining to someone, typically a woman, in a manner regarded as condescending or patronizing.
+
+Microaggression: This term was coined by psychiatrist and Harvard University professor Chester M. Pierce in 1970 to describe the tiny, casual, almost imperceptible insults and degradation often felt by any marginalized group.
+
+Neurodiversity: The idea that neurological differences like autism and ADHD are the result of normal, natural variation in the human genome.
+
+Nonbinary: Any gender identity that does not fit the male and female binary.
+
+Pipeline problem: The belief that the tech industry isn't diverse because of a scarcity of available talent. The reality is that the pipeline is only part of the issue - better recruitment tactics and interview processes, a focus on retention and lots more can help create more diversity.
+
+POC: An acronym standing for "person of color." This term is used primarily in the United States to describe any person who is not white (although racism affects different groups differently).
+
+Privilege: A right or advantage that only some people have access or availability to because of their social group membership.
+
+Pronouns: A preferred gender pronoun is a consciously chosen set of pronouns that allow a person to accurately represent their gender identity. A trans person may begin using a gender-neutral pronoun prior to transitioning, or a non-binary person may choose to use a neutral pronoun.
+
+Sponsorship: An action that allies and those with privilege can take to advance the careers of members of marginalized groups. While mentors offer advice and support as needed, sponsors use their social capital and credibility to advocate for their proteges by promoting, protecting, preparing, and pushing them.
+
+Tokenism: The practice of including one or a few members of an underrepresented group in a team or company, without their having authority or power equal to that of other group members. This places a burden on an individual to represent all others like them.
+
+Tone policing: A silencing tactic used in arguments or discussions that focuses on the emotion behind a message rather than the message itself (for example, telling someone who is discussing an issue that makes them upset to "calm down" instead of responding to their concerns).
+
+Underrepresented group/underindexed group: This term describes any subset of a population that holds a smaller percentage within a significant subgroup than it holds in the general population. Women are often an underrepresented group in science, technology, engineering, and mathematics, for example.

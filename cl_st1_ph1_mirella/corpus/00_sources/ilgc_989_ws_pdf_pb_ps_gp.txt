@@ -1,0 +1,169 @@
+Inclusive product nomenclature
+
+Inclusive language relating to products and services can elevate experiences and deepen connections with clients and customers that have been typically marginalized or underrepresented, and even influence positive social change.
+
+Check the definitions of words- Products names tend to be used universally, however some may have derogatory or offensive meanings, even if they are part of popular culture. For example:
+
+Words that may have vulgar meanings when translated into other languages
+Words that may be insensitive from a religious, cultural perspective
+
+Avoid stereotyping: Use of negative reinforcements in products can alienate customers and have a negative impact on an organisations brand reputation, even if they are not necessarily offensive, they can be perceived as out-dated and regressive. e.g. using the colour pink for women and blue for men or perpetuating stereotypes that women are homemakers and men are breadwinners etc.
+
+Use of Numbers in slogans: Some numbers have negative connotations in some cultures e.g. Number 4 in Chinese and Japanese cultures is considered unlucky as it is homophonous to the word for 'death', which can impact how catchphrases such as "here 4 you" are interpreted.
+
+Principles/top tips
+
+Communicating across countries, cultures and languages is now a global norm for many organisations. However, to show consideration for colleagues and clients who may have English as their second or third language and to ensure the message you intend to convey is what is being received, here are a few guiding principles:
+
+1 Use plain language – whilst acronyms and jargon can become common place, they may not always translate to other markets or cultures. Using plain language helps your message be easily understood by the largest amount of people.
+
+2 Avoid clichés or colloquialisms that may be geographically specific - it may alienate or even offend others if the words or phrases do not translate with the same meaning.
+
+3 Be mindful of perpetuating stereotypes or biases - for example by referring to working mothers when discussing workplace flexibility. In reality, flexible working practices support all colleagues and all life stages.
+
+4 Consider translations and subtitles – when communicating technical or complex information, particularly in training courses, using translations and/or subtitles where possible can make it easier for colleagues or whom English is not their first language or who have hearing difficulties to understand what is expected.
+
+5 Use of the word "diverse" to describe a person or people - a single person cannot be diverse. Referring to a person as "diverse" is increasingly used as code for people who belong to groups considered non-dominant which in turn makes them an 'other'.
+
+Having a diverse workplace acknowledges the differences that all colleagues with have between each other and their experiences. We want to encourage a "diverse mix," "diverse groups","diverse teams" and a "diverse workplace".
+
+6 Use of humour - keep in mind that some countries have a more formal style to business communications and jokes may not always be appropriate and could even be perceived as dismissive.
+
+7 When engaging suppliers, check whether vendors have expertise in language inclusivity.
+
+8 Create automated checks for accessibility within your authoring tools. Accessibility Checker is a free tool available in Word, Excel, Outlook, OneNote, and PowerPoint on Windows, Office Online, or Mac, and Visio on Windows. It finds most accessibility issues and explains why each might be a potential problem for someone with a disability. It also offers suggestions on how to resolve each issue.
+
+9 Give feedback to source authors when language is not inclusive.
+
+10 Remember to include inclusive imagery to support your inclusive language.
+
+Gender-inclusive language
+
+A lot of everyday language is based on the idea of two genders and one sexuality, which can serve to erase the identities and experiences of others. The use of gender-inclusive language respects and acknowledges all gender identities.
+
+Historically, society has adopted the 'universal male' in terms such as 'mankind' which assumes that the default human being is male. These assumptions have carried over into everyday terms such as 'guys' to mean 'people'.
+
+Meanwhile, gender bias can permeate everyday words through inference and association. These can commonly materialise in written communications such as job adverts.
+
+We recognise that the above examples are stereotypes which many men and women do not conform to. Nevertheless, certain words hold connotations that exhibit bias towards certain genders. The examples provided are designed to challenge you to think about the language you use to describe others, particularly when referring to colleagues and listing desirable candidate attributes in job adverts. Adopting gender-inclusive language can not only help you create a more inclusive environment but may also help us to attract more diverse talent.
+
+Top tip
+The gender decoder is a quick way to check how gender neutral you job advert or role description may be.
+
+Pronouns
+
+There are many variations on personal pronouns and colleagues are encouraged to be thoughtful when interacting others. For example, to create a safe space when first meeting someone, you may want to role model by introducing yourself with your pronouns: "Hi, I'm Jane, and my pronouns are she/her" ," I'm Taylor, my pronouns are they/them/theirs". By sharing your own pronouns, you're allowing the other person to share theirs, but not forcing them to. The pronoun 'They' tends to be thought of gender neutral, a person who goes by 'they' could be a man, women, both, neither or something else entirely. It is acceptable to use they instead of he or she when referring to some who has not expressed a choice of pronoun.
+
+The use of gender-inclusive pronouns continues to be a rapidly evolving space where there is observed experimentation in pronoun usage across different cultures. For example, in some Chinese-speaking cultures, non-binary people who do not identify as 他 (he) or 她 (she) have started using a gender-neutral alternative: 'X也,'.
+
+What if I make a mistake?
+
+An inclusive environment helps all colleagues feel supported and respected even when mistakes are made. It is important for us all be open and willing to receive feedback if we have used language that someone else may not be comfortable with. Mistakes can happen, if and when they do, simply apologise and seek to understand what terms or language to use instead. Language can be instinctive that often people don't recognise that an expression they may be in the habit of using may make others feel excluded. Many people may notice language choice in others but feel uncomfortable giving feedback for fear of creating an issue with a colleague or being seen as critical or judging etc.
+
+An inclusive culture means everyone taking a collective responsibility to support one another and highlight positive actions we can take to become more inclusive. If a colleague uses language that may not be inclusive, the following approaches may help you raise the issue discretely, "you may not have realised but when you used that word it made me feel uncomfortable…" or "for some people this term can feel offensive, you might want to consider using this term instead…" etc. Having constructive dialogue is also about viewing mistakes as an opportunity to learn
+
+Nationality, ethnicity and racially-inclusive language
+
+Terminology surrounding nationality, ethnicity, race and culture has historically been politicised and as such can be very sensitive. Words matter, particularly when it comes to identity. National, ethnic, racial and cultural identity are very personal and unique to every individual, this can become problematic when attempting to use 'catch all' terms. In recent years, the UK has used the term Black, Asian and Minority Ethnic ("BAME"), which has been widely criticised for implying that all ethnic minorities are part of a homogeneous group of 'others'.
+
+Terminology varies from country to country due to different cultural and historical contexts. For example, the term 'Coloured' would be deemed offensive in the US or UK but is a recognised group in South Africa. With this in mind, it is important for individuals to pause and consider the target audience and context in which people will be receiving any communication and proactively use inclusive language. Always respect someone's preferences, and don't assume that people of the same race or ethnicity will have the same preference.
+
+The challenges that exist in this area should not inhibit the opportunities to have constructive dialogue on nationality, ethnicity, race or culture. We are all individuals and identify in different ways which creates opportunities for us to learn about each other.
+
+
+As society evolves, some language and phrases with racial connotations can be adopted and used in other contexts, however this does not necessarily remove the pain and discomfort that some groups may feel. For example, 'Tribe Model Management' is part of an agile scaling strategy that helps organisations adopting new ways of working group together 'squads' which a common business focus. However, the word 'tribe' has been used to refer to indigenous groups and as such the word can be perceived as insensitive and offensive. New approaches and ways of working such as agile are fundamentally about behavioural change, however the use of words such as 'tribe' can serve to offend, alienate and disengage colleagues which in turn can impact the wider adoption.
+
+When using inclusive language in written form, it is always advised to follow grammatical best practice. As racial and ethnic groups are designated by proper nouns, they should be capitalised. Therefore, use "Black" and "White" instead of "black" and "white". Likewise, terms such as "Native American," "Hispanic", "Indigenous", "Aboriginal" should be capitalised. In instances where people belong to multiple racial or ethnic groups, the names of the specific groups are capitalised, but the terms "multiracial", "biracial" and "multi-ethnic" are lowercase.
+
+Disability-inclusive language
+
+Whilst the term 'disability' itself can be viewed as exclusive by some people, it is a universally recognised term which encompasses physical, mental or neurological conditions that limit a person's movement, senses or activities. At Standard Chartered, we consider disability as an umbrella term, covering impairments, activity limitations and participation restrictions:
+
+An impairment is a problem in body function or structure
+An activity limitation is difficulty encountered by an individual in executing a task or action
+A participation restriction is a problem experienced by an individual in involvement in life situations
+
+The terminology used to refer to people with a disability can vary. Common terms include:
+
+Differently Abled;
+People of Determination; and
+People with Special Educational Needs or Disability ("SEND").
+
+80% of people with disabilities have non-visible impairments, which include conditions such as depression, post-traumatic stress disorder, diabetes, HIV and epilepsy. However, language used to refer to individuals with disabilities often refers only to visible impairments. Similarly, referring to someone without a disability as 'able-bodied' can further perpetuate this misconception that disability as only physical, and can imply that individuals with disabilities as not as capable.
+
+Language can often implicitly define those with a disability by their disability alone, suggests that disability is abnormal, or perpetuate stereotypes of weakness. Non-inclusive language has contributed to the marginalisation of people with disabilities and can show up in different ways: as metaphors, jokes, or euphemisms.
+
+Using language that implies a person with disability is inspirational simply because they experience disability can also be problematic. People with disability are just living their lives; they are no more super-human than anyone else. Implying that a person with disability is courageous or special just for getting through the day can be patronising and offensive.
+
+It's also important to note that within the disability community certain words have slightly different meaning depending on the capitalisation. For example, the word "deaf" is colloquially used to describe or identify anyone who has a severe hearing problem, regardless of whether they have been deaf for all of their lives or developed hearing difficulties later in life. However, terminologically, there is a distinction between these two groups, which we have explained below. Regardless of this distinction, it is most important to be steered by the individual as to what terminology (if any) they would prefer you to use.
+
+Use of "Deaf" with a capital D refers to people who have been deaf all their lives, or since before they started to learn to talk. They are pre-lingually deaf. It is an important distinction, because Deaf people tend to communicate in sign language as their first language. There is a very strong and close Deaf community with its own culture and sense of identity, based on a shared language. For most Deaf people, English is a second language and understanding complicated messages in spoken English can be a problem.
+
+Meanwhile, the 'lowercase d' deaf simply refers to the physical condition of having hearing loss. People who identify as deaf with a lowercase 'd' don't always have a strong connection to the Deaf community and don't always use sign language.
+
+This distinction can be lost when using terms such as hearing impaired as it can miss the nuance between someone who may use a hearing aid or cochlear implant and someone who is profoundly Deaf.
+
+Mental Health and Wellbeing
+
+Globally there has been a 13% increase in mental health conditions in the last decade with 1 in 5 adults experiencing mental health challenges. Nevertheless, there still exists in many societies a stigma around talking about mental health.
+
+Generations of people have found terms like "psycho" and "crazy" perfectly acceptable. However, with the evolution of inclusive behaviours, these terms are no longer acceptable. Being thoughtful in our mental health-related language can have a positive impact on the wellbeing of our colleagues and people around us and also demonstrates respect.
+
+For example, instead of asking someone what is wrong with them, you could ask them what's going on or what their experience is. Alternatively, you could follow the "Ask twice" rule if you suspect that a colleague or loved one may have some challenges with their mental health: when you ask them "How are you?", if the first response is, for example, "I am fine", you can follow up with , "Are you sure?" to give them the opportunity to share their experiences with you if they choose to.
+
+Meanwhile, suicide is among the top 20 leading causes of death globally for people of all ages. When this happens, it is often described as someone having "committed suicide". The use of the word "committed" originates from when suicide was considered a crime and a sin. Given the impact suicide can have on family, friends and colleagues, it is recommended to use expressions like "took their own life", "ended their own life", or "completed suicide" to demonstrate sensitivity and respect.
+
+Below are some further tips on how to talk inclusively about mental health:
+
+Avoid portraying successful people with mental health issues as superhuman. This carries the assumption that it is rare for people with mental health issues to achieve great things;
+
+Avoid using negative or judgemental language in relation to poor mental health, instead use language that conveys hope and optimism to support and promote a culture of recovery;
+
+Age-inclusive language
+
+With people living longer, workplaces are becoming multi-generational melting posts with colleagues spanning up to five decades. However, age discrimination can be a serious barrier to younger and older people playing an equal part in workplaces.
+
+Inappropriate language can be targeted towards people of any age – young, old and in-between. It is important to use inclusive language to avoid negative stereotypes or imply that a particular age group is more or less able. Below are some examples of age-inclusive language:
+
+It should also be noted that in several countries, local legislation (such as the UK Equality Act) prevents you from stating the number of years' experience in job descriptions, as this can be seen as age discrimination.
+
+LGBT+-inclusive language
+
+LGBT+ is the globally recognised acronym used to refer to the Lesbian, Gay, Bisexual and Transgender community. The use of the plus sign (+) is key as this represents the breadth of sexual orientations, gender identities and gender expressions that exist under the banner. Below are some key terms which are often confused:
+
+Sexual Orientation: An individual's enduring physical, romantic, emotional and/or spiritual attraction to members of the same and/or opposite sex. Everyone has a sexual orientation.
+Gender Identity: An individual's personal sense of being male, female or non-binary, which might be different from their biological sex. Everyone has a gender identity.
+Gender Expression: The way in which a person expresses their gender identity, typically through their appearance, dress, and behaviour.
+
+The societal default has historically been male, as previously highlighted, however it has also been heterosexual. In adopting LGBT+ inclusive language, it is important to depart from the view of what is considered 'normal' as this can inadvertently stigmatise people and imply that they are 'abnormal'.
+
+Adopting gender neutral language and showing consideration for pronouns, as referenced above, can serve to create greater LGBT+ inclusion.
+
+Inclusive non-verbal communication
+
+Non-verbal communication extends to all aspects of communication other than the words themselves. It includes facial expressions, body language and posture, gestures, eye contact, tone of voice, touch and space. Leading research since the 1960s has suggested the majority of all communication is non-verbal. As such it is important that an inclusive approach to nonverbal communication is factored in alongside inclusive language.
+
+Non-verbal communications can be influenced by our unconscious biases which can lead to negative micro-behaviours or micro aggressions which can include:
+
+Eye rolling
+Crossing arms
+Repeatedly mispronouncing names
+Interrupting people
+Fidgeting when someone is talking
+
+In isolation, these actions may be labelled as insignificant, however can lead to exclusion and cause individuals to feel isolated, and undervalued.
+
+By proactively embracing inclusive non-verbal communication, colleagues can give micro affirmations which can help build greater inclusion, these affirmations can include:
+
+Active listening
+Eye contact
+Positive body-language and facial expressions
+Remembering names and information
+Removing other distractions when someone is talking
+
+Sign Language
+
+Sign languages are natural languages that have the same linguistic properties as spoken languages. Just as spoken languages, sign languages vary greatly between countries. They have evolved over years in the different Deaf Communities across the world, whist some sign languages may have similarities, there is no universal language.
+
+Whilst speaking slowly and clearly may help some Deaf people and those with hearing impairments, it is important to note that only 30% of spoken English can be accurately lip read. This is because many words cannot be differentiated as they have the same lip pattern. For example, words that sound the same and have different meanings but look the same on the lips e.g. which / witch, or break / brake. There are many of these in the English language. Knowing the topic of conversation first or key points in written form can help.
+

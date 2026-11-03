@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# cl_st1_mirella
+.idea/
+!cl_st1_ph1_mirella/env
+!cl_st1_ph1_mirella/**/*.log

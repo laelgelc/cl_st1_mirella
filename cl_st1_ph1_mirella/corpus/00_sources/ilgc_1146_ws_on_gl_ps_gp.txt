@@ -1,0 +1,64 @@
+1. Avoiding Gendering
+
+Avoidance is the best option for screen readers and readability as long as the word is familiar.
+
+a) Avoid addressing people in a gendered way
+
+Don't mention gender if not necessary. See the following example, it's not necessary to mention the customer's gender if it's just to say "Hello".
+
+b) Avoid the terms "male" & "female".
+
+"Male" and "female" are defined biologically and are often used to deprive transgender people of their identity. If gender is absolutely required, we use: man, woman, nonbinary/diverse.
+
+c) Avoid gendered parts in composite words.
+
+If the context renders a composite word superfluous we can remove it directly.
+
+Example: In context of a customer: Request from customers, men -> Request
+
+If the text permits, we can split the composite; this is usually possible when formulating sentences, but harder for titles.
+
+Otherwise replace gendered parts with gender-neutral words.
+
+d) Avoid gendered words.
+
+By using noun suffixes (like -er, -ist in English) to represent the group of people by what they have in common.
+
+e) Avoid generic masculinism for indefinite pronouns in German
+
+German uses masculine pronouns to represent all of the gender groups, which is what we are trying to avoid. In the following example, we try to avoid the masculine pronoun. But you can use someone, nobody, someone/anyone, or the passive voice.
+
+In the example: The masculine relative pronoun that is used to represent all gender groups was removed.
+
+2. Gendering to be mindful of different gender identities
+
+If the users want to be mindful of the people who are addressed, as they can be of any gender. For example, when we display hints on the product to guide the user to select the desired services for customers, e.g. "Which services does the customer want?"
+
+3. Be specific about data usage
+
+Be specific on who you address.
+
+E.g. title of detail page of employee names.
+
+Example: Hassan Abbas: employee, man -> Hassan Abbas
+
+Be specific about what you need data for.
+
+If it's just their correct title needed, instead of their gender:
+EN: Mr, Ms
+
+If it's just their correct pronouns needed, instead of their gender:
+EN: he/him, she/her, they/them
+
+4. Balance agentic and communal language
+
+Because of our socialization, men feel more included by agentic language and women feel more included by communal language. Be mindful of the words you use -- try and use a mixture of both types of language to describe everyone.
+
+Agentic language refers to language which focuses on agency, self-orientation and achievement.
+
+EN: ambition, authority, enforce, assert, power, force
+
+Communal language refers to language which focuses on community, harmony and collaboration.
+
+EN: commit, empathy, engage, group, relation, support
+

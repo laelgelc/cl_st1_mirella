@@ -1,0 +1,496 @@
+Best Practices – Equitable Language for Public Health Communications
+
+1. Center the communities we serve.
+
+Do More:
+
+- Learn about and address the specific concerns of your intended audience.
+- Emphasize people over abstract concepts. Focus on people when sharing data and findings, as well as the numbers. 
+- Use people-first language when appropriate. 
+- Be specific about who is involved, rather than lumping groups and communities together. Example: If you're talking about an issue that involves Black people, say so, instead of using "BIPOC."
+- Choose words of belonging. Use words that include everyone and avoid language that suggests that any group is on the outside. Can your intended audience see themselves included as part of "us" rather than "them?"
+
+Do Less:
+
+- Don't focus solely on Public Health's objectives without understanding the intended audience's concerns.
+- Don't make assumptions about what is "the norm." Try to learn about the perspectives of the intended audience and write in ways that resonate with their experiences and worldviews.
+- Don't share data without discussing its human impact and context.
+
+2. Prioritize describing our communities by their strengths and assets, rather than deficits and weaknesses.
+
+Do More:
+
+- Emphasize what's going well, not only what needs improvement.
+- Balance recognition of historic and ongoing trauma and injustices with recognition of strengths and resilience.
+- Acknowledge how systems impact people. Identify how Public Health, government, and systems have contributed to inequity and how these systems can help remedy injustices.
+- Seize opportunities to recognize people and groups working toward positive change, and how to connect with their efforts.
+
+Do Less:
+
+- Avoid only describing the problems in a community, or phrasing survey questions in a way that only focuses on how things are going wrong.
+- Don't name problems without discussing possible solutions, especially solutions identified by the community that is affected.
+- Avoid words that can cause harm, including culturally insensitive, colonizer, or militaristic language. (See UC Berkeley's Advancing Language for Racial Equity and Inclusion Playbook)
+- Avoid implicitly assigning blame to people who are impacted by health issues, especially for results of systemic problems.
+
+3. Build relationships with our community and regularly ask for feedback.
+
+Do More:
+
+- Learn how to start working with community partners on communications. Ask for help through an equity technical assistance request from the Office of Equity and Community Partnerships (OECP).
+- Show humility and welcome input from members of your intended audiences throughout the project. Be prepared to answer to communities' historical mistrust. If someone points out that a word might be hurtful, be open to understanding why and making changes. Some may also hesitate to speak up; encourage their valuable input.
+- Make it a practice to involve members of intended audiences, including co-creating materials with them.
+- Make sure you have permission to share other people's stories. Recognize that people might give consent for use of a story or photo and want to withdraw it later.
+- Plan together for distribution: how will you make sure your intended audience receives the communication? How will this research/project reach the intended communities that helped with the co-creation?
+
+Do Less:
+
+- Don't rush content development at the expense of taking the time for community partner input and review.
+- Don't use community feedback as a checkbox process.
+
+4. Use Plain Language practices, including simple words, short sentences, and active voice.
+
+Do More:
+
+- Write for the intended audience: what's most important to them? How can you make the message accessible and relevant?
+- Lead with the most urgent and actionable information. Make it easy to find what's most important.
+- Plan for translation. Make it easy to translate with familiar vocabulary and simple sentence structure.
+
+Do Less:
+
+- Don't write as if health professionals are the only audience.
+- Avoid jargon and passive voice.
+
+Refer to more best practices and guidance in the Plain Language and Health Literacy Manual.
+
+5. Continue to learn and grow.
+
+Do More:
+
+- Develop cultural humility through learning. Learn about different cultures, identities, and histories to understand the experiences of others.
+- Question your assumptions. Acknowledge any biases you might have about certain groups of people. Challenge yourself to see beyond stereotypes.
+
+Do Less:
+
+- Don't be too hard on yourself. Changing language habits and building trust takes time. Be patient with yourself and others as you work in partnership together.
+
+For specific examples, see the Language Considerations sections.
+
+Language Consideration: The Criminal Legal System
+
+Our department provides healthcare to people who are incarcerated and serves residents who interact with the criminal legal system. Our communications should extend compassion to our system-impacted community. Interacting with the criminal legal system is traumatizing for both the people who are directly involved, as well as their families, friends, and larger communities. The overwhelming majority of people in King County jails are held pretrial, meaning they have not been convicted.
+
+We must show compassion and support for people who have experienced a crime; we must also respect and show the humanity of those who have been incarcerated.
+
+WHAT WE DO
+
+Understand the terms
+
+- The criminal legal system includes incarceration systems such as state and federal prisons, jails, detention centers for immigrants and juveniles, military prisons, probation, parole, and more (What is the Carceral State?).
+- The criminal legal system also includes other remedies such as fines, diversion programs, and treatment.
+
+Use stigma-free language
+
+- Terminology such as "criminal" or "felon" can feel derogatory, stigmatizing, and dehumanizing.
+- Pay attention to the language people use to describe themselves. When unsure how someone identifies, ask them, and use their preferred terminology.
+
+Exercise caution with imagery
+
+- Always get written consent from people whose photos and stories you're sharing. Make sure they understand where the story and photos may be seen, and that they have the right to say no.
+- Be intentional about the imagery chosen. Black and brown people have been racialized by stereotypical images associating them with the criminal legal system. Use a variety of races, ethnicities, genders, and ages to depict people in custody or people impacted by crime. Or choose an image without people shown.
+
+Prioritize the humanity of the person
+
+- Describe the situation, do not label the person.
+- Only include information about being system-impacted when necessary.
+
+WHY WE DO IT
+
+- People who are incarcerated are excluded from social and economic resources that affect their health and well-being. Effective and humanizing language plays a key role in how we support their health, well-being, and access to health information and services.
+
+- The criminal legal system is traumatizing for people who are incarcerated as well as their communities. When we use humanizing language, we are acknowledging their humanity, rather than a period of time in their lives and actively working against systems that work to dehumanize them.
+
+Language Considerations: Drug Use/Substance Use Disorder (updated 03/04/25)
+
+Use of substances like alcohol and other drugs can lead to substance use disorder (SUD), the recommended term for addiction. SUD is a chronic but treatable health condition. Not all substance use meets the criteria of a substance use disorder, and there may be many reasons why someone might use substances.
+
+People who use criminalized drugs are at risk for overdose and death. People with substance use disorder experience additional health problems and greater personal and economic hardships. Several factors may increase someone's risk of drug misuse and a resulting overdose, including limited access to health care services and housing, mental health disorders, and a history of alcohol and substance use.
+
+With help—such as harm reduction supplies and support, housing, medications, peer support, or inpatient or outpatient treatment—people with substance use disorder are more likely to recover and lead healthy lives.
+
+Our language about substance use should consistently describe SUD as a treatable health condition, avoid any judgments or assumptions about people with SUD, and guide people to resources whenever possible.
+
+WHAT WE DO
+
+Understand the terms.
+
+- When people no longer have symptoms of substance use disorder or have fewer or less severe symptoms, they are in recovery or in remission from substance use disorder. Note that recovery/remission is different for different people, and people in recovery may still use substances.
+
+Use humanizing, person-first, and strengths-based language.
+
+- Avoid using labels or stigmatizing language.
+- Use people-first language to humanize subjects and lessen stigma. Focus on the illness and challenges in accessing treatment as the problems, not the person. Examples: people who use drugs, people with substance use disorder.
+- Use strengths-based approaches to describe people. Focus on their efforts and options to treat SUD, not their symptoms and past struggles.
+
+Keep language neutral and non-judgmental.
+
+- Only mention substance use if it's necessary and relevant to the story.
+- Allow people who use substances to choose how they are described.
+- Avoid values-based language around substance use and sobriety, for example "failing treatment" or "doing well in treatment." Stick to measurable outcomes like "engaged in treatment," "taking medications as directed," or "reports reduced use."
+- Be especially mindful of harmful slang terms that refer to drug use such as junkie.
+- Review translated materials to ensure consistent use of neutral and judgment-free language.
+
+Use the same sensitivity in conversations with colleagues as you would in public-facing content.
+
+Many of us have been affected by loss related to substance use. Insensitivity in the way we talk to, or in front of, each other can cause pain. Considerate word choice helps to avoid harming people both within Public Health and in the community.
+
+WHY WE DO IT
+
+- Sensitivity in how we talk about substance use and intentionally linking to available resources can build trust with people who need help, lower barriers to seeking and providing treatment, and help to save lives.
+- Stigma, assumptions, and judgments associated with substance use can interfere with effective treatment.
+  - Feeling stigmatized can make people who use substances unwilling to seek help.
+  - Stigma can also negatively influence health care provider perceptions of people with SUD and impact their quality of care.
+  - Stigma increases substance use.
+
+Language Consideration: Faith-Based Communities
+
+We need to communicate about religion and faith-based communities in ways that make people feel seen, valued, and honored.
+
+WHAT WE DO
+
+Respect beliefs
+
+- Be intentional and non-biased when talking about religious or spiritual practices or belief systems.
+- Consult with faith leaders or organizations to listen and seek understanding when health recommendations seemingly conflict with religious beliefs. Often faith leaders can find a way to adapt the health recommendation or find guidance issued by religious institutions. The Office of Equity and Community Partnerships (OECP) may be able to help connect you to a faith-based organization. Example: Muslim leaders have worked with public health officials to determine vaccine options that are consistent with halal practices when concerns were raised about porcine gelatin in some flu vaccines.
+
+Debunk stereotypes
+
+- Avoid assumptions about a person's or group's faith, or that they are religious, based on how they look or where they come from.
+- Avoid using words, images, or situations that reinforce stereotypes (even ones that seem to be positive).
+- Avoid implying that certain religions are the norm.
+- Don't use words like "all," "always," "never," "them," or "those people" to describe groups or individuals and their practices.
+
+Be intentionally inclusive
+
+- Partner with faith organizations to ensure that the health information is relevant and consistent with their religious practices and beliefs.
+- When communicating about holidays, use imagery that represents various communities, or use words and images that are seasonal rather than religious. When announcing office or service closures, refer to the date rather than a religious holiday.
+
+WHY WE DO IT
+
+- Faith organizations are respected leaders and key messengers for many King County residents.
+- Faith and science are not mutually exclusive. Evidence suggests spirituality and religion can have a positive effect on our health.
+
+Language Consideration: Gender
+
+When it comes to sex and gender, a key consideration is that sex and gender aren't the same thing. Simply put, we shouldn't assume someone's sex defines their gender.
+
+WHAT WE DO
+
+Use correct pronouns
+
+- We use pronouns like "he/him," "she/her," and "they/them" (and other pronouns too, as requested) to refer to people the way they identify.
+- Individuals may prefer different terms, and it's a good practice to ask people for their word choices. However, do not pressure a person for personal details about their actions, beliefs, or behaviors. Do ask for their pronouns and word choices. Do not ask invasive follow-up questions.
+- Check out this resource on pronouns, how to course correct after making a mistake with pronouns (called misgendering), and more. Example: A person identifies as gender non-binary and uses they/them pronouns. They choose to dress with an outwardly feminine gender expression (called femme). They may choose to identify as non-binary or two-spirit and use they/them pronouns.
+
+Use non-gendered language as much as possible
+
+- Use gender-neutral terms, to avoid assumptions about anyone's gender.
+- Use a suffix like "person" and avoid words that include the suffix "-ess" or "-man." This helps avoid creating an association between the role and a specific gender. Examples: Non-gendered terms like councilmember, chair, and police officer are more inclusive.
+
+Choose language that reflects the gender continuum
+
+- Use words that are inclusive of trans, non-binary, and two-spirit people. Examples: Women, transgender men, and non-binary people can have babies. Terms like "pregnant people," "reproductive rights," and "menstrual products" are more inclusive (and sometimes more precise).
+
+WHY WE DO IT
+
+When we use inclusive language, including non-gendered terms, we can help people feel included, seen, and safe.
+
+- Gendered language can alienate people who do not identify with the gender binary. Trans and gender non-conforming people face violence and harm for their identities.
+- Gendered language can cause discomfort and unease for people who are non-binary, and worsen feelings of gender dysphoria, meaning a feeling of mismatch between a person's sex and gender identity. Feelings of dysphoria can be intense and lead to depression or anxiety.
+
+
+Language Consideration: Immigrants and Refugees
+
+King County is home to a large number of vibrant and diverse immigrant and refugee communities. However, the language used in media and public forums to talk about immigration frequently stigmatizes people and is often racialized. We can counter that with the language we use.
+
+WHAT WE DO
+
+Understand the terms
+
+Use the terms that are accurate and avoid discriminatory labels when describing citizenship and immigration status.
+
+- Avoid the term "citizen" or "Americans" when referring generally to people who reside in King County or the U.S. Those terms exclude people who do not have citizenship. Instead, use "people who live in the U.S." or "resident of King County."
+
+Be intentional when including someone's immigration status
+
+- Only mention immigration status if it is relevant to the specific situation or provides needed background information.
+- Don't focus on the origin of the immigrant. Instead, focus on the issue or situation involving that person or group.
+- When providing Public Health services, do not ask people if they are documented/undocumented.
+- When developing materials for events and clinics, it can be helpful to alert people ahead of time if they will be asked for ID (such as a utilities bill or driver's license), while also assuring that proof of immigration status is not needed.
+
+WHY WE DO IT
+
+- Anti-immigrant rhetoric contributes to unequal access to Public Health resources. When people label and stereotype immigrants as "outsiders" or "foreigners," this language can contribute to the discrimination that immigrants face.
+- It's important to understand the categories of immigration status because this often determines access to healthcare and state and local resources. Undocumented immigrant communities may avoid seeking care due to fear around immigration status.
+  - In the United States, undocumented immigrants are not eligible to receive a vast majority of federally funded benefits. To help combat fear, it is important to be informed of changes that may benefit undocumented immigrants in accessing healthcare and local resources.
+  - Documented permanent residents also face barriers in receiving health resources due to waiting periods before they qualify.
+- Exclusionary immigration legislation based on race, religion, and labor has caused generations of harm, trauma, and continuing health disparities.
+- We need to be aware of the context of immigration, especially to understand why King County residents who have emigrated may be fearful and distrustful of the government.
+
+Language Considerations: LGBTQIA+
+
+When we appreciate and celebrate the full range of human existence, we help reduce stigma, bias, silencing, and discrimination.
+
+WHAT WE DO
+
+Differentiate between sex, gender, and sexual orientation
+
+Sex, gender, and sexual orientation aren't the same thing. Sex and gender connect to different public health needs. (See the Gender section for more on gender.)
+
+Recognize and celebrate the variation and fluidity of sexuality, gender, and relationships
+
+- Use language that recognizes the diversity of relationships and the fluidity of sexuality and gender.
+- Avoid language that treats people identifying with LGBTQIA+ groups as monolithic, or all the same. These identities may have different experiences of marginalization and discrimination and, therefore, different public health needs.
+- When creating content, be specific about who the information relates to; don't refer to the findings as relevant to "the gay or LGBTQIA+ community." Example: If the information only relates to gay men, say gay men.
+
+Avoid language that is heteronormative
+
+Avoid language that makes these harmful assumptions.
+
+Honor the terms people use to describe their identity
+
+- People who identify as LGBTQIA+ may choose to share their identity and pronouns when necessary for their health care. Some people may see themselves based on identity while others might see themselves based on behavior. Consider using various terms because LGBTQIA+ people are not all the same.
+  - Use terms like gay, lesbian, and bisexual to describe identity.
+  - "Men who have sex with men (MSM)" and "women who have sex with women (WSW)" are public health terms that can be useful and an appropriate way to describe a behavior – regardless of a person's identity. These terms are rarely used by individuals to identify themselves.
+- Pay close attention to how the person narrates their own story and follow their lead when communicating.
+- Mirror the terms people use to describe their significant other. Example: If a person uses a word like "partner," "spouse," "wife," or "husband," use the same word.
+
+WHY WE DO IT
+
+- Heteronormativity is embedded in our language, legislation, politics, and social environments. This causes lasting damage through bias, silencing, stigma, and discrimination. The world is much more complex and varied than what heteronormativity considers "normal."
+- Learning and honoring the terms people use to describe their identity creates trust. This could motivate someone engaging with and trusting Public Health to connect them with necessary health resources. This is especially important in light of the historical mistrust of LGBTQIA+ communities and public health/healthcare systems.
+
+Language Considerations: People with Disabilities
+
+As of 2021, more than 360,000 adults in King County reported having disabilities, which is more than 19% of the population. Physical, intellectual, sensory, and psychiatric and behavioral health disabilities can affect a person's ability to move, feel, see, hear, communicate, and learn. Barriers faced by people with disabilities can make it harder to access health care while increasing the health risks that they face.
+
+Many disabilities exist that are not always obvious or visible, including pain, fatigue, and mental illness. Forgetting the disabilities we can't see can lead to misunderstanding, false perceptions, and judgment. We should be proactive in designing communications for people with disabilities because traditional feedback systems may not represent their perspectives and needs.
+
+WHAT WE DO
+
+Refer to the person first and disability second (if at all)
+
+- Do not mention someone's disability unless it is necessary and relevant for the story.
+- When it is necessary to mention a disability, be intentional and specific with language choice and provide context. For example, "person with a ____ disability, who may face challenges in accessing ____." Focus the issue on the broader lack of accessibility.
+- Ask for community input. If you are writing about a specific person who has a disability, ask them what they want to discuss and how/whether they want to describe their disability. Do not assume that someone is willing or unwilling to disclose their disability.
+
+Focus on strengths and assets
+
+- Highlight what a person can do and avoid language that portrays what the person with a disability may be lacking.
+- Avoid language that diminishes someone's experience or refers to them as a victim or sufferer. Instead, focus on describing what steps are necessary to accommodate their needs.
+- Avoid language that "heroizes" people for their disability – framing their daily lives as heroic or inspiring. Example: Calling someone "brave" or "inspirational" because they use a wheelchair is an ableist point of view. It frames a disability as something that must be overcome. Activist Stella Young has called this "inspiration porn" – objectifying disabled people for the benefit of nondisabled people.
+
+Make communications accessible
+
+- Follow best practices for accessibility when producing materials, including:
+  - Adding descriptive, clear, and proofread alt text with images
+  - Design materials for use with screen readers
+  - For hyperlinks, use simple and descriptive language that is clear when read on its own. Example: Insert the link into a phrase that describes the content, rather than "click here." Learn more about accessible hyperlinks.
+- Highlight when physical services are ADA accessible, and if ASL interpretation is available.
+- Share available services for people who may need mobility accommodation, like Metro's Access Transportation program.
+- Include teletype (TTY) assistance options like Washington 211 when sharing phone numbers.
+
+Proofread for terms that may not apply to people with disabilities
+
+- Many common terms may not be inclusive of people with disabilities. 
+
+WHY WE DO IT
+
+We center people with disabilities in our communications to help increase awareness, inclusion, and belonging. It also helps connect people who have disabilities with the services they need.
+
+Note: There are exceptions to these terms; always ask the person if you can.
+Language Considerations: People Experiencing Homelessness
+
+The language around homelessness has been evolving. Definitions range from official government definitions to terms that people use to describe themselves. There's one thing that doesn't change: the lack of a safe, stable, healthy place to sleep has a significant impact on a person's health and well-being at any age.
+
+WHAT WE DO
+
+Talk about homelessness as a situation, not a permanent condition or a characteristic
+
+- Even while someone is experiencing it, homelessness does not define a person.
+- Describe the situation, rather than labeling the person.
+
+Always use humanizing language
+
+- Speak with compassion and respect; avoid blaming language, stereotypes, and stigmatizing.
+- Recognize that surviving outside is a hardship. But use care before talking about "resilience," because that can feel patronizing.
+- Focus on what a person needs. Avoid dwelling on a reason why they are or were unhoused. Recognize that our system needs to change so that we have adequate housing for everyone.
+- Stereotypes about people can make their situation worse. Remember that people need help even if they have made choices that you might not relate to.
+
+Consider the privacy risks for people without homes, especially children
+
+- Always get the written consent of people whose photos and stories you're sharing. Make sure they understand where the story and photos may be seen and that they have the right to say no.
+- Avoid mentioning a specific location outside where someone is sleeping. (This is similar to protecting personal information as required by HIPAA – the Health Insurance Portability and Accountability Act of 1996.) Living outside makes people more vulnerable to violence and harassment.
+- Avoid using photos that identify people, and do not use photos of children's faces. Even with the parent's consent, identifying children can lead to bullying and other negative repercussions at school and elsewhere. We should also respect that people's wishes to share their story may change over time and think through any consequences that could arise later.
+- People deserve credit for helping, but we should avoid framing others as being the heroes or saviors. Center the person who needs our services.
+
+Understand the definitions, underlying causes, and effects
+
+- Homelessness has specific definitions for different circumstances, as defined by the U.S. Department of Housing and Urban Development (HUD) and U.S. Health Resources & Services Administration (HRSA). These definitions relate to funding and program eligibility. Look into the definitions if there's a need to be precise.
+- There are many different causes of homelessness. Examples include high costs of living, medical emergencies, and a lack of services for people in need. Misperceptions about causes – such as conflating drug use and homelessness – can lead to stigma and opposition to providing services.
+- At a young age, homelessness can lead to long-term health impacts. There is a strong association between Adverse Childhood Experiences (ACEs) and homelessness.
+- For young people and adults, homelessness can lead to serious health problems and premature death. Risk factors include exposure to extreme weather, inability to keep medications safe and to keep medical appointments, untreated chronic disease, and violence against people who are homeless.
+- The rising fentanyl epidemic impacts people who are housed as well as people who are experiencing homelessness. Be aware of language that can perpetuate stigma for people experiencing homelessness.
+
+WHY WE DO IT
+
+To counter stigma and dehumanization, we use language that recognizes the dignity and humanity of all people living in King County.
+
+- Using negative language about homelessness can lead to stigma, dehumanization, hate crimes, and violence.
+- Stigma can limit the availability of services and resources and prevent people from accessing them.
+- The vast majority of people without homes want homes, and people are healthier when they have a safe, stable home.
+Language Considerations: People with Low Incomes
+
+Income level can affect a person's or family's access to healthcare, food, housing, and other services, while raising the risks that they face from a variety of health issues. Many government programs, including the Supplemental Nutrition Assistance Program (SNAP), determine eligibility based on income.
+
+When it is necessary and relevant to discuss income in our communications, be specific about income thresholds, recognize the societal context around a given issue, focus on the strengths of the people and communities being discussed, and consistently express compassion in our writing.
+
+WHAT WE DO
+
+Be specific
+
+- Include details about eligibility thresholds when discussing programs and services tied to income, and if/how someone needs to show proof of income. The threshold for what is considered a low income can change by year, location, family size, and other factors.
+- When referencing how a health issue may disproportionately impact people with low incomes, include information about monthly income and family size for reference.
+- Note that given relatively high rents and prices in King County, the threshold for what is considered a "low income" is higher than in many other areas.
+
+Recognize context
+
+- Someone may have a relatively low income for many reasons. When writing about people with low incomes, acknowledge the need for living wages and fair housing. Recognize that systemic discrimination and oppression (historical and current) on the basis of race, ethnicity, gender, and disability intersect with income level.
+- Avoid placing blame on individuals for having low income. Beware of associations (implicit or explicit) between having a low income and "bad" habits or choices, and associations between having a high income with "good" habits or choices.
+- Avoid alluding to ideas that there are "deserving poor" and "undeserving poor," and making judgments about the reasons someone is poor. An example of this kind of framing is in the false assumption that people who have a low income and buy a new car, or have a low income and suffer from chemical dependency, are less deserving of services and support than people who are working but underpaid.
+- Help connect people to available income restricted resources and services when appropriate, including the Community Health Access Program (CHAP).
+
+Focus on strengths and assets
+
+- Celebrate successes, strengths, and contributions. Avoid a focus on deficits.
+- Avoid words that diminish a person. 
+WHY WE DO IT
+
+Our approach to discussing income and health can impact whether a reader feels included or excluded. By taking a compassionate and deliberate approach with our language and the information we provide, we can:
+
+- Help to connect people with services, resources, and health information, while encouraging people to share information with their community and networks.
+- Address and reduce stigma around income levels.
+- Inform people about the intersecting social issues that can influence income levels in King County and beyond.
+- Work from a community-based approach, rejecting individualistic approaches that only value people based on their ability to climb up the social/income ladder.
+
+
+Language Consideration: Race and Ethnicity
+
+Spreading harmful ideas about race and ethnicity causes lasting harm and breaks trust with our King County communities. When we build more inclusive and safe spaces for our communities, people are more likely to interact, feel celebrated, and engage in important public health topics.
+
+WHAT WE DO
+
+Understand the terms
+
+- Race and ethnicity are not the same thing. Both are parts of a person's identity used to describe them, but they focus on different aspects of who an individual is.
+  - Race is a made-up social concept. It's used to put people in groups based on physical appearance and traits (like skin color, hair texture, and facial features), which can come from their ancestors' backgrounds, like African, Asian, European, and more.
+  - Ethnicity is about a person's cultural and social background. It is based on things like language, traditions, customs, and where their family originates from in the world.
+
+Honor the terms people use to describe their identities
+
+- Terms for racial groups change over time. Some terms are widely considered offensive, but other terms are not as clear cut. Individuals within a racial group may also not agree on what term they prefer, depending on generational differences, ethnicity, or other preferences. As much as possible, seek input from members of the audience you are trying to reach or that you are communicating about. Examples:
+  - Some individuals may identify as Latinx, while others may feel that the term was imposed on them by white culture or a different generation. They may prefer Hispanic, Latine, Latino or Latina.
+  - Some use API (Asian Pacific Islander) and AAPI (Asian American and Pacific Islander), but others may prefer to identify as Pasifika, APA (Asian Pacific American), APIDA (Asian Pacific Islander Desi American), or APIMEDA (Asian, Pacific Islander, Middle Eastern and Desi American). And others may prefer not to be grouped together with other ethnicities.
+  - Members of Indigenous groups may prefer Native, Native American, Indian, or American Indian. Others may prefer identification with a specific locality (Alaskan Native) or their specific tribal/nation identity (Snoqualmie).
+- Capitalize "Black," "White," "Native," and "Indigenous" when referring to a person or group's identity or culture. Capitalizing these words shows that the group has a shared culture and history. Capitalizing White makes it explicit that White people are not "raceless"; they are a powerful racial group that wields economic, social, cultural, and political power. By naming White as identity and culture, it calls for recognition of the shared culture, history, and systems that uphold this power dynamic. However, use lowercase for "white supremacy" to avoid giving credence to this ideology. The term "brown" should not be capitalized because it does not reference a cohesive racial group with a shared experience.
+- Use "White" rather than Caucasian (an outdated term from an inaccurate understanding of race).
+- Don't hyphenate "African American," "Asian American," and so on, to avoid implying that people of color are not fully American. The heritage is an adjective, and American is the noun.
+
+Celebrate the diversity of skin color
+
+- Colorism is a form of discrimination that upholds and values white standards of beauty. Colorism includes favoring lighter skin tones, and other differences such as straight hair and thin lips and noses.
+- In visual communications, include images of people with a range of skin tones and facial features. Include darker-skinned people in the full range of professions, families, and everyday activities.
+
+Focus on strengths and assets
+
+- Avoid only highlighting the deficits in a community.
+- Take an asset-based approach to writing by celebrating and spotlighting wins and contributions, and strengths and successes.
+- Focus on communities' positive visions for the future and their resilience in the face of systemic and institutional inequities.
+
+Be direct in addressing racism
+
+- Discuss racism and other structural inequities and their impacts directly.
+- Do not use ambiguous terms like "a certain proclivity toward one race," "racially charged" or "disagreement in perspective" when it is racism.
+- Avoid making issues of oppression against one specific race to be about all races. Example: if addressing discrimination against Black people, talk about it as anti-Blackness.
+- If an issue disproportionately affects Black or Native communities, name those communities specifically. Using "BIPOC" or "people of color" dilutes the impact to Black and Native communities by including all other communities of color.
+
+Recognize the intersectionality between racism and other forms of oppression or discrimination
+
+- The concept of intersectionality describes the ways in which systems of inequality based on gender, race, ethnicity, sexual orientation, gender identity, disability, class, and other forms of discrimination "intersect" to create unique dynamics and effects.
+- Do not engage in "Oppression Olympics," a term that describes comparing one oppression to another. One oppression is not worse than another. All oppression is harmful, traumatizing, and dehumanizing.
+
+WHY WE DO IT
+
+- Naming racism when it occurs is an act of disrupting racism. In 2020, King County named racism as a public health crisis. This continuation of that acknowledgment by PHSKC is a fundamental piece of anti-racism.
+- We must challenge stereotypes about Black, Indigenous, and People of Color (BIPOC). Beware of narratives that rely on describing deficits in the communities we serve and framing negative outcomes as inevitable without intervention. This framing is rooted in racism and undermines the power of communities and grassroots movements to impact change for themselves. That's why we should avoid focusing on deficits to justify our need for providing services.
+- Asset-based language emphasizes and highlights strengths, abilities, and positive qualities rather than focusing on limitations or deficits. It's a way of describing individuals and communities in a positive light, recognizing their potential and contributions.
+- Historically, government and public health institutions have supported and upheld racist systems, practices, and policies built in and maintained by white supremacy. Our collective success is dependent on acknowledging the ways in which bias, racism, injustice, and inequity have profound impacts on everyone and continue to inflict undue harm and trauma.
+
+
+Language Considerations: Weight Bias (updated 2/26/25)
+
+People with a higher body weight face stereotyping and discrimination. These can lead to overt and covert bullying, bias, and exclusion. Anti-fat bias, also known as weight bias, weight stigma, or fatphobia, is rooted in racism and ableism. Anti-fat bias contributes to immediate and long-term consequences for communities' emotional and physical health.
+
+WHAT WE DO
+
+Understand the terms
+
+-
+- Many fat acceptance activists are reclaiming the word "fat" and working to decrease its stigma. The fat acceptance movement is working on challenging anti-fat bias and ending systemic discrimination against people in larger bodies.
+- Body Mass Index (BMI) is a formula that uses height and weight to group people into weight categories. It's often used in medical contexts, but BMI has caused historical harm and is problematic as a measure of individual health.
+
+Avoid references to BMI in health-related communications when possible
+
+- BMI does not cause or deter health—it is merely correlated to specific health outcomes. Other measures of health, such as blood pressure and routine blood tests, are more predictive of health outcomes.
+- The American Medical Association (AMA) advises against using BMI as a measure of individual health because it does not account for body composition differences across race/ethnic groups, sexes, genders, and age span. BMI is also problematic because it was developed based on a limited population of white cisgender men generations ago. The AMA policy recognizes the historical harm and racist exclusion that has resulted from the use of BMI.
+- The AMA's policy also notes that BMI was created as measure for the general population. It has been used worldwide for decades to assess trends and make comparisons across time, geographic areas, and groups of people.
+- Many national and local data sources still use the term obesity and use BMI as a marker of obesity. These data are still used to talk about chronic disease prevention and health promotion. There may be times when we need to define the indicator as it is defined in a data set. In these instances, you can acknowledge the data source that created the definition. You could also include a note about the limitations of BMI and provide contextual information about drivers/factors that contribute to higher BMI and overweight/obesity.
+
+Avoid stereotypes
+
+- Avoid making assumptions about the health status or ability of a person based on their body size.
+- Do not assume people in larger bodies see their body size as a problem to be solved.
+- Dismantle beliefs that having a larger body is a sign of moral weakness or a lack of will power.
+
+Use language and terminology appropriate for the context
+
+- Context and intended audience matter when writing about weight. "Obese" is regarded as a slur by fat activists. Consider avoiding the terms "overweight" and "obese," and instead use terms such as "larger-bodied" or "people in larger bodies."
+- Providers should engage in empathetic dialogue that considers health factors holistically when weight must be addressed. For a more complete picture of an individual's health, consider BMI with other factors:
+  - Medical history, such as existing health conditions and family history.
+  - Health behaviors, such as diet, physical activity, and sleep.
+  - Physical exam findings, such as blood pressure and muscle mass.
+  - Laboratory findings, such as glucose and cholesterol levels.
+- Everyone has their own preferences and terminology varies among individuals. Ask members of your intended audience which terms they prefer.
+
+Promote balanced and accurate understanding of weight
+
+- Accurately describe the factors that influence weight, including genetics, effects of medications, stress, sleep routine, and environmental influences like neighborhood characteristics, food affordability, peer influence, and marketing.
+- Focus discussions on how to make positive behavior changes that the patient or client desires instead of weight loss. This might include:
+  - Emphasizing overall well-being
+  - Recognition of various factors influencing weight
+  - Encouraging healthy habits that lead to better health outcomes, regardless of body shape or size, such as gentle movement, connection with loved ones, eating all of the food groups, or spending time outside
+  - Tailoring the discussion to each person's unique circumstances, goals, and preferences
+  - Creating a supportive and non-judgmental environment where individuals feel comfortable discussing their health without stigma or shame
+- Incorporate the impact of structural racism into discussions about weight and health, including the history of inequitable and insufficient care BIPOC communities have and continue to experience and the impact on health of stress from experiencing racism. This can also include recognizing the impacts of poverty, exposure to environmental toxins, access barriers to physical activity, and other systemic factors.
+
+Select pictures and images of individuals in larger bodies that do not reinforce stereotypes
+
+- Larger body size doesn't have one look. Use a diverse set of images.
+- Include people in larger bodies when illustrating examples of healthy living.
+
+WHY WE DO IT
+
+- The insidiousness of anti-fat bias can result in inequity of care. Larger-bodied people may receive poorer quality and quantity of care and lose trust in healthcare institutions.
+- Public Health can play an integral role in reframing discussions related to weight to focus on a holistic and comprehensive approach to health.
+- Fat studies scholars and activists have pointed out that the association of larger body size with Native, Black, and brown communities is part of a long tradition of marking marginalized populations as diseased. The AMA has also recognized the harm caused by the use of BMI for racist exclusion, such as denial of insurance coverage.
+
+

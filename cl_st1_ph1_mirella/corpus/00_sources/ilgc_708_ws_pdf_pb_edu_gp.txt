@@ -1,0 +1,198 @@
+General Practices
+
+Use great care when writing about identity. This guide is not one size fits all and is meant to be applied on a case-by-case basis depending on tone, channel, audience and content. Often, language boils down to individual identity, which brings up the overarching principle of this guide: Consult with the individual to determine how they would like to be referred.
+● Use language in accordance with the individual's identity.
+● Be specific and avoid generalizing identity groups.
+● Avoid the use of pejoratives. However, exceptions can be made for quotations if relevant to the content.
+● The origins of seemingly innocuous idioms or words may be racist, sexist or ableist in nature, such as "cakewalk" or "grandfather clause." Consider the origins of everyday language before freely using it in communications.
+● Avoid reinforcing deficit narratives that place people as victims of societal problems and myths that ignore systemic barriers, as both prop up negative stereotypes. Instead use truth-telling about those deficits and barriers.
+● We all make mistakes. Give yourself grace, reflect and consider ways to acknowledge any unintentional harm that may have resulted. For tools on inclusion, respect and accountability, visit Building Inclusive Communities.
+
+Considerations
+
+The purpose of the guide is to inform general communications and does not apply to academic, medical, legal or other specialized fields. Some terminology, like obesity, is specific to a disease, thus, recommendations to use alternative options do not apply to technical applications.
+
+Furthermore, the recommendations do not apply to established names. For example, one recommendation to use alum(s) or graduate(s) instead of the gendered term alumni does not apply to office or group names, such as the Alumni Office or MSU Black Alumni.
+
+Although the guide provides a wide scope of practices, it does not provide definitions for terms. Communicators are encouraged to learn more about diversity, equity and inclusion terminology by exploring listed resources. The Diversity Style Guide is a recognized resource used by journalists and media professionals in the United States and is a good place to start.
+
+Currently, MSU's guide does not include recommendations around socioeconomic status, age, body type, veteran status, parent identity and incarcerated people, or land acknowledgment and land-grant identity and demographics, which may be included in the future.
+
+In addition, while this guide includes disability language, it is not intended to provide a comprehensive list of accessibility practices. Consult the Web Accessibility website for current recommended standards.
+
+Gender and Sexuality
+
+Language is shifting and changing all the time, as is society's understanding of gender and sexuality. Gender is not synonymous with sex. Gender refers to a person's social identity, while sex refers to biological characteristics.
+
+Visit MSU's Name, Gender, Sexual Identity and Pronoun Data Policy for a list of suggested data labels to use.
+
+Best Practices
+
+● Pronouns: Do not assume an individual's pronouns based on appearance. Always use the pronouns someone uses to refer to themselves or ask for the person's pronouns. Do not refer to someone's pronouns (or name) as their "preferred" pronouns. Simply call them "pronouns." Likewise, "preferred" name implies a person's name is optional.
+● While pronouns may be placed in parentheses in a signature line, bio or nametag, do not put pronouns in parentheses following a person's name in a story unless requested. Just use their pronouns. When unsure or unable to confirm someone's pronouns, the best option is to refer to the person using their name or default to the gender-neutral 'they.'
+● Pride: Capitalize Pride when referring to specific events or organizations honoring LGBTQIA+ communities and on subsequent references. For example, Pride Month is commonly called Pride for short and is capitalized as an adjective in terms: "at the Pride parade." Lowercase pride in the context of generally having pride in one's LGBTQIA+ sexual orientation or gender, including pride events or the pride flag.
+● It is common to reference binary genders, him and/or her, when speaking to large groups of people or providing examples. De-center the binary and use him, her, they or simply use the gender-inclusive terms: people, folks, everyone, etc.
+● When using courtesy titles, which include Mx., Miss, Ms., Mrs. and Mr. allow the option to enter another prefix or select none. Do not automatically assign honorifics based on a person's assumed gender.
+● When describing events, identify the locations of nearby all-gender and accessible restrooms so that guests can plan accordingly.
+● Go to the race and ethnicity portion of the guide for information on intersecting identities, including Latine/x and two-spirit.
+
+Terms to Avoid
+● Avoid the term "female" as a noun for women. The pejorative term reduces women to their assumed biological anatomy.
+● Avoid the term "nickname," which implies that a person's name is a substitute for their legal name.
+● "Queer" is originally a pejorative. It is an umbrella term covering people who are not heterosexual or cisgender. Avoid using the term unless people or organizations use the term to identify themselves.
+● Use inclusive terms, such as "chair," "spokesperson," "parents," "siblings," "relative," "family," "companion," "significant other," etc.
+
+Race and Ethnicity
+
+Federal census entities recognize race and ethnicity as separate categories. Accordingly, race is based on physical or biological characteristics and ethnicity refers to a shared culture or ancestry that is linked to language, practices and beliefs or place of origin. Federal Integrated Postsecondary Education Data System guidelines assign individuals to one of the following race and ethnicity groups.
+
+Two or More Races. Added in 2010.
+
+Limitations of federal race and ethnicity categories:
+This guide recognizes that race and ethnicity are socially constructed and uses them interchangeably with the purpose of more accurately representing the diversity of MSU. With that said, the current categories are limited and do not accurately capture diversity. For example, North African and Middle Eastern-identifying individuals are categorized as white, which may not align with the group's overall experience. The category of Asian combines people of numerous origins despite different multicultural backgrounds. For Asian Americans, this has led to narratives being shaped by majority members. Addressing these limitations in communications can help reduce stereotypes like xenophobia or the model minority myth.
+
+Given the complexity and evolving nature of this topic, the following recommendations offer general guidance on how to refer to racial and ethnic groups.
+
+Best Practices
+Use racial and ethnic identification only when it is pertinent to the content. If you include someone's race and ethnicity, be sure to ask the person how they would like to be identified.
+
+As a rule, communicators should recognize that individual racial and ethnic identity varies and be careful not to prescribe an identity without consent. Avoid stereotypes. Use a multiracial lens and consider all communities of color.
+
+Ensure that headlines, images, captions and graphics are fair and responsible in their depiction of underrepresented people and coverage of issues. Be careful not to use images that depict racial ethnic groups in a deficit manner.
+
+Capitalize Black, Asian, Indigenous, Native, Jewish, Arab, etc. Use as an adjective: Black culture, Asian studies, Jewish people, Muslim faculty, Hispanic, Chicano/a or Latino/a/e/x community, etc. Visit Associated Press News for more info.
+
+Black or African American
+● African American and Black are not synonymous. A person may identify as African or African American or Black from geographical regions or with a distinct cultural heritage, for instance, Afro-Caribbean, Afro-Latine/x, Afro-Indigenous or Afro-Asian. Be specific in text, speech and graphics when writing about the experiences of a particular community to avoid potential pitfalls.
+● Capitalize Black History Month, Juneteenth and Afrofuturism, and in general, the names of heritage month recognitions and celebrations.
+● When communicating about diverse groups avoid the pitfalls of the Black-white binary that can limit conversations about race to the two groups.
+
+● Asian American is acceptable for referring to a group of Americans of Asian descent from various countries. When possible, refer to a person's specific country of origin or follow the person's preference.
+● The model minority myth presents Asian Americans as exemplary to downplay racism and inequity in the United States. If appropriate, specify an individual's multicultural background to allow a greater understanding of the disparity experienced by people within broad categories.
+
+
+North American Indigenous and Native Peoples
+● "American Indian" and "Native American" is culturally outdated, although tribal governments' names still use the term. Communicators should identify Indigenous people by their specific tribes, nations or communities in text, speeches and graphics.
+● Capitalize "people" when referring to specific groups (e.g., the Indigenous People of Mexico). Otherwise, only capitalize "Indigenous" in Indigenous peoples or "Native" in Native peoples in general. When using "people(s)" with member names, do not capitalize, e.g., "Anishinaabe peoples" or "Ojibwe people."
+● First Nations or First Peoples are acceptable, although First Nations is generally used to describe Native People in Canada.
+● The Indigenous inhabitants in the Great Lakes region of the United States and Canada are the Anishinaabeg (adjective: Anishinaabe) — Three Fires Confederacy of Ojibwe, Odawa and Potawatomi peoples. Use Anishinaabe with a modifier to identify Anishinaabe peoples, students, leaders, language, etc.
+● The term Native can be used as an adjective to describe cultural practices, such as Native foods, Native art or Native media. When applying use discretion, as the term "going native" is used as a colonial pejorative.
+● Use "two-spirit" to be inclusive of Indigenous North Americans to describe Native peoples who fulfill a third-gender role in their cultures. Māhū in Native Hawaiian and Tahitian cultures are third-gender people, similar to Tongan fakaleiti and Samoan faʻafafine.
+● Use the present tense and make Indigenous people relevant and contemporary. Using the past tense reinforces stereotypes of the "vanishing Indian" and negates the experiences and the dynamic culture, not to mention the displacement of Indigenous peoples.
+● Consider the sensitivity around United States holidays that are celebrations of colonialism, such as Thanksgiving. Instead of Columbus Day, MSU recognizes Indigenous Peoples' Day on the second Monday in October to celebrate the first inhabitants of the Americas.
+
+Hispanic, Chicano/a or Latino/a/e/x
+● While common to see Hispanic, Chicano/a and Latino/a/e/x used interchangeably, they are not synonymous. Hispanic generally refers to people with origins in Spanish-speaking countries. Chicano/a refers to people of Mexican descent born in the United States but another term to use can be Mexican American. Latine/x or Latino/a refer to people with origins in Latin America and the Caribbean, including Puerto Rico, Haiti, Dominican Republic, Jamaica, Trinidad and Tobago, etc. Always follow the person's preference.
+● Use Latinx for any source who selects it and as an all-gender adjective to describe large groups such as Latinx voters. On first reference, include a brief explanation: "Latinx is a gender-inclusive description of people of Latin American descent who live in the United States."
+● Latine (la-TEEN-eh) is another gender-inclusive alternative to Latinx that is easier to pronounce and the -e already exists as a gender-neutral form in Spanish. Use Latine over Latinx but always defer to a person's preference.
+
+Racism and Justice
+
+● Lowercase xenophobia, which refers to a groups' experiences of "outsider" or "international" bias.
+● According to AP style, Black Lives Matter is capitalized when referred to as a noun or movement, and BLM is acceptable on second reference.
+● Use caution when using the terms racist, xenophobic, bigoted, biased and nativist, which should not be used to describe a person but rather a specific policy, system, action or statement. Lowercase anti-racism with a hyphen.
+● Lowercase antisemitism and antisemitic without a hyphen.
+● Capitalize Islamophobia.
+
+Terms to Avoid
+
+● "Blacks," "colored" or "Negro" are derogatory terms and should not be used.
+● "Brown" has been used for South Asian Americans, Middle Eastern Americans and Hispanic, Chicano/a and Latino/a/x Americans either as a pejorative term or as self-identification. Use specific racial identities.
+● "Caucasian" as a synonym for white, unless in a quotation.
+● "Ghetto" or "slum" as a synonym for the sections of cities inhabited by underrepresented and poor people.
+● Avoid referring to someone from an underrepresented group as "articulate," as this can reinforce negative tropes.
+● Don't use the shorthand "POC" for people of color, "BIPOC" for Black, Indigenous and people of color or "QTBIPOC" for queer, transgender, Black, Indigenous and people of color unless in a direct quote; when used, explain it. These are vague terms that may unintentionally leave out race and ethnicity groups or create hierarchy. In some cases, other wording may be appropriate, e.g., "students from various racial and ethnic backgrounds," "diverse groups," "various heritages" or "different cultures." Identify if you are writing about students, staff, faculty, staff, alums, etc.
+● "Racial minority" or "minorities" should be avoided, unless quoted or part of standard reporting.
+● "Minoritized" or "marginalized" can remove agency and reaffirm deficit language, avoid using unless in a quotation.
+● Terms like "at-risk" or "underprepared" blame the person rather than the structures and barriers that have neglected communities. Move away from deficit language by using "underrepresented," "underserved" or "historically disadvantaged." However, use specific group names whenever possible.
+● Indigenous stereotyping and colonial language: "Indian princess," "tribe," "Michigan Native," "low man on the totem pole," "powwow," "sitting Indian style," "bury the hatchet," "on the warpath," "shaman," "rain dance," "savage," "barbarian," "off the reservation," "spirit animal," "scalped," "peace pipe," "hold down the fort," "frontier," etc.
+● "Eskimo" is a derogatory term used to stereotype and demean Inuit and Yupik people in the Arctic polar region. It is best to use "Indigenous Australians" instead of "Aboriginal."
+
+Global Identity
+
+When covering topics of global immigration, nationality and religion, accuracy is important to avoid exclusive and culturally normative language. It is vital to avoid centering ethnocentric perspectives. Always confirm references to international, migrant and religious communities.
+
+In addition, conceptions of national identity can be complex. Consult with your interview subject about how they identify and whether it should be part of the content.
+
+Recognizing what is known and not known to both audience and communicator is important. Ensure details relative to garments, food, language and holidays are accurately represented.
+
+Avoid American-centric terms that could be detrimental to an underrepresented group.
+
+General information for MSU families with mixed immigration status is available on the Undocumented Student Resources website.
+
+Best Practices
+● When writing about people who are not from the United States, don't only refer to them as international. Name the country, not just the continent. This helps reduce generalization and creates awareness about parts of the world that are not as commonly known to American audiences. For example, avoid lumping all Asians together as a monolithic group.
+● Don't confuse national identity with ethnicity or religion. A country or state encompasses people of different ethnicities and/or religions. For example, use "Arab" to refer to someone who speaks Arabic and not as a nationality, and use "Muslim" to refer to a follower of the religion of Islam. Not all Arabs are Muslims and not all Muslims are Arabs. Similarly, use "Israeli" to refer to a citizen of the state of Israel and use "Jew" or "Jewish person" to refer to an ethnoreligious follower of Judaism. Not all Israelis are Jews, and not all Jews are Israeli.
+● Differentiate between the name of the language and religion and the people. For example, Hindi = language and Hindu = following Hinduism (religious belief); or Islam = religion and Muslim = follower of Islam; or Sikhism/Sikhi/Sikh Dharma = religion and Sikh = follower of Sikhism; or Uyghur = Turkic language/people of Western and Central Asia who are predominantly Muslim.
+● Capitalize the names of religions (and religious followers): Judaism (Jews), Islam (Muslims), Hindu (Hindus), Christian (Christians), etc. Vodou is a religion; do not use "voodoo."
+● The debate over word choice to describe migrants, immigrants and immigration is often contentious. Humanize people and their experiences with specific language.
+  o Refugee is often used as a blanket term for someone displaced by war, violence or persecution, but there are different categories of displaced people.
+  o An immigrant is a person who moves to another country intending to settle there permanently.
+  o Migrants are people moving within a country or through another country for reasons beyond conflict and persecution and settlement.
+  o Internally displaced people are seeking safety in other parts of their country.
+  o Asylum-seekers are people seeking international protection from conflict and persecution.
+  o Returnees are people who have returned home after being displaced.
+  o Exiles are people who have been thrown out or forced to flee authoritarian regimes.
+● Identifying a student, staff or faculty member as an international person should only be done when the designation is relevant.
+● Refer to "continental United States" instead of "the mainland."
+● When possible, include accent marks, especially in names of people or places, as they can change pronunciation or meaning. For example, in Spanish when the tilde ~ is placed over Spanish n when pronounced ny, as in señor, or Portuguese a or o as in São Paulo.
+● Ask for the pronunciation of names of people, places and religions or use an online tool.
+● Always use images directly related to the main subject of the communications. If you use archive or stock images, they should be referenced and relevant.
+● Pay special attention to the positioning of headlines in relation to the images used and be aware of playing into existing biases, such as a headline on coronavirus with a photo of East Asian people, which may perpetuate xenophobia.
+
+Terms to Avoid
+● Dehumanizing references to national identity, such as "foreigner," "alien," "illegal immigrant," "illegals," etc.
+● "Expatriates," or "expats," reinforces negative stereotypes, differentiating migrant white-collar workers of western countries from migrants or immigrants from less-westernized countries.
+
+● Do not use "oriental" to refer to Asian nationals and peoples.
+● Avoid charged words and judgmental labels to describe religions and religious communities such as "extremist," "militant," "terrorist," "radical," "fundamentalist," "cult", "sect," "devout" and "pious."
+● Avoid the contentious term "Islamist" and instead use the specific name of the group, movement or institution.
+● Avoid references to religious imagery and language. Use terms like "wishing you a wonderful winter/spring break" or "best wishes for the new year."
+
+Disability
+
+How the university communicates about people with disabilities, including accessibility practices, can create a more inclusive campus experience for many Spartans.
+
+The use of person-first or identity-first language is an ongoing discussion in the disability community. These terms reflect bigger perspectives and conversations surrounding what disability is and how it relates to personhood.
+
+Person-first language puts the person before the disability and describes what a person has, not who a person is. For example, phrases such as "students on the autism spectrum" or "individuals with disabilities" is an effort to move directly away from historically offensive phrasing, while affirming humanity. Person-first language is the acceptable etiquette for most circumstances.
+
+More recently, a growing number of people within the disability community are using identity-first language. This approach puts disability first in the phrase, such as "autistic person." For people who prefer identity-first language, it is often a point of empowerment and pride. If a person selects identity-first language, respect that decision. As always, the recommended practice is to ask individuals how they would like to be referred.
+
+Accessible web pages and digital documents are the responsibility of every MSU community member. MSU's Web Accessibility Policy defines the accessibility requirements for university web pages and digital content and contains resources, learning tools and training for creating accessible documents and other web and digital content.
+
+Accordingly, use closed captioning for videos. Provide Word document versions of PDFs. Practice accessible design and include a text description for all images. Use styles and headers when preparing Word or text-heavy documents to provide clues about important information that can be helpful to individuals with learning disabilities and screen readers.
+
+Best Practices
+● Maintain the confidentiality of a person's disability. Do not disclose an individual's disability without their consent and then only as necessary.
+● Expand the representation of people with disabilities in photos and visual materials to include invisible disabilities.
+
+● Avoid using the term "special needs." This term is patronizing, as everyone has needs and the needs of individuals with disabilities are not "special."
+● Use person-first or identity-first language instead of "differently abled," "physically challenged" or "happens to have autism."
+● Functioning labels are common when describing the nature of someone's disability, like "high-functioning" and "low-functioning," which can vary per activity and imply judgment. Unless you are quoting a source, consider specifying the relevant activity. "The first-year student resides off-campus and accesses the Resource Center for Persons with Disabilities for accessible textbooks and assistive technology services. They have strong verbal skills but sometimes miss social cues."
+● Do not describe an individual as mentally ill unless it is pertinent and the diagnosis is properly sourced. Mental illness is a general condition. Specific conditions should be used whenever possible.
+
+● Only capitalize names of disorders, diseases, therapies and related terms when known by the name of a person, such as Parkinson's disease.
+● Avoid ableist language and be inclusive of the perspective of those who have a disability. When writing or speaking in a conversational tone, this language tends to emerge in everyday language and as figures of speech that intentionally or unintentionally discriminate or oppress individuals with disabilities. Refer to the "terms to avoid" section for examples.
+● When asking about accessibility needs for events, center on what is being provided, use "to request an accommodation to participate in this event" instead of "to request accommodation for persons with disabilities."
+● When describing an event, identify the accessible entry points to the venue, including the locations of all-gender and accessible campus restrooms and utilize the barrier-free webpage for information on accessible entrances on campus. Consider ways to be inclusive for walk/run or other events.
+● When presenting at events, consider introducing yourself with a brief description of your appearance that can include clothing, hair, eye color and skin tone. Speakers should re-introduce themselves by identifying their names before they speak. Presenters should describe all visual images, graphics, text or tables/charts that appear on screen. Accessible copies of presentations should be provided prior to an event. Presenters should always use a microphone to amplify their voices.
+● For boilerplate language for inclusive programs, events and courses, visit the Resource Center for Persons with Disabilities.
+● Representing diversity of size in communication and being sensitive to language is essential. Be aware that the terms "obese," "obesity" and "overweight" are pathologizing stigmas in the size-diversity community. Do not use these when describing individuals outside of communicating about research. Use "higher weight" or "larger-bodied" if necessary and consider the barriers that "students of size" face in marketing, events and classroom experiences.
+
+Terms to Avoid
+● Referring to individuals with disabilities as nouns. For example, avoid using of the terms "an autistic," "an epileptic" or "the disabled."
+● Ableist language: "crazy," "insane," "bonkers," "nuts," "psycho," "demented," "senile," "loony," "lunatic," "psychotic," "addict," "invalid," "vegetable," "paralyzed," "lame," "madhouse," "tone-deaf," "spazzing out," "braindead" or "blindly."
+● When writing a DEI-related stance or inclusive messaging on sensitive topics, avoid metaphors that draw attention to specific disabilities such as, "the blind leading the blind."
+● Do not use "obsessive-compulsive disorder," or "OCD," "attention deficit/hyperactivity disorder", or "ADHD," "post-traumatic stress disorder," or "PTSD," or any other condition to describe undiagnosed behavior.
+
+● "Midget" is a derogatory slur. Instead use the terms "people of short stature" or "having dwarfism."
+● "Stricken with," "suffers from," "victim of" when referring to a disability.
+● Terms that label a group the "disabled/handicapped," "crippled" or "deformed."
+
+● Refrain from using the word "special" when writing about persons with intellectual disabilities.
+● "Unfortunate" when talking about people with a disability. Impairment does not have to be life-defining in a negative way.
+● "Mongoloid" or "downs" is derogatory. Use "person with Down syndrome."
+
+
+

@@ -1,0 +1,384 @@
+Practicing Inclusive Language
+
+As a rule, language should be as specific as possible, and people should be able to update references to
+their identity at will and with ease. This includes group categories (e.g., Asian, Indigenous American)
+and personal descriptors (e.g., disabled, gay).
+
+Use It Everywhere
+
+Inclusivity should be demonstrated in personal, professional, and organizational communication, and requires awareness of ways in which legacy language and terminology may be exclusive. Practicing inclusive languages begins with being aware of ways in which outdated language and terms may make people feel excluded. 
+
+Within organizations, inclusive language should be demonstrated at all levels and in all venues, internal and public facing. It is also essential to remember that the impact of language is amplified when it is adopted (or ignored) by those in positions of power or authority in an organization.
+
+Sample Opportunities
+
+Though not exhaustive, here is a list of places for organizations to use inclusive language.
+
+Personal and professional introductions,
+When addressing groups, large or small,
+E-mail signatures,
+Business cards,
+Staff blurbs and bios,
+Zoom/Teams/Google display names,
+Public-facing and internal websites,
+Job postings and hiring materials,
+Training, orientation, and onboarding materials.
+
+Organizational Documents
+
+Policy and procedure documents can send a particularly powerful message about an organization's
+attitude toward inclusivity. They should be reviewed for content and intent as well as for their
+language.
+
+Any document, venue, or person that references or describes gender, ethnicity, or other identifiers should be carefully reviewed to ensure language has been updated and broadened as appropriate. For most organizations, this should include review and updating of:
+
+Board and governance policies,
+Marketing collateral,
+Performance management documents,
+Human Resources materials
+Training materials,
+Staff surveys.
+
+Tracking Organizational Diversity
+
+When considering gathering information about peoples' gender, race, ethnicity, sexuality, or disability
+status, be clear on what information you're collecting, how you will use it, and how long you will retain
+it. The best practice for such data is the same as with all personally identifiable information: collect the
+minimum amount of information possible and retain only what is necessary for reporting or regulatory
+record-keeping purposes.
+
+For trending and tracking of inclusivity metrics, it is best to store data only in aggregate form. All
+record-level responses should be deleted as soon as data has been collected and processed.
+
+When asking people to self-identify, configure responses so that individuals can select more than one
+race and ethnicity identifier. This ensures all individuals can accurately report on requested aspects of
+identity. In addition, provide a write-in option if possible.
+
+Following are race and ethnicity options.
+
+Usage Examples
+
+Potential Groupings
+Black, Indigenous, and People of Color (BIPOC)
+People of Color (POC), individuals of color, or communities of color
+Multiracial or multi-ethnic (identifying as two or more races or ethnicities)
+Asian American and Pacific Islanders (AAPI)
+
+Identifying Terms (this list is not exhaustive)
+Black or African American,
+Latinx or Latine,
+Native American or Alaska Native,
+Native Hawaiian or Other Pacific Islander
+White
+
+Describing Groups
+
+When referring to groups of people, it is important to be mindful of language that accurately reflects
+their identities and avoids stereotypes.
+
+When referring to a group containing multiple race and ethnicity identifiers, BIPOC (Black, Indigenous,
+and People of Color) or People of Color (POC) may be used if listing all groups individually is not
+possible, but, if the individual groups are known it is recommended to list them and be as specific as
+possible.
+
+When referring to a specific group, their preferred identifier should be used (e.g., Black, Latinx/Latine,
+Asian, etc.) and consider deferring to local usage and those terms preferred by an organization or
+association. Whenever possible, using an appropriate degree of specificity is ideal (e.g., "Dominicans"
+rather than Latinx or Latine).
+
+When discussing groups Indigenous populations in the US, the best practice uses "Native Americans,"
+"Alaska Native," "Native Hawaiian," "Native" or "Indigenous," all capitalized, over "Indians," although
+some native groups and individuals do prefer "Indian" and in those instances please defer to local
+preferences. Wherever possible refer to specific Native national affiliation when known (e.g., 'Mojave
+poet' instead of 'Native American poet') for individuals or groups. When referring to Native
+communities we recommend using "nation" over "tribe" to recognize their sovereignty, although
+phrases like "Tribal colleges" can still be used. For more comprehensive information, see: Native
+Governance Center, How to Talk About Native Nations: A Guide.
+
+Considerations
+
+Put people-first: Focus on the people rather than defining them solely by a characteristic. Use
+phrases like "people with disabilities" or "women in STEM" instead of "the disabled" or "female
+scientists."
+
+Be specific: Describe a group at the most specific level that is relevant to your message. For
+example, instead of "minorities," consider "Asian American business leaders" or "Black business
+owners."
+
+Avoid assumptions: Do not assume everyone in a group identifies the same way. For example,
+instead of saying "seniors prefer…" acknowledge the diversity within age groups.
+
+Use respectful terminology: Use terms that are preferred by the group you are referring to. For
+example, "indigenous peoples" may be more respectful than "Native Americans" in some
+contexts. If you are unsure, so some research or ask a member of the group.
+
+Use gender-neutral language: When addressing a group, avoid gendered terms like "guys" or
+"ladies." Opt instead for inclusive terms like "everyone," "folks," "team," or "you all."
+
+Focus on ability: Instead of emphasizing limitations, focus on the abilities of people. For example,
+say "people who use wheelchairs to get around" rather than "people who are confined to
+wheelchairs."
+
+Remember, language preferences can evolve over time. Stay updated and consult credible sources for
+current terminology. If you are unsure about a term, err on the side of caution and use more general
+language. And when in doubt, the best practice is to ask people how they prefer to be identified.
+
+Race and Ethnicity
+
+In today's diverse society, accurately describing
+race and ethnicity is crucial for understanding
+and respect. This section of the guide will equip
+you with the tools to navigate this aspect of
+inclusive language. In the section we explore
+best practices for referring to racial and ethnic
+groups like specificity and evolving terminology.
+
+Race and ethnicity are social and political constructs, but they are enormously consequential. In the
+US, race refers to a group of people who share physical characteristics – such as skin color, hair texture,
+facial features – based on some common ancestry. Ethnicity refers to shared cultural identity, including
+language, ancestry, traditions, and practices. Ethnicity sometimes, but not always, correlates to
+national origin.
+
+Considerations
+
+Refer to a person's race or ethnicity only when it's relevant. Race or ethnicity may be relevant
+when describing an historic first, such as "Barack Obama was the first Black US president." It's not appropriate when referring to a person's profession, such as "a Black programmer," when the fact that the programmer is Black has no relevance.
+
+When Black is used as a race or ethnicity identifier, it should be capitalized. References to Asian,
+Latino/Latina and other race and ethnicity identifiers may also be capitalized, but the Chicago
+Manual of Style (CMOS) notes that individual preferences and context may lead to variations.
+
+Whether "white" should be capitalized is an evolving debate. Major style guides like the
+Associated Press Stylebook currently recommends capitalizing "Black," but not "white." Other
+organizations such as the Center for Social Policy argue for capitalizing both for consistency andracial equity.
+
+The important thing is consistency of usage. Within this guide, we have chosen to write "white" inlowercase.
+
+Latino and Latina are traditional terms for people of Latin American origin or descent. Latino is
+masculine, Latina is feminine. Latinx is a gender-neutral or non-binary alternative to Latino/Latina.
+It is more commonly used in the US by English speakers, but it has not been widely adopted by the
+Latin American community.
+
+A newer gender-neutral alternative gaining traction among the Latin American community is
+Latine. This uses the existing Spanish "-e" ending for gender-neutral terms like estudiante
+(student).
+
+Use terms preferred by the group you're referring to. For example, Black and African American are
+acceptable as race identifiers, as are Native Americans and Indigenous peoples. If unsure of how
+to refer to a person or group, ask them what their preference is.
+
+Explain where race and ethnic categories come from if different from an individual's or a group's
+preferred terminology (e.g., federal requirements).
+
+Gender Identity
+
+
+An individual's gender identity is a point along a continuum, and not limited to the binary choice of
+male or female. It is a spectrum with many variations. It is a person's internal sense of being male,
+female, or something else entirely. It may or may not align with the sex the person was assigned at
+birth. Sex assigned at birth is the designation – male, female, or intersex – given to an individual at
+birth based on physical characteristics such as chromosomes, hormone levels, and anatomy.
+
+Gender Identity vs. Gender Expression
+
+For some people, their gender expression aligns closely with their gender identity. For instance, a person who identifies as female may express herself in ways that are traditionally considered feminine.
+
+For others, there may not be clear alignment. Someone may identify as male but have a more
+traditionally feminine expression, or vice versa. This can be due to personal preference, comfort,
+cultural context, or societal pressures.
+
+Like gender identity, gender expression can be fluid. A person might express their gender differently
+over time depending on various factors such as context, personal growth, or changes in their
+understanding of their own gender identity.
+
+Reflecting gender identity and gender expression in our language requires awareness of the way
+traditional language has gender assumptions built into it. Below are some considerations that ensure
+inclusive language related to gender identity.
+
+Considerations
+
+When addressing an individual, don't make assumptions about their gender based on their
+appearance or name. Use gender-neutral language.  If you are unsure about someone's
+pronouns it's respectful to ask someone directly; for example, "What pronouns do you use?"
+There is more detailed advice on pronouns on page 12 of this Guide.
+
+When addressing a group, refrain from using gendered phrases like "ladies and gentlemen" or
+"you guys." Instead use gender-neutral terms like "everyone," "colleagues," "team," or "all of
+you."
+
+When addressing a recipient in written correspondence, there are several approaches. In many
+situations, such as business letters or formal invitations, the use of the preferred
+personal/professional title and the last name is considered appropriate; for example, Dear Dr.
+Smith. In less formal correspondence, it is acceptable to address them by name; e.g., Dear John.
+
+Use a gendered title such a Mr., Mrs., or Ms. when you know the recipients preference (through
+signature, previous correspondence, etc.). In formal correspondence, these gendered titles may
+still be preferred. In these cases, Ms. is the safest option when unsure of preference. Mx. is a
+gender-neutral option gaining traction. It is ideal for people who don't identify with the gender
+binary.
+
+If addressing a married couple in formal correspondence, the use of Mr. and Mrs. [husband's last
+name] is most common when the wife has taken the husband's last name. A more modern option
+is to use Mr./Ms./Mx. [first name] [last name] for both partners; e.g., Mr. William Smith and Ms.
+Jane Smith or, if the couple has different last names, Mr. William Smith and Ms. Jane Doe.
+This approach also applies in the case of same-sex and domestic unmarried partners.
+
+Some examples of the adoption of this practice include colleges and universities, progressing
+businesses, and on modern wedding websites and invitations.
+
+When soliciting personal titles (e.g., Mr./Mrs./Ms.) include the gender-neutral title Mx. Also
+include an option to indicate 'none' for those who don't use a title, or don't make it a required
+field.
+
+Gendered Restrooms
+
+Given how quickly social norms are progressing relative to gender identity, restroom use and labeling merits mention.
+
+For large public bathrooms, the traditional male/female distinction continues. But these traditionally
+gendered restrooms can be exclusionary for transgender and non-binary individuals who may not
+identify with either binary gender.
+
+To address this, there is a growing trend towards creating gender-neutral or all-gender restrooms.
+These are single-occupancy restrooms anyone can uses, regardless of gender identity.
+
+Labeling any existing single-occupant bathroom as all-gender is the most inclusive approach. This
+language does not exclude anyone. It also acknowledges that gender identity is sometimes more fluid
+than traditional labels can accommodate.
+
+The goal is to create a more inclusive environment while respecting user privacy and comfort. This
+includes ensuring restrooms accommodate people with disabilities.
+
+Pronouns
+
+Pronouns – he/him, she/her, they/them, etc. – are an
+essential part of how people express their gender
+identity. We must move beyond the assumption that
+everyone uses he/him or she/her pronouns. Referring
+to a person using the pronouns that person chooses is a
+sign of recognition and respect. It is a small act that can
+make a big difference in creating a welcoming
+atmosphere.
+
+There is a growing range of pronouns people use to reflect their gender identity.
+
+The use of "they" for a singular person is becoming increasingly common, especially when
+referring to someone whose pronouns you are unsure of or for non-binary individuals. It has been
+accepted by the CMOS and is grammatically correct.
+
+Some individuals use mixed pronouns (e.g., "they/she" or "he/they"). This simply means the
+person uses two or more sets of pronouns interchangeably and is comfortable with others using
+either set when referring to them. In these instances, while there may be a "primary" pronoun,
+both full sets of pronouns are accurate. It is considered respectful to try to use both sets of
+pronouns to acknowledge an individual's full gender identity.
+
+If there is a pronoun field on a form, allow users to write in their pronouns rather than listing
+predefined terms in a dropdown. This will be less likely to exclude a person's preferred pronouns.
+Consider including an option of "prefer not to answer" or "prefer not to identify."
+
+In addition to "he/him/his," "she/her/hers," and "they/them/theirs" there are countless other
+pronouns, called "neopronouns." A few popular examples are "ze/hir/hirs" and "xe/xem/xyrs"
+according to the nonprofit organization Out & Equal.
+
+While in past years it has been common to talk about what pronouns people "prefer," it is now
+recommended practice to refer to which pronouns people "use" (e.g., "Sally uses she/her
+pronouns" and not "Sally prefers she/her pronouns").
+
+Pronoun Usage Examples
+
+Pronoun: They/them/theirs
+Subject: They called me today.
+Object: I met with them yesterday.
+Possessive: That pen is theirs.
+Reflexive: They wrote it themself.
+
+Pronoun: She/her/hers
+Subject: She called me today.
+Object: I met with her yesterday.
+Possessive: That pen is hers.
+Reflexive: She wrote it herself.
+
+Pronoun: He/him/his
+Subject: He called me today.
+Object: I met with him yesterday.
+Possessive: That pen is his.
+Reflexive: He wrote it himself.
+
+Pronoun: Ze/hir/hirs
+Subject: Ze called me today.
+Object: I met with hir yesterday.
+Possessive: That pen is hirs.
+Reflexive: Ze wrote it zirself.
+
+Sexuality
+
+
+Physical attraction is the sexual interest or desire one feels towards others based on the physical
+attributes and appearance. Emotional attraction involves a deep connection or bond with another
+person, often based on personality, shared values, and emotional compatibility. Emotional attraction
+can exist independently of physical attraction.
+
+Like gender, sexuality is not a binary concept (straight or gay). There is a wide range of experiences and
+identities. Avoid assuming someone's sexuality based on appearance or gender presentation. Also as
+with gender, use the terms people choose for themselves.
+
+Terms should be reviewed periodically as they evolve and change regularly.
+
+When referencing a community/group consisting of many identities, the term LGBTQIA+ people is
+considered inclusive as the "+" represents individuals who do not identify with the specific terms
+making up the abbreviation.
+
+Capitalizing terms that are not abbreviations or acronyms (e.g., lesbian, queer) is an evolving area
+with no universally agreed-upon rule. Major style guides like AP Style currently recommend using
+lowercase. Some LGBTQIA+ organizations and publications advocate capitalizing for consistency
+and emphasis on identity. The PHL Diversity division of the Philadelphia Convention & Visitors
+Bureau currently uses lowercase on their website. We follow their lead in this Guide.
+
+As with race and ethnicity, when asking people to self-identify, it is recommended practice to
+configure responses so that individuals can select more than one sexuality identifier. This allows
+individuals to select from several options including "male," "female," "nonbinary," intersex," and
+"other." Providing a write-in response and an option to not identify is also recommended.
+
+Disabilities
+
+Understanding of disabilities is essential for
+creating a more inclusive society. Inclusive language
+plays a crucial role in fostering respect and
+dignity for people with disabilities, emphasizing
+their abilities and contributions rather than
+focusing on limitations.
+
+Considerations
+
+The Americans with Disabilities Act National Network (hyperlink provided under "Additional
+Information" below) provides guidance on how to write about people with disabilities.
+
+An individual is neither their condition nor their diagnosis, so list the person before the
+medical condition. This is called "person-first language."
+
+Some with disabilities prefer the term "disabled people," so confirming individual preferences
+is recommended whenever possible.
+
+Using language that emphasizes ability instead of limitations is considered best practice.
+
+When referring to a group of people with varied disabilities/conditions/diagnoses, "people with
+disabilities" may be used if identifying specific conditions/diagnoses is not necessary or possible.
+
+Whenever possible, the preference of the group on how to be addressed should be
+considered.
+
+The terms deaf and hard of hearing are generally preferred for individuals with hearing conditions or diagnoses. The term deaf should be written with a lowercase "d" when referencing the condition/diagnosis but capitalized when referencing the Deaf community.
+
+Terms for conditions that do not contain a proper name such as Tourette or Asperger may be
+written lowercase.
+
+Usage Examples
+
+Potential groupings and sample identifying terms:
+People with disabilities (or disabled people, depending on the preference of the individuals)
+Person with (a disability, paraplegia, etc.)
+People who are blind or have low vision
+Person with autism or autistic person (again, depending on the preference of the individual)
+Person using a (wheelchair, cane, walker, communication device, etc.)
+People who are deaf or hard of hearing (or deaf and hard of hearing people, depending on
+preference)
+

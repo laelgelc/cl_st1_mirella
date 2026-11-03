@@ -1,0 +1,185 @@
+Principles for Inclusive Language
+
+The following principles are adapted from Oregon Health and Science University's Inclusive Language Guide. These principles serve as foundational reminders for all who use this guide:
+
+Remember that Identity is Personal
+Everyone has the right to define themselves in their own terms. It's important to respect how individuals choose to identity and describe themselves.
+
+Be Respectful
+Not everyone feels comfortable sharing parts of their identity. Create an inclusive environment where people can express themselves as they wish, without pressure or judgement.
+
+Ask, Rather Than Assume
+When meeting someone for the first time, communicate your intention to use inclusive language and ask for their preferences.
+
+Be Specific
+Avoid vague terms and generalizations. Be clear about who you are referring to in order to foster understanding and show respect for individuals and communities.
+
+Be Thoughtful and Intentional
+Consider whether it's appropriate to know someone's identity and why that information is relevant.
+
+Be Kind and Affirming
+Use language that is positive and supportive. Acknowledge individuals' strengths and contributions rather than focusing on weaknesses and challenges.
+
+Use People-First Language
+We are all people with attributes. In many cases, we should avoid leading with the attribute, as it often does not define the whole person.
+
+Avoid Labels
+Labels can be limiting and may reinforce stereotypes. Instead of defining someone solely by a label, acknowledge them as a whole person.
+
+Practice Intellectual Humility
+Acknowledge your own learning journey and remain open to feedback. Showing that you understand the importance of, and intention to use, inclusive language invites humility. Avoid placing the burden of your learning on those you're engaging with.
+
+For Reflection
+Person-First vs. Identity-First Language: Reflecting Individual Preferences
+
+Writing about identity and clinical diagnosis can be complicated, as there is variation in how people want their identity and/or diagnosis to be represented. Language should be reflective of the individual's preference.
+
+For example, definitions of person-first and identity-first language have been conceptualized by the American Psychological Association with respect to disability:
+
+In person-first language, the person is emphasized rather than the disability or chronic condition. For example: pregnant person with paraplegia.
+
+In identity-first language, the disability becomes the focus, which for some, may allow the individual to claim the disability or the chronic condition and choose their identity rather than permitting others to name it or to select terms with negative implications. For example: paraplegic pregnant person.
+
+Identity-first language can be used as "an expression of cultural pride and a reclamation of a disability or chronic condition that once conferred a negative identity".[5]
+
+Inclusive Language Framework
+
+An Inclusive Language Framework developed by the Center for Equity, Gender, and Leadership at the UC Berkeley Haas School of Business[7] provides an opportunity for critical reflection on five guiding questions (see white text boxes) to support healthcare providers, administrators, and organizations in communicating more effectively and inclusively across diverse audiences. It is recommended that users of this guide reference this framework when deciding whether a word/phrase may or may not be appropriate to use:
+
+Set Intentions: Start from a place where you feel ready and open to learning. Then ask the following questions:
+
+Consider Context:
+Does this term center dominant groups as the default, and/or perpetuate harmful stereotypes?
+Does this term have a harmful history or association?
+Does this term contribute to communication in which everyone feels respected and seen?
+Does this term convey the intended meaning to all people precisely and effectively?
+If yes to the respect and meaning questions: Continue using the term.
+
+Center Inclusion:
+If no to the respect/meaning questions or yes to the harmful history/stereotype questions: Can we find an alternate term that does a better job at communicating the message?
+
+Implement Positive Change:
+If no alternate term is found: Use the term with caution or decide not to use it. Consider explaining your choice to your audience.
+If yes, an alternate term is found: Use the more inclusive term.
+
+Describing Communities in an Appropriate Manner
+
+This inclusive language guide explores terminology for referring to individuals from diverse backgrounds and identities, considering factors such as race, ethnicity, gender identity, sexual orientation, ability, family status and more. These factors often intersect, shaping an individual or group's experience and position in society. Recognizing these intersections is crucial, as they can lead to both oppression and opportunity. Healthcare providers and organizations must be sensitive to these distinctions when communicating about or supporting individuals and communities.
+
+"Language and terms have the potential to perpetuate or reduce health inequities."
+
+Abilities and Disabilities
+
+Using inclusive language in healthcare is essential for combatting ableism, the misguided belief that the lives of individuals with disabilities are less valuable. Ableism can come in the form of harmful language. This is particularly relevant in perinatal and child healthcare because assumptions about what people can and cannot do devalues them and can affect their treatment and subsequent health outcomes. The social model of disability emphasizes that the problem lies in the way we organize society and not with the person with the disability. Language is reflective of cultural assumptions and societal norms and thus, can be a barrier to high-quality healthcare for people with disabilities.
+
+Not all disabilities are visible or permanent; a person can be born with a disability, or they may acquire a disability through age, illness, or accident. When speaking to or about someone with a disability, it is important to ask them if they prefer person-first language or identity-first language. For example, 'child with a hearing impairment' is considered person-first, whereas 'deaf child' is identity-first terminology.
+
+For people with disabilities, inclusive language also encompasses accessible language that accommodates various communication and learning needs. This includes "language that accommodates people of all ages and abilities, including those with cognitive disabilities and people with low literacy skills".[17] When accessible language is not used or when multiple forms of communication (e.g., written, verbal, images, plain text, large format, or ASL interpreters) are not provided, people may be excluded from essential healthcare services.[18]
+
+For Reflection
+Bravery and Resilience: Unpacking Language in Disability Discourse
+
+Phrases like "brave," "strong," "resilient," or "special" may seem like compliments when directed at individuals facing disabilities or illnesses. However, using these terms solely in reference to their conditions can inadvertently ostracize them, as it reduces their identity to their disability rather than acknowledging the entirety of who they are. Additionally, some individuals may not embrace these descriptors, associating them with negative experiences they prefer not to be defined by.
+
+This type of language is often referred to as superhero-framing, which portrays disabilities as obstacles to "normalcy" and "success" both of which can be subjectively defined. Such language can create pressure, making individuals feel like must always embody traits like bravery or strength. When they find themselves in moments of vulnerability or struggle, they may feel unworthy of support or opportunities, reinforcing harmful stereotypes and undermining their true experiences.
+
+Mental Health, Mental Illness and Substance Use
+
+Perinatal mental illness is a significant but common complication during pregnancy and the postpartum period, with lasting impacts on individuals, children, and families. Mental health concerns also frequently emerge in children and youth, affecting their well-being, functioning and development. Unfortunately, access to timely and appropriate mental health services for pregnant and postpartum individuals, as well as children and youth, is often inequitable across Ontario.
+
+Substance use is frequently stigmatized, and this stigma can be perpetuated through the language we use to describe individuals who use substances. Those with mental health conditions or substance use disorders may be reluctant to seek care due to fears of discrimination and a belief, often shaped by lived experiences, that the healthcare system is unsafe.
+
+The topics of mental illness and substance use have historically been fraught with stigma in Canada, exacerbated by misinformation surrounding the opioid crisis and the institutionalization of individuals with mental illnesses. It is crucial to actively dismantle the ongoing oppression and discrimination faced by these individuals.
+
+Developing awareness of personal biases related to mental health, mental illness, and substance use is a vital first step in fostering compassionate and respectful communication. By using inclusive language that is free of judgement, we can create safer spaces and build trust, encouraging individuals to discuss their mental health and any substance use openly.
+
+Race and Ethnicity
+
+Race is fundamentally a social construct. Discrete racial categories were created based on physical features like skin colour and hair texture, primarily to establish and maintain hierarchical power within society. Those perceived as closest to Whiteness often hold the most power. Racialization refers to the process of categorizing individuals by race, leading to the perception of races as 'real', distinct, and unequal in economic, political and social contexts. Racism is the systemic practice that enforces the superiority of one racial group, typically the dominant group, over others.
+
+In Ontario's obstetrical setting, Black women frequently report experiences of being dismissed, objectified, dehumanized, traumatized and treated paternalistically. These experiences contribute to poor quality of care and strained relationships with healthcare providers. Additionally, Black youth in Canada wait twice as long as non-Black peers to access mental health services. These disparities highlight the impact of interpersonal and systemic racism, especially given that there is no biological basis for race. Language plays a crucial role in perpetuating or combating racism, whether intentionally or not. The terminology used by healthcare providers and in policy can significantly influence the inclusivity of care practices. Using inclusive language can help prevent exclusionary practices, ensuring that care is responsive to the unique needs of patients while honouring their diversity.
+
+Currently, there is no standardized collection of race- and identity-based data in Ontario's healthcare sector, although some jurisdictions collect this information to highlight inequities and improve care quality for racialized individuals. While race may be used to guide clinical care or to assess eligibility for genetic screening, there has been a growing call to move away from race-based medicine. For instance, some clinical algorithms are moving away from incorporating race, such as the removal of race from vaginal birth after Caesarean delivery risk calculator.
+
+Collecting race- and identity-based data can help illustrate systemic racism within the healthcare system and inform clinical practices. However, it also raises concerns about discomfort, fear of self-identification, and potential discrimination. Therefore, it is essential that communication about the purpose, use, and storage of this information be conveyed to the individual and/or community it pertains to.
+
+Considerations for Language Use Related to Race and Ethnicity
+
+Be as specific as possible when referring to racial or ethnic groups.
+Examples: "Individual of Pakistani origin" instead of "South Asian person"; "Ethiopian community" instead of "African community"; "Korean patient" instead of "East Asian patient"
+These terms humanize racial and ethnic groups and recognize them as more than just a label.
+
+Capitalize the proper names of nationalities, peoples, and races.
+Examples: Arab, French-Canadian, Latin, Asian
+
+If a list of race categories is used, refer to current guidelines on appropriate race categories in Canada.
+
+If all racial or ethnic options cannot be listed, there should be a free-form box for individuals to specify the racial or ethnic group(s) that they belong to instead of listing "other." This term forces patients to be confined to a nonspecific label that suggests they are too small for meaningful analyses or consideration.
+
+As specificity is key when referring to non-white individuals and groups, BIPOC should only be used when the intention is to refer to a diverse group as a collective and when specific groups within the collective are not at a clear disadvantage.[
+
+
+Indigenous Peoples
+
+Colonization has led to the systematic destruction of Indigenous languages and devaluation of oral teachings, traditions and knowledge sharing. In this context, healthcare providers, administrators, and organizations can take important steps to recognize and address the colonial legacy in their language use.
+
+To foster understanding and respect towards Indigenous Peoples, it is crucial to choose language that is meaningful, accurate, and inclusive. The best approach is to directly engage with individuals and communities, asking them how they wish to be addressed and what terms they prefer, rather than making assumptions.
+
+By prioritizing inclusive language, we can foster healing and reconciliation by acknowledging and respecting the identities, histories and experiences of Indigenous Peoples.
+
+Terminology to consider avoiding: Old Indian, senior.
+Terminology to consider avoiding: Eskimo
+Terminology to consider avoiding: Indians, Natives, Native Americans, Native Canadian, Tribe.
+
+Land & Territory; Traditional Territory; Unceded Territory
+Use "traditional territory" in recognition of lands traditionally used and/or occupied by First Nations.
+
+Use "Unceded" to refer to land not turned over to the Crown through treaty or other agreements.
+
+Ceremonial/traditional tobacco
+Tobacco has been used by Indigenous Peoples for thousands of years in traditional practices. It holds significant cultural importance and is being utilized for ceremonies, healing, and as a means of giving thanks.
+Terminology to consider avoiding: Referring to tobacco solely as a commercial product.
+
+Terminology to consider avoiding: smoke, smoking, or burning of incense.
+
+Cultural appropriation refers to the unacknowledged or inappropriate adoption of the customs, practices, ideas, and other cultural elements of one group by members of another, typically more dominant group.[50] Below are some commonly used expressions and terms that may carry negative connotations and should be avoided, along with suggested alternatives and the rationale behind them.
+
+
+Gender and Sexuality
+
+Perinatal care is often viewed through a gendered lens, yet not everyone who experiences pregnancy identifies as a woman. Transgender men and nonbinary individuals can also give birth. In paediatric and youth healthcare, there is growing recognition of the importance of gender-affirming care, especially as more youth identify with a gender different from the sex assigned to them at birth. Inappropriate use of gendered language can lead to significant negative outcomes, including exclusion and loneliness, gender dysphoria, prejudice, discrimination, avoidance of care, and lack of understanding.
+
+"Caring about, and for, people's health, including their reproductive health, must include thoughtful renaming practices that promote inclusion and the search for words of recognition and respect."
+
+Using inclusive language is vital for fostering respect, understanding, and equitable care for sexually and gender-diverse individuals, ultimately contributing to their overall well-being.
+
+Ask for Pronouns: In one-on-one clinical settings, inquire about individuals' preferred pronouns.
+Affirm Pronouns: Use known pronouns consistently to affirm a person's gender identity.
+Use Singular They: When pronouns are unknown, use the singular 'they' to avoid assumptions.
+Employ Nongendered Terms: Whenever possible, use nongendered language, even when discussing typically gender-specific health conditions.
+
+Below are examples of gender-additive (expansive) and gender-inclusive (neutral) terms and phrases for use when preferred gender is unknown:
+
+For Reflection
+Navigating Inclusive and Additive Language in Perinatal Care 
+
+The terms "mother", "maternal" and "maternity" are deeply ingrained in perinatal care, yet deciding whether to use these gendered terms or more inclusive language can be complex.
+
+On one hand, the term maternal can be limiting. Traditionally, it has centered on the role of women who give birth, often excluding other identities and experiences within perinatal care. For instance, it may not fully encompass the experiences of non-binary or transgender individuals who experience pregnancy, childbirth, or parenting. This limitation underscores the importance of using more inclusive language that better reflects the diversity of experiences in perinatal care.
+
+On the other hand, the use of terms like "maternal" or "maternity" can be necessary in specific contexts. These gendered terms can help maintain clarity, especially when addressing aspects of pregnancy, birth, and parenting historically tied to women. Additionally, such terms may reflect feminist ideals and hold personal or cultural significance for many individuals, particularly in communities where "motherhood" is central to identity.
+
+Ultimately, the decision to use gendered or inclusive language requires careful reflection on several factors, including the preferences of the audience, the context of the communication, and purpose of the message. A thoughtful, nuanced approach, whether using inclusive language that covers all identities or additive language that combines gendered and neutral terms, can help ensure that language remains both respectful and effective.
+
+Relationships and Family Status
+
+Relationships and family structures are diverse, encompassing common-law partnerships, marriages, individuals without partners or children, blended families, lone-parent families, and chosen families. The Ontario Human Rights Commission defines family status as "a parent and child type of relationship, that may not be based on blood or adoption ties, but that is based on care, responsibility and commitment."
+
+It is important to recognize that there is no single "right" way to form a family, and individuals may have limited control over their family structures and relationship statuses. Therefore, using inclusive language is crucial to ensure that all configurations of family and relationships are recognized and welcomed. This can be achieved by inviting individuals to self-define their kinship and family structures, including the role that different individuals play in their lives. Recognizing and supporting the diversity of relationships and family structures can have profound positive effects on parenting, ultimately contributing to the healthy development of children.
+
+Looking Ahead
+
+This guide is not exhaustive, and PCMCH and BORN recognize that language is continually evolving. While this version does not cover socioeconomic status, religion and spirituality, body image and size diversity, neurodiversity, age and aging, and other important areas, we acknowledge their significance and plan to consider them in future updates. The inclusive language framework and guiding principles outlined in this guide provide a valuable foundation for choosing appropriate terminology in these contexts.
+
+As we move forward, we encourage ongoing dialogue and feedback to enhance our understanding and application of inclusive language within perinatal and child healthcare. Together, we can foster environments that respect and honor the diversity of all individuals, ultimately enhancing communication and care in our communities.
+

@@ -1,0 +1,139 @@
+Module 1
+Gender-inclusive language
+
+Guiding strategies
+
+When writing inclusively from a gender equality perspective, it is important to take into account the communicative goal of the text and the type of text, its context and audience. That will determine which solutions best support its purpose and which strategy to use. These guidelines contain references to techniques to make language more inclusive. Combining them will help to produce readable, fluid and clear text.
+
+Two strategies are generally used to make language gender-inclusive:
+
+- Making gender invisible by using gender-neutral language. In most cases, gender is irrelevant to the communicative goal, and, in fact, distracts from the purpose of the text. Gender-neutral language makes no mention of gender, gender identity, sex or sexual orientation. In English, the use of gender-neutral language is the preferred strategy, because neutrality includes all human beings without making unnecessary distinctions.
+
+- Making gender visible by using gendered language. This strategy can be useful in the context of promoting gender equality, which requires the use of language that represents men and women equally. The use of gendered language helps to re-establish a balance between an over-represented group (for instance, men) and one (or more) unrepresented groups (in this case, women). For example, in the case of a text discussing disparities, marginalization, inclusion or exclusion, specifying the gender is relevant as it highlights that different groups may be affected by or experience a situation differently.
+
+In addition, gender-inclusive language avoids stereotypes and expressions that reinforce stereotypes. Language can perpetuate the stereotypical representation of one or more groups, associating it or them with specific traits, abilities, skills or behaviors.
+
+A. Gender-neutral language
+
+In the majority of contexts, the gender aspect is irrelevant to the substance of what is being communicated. Where that is the case, the techniques listed below can be used.
+
+The generic masculine (masculine as default) can be, and often is, perceived as biased language. The generic masculine consists in using masculine-specific nouns and pronouns when the noun or pronoun stands specifically either for a female person or for a person or group of indeterminate gender. The use of the generic masculine gives the impression that women are not represented in certain groups or do not possess certain skills. Representation is important for inclusive communication. In general, when sex or gender is not set, avoid defaulting to one sex with generic masculine nouns or pronouns.
+
+Part I - Gender-neutral terms
+
+1. Replace generic masculine nouns with gender-neutral nouns
+
+2. Replace generic masculine pronouns with gender-neutral nouns
+
+3. Replace the third person with the second person
+
+This can be useful when seeking to draw the reader into the text.
+
+Part II - Gender-neutral structures
+
+1. Replace the generic masculine with plural forms
+
+The use of plural pronouns to refer to nouns in the singular (as in the last example), while strictly speaking grammatically incorrect, is gaining acceptance as a means of avoiding unnecessary reference to gender.
+
+2. Use passive forms to replace the generic masculine
+
+3. Replace the generic masculine or feminine pronoun with neutral expressions, or reformulate the sentence
+
+B. Gendered language
+
+In some contexts, making gender visible is part of the communicative goal. This technique is effective when popular beliefs or preconceptions may obscure the presence or action of either gender. Representation helps redress imbalances so that groups that have enjoyed little or no visibility are included. This technique is important, especially when the communicative goal is to support gender equality and the reduction of disparities.
+
+Although gender-neutral language is generally preferrable, in some instances, gendered language better serves the communicative purpose of the text. The efforts of WIPO to showcase women inventors or gender parity in management positions are examples of such cases.
+
+Pairing is the main technique used. It involves juxtaposing two nouns or pronouns to represent more than one gender. When pairing nouns, alphabetical order ("female and male" or "men and women") is generally preferable.
+
+1. Pairing
+
+Replace generic masculine pronouns with paired pronouns
+
+Pairing can, however, hamper readability, especially if frequently repeated. It should therefore be used in conjunction with other solutions.
+
+2. Forms of address
+
+There should be consistency in the way women and men are referred to: "Mr." for men should be matched with "Ms." for women (rather than "Miss" or "Mrs.") since the marital status of a woman is irrelevant in most contexts. Moreover, if a person of one gender in a group is referred to by her or his name, last name, courtesy title or profession, the other one(s) should be as well.
+
+When referring to or addressing specific individuals, forms of address and pronouns that are consistent with their gender identity should be used.
+
+C. Avoiding stereotypes
+
+Professions and skills
+
+Professions and skills have no gender: men and women can exercise whichever profession, occupy any social role and possess any type of skill, as global data show. It is therefore important to use neutral terms so as not to stereotype professions or skills. For example, professions like nurse, doctor, Prime Minister and adviser are gender neutral in English.
+
+On occasion, however, the goal of overcoming stereotypes may be better served by explicitly indicating that some professions can be exercised by an otherwise under-represented group or that certain skills or abilities are not necessarily the preserve of the groups traditionally associated with them. In such cases, pairing a neutral noun to a gendered adjective may in fact help to reverse traditional perceptions about which gender is "usually" associated with a given profession or activity. For instance:
+
+Although the number of male nurses has increased in recent years, they still represent only 12 per cent of the nursing profession.
+
+We are proud to lead the way in the recruitment of woman doctors in male-dominated specialties.
+
+See Annex I for additional examples.
+
+Box: Sexual orientation, gender identity and gender expression
+
+
+When dealing with sexual orientation, gender identity and gender expression, the same strategies ("make it visible" and "make it invisible") listed above should be used. When the sexual orientation, gender identity or gender expression are not relevant to the communicative goal - which is generally the case - they should not be highlighted. When, on the other hand, the text aims to redress representation imbalances, fight stereotypes or promote inclusion, appropriate terms relating to sexual orientation, gender identity and gender expression should be used instead.
+
+A glossary is available in Annex II.
+
+When fighting discrimination and marginalization linked to sexual orientation, gender identity and gender expression, the technique generally used is:
+
+Replace heteronormative terms and expressions with gender-neutral words
+
+In addition, when personal data is collected - for example, in registration forms for events, etc. - three options (woman, man, other) should be provided as a minimum to users. A fourth option ("prefer not to say") can also be added depending on the content and purpose of the form. This solution contributes to inclusivity.
+
+
+2 Additional terms are available at IOM_SOGIESC_Full_Glossary_2020.pdf (squarespace.com)
+
+
+Module 2
+Disability inclusive language
+
+General guidance
+
+The language for describing disability has evolved considerably over time. In writing about disability, the goal is to avoid words, terms or expressions that might be interpreted as conveying an impression of inferiority, implying exclusion or harking back to outdated concepts. The careful choice of inclusive language can therefore contribute to the goals enshrined in the United Nations Disability Inclusion Strategy and efforts to address "ableism".
+
+When referring to persons with disabilities, it is important to distinguish between the terms "impairment" and "disability".
+
+In other words, the term impairment refers to a person's physical, mental, intellectual or sensory condition(s), while disability results from the combination of such an impairment and barriers in the environment. A person can have more than one impairment. Impairments do not necessarily lead to disability. Impairments and disabilities are not always visible.
+
+The use of terms like "bipolar OCD" (obsessive-compulsive disorder) and "ADD" (attention-deficit disorder) to describe the behavior of people without actual psychiatric disabilities should be avoided, as it trivializes the conditions to which such terms are properly applied.
+
+A. Person-first language
+
+It is important to always refer to the person first, and the impairment or disability in a second instance. So for example, "persons who are blind or otherwise print disabled" and not "the blind" or "the print disabled".
+
+Rather than defining people by the conditions they have or depersonalizing them by turning descriptors into nouns ("the disabled", "the blind", "a schizophrenic"), it is preferable to use person-first language, whereby the person is not defined by their impairment or disability.
+
+In addition to the examples below, a further list is provided in the annex.
+
+1. Use "with" phrases
+
+Person with Down's syndrome, epilepsy, diabetes, autism etc.
+
+2. Use "is" or "has" phrases
+
+Person who is blind/deaf, person who is visually/hearing impaired.
+
+Person who has Down's syndrome, epilepsy, diabetes, autism etc.
+
+3. Avoid judgmental language
+
+A person may have a condition but may not necessarily suffer from, be afflicted by or be a victim of it. In any event, the emphasis should be on a factual rather than value-laden description of the given situation. Wheelchair users, for instance, may well see their wheelchairs as a means of mobility and freedom rather than as a sign of their impairment.
+
+
+B. Omission
+
+Mention of a person's impairment or disability should be avoided where irrelevant in a given context.
+
+The student, who uses a wheelchair, described the accessibility of the campus. (Relevant)
+
+The student, who uses a wheelchair, is a keen reader. (Irrelevant)
+
+In addition to annex I of this module, further information on specific terms that may require additional clarification before being used is provided in annex II of the United Nations Office at Geneva Disability-Inclusive Language Guidelines.
+
+

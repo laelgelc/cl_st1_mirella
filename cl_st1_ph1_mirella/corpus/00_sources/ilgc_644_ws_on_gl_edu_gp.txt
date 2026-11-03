@@ -1,0 +1,63 @@
+PLAIN, NON-COLLOQUIAL LANGUAGE
+
+Using clear, concise and direct language (known as plain language) is a good way to avoid problematic words. Plain language is communication your audience can understand the first time they read or hear it. Plain language avoids jargon and colloquial language.
+
+Colloquial language in particular can be a source of many problematic words and phrases, and many of the terms we included in the list below are colloquial.
+
+Colloquialisms are used in casual conversation where some slang terms are used and where no attempt is made at being formal. This can include idioms, or phrases that have a cultural meaning, but that meaning is derived from a cultural familiarity and not the meaning of the words themselves.
+
+Examples include "raining cats and dogs" or "sanity check" or "lowering the bar." While most people reading this guide know exactly what these phrases mean, the meaning is derived from a cultural context and not the words themselves. Two of those phrases are problematic, and included in the list of problematic words below.
+
+You can learn more about plain language from plainlanguage.gov.
+
+
+PROBLEMATIC WORDS AND PHRASES
+
+The problematic words and phrases are grouped into two tables: one for words that are IT-specific, and a second section with a more general list of problematic words.
+
+These reflect the principles of inclusive language: use gender-neutral terms; avoid ableist language; focus on people not disabilities or circumstances; avoid generalizations about people, regions, cultures and countries; and avoid slang, idioms, metaphors and other words with layers of meaning and a negative history. The general list is organized into the following categories:
+
+    - Race, Ethnicity, Nationality, Religion, Native/Indigenous Identity
+    - Disability and Ableism
+    - Ageism
+    - Gender and sexual orientation
+
+The tables are organized into three columns. The first column lists the problem word or words and phrases, the second column gives suggested alternatives and the third column provides an explanation of why the words are problematic.
+
+Note: Consider the context in which "master" is used, and whether that use is derived from the racist binary "master/slave:" where the "master" controls an inferior process or system.
+
+For example, a Master's degree or the common use of master in degrees, such as Master of Science, Master of Arts, etc., suggests a mastery of a subject, and thus is not deemed derogatory.
+    - Example of proper usage: "She is a master at the game of chess."
+
+However, if "master" is in reference to a person who is in charge of a group and evokes the offensive "master-slave" dynamic, then "master" should be replaced.
+
+For example, a Kanban flow master facilitates Kanban meetings, continuous improvement initiatives and process reviews. Kanban project management has been evolving in recent years to de-emphasize the master role, and the focus is now on Service Delivery Manager and Service Request Manager.
+
+OTHER PROBLEMATIC WORDS
+
+
+The problematic words and phrases are grouped into four categories and in table format. The categories are:
+
+    - Race, Ethnicity, Nationality, Religion, Native/Indigenous Identity
+    - Disability and Ableism
+    - Ageism
+    - Gender and sexual orientation
+
+The following table is organized into three columns. The first column lists the problem word or words and phrases, the second column gives suggested alternatives, and the third column provides an explanation of why the words are problematic.
+
+RACE, ETHNICITY, NATIONALITY, RELIGION, NATIVE/INDIGENOUS IDENTITY
+
+Institutional knowledge is more accurate when referring to a long-time employee's understanding of processes and operations. Reserve the use of "Tribal" at the UW to apply specifically to the UW's acknowledgement of the "Coast Salish peoples of this land, the land which touches the shared waters of all tribes and bands within the Suquamish, Tulalip and Muckleshoot nations."
+
+Avoid referring to an individual as a "minority" unless in a quotation. Use either community-specific terms (e.g., "Native American," "African American," etc.) or the general term "people of color" when referring to racial or ethnic communities.
+
+When referring to other marginalized communities, clarify which specific community or communities are being discussed.
+
+Other terms better describe people learning English as a secondary language from their primary language. The U.S. Department of Education talks about English language learners (ELL) or just English learners (EL). The Center for Promise, the research institute at America's Promise, uses students whose first language is not English (FLNE).
+
+DISABILITY AND ABLEISM
+
+"Crazy" is a word with many uses and connotations, but it's recommended to avoid this word as much as possible.
+
+Though these uses of the word "see" aren't inherently incorrect or necessarily offensive, content providers should avoid using the word "see" in situations in which a more accurate, non-ableist word would be better.
+

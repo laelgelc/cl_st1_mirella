@@ -1,0 +1,109 @@
+Our Goal: A text conveying gender equality
+
+Several strategies can be adopted to promote gender equality through language in a document, while writing in a clear and fluid way to retain the document's communicative goals:
+
+A) Use gender-neutral expressions
+B) Use inclusive language
+C) Use both feminine and masculine forms
+   - as separate words
+   - through the use of slashes
+
+Writers should always consider the text as whole and its nature when choosing among the different strategies. Gender-inclusive writing should not affect the readability of a text.
+
+A: Use gender-neutral expressions
+
+Avoid gender-specific nouns when making generic references
+
+Writers should avoid expressions that use the masculine form when making generic references to both men and women, i.e. using congressmen when referring to both female and male legislators.
+
+Whenever possible, use a gender-neutral alternative.
+
+B: Use inclusive language
+
+In English, the use of the generic masculine form to refer to both genders creates a gender bias. Whenever possible, writers should look at ways to modify the sentence to make it gender-neutral. Here are a few options:
+
+a) Omitting the masculine reference word
+
+b) Using plural forms for both nouns and reference words
+
+c) Using they/their to refer back to singular nouns ("Singular they")
+
+Please note this approach is more recent and not widely accepted, and it should not be adopted in formal texts.
+
+d) Using the passive voice
+                                      
+Please note, the passive voice should be used in moderation throughout a document.
+
+C: Use both feminine and masculine forms
+
+Sometimes, the writer might want to retain both the feminine and masculine forms of the words. Below are some examples of how we could replace the masculine generic form with a gender-sensitive expression.
+
+a) Using both feminine and masculine reference words
+
+Writers may decide to use "he or she", or "she or he", when the gender of the referent is unknown or irrelevant.
+
+Examples
+Each professor should send his or her assistant to the conference.
+It all came down to one person's vote. He or she would decide the future of the county.
+
+While this solution specifically includes both women and men and works well in many situations, some readers find it stylistically heavy, especially when "she or he" is repeated many times throughout the text.
+
+b) Alternating genders and pronouns
+
+When the gender of the referent is unknown and equally likely to be male or female, or when referring to a mixed group, it is possible to alternate masculine and feminine pronouns.
+
+Alternating "he" and "she" in the same text conveys the same sense of inclusiveness as using both pronouns, and is likely to facilitate the reading.
+
+Example
+Whoever she is. Wherever he lives. Every child deserves a childhood. A future. A fair chance. That's why UNICEF is there.
+
+c) Using slashes when writing both forms of words
+
+Writers can resort to the use of slashes [/] and write both the feminine and the masculine forms of words, for instance: "she/he", "his/hers" and "him/her".
+
+Because this strategy has a negative impact on readability, it is advisable not to overuse it. Writers may resort to it when filling in forms or addressing letterheads, or if a gender-neutral expression cannot be found.
+
+Generally, the use of this strategy should be avoided in public information products such as web features, press releases, or narrative texts. In such cases, changing a sentence structure should be preferred (see previous section).
+
+
+Additional tips for writing in a gender-sensitive way
+
+The UN Women gender-sensitive lexicon should be used as a key reference. The lexicon includes 600+ terms drawn from UN and UN Women literature. It helps ensure consistent use of gender-sensitive terminology as well as to clarify possible doubts, such as the mistaken use of the verb "engender", often mistaken for "mainstream a gender perspective".
+
+In addition to adopting the above-mentioned strategies, as a general rule it is recommended to use the active voice to show the empowerment of women.
+
+Avoid using expressions that could have a negative connotation. For example, "investing" is a verb usually used in finance, for money/trading. Using "girls" to refer to grown women should be avoided, as it infantilizes and disrespects women.
+
+Pam had lunch with the girls at the office | Pam had lunch with some colleagues at the office
+
+Special attention should be paid to the use of vocabulary referring to gender identity and sexual orientation, roles and attributes, occupations, as well as to the use of titles.
+
+a) Gender identity and sexual orientation
+
+Be mindful of gender and sexual orientation. When writing about a transgender person, use nouns and pronouns consistent with the individual's gender identity, regardless of sex at birth. When possible, use the pronoun preferred by that individual.
+
+b) Stereotyping roles/attributes
+
+Refer to women and men without assuming stereotypical roles or attributes related to their gender.
+
+c) Occupations
+
+Avoid masculine generic occupational titles (i.e. fireman, mailman). See Section A on gender-neutral expressions for more examples.
+
+With the exception of contexts where gender discrimination in occupations are highlighted and thus require the use of gender-specific forms, as a general rule you should:
+- Use a gender-neutral form (especially for professions that are still male-dominated, or those that are typically female-dominated);
+- Avoid the unnecessary references to gender: adding ''female'', ''women'' or ''male'' to generic neutral terms should be avoided.
+
+d) Titles
+
+Use courtesy titles that promote gender equality regardless of marital status.
+
+Checklist for gender-related revisions
+
+When reviewing a text, the following are some of the questions that a writer should ask herself/himself:
+
+1. Does the text contain any gender-specific expressions that could have been replaced with gender-neutral ones? For instance, does the text use the words "man" or "men" (used as single words or in compound words) to refer to people who may not be men?
+2. Does the text contain the use of masculine forms in generic references, i.e. when referring to an unspecified group of people?
+3. Does the text adopt any occupational or other gender stereotypes?
+4. Does the text contain unnecessary references to sex or gender?
+5. Does the text include the same kinds of information when referring to people of different genders?

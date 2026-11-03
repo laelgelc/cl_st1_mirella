@@ -1,0 +1,49 @@
+CENTER FOR EQUITY, GENDER & LEADERSHIP
+UNDERSTANDING INCLUSIVE LANGUAGE: A FRAMEWORK
+Berkeley Haas 
+
+
+This guide was written with Invaluable support — particularly for Section 3 (Inclusive Language Framework) — provided by a working group (see Appendix A. Methodology). While we sought to include a variety of perspectives, this work may overrepresent certain viewpoints, as all of the people involved in the project were living in the United States or United Kingdom at the time of the research, and are all speakers of English. All shortcomings and errors are the authors' alone.
+
+
+---
+1. EXECUTIVE SUMMARY
+---
+
+Using inclusive language is a key aspect of creating an environment where people from a diversity of backgrounds and life experiences feel comfortable contributing and feel they belong. Choosing words that are more inclusive over harmful alternatives can be an important step toward building a more inclusive environment, and can help support effective communication to diverse audiences.
+
+Our inclusive language framework includes four guiding principles and five key questions that allow us to consider whether a term is inclusive in a given context. The framework includes guiding questions to help us continually learn so that we can communicate more effectively and inclusively across a diversity of audiences. Note that each term should be evaluated in context: some terms may be inclusive in one context but not another.
+
+Inclusive language is not about memorizing a fixed list of "good" and "bad" words. Rather, it's about centering compassion in how we communicate and recognizing that inclusive language and communication is an ongoing process.
+
+Because language is always changing and context-dependent, it is not possible to create a fixed list of words that "should" or "shouldn't" be used. Instead of focusing on policing language use, we invite you to approach language with a mindset of being open to learning and unlearning, recognizing that context matters and language changes, and being willing to change behaviors and strive to do better. Ultimately, inclusive language is a choice that each of us can make: a choice to act in a more compassionate and thoughtful way towards our colleagues, friends, neighbors, and community members.
+
+This paper explains why inclusive language matters (section 2), outlines our inclusive language framework, and illustrates how it can be applied (section 3). In section 4, we delve into the seven specific recommendations for inclusive language. Our framework and recommendations are based on a systematic literature review, with further information on our methodology in Appendix A.
+
+
+---
+2. WHY INCLUSIVE LANGUAGE MATTERS
+---
+
+Language can impact how we think about and approach problems. Language and reality are mutually reinforcing: our language reflects the world around us and influences how we think and what we do. If we use harmful language, we may be encouraged to think in those same harmful terms. For example, using the term "illegal aliens," which dehumanizes undocumented migrants, has been linked to increased violence against (perceived) immigrants, while use of more positive terms like "DREAMers" results in more positive views of undocumented migrants.
+
+Box 1. What is harmful language?
+
+There are many types of harmful language, making "harmful language" difficult to define. We consider harmful language to be any unnecessary language that results in harms such as exploitation; mental, emotional, or physical distress; violation of privacy; damage to personal reputation; economic harm; decreased participation in civic or public life (i.e. silencing); increased tendency to hate, fear, discriminate against, or endorse violence against other people (including through dehumanization); or promoting falsehoods. We include the caveat, "unnecessary," as some language can cause mental or emotional distress, but nevertheless is necessary. For example, learning that systemic racism continues to impact members of minoritized groups can be distressing for White people who may feel negative emotions such as guilt or shame when talking about racism. However, it is necessary to talk about and understand systemic racism in order to address it.
+
+Use of imprecise language, like some metaphors, can also influence how we reason about or approach an issue. For example, in one study, when crime was described as a "virus," respondents were more likely to recommend policies that addressed the root cause of crime (following the metaphor of removing a virus from an infected person), but when crime was described as a "beast," they were more likely to recommend policies that focused on enforcement (following the metaphor of caging an animal). As this study suggests, metaphors can impact our thinking and responses. Metaphors may bias us from pursuing potentially beneficial solutions if those solutions don't fit with the metaphor. For example, if crime is viewed metaphorically as being a "beast," we are more likely to pursue approaches that combat crime in ways that follow the metaphor and parallel combat against a beast (such as greater police enforcement). Even if other approaches (such as addressing root issues like poverty and police violence) could be more effective, they may be seen as less attractive options if they clash with the dominant narrative.
+
+Language can affect wellbeing and life outcomes. Overtly harmful language such as slurs and hate speech (while not a focus of this brief) may be the most recognizable examples of harmful language, with immense impacts on individuals and communities. But oftentimes, harmful language is more subtle. Verbal microaggressions, for example, can lead to negative impacts for individuals who are affected by them. Microaggressions — including verbal microaggressions — have been tied to lower physical and psychological health outcomes, including lower self-esteem, greater anxiety and depression, difficulty sleeping, tension headaches and backaches, extreme fatigue, elevated blood pressure, and diminished cognitive function. They also negatively impact productivity, particularly for people of color, LGBTQ, disabled, and other marginalized and minoritized populations. On the other hand, using inclusive language can result in profoundly greater life outcomes. For example, using an individual's pronouns correctly is associated with a 50% decrease in suicide among trans youth.
+
+Individuals have commented time and again that they experience negative effects when they encounter harmful language. For example, security analyst Brian Anderson noted how terms like "black hat," which rely on metaphors linking blackness with badness, have impacted him and his family. He wrote on Twitter, "Black people have struggled for lifetimes with negative imagery associated with blackness. The studies are clear that children see goodness and beauty in whiteness, ugliness and bad in black. MY children have to deal with this just like our parents did before us." Because words can cause harm, and because there are more inclusive alternatives available, we can use those more inclusive terms to acknowledge that we hear Anderson and others' concerns, and to show that we value the inclusion and well-being of all individuals.
+
+Using inclusive language can support personal and organizational growth. Using inclusive language presents an opportunity to improve communication by crafting a message that is easier for a broader audience to take up and understand. It is an opportunity for growth and caring for others through learning how they may interpret what is said. Moreover, many companies have publicly committed to furthering diversity, equity, and inclusion within their teams and products. Using language that promotes equity and inclusion supports the company's efforts. On the other hand, the harmful effects of non-inclusive language may be amplified by hierarchical employer/employee or teacher/student relationships in the workplace or academic setting. The presence of harmful language in workplace environments — including within datasets and codes — can contribute to alienation and may ultimately lead to inequitable workplace representation of people from different identity groups. In the face of the potential harm that non-inclusive language can cause, we can instead strive to use more inclusive language to build an environment in which individuals holding any identities feel a sense of safety and belonging that allows everyone to participate equitably.
+
+
+3.3 Maintaining a Growth Mindset
+
+We want to acknowledge that this process may cause some discomfort. On the one hand, you may feel harmed by some of the terms that come up in these discussions. On the other hand, you may find that you have used terms that others perceive to be harmful — even if it was not your intention. Realizing that some terms that you use often are harmful may feel upsetting, and changing your everyday language patterns may feel uncomfortable. We encourage you to approach this process with a growth mindset. Instead of focusing on reasons to maintain the status quo, think of the opportunities for increased inclusivity that may come with changes in how we use language.
+
+
+
+

@@ -1,0 +1,128 @@
+Definitions of Terms Describing People
+
+Gender: The confluence of individual, interpersonal, and cultural factors that contribute to an experience of categorization.
+
+Gender Euphoria: Pleasure or a feeling of completeness accompanying congruence between one's internal gender experience and external treatment.
+
+Gender Dysphoria: Pain or intense discomfort accompanying the discrepancy between an individual's internal gender experience and external treatment.
+
+Women: Any individual whose gender experience aligns with womanhood (based on self-identification of experience).
+
+Designated Sex At Birth (DSAB): This is the F (female), M (male), or significantly rarer X (intersex) marked on an infant's birth chart based on coercive labeling of perceived sex. DSAB also designates trans status.
+
+DSAB is also known as assigned sex at birth. This phrasing is outdated.
+
+Common abbreviations include designated female at birth (DFAB) and designated male at birth (DMAB).
+
+Cisgender: An individual whose experience of gender corresponds with the individual, social, and political expectations of their DSAB.
+
+Gender minority: Any individual whose experience of gender deviates from cisgender manhood.
+
+Transgender: An individual who does not experience gender in ways typical to their DSAB. Includes transmasculine, transfeminine, and nonbinary individuals.
+
+Transfeminine: An individual whose gender experience aligns with womanhood who was DMAB. This includes trans women and DMAB nonbinary people who are aligned with womanhood. This does not include DFAB nonbinary people who align themselves with womanhood.
+
+Transmasculine (abbr. transmasc): An individual whose gender experience aligns with manhood who was DFAB. This includes trans men and DFAB nonbinary people who are aligned with manhood. This does not include DMAB nonbinary people who align themselves with manhood.
+
+Nonbinary: Individuals whose gender experience is not that of either men or women, the two gender categories considered to be a binary in dominant western discourses.
+
+Transmisogyny affected (TMA): An individual who is trans and aligned with womanhood, and therefore affected by the specific violence of transmisogyny (i.e. transfeminine women are TMA).
+
+Transmisogyny exempt (TME): Anyone who is not marginalized by transmisogyny, but most often used when speaking about a trans person's status (specifically trans men or nonbinary people who do not experience transmisogny).
+
+Some nonbinary people are trans and some are not. Some nonbinary people are aligned with womanhood/manhood and some are not. Some use neutral pronouns and some do not.
+
+Agender: An individual whose gender experience is characterized by a sense of absence (i.e. no gendered experience). This is usually considered a subset of nonbinary.
+
+Genderqueer: Usually considered to be an analogous term to nonbinary, although the specific overlaps and distinctions are debated.
+
+Genderfluid: Usually considered to be a subset of nonbinary, "genderfluid" is the descriptor used by people whose gender experience changes over time. Change can happen frequently or infrequently. It is also used to mean those who have a consistent gender that falls outside of the gender binary.
+
+Gender non-conforming: An individual whose presentation does not match the cultural expectations of their gender (e.g. women who are tomboys). Can be trans or cis, any sexuality, or any gender.
+
+Gender presentation: The ways in which people express their gender through their choices of external presentation. Not all presentations are gendered or related to gender, and therefore cannot be used to determine someone's gender experience.
+
+Transphobia and Systems of Power
+
+• Cissexism: The belief that cisgender people and their experiences are normal. Manifestations of cissexism include the belief that gender is determined by your DSAB, the belief that trans people's genders are less authentic than cis people's genders, or ignoring the existence of trans people completely.
+
+• Transphobia: Violence against and hatred of trans people based on the ideology of cissexism.
+
+Transmisogyny: The specific violence that trans women face as a result of being trans and being aligned with womanhood. Transmisogyny is not experienced by trans people who are not transfeminine.Some manifestations of transmisogyny include hypersexualization, hypervisibility, and more frequent experiences of violence and sexual assault than other trans people or women. 
+
+Transmisogynoir: The specific violence that Black trans women face as a result of being Black, trans, and women. This is based on the definition from Gradient Lair: "Explanation of Misogynoir".
+
+
+Gendering Others and Pronouns
+
+• Pronouns: The set or sets of personal referents used for an individual (e.g. she/her, they/them, he/him). Pronouns do not indicate gender and cannot be used to exclude individuals based on perceived gender.
+
+• Mixed sets of pronouns (she/they, they/he): Like other pronouns, mixed sets do not necessarily indicate transness or gender in and of themselves.
+
+• Neopronouns: Any set or sets of third person referents used for an individual that are not conjugations of she, her, or they (e.g. ne/nem/nir, zie/hir, ze/zir, xe/xem/xyr).
+
+• Not using pronouns: The use of an individual's name instead of personal pronouns. This means repeating the person's name in place of pronouns in a sentence.
+
+• Misgendering: The violent act of identifying someone as the wrong gender. Misgendering someone reinforces a cissexist hierarchy in which cis people deny trans people the right to self-knowledge and materially harms trans people by denying them access to resources or support. Examples of misgendering include referring to someone as a different gender, requiring someone to use the wrong bathroom or changing room, using the wrong pronouns to refer to an individual, or claiming trans women have "male privilege" or trans men have "female socialization."
+
+Misnaming: referring to someone as a name attached to the cultural and social assumptions of their DSAB.
+
+Deadnaming: using a name someone has changed after coming out.
+
+   ◦ Marginalized genders: Those whose gender experience is categorized by oppression or those who are not cis men. This includes trans men.
+    ◦ People who are victims of misogyny: Those who are specifically victimized on the grounds of being women or women-aligned. Some trans men will have experiences that align with this category.
+    ◦ Non-men: Those who are not men. This grouping does not include trans men and may not include others aligned with manhood. if you want to include them, make sure to not use this wording.
+
+  ◦ Femme is a gender identity/mode of gender expression exclusive to lesbians that is based on femininity performed exclusively for other women or for one's butch, accompanied by a complete rejection of men.
+
+Physical and Medical Language
+
+• Bioessentialism: The flawed belief that socially constructed categories like gender have a biological basis. For example, designating sex at birth based on genetalia.  Concepts like "brain sex" are bioessentialist and and rely on white supremacist pseudo-science.
+
+• Transmedicalism: The sexist and colonialist ideology that assumes trans people were "born in the wrong body," all trans people experience gender dysphoria in the same way, and all want to medically transition in the same capacity. This ideology reinforces hierarchies of power and marginalization based on one's access to medical transition and/or "passing" status and presumes that medical transition is the goal for all trans people. This argument denies resources to trans people who do not fit into cissexist notions of transness. (i.e. nonbinary people on low-dose HRT are excluded from academic studies on transition because researchers assume the only people who pursue HRT are interested in reaching cis benchmarks of hormone levels).
+
+• Hormone replacement therapy (HRT): Despite its name, HRT is not the addition or removal of types of hormones. Instead, it is the process of changing the dominant composition of hormones in one's body. Some trans people use HRT but not all. Testosterone and estrogen work in broadly the same ways for both DFAB and DMAB people, regardless of the mechanism of introduction. Trans people on HRT generally have similar hormone balances as cis people and have similar physiological effects as a result (i.e. some transfeminine individuals take HRT on a schedule that mimics the menstrual cycle and experience PMS). There is no completely standardized method/schedule for HRT. The specific medications, dosages, and routes of administration given differ between medical systems and between individuals.
+
+▪ Transfeminine individuals generally take estrogen (as a pill,
+patch, or injection) and an anti-androgen (as a pill or injection)
+and may take progesterone as well. 
+
+▪ Transmasculine individuals generally only take testosterone,
+which is only available as a gel or as an injection. Testosterone
+is classified as a schedule III drug, unlike other medications
+given as part of HRT. It is impossible to disentangle social expectations of gender from the
+effects of hormone therapy. Testosterone is not the hormone of
+aggressiveness and estrogen is not the hormone of kindness.
+Hormone composition is not the determiner of an individual’s
+personality or mannerisms. There are cis people with hormone balances atypical to their DSAB
+who are still their gender. Hormones are not indicative of gender for
+cis or trans people (i.e. cis women with PCOS or cis men with low
+testosterone).
+
+• Surgical intervention comes in a range of forms under a range of names.
+There is no “single” surgery that determines a culmination of transition or
+completely relieves dysphoria (which is a result of social pressure and will
+exist as long as cissexism does). Medical intervention is not a checklist of things that need to be done. Someone’s transition is not ‘incomplete’ because they do not wantcertain procedures. 
+
+▪ Reproductive justice is an incredibly broad and complex issue. Marginalized people, including trans individuals, are disproportionately denied access to reproductive healthcare. Many states require proof of medical transition before changing a gender marker on official ID. Since surgery and HRT can both cause sterilization, this can prevent trans people from having biological children because of the prohibitive cost of preserving reproductive material (which is often not covered by insurance). Insurance companies can deny coverage to individuals based on official gender markers. Trans men are sometimes denied coverage for hysterectomies or other gynecological care based on presumed anatomy. Delayed treatment can cause infertility in addition to other long-term health problems.
+
+Transphobic Terms and Slurs
+
+NOTE: Some of these words are being reclaimed by the groups which they have targeted. While some trans people who have experienced cissexist violence on the basis of gender transgression may self-identify using these terms, they should not be used to identify others because of their histories and ongoing use as slurs. Most slurs based on trans status are targeted at trans women specifically.
+
+• Dated terms for trans people
+    ◦ Transsexual: An outdated term for those who have undergone medically affirming procedures. Derivatives for this term (e.g. tranny) are used as slurs, primarily against trans women.
+    ◦ Transvestite: An individual who wears clothes associated with a different DSAB.
+    ◦ Male-to-Female (MTF) and Female-to-Male (FTM): These terms imply that gender is binary and that trans people were really their DSAB prior to coming out.
+    ◦ Transgendered: Transgender is an adjective, not a verb, which means the 'ed' is grammatically incorrect.
+
+• Slurs
+    ◦ Trap: Based on the idea that trans people, specifically women, are deceiving those around them about their DSAB. This transphobic logic has serious consequences, such as the trans panic legal defense. This defense claims that a defendant is justified in murdering trans women because their capacity for self-control was diminished after being 'trapped' into sex.
+
+
+
+
+
+
+
+

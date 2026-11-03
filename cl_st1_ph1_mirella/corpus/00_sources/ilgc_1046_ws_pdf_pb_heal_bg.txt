@@ -1,0 +1,81 @@
+BC Centre for Disease Control
+Public Health Language Guide
+Guidelines for inclusive language for written and digital content
+APRIL 2024
+
+Introduction and Context
+
+When we write or speak, our words have the power to respectfully represent people or acknowledge the context they are experiencing, which help foster and maintain good relations with others. Words describe and construct what we are trying to define/label and reflect the social, historical, and political context where we use them. It's important that we are aware of our language and the implicit meanings terms convey.
+
+Reducing harm is a basic tenet when working in public health, and language matters because it has the ability to other, stigmatize, or include people. This means that while words can have a powerful impact in enhancing safety, they can also cause more harm than we might have intended.
+
+Stigma is a driver of health inequities. Through the use of accessible, affirming, and inclusive language, we can continue to lessen people's experiences of stigma and discrimination when accessing health resources and enhance equity-oriented efforts. Health equity aims to support people in their unique experiences to have "full access to opportunities that enable them to lead healthy lives."
+
+Get started today by improving your knowledge and ability to communicate inclusively.
+Practicing inclusive language will help your organization build and retain a diverse, productive, and loyal team. By committing to use these terms—and keep learning as terms evolve—you'll be rewarded with stronger, more trusting relationships, and a more respectful and enjoyable work environment. Your leadership as an inclusive communicator will help to build a healthy company culture where every person feels welcomed, accepted, and empowered to do their best work consistently.
+
+Use this handbook to make inclusive language your daily practice. You'll clear the path for everyone in your organization to do their best work. We know from years of experience with hundreds of client organizations that practicing inclusive language will reward you, your colleagues, and your customers. As a matter of fact, inclusive language will strengthen and transform your entire company culture.
+
+
+
+Frameworks
+
+World Health Organization
+
+According to the World Health Organization and the National Collaborating Centre for Determinants of Health's Let Talk Health Equity, the pursuit of health equity has become a worldwide public health objective. Health equity means that all people can reach their full health potential and should not be disadvantaged because of their race, ethnicity, religion, gender, age, sex, social class, socioeconomic status, or other socially determined circumstances. Health equity "involves the fair distribution of resources needed for health, fair access to the opportunities available, and fairness in the support offered to people when ill." While striving to improve health outcomes for all population groups, the pursuit of health equity seeks to reduce the excess burden of ill health among socially and economically disadvantaged populations.
+
+Declaration on the Rights of Indigenous Peoples Act
+
+The government of British Columbia (B.C.) passed the Declaration on the Rights of Indigenous Peoples Act in November 2019, which aims to create a path forward that respects the human rights of Indigenous Peoples, while introducing better transparency and predictability in the work we do together for true and lasting reconciliation with Indigenous Peoples living in British Columbia.
+
+Throughout this document, the term Indigenous Peoples is reflective of distinctions-based approaches to honouring the diversity and unique needs for First Nations, Inuit, and Métis Peoples.
+
+Declaration of Commitment
+
+In March 2017, B.C. became the first province in Canada to pledge their commitment to making their health system more culturally safe and effective for Indigenous Peoples. This was an important step toward embedding cultural safety and humility among those who are involved in the delivery of health services to Indigenous Peoples in British Columbia. This includes working with government, health authorities, and other healthcare system partners to support a system wide approach. This commitment reflects the high priority placed on cultural safety and humility as essential dimensions of quality and safety in reaching a shared objective of promoting the highest standard of health care with and for Indigenous populations in B.C.
+
+Provincial Health Service Authority's Values
+
+These guidelines are consistent with PHSA's values of respect people, be compassionate, dare to innovate, cultivate partnerships, and serve with purpose. To embody and live our collective values, our organization must be conscientious of the words, terms, or phrases used and habitually challenge the status quo.
+
+This guide is based on the National Institute for Allergy and Infectious Diseases' (NIAID) HIV Language Guide, released February 2020.
+
+Scope
+
+The scope of these guidelines is to support the creation and revision of new and existing public health content both written and digital, in an effort to make it more inclusive and non-stigmatizing. This includes both internal communications within British Columbia Centre for Disease Control (BCCDC) and external communication with and for users/partners.
+
+This guide is not specifically designed to inform best practices for interactions between individuals. It was developed with government communications/BCCDC content and reports in mind and may not reflect other contexts such as schools or workplaces.
+
+Limitations
+
+We recognize that terminology is continually changing, and this guide is not all encompassing. We acknowledge the inherent issues that come with a language guide sponsored by a government-funded organization. This guide is not meant to be prescriptive, and we recognize differences in language across communities, generations, and individuals based on history, context, and setting.
+
+This guide is only offered in English and is not offered in any other language as it focuses on words, terms, and phrases in the English language. Finally, this guide does not address graphics and/or images that often accompany text or social media posts.
+
+Use of "vulnerable population(s)"
+
+The following is provided by researcher from Centre for Urban Health Solutions at St. Michael's Hospital, in a post titled, "Words matter: The use of 'vulnerable' in health care and public health."
+
+Within public health and many other spaces, we often hear about helping "vulnerable groups" or doing work with "vulnerable populations." We see this in strategic plans, websites, grant applications and papers. But we don't often hear precisely what it is that people are vulnerable to, how this vulnerability is produced, or by whom. And we don't often discuss the role of health care institutions and research in producing vulnerability. Instead, there is this free-floating and vaguely outlined "vulnerability" that is just somehow there. No group of people is inherently vulnerable. If a group of people is experiencing vulnerability in a particular situation, setting, system or society, that vulnerability is being produced by other people. It is entirely possible to trace how that vulnerability is produced, and who is responsible. If vulnerable or vulnerability is used it warrants a description of how is it produced and who is responsible.
+
+When we leave it at "vulnerable groups" — the implication is that the vulnerability is built in, it's a deficit, it is a condition internal to the group.
+
+Our role as health care providers or researchers is then to save people from their own vulnerability. Healthcare and public health have a long history of scientific racism. In Dr. Katz's paper, Katz reviewed literature on eugenics, the "Bell Curve," and on what has been termed "biological determinism." All of these are theories grounded in the idea that white populations are superior. They are pseudo-scientific justifications for white supremacy. These theories have been widely and completely debunked by scientists from geneticists to epidemiologists to clinicians. But these ideas are not gone.
+
+These ideas might not be explicitly stated, but they often inform how we do research and how health care operates. When the word "vulnerable," is used, there is an increase in the likelihood that implicit racist ideas about white superiority and the role of white people in saving other flawed populations flow in to fill in the blanks. And those implications fester.
+
+Gender and Indigeneity – Framing of Two-Spirit
+
+In the summer of 1990, "Two-Spirit" was coined at the third Annual Basket and Bow Gathering of Gay and Lesbian Native Americans, near Beausejour, MB. This term is an umbrella term used by Indigenous Peoples of Turtle Island to refer to the distinct sexual, gender, and spiritual roles that existed in many Indigenous communities prior to colonization and continue to exist today. The creation of Two-Spirit was in response to the offensive and problematic term "berdache" used by Christian missionaries and members of the academy to describe those whom we would refer to as "Two-Spirit" today. Additionally, Two-Spirit, as a term, was created in response to the language of colonization, even though Indigenous communities had words in their respective languages to name, identify, and describe their Two-Spirit relatives.
+
+Two-Spirit peoples are celebrated and considered sacred for their unique capacities and roles in their respective Indigenous communities. Just as Indigenous men and women have specific roles in their communities, Two-Spirit peoples have their own roles. The colonization process, such as boarding schools, dislocation from their land, Indian hospitals, and reservations, systematically restricted, suppressed, and disrupted Two-Spirit individuals from expressing or fulfilling their distinct sexual, gender, and spiritual roles within their Nations. The contemporary Two-Spirit movement reflects resistance, survival, and cultural thriving despite colonial attempts at erasure.
+
+Contributors
+
+The BCCDC is grateful for the hard work and countless hours that staff and partners provided to develop this BCCDC Public Health Language Guide.
+
+Contact
+
+If you have any comments, suggested edits, or to offer any observations and reflections, contact knowledge.translation@bcccdc.ca
+
+

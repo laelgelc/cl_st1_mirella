@@ -1,0 +1,352 @@
+First, we would like to offer some basic guidelines:
+Refer to a disability only when it's relevant to the story and, when possible, confirm the diagnosis with a reputable source, such as a medical professional or other licensed professional.
+When possible, ask sources how they would like to be described. If the source is not available or unable to communicate, ask a trusted family member, advocate, medical professional or relevant organization that represents people with disabilities.
+Avoid made-up words like "diversability" and "handicapable" unless using them in direct quotes or to refer to a movement or organization.
+Be sensitive when using words like "disorder," "impairment," "abnormality" and "special" to describe the nature of a disability. The word "condition" is often a good substitute that avoids judgement. But note that there is no universal agreement on the use of these terms -- not even close. "Disorder" is ubiquitous when it comes to medical references; and the same is true for "special" when used in "special education," so there may be times when it's appropriate to use them. But proceed with extra caution.
+Similarly, there is not really a good way to describe the nature of a condition. As you'll see below, "high functioning" and "low functioning" are considered offensive. "Severe" implies judgement; "significant" might be better. Again, proceed with caution. This is increasingly tricky turf.
+
+Remember, our sources don't always speak the way we write. That's OK. You may end up using a derogatory term in a direct quote, but be certain that it's fundamental to the story. Otherwise, paraphrase and use a more acceptable term.
+
+In this guide, we urge reporters and other communications professionals to refer to a disability only when it's relevant to the story being told. But what is "relevant" is not always clear. Should a story about residents complaining about noisy airplanes flying over their houses note that one of the residents who is complaining uses a wheelchair? Should someone who is blind be identified as such in a story about people who have been stranded while hiking and had to be rescued?
+
+In the first case, we suggest the answer is "no." The fact that someone uses a wheelchair does not make the airplane noise any more or less irritating. In the second case, the answer is "maybe." If the hiker's blindness contributed to him or her getting stranded, making note of that fact is relevant. If the person's sight had nothing to do with the situation, leave it out.
+
+People living with disabilities often complain, and rightly so, that their disability is mentioned even when the story has nothing to do with their disability.
+
+A note about person-first language. In the past, we have encouraged journalists and others to use person-first language (such as, "a person who has Down syndrome" rather than "a Down syndrome person") as a default. Even with the caveat that this does not apply to all, we have heard from many people with disabilities who take issue with that advice. For us, this really emphasizes the fact that no two people are the same either with regard to disabilities or language preferences. And so we are no longer offering advice regarding a default. Instead, we hope you will double down to find out how people would like to be described. We also will include some guidance in individual entries here -- but again, we encourage you to confirm on a case-by-case basis.
+
+Another note -- this time about the language around COVID-19. The pandemic altered the way many people think about disability, as people who had never encountered such obstacles were suddenly unable to leave their houses. People with disabilities spoke out on social media about this, and "long haulers" now understand firsthand what some people with disabilities experience. The language around COVID-19 is evolving. The BBC and The Conversation both have well-considered takes on it. Archaeologist Elisa Perego coined the term "long COVID" to refer to people with lasting symptoms. This condition also has been called "long haul" and people with it, "long haulers."
+
+Writing about disability is complicated and requires sensitivity -- a must for any form of journalism that involves people. If you are in doubt about how to refer to a person, ask the person. And if you can't ask the person, don't avoid writing about disability. Use this guide. Do your best.
+- Amy Silverman, NCDJ advisory board member
+
+NCDJ Recommendation: The term "non-disabled," and the phrases "does not have a disability" or "is not living with a disability" are more neutral choices. "Able-bodied" is an appropriate term to use in some cases, such as when referring to government reports on the proportion of able-bodied members in the workforce. In some cases, the word "typical" can be used to describe a non-disabled condition, although be aware that some in the disability community object to its use.
+AP style: Not addressed
+
+NCDJ Recommendation: The words "abnormal" or "abnormality" might be acceptable when describing scientific phenomena, such as abnormalities in brain function. However, avoid using such words to describe a person. Referring to someone who does not have a disability as a "normal person" implies that people with disabilities are deviant or strange. "Typical" can be a better choice. Be cautious when using the term "abnormal behavior." Explain what it means in the context in which it is being used.
+AP style: Not addressed
+
+NCDJ Recommendation: "Addiction" is an acceptable term, although some prefer "substance abuse disorder." It is preferable to refer to someone who harmfully uses drugs as "someone with a drug addiction" rather than an "addict." Use "recovering" or "in recovery from" to refer to someone trying to overcome an addiction; that is, "someone recovering from a methamphetamine addiction."
+Conforms to AP style. The AP also suggests avoiding words like "abuse" or "problem" in favor of the word "use" with an appropriate modifier such as "risky," "unhealthy," "excessive" or "heavy." "Misuse" also is acceptable. Don't assume all people who engage in misuse have an addiction. Avoid "alcoholic", "addict", "user" and "abuser" unless individuals prefer those terms for themselves or if they occur in quotations or names of organizations, such as Alcoholics Anonymous.
+
+NCDJ Recommendation: It is preferable to use neutral language when describing a person who has a disability, simply stating the facts about the nature of the disability. For example: "He has muscular dystrophy."
+Conforms to AP style that suggests avoiding "descriptions that connote pity."
+
+NCDJ Recommendation: Refer to a person with albinism, rather than an albino.
+AP style: The stylebook refers, without comment, to albino, albinos.
+
+NCDJ Recommendation: Refer to someone who harmfully uses alcohol as "a person with alcoholism" rather than an "alcoholic," which tends to identify someone solely by their disease. Use "recovering" to refer to someone with the disease of addiction, as in "someone recovering from alcoholism."
+Conforms to AP style
+
+NCDJ Recommendation: Because anonymity is central to the organization, disclose that someone is a member of Alcoholics Anonymous only if it is essential to the story. When covering AA, consider referring to members by their first names only unless official references or context requires otherwise. These same considerations apply when covering other 12-step programs, such as Narcotics Anonymous or Gamblers Anonymous.
+AP style: Not addresses except in terms of abbreviation: AA is acceptable on second reference.
+
+NCDJ Recommendation: Use Americans with Disabilities Act on first reference; ADA is acceptable on second reference.
+Conforms to AP style
+
+NCDJ Recommendation: Specify American Sign Language on first reference, capitalizing all three words. ASL is acceptable on second reference. Use "interpreter" only for those who have completed advanced training. The Registry of Interpreters of the Deaf has a searchable database of registered interpreters.
+AP style: Not addressed
+See also Deaf
+
+NCDJ Recommendation: "Someone with an amputation" is generally acceptable.
+AP style: Not addressed
+
+NCDJ Recommendation: Refer to someone as having attention-deficit/hyperactivity disorder only if the information is relevant to the story and if you are confident the person has been medically diagnosed with the condition. Use "attention-deficit/hyperactivity disorder" on first reference; ADHD is acceptable on second reference.
+Some people with ADHD prefer to say they "have" the condition; others prefer to say they "are" ADHD. Ask your sources for their preference; if that's not possible, consider using people-first language (the person has ADHD or has been diagnosed with ADHD).
+AP style: Not addressed
+
+NCDJ Recommendation: Refer to someone as having autistic spectrum disorder only if the information is relevant to the story and if you are confident there is a medical diagnosis. Ask individuals how they prefer to be described. Many prefer to be described as "autistic," while others prefer "an autistic person" or a "person with autism."
+AP style: The stylebook states that it's acceptable to use the word "autism" as "an umbrella term for a group of developmental disorders." It also says it is acceptable to use the word autism in stories. It does not address the use of autistic as an adjective.
+Additional material: "I Don't Have Autism, I'm Autistic." Lenny Letter
+
+NCDJ Recommendation: Refer to someone as having "bipolar disorder" only if the information is relevant to the story and you are confident there is a medical diagnosis. If a medical diagnosis is not available, use quotes around the term and indicate that a diagnosis has not been confirmed. Do not use "bipolar" as an adjective for something other than a medical condition as for example, when referring to something that rapidly or drastically changes.
+AP style: Not directly addressed, although the style book recommends avoiding using disability-related words lightly or in unrelated situations.
+See also Depression and Mental illness/mental disorder
+
+NCDJ Recommendation: Use "blind" only when the person has complete loss of sight and "legally blind" when the person has almost complete loss of sight. Other terms also may be acceptable. It is best to ask your sources what terms they prefer and take that into consideration. Commonly used terms include:
+Limited vision: Acceptable when a person is not legally or completely blind
+Low vision: Acceptable when a person is not legally or completely blind
+Partially sighted: Used most often in British publications but acceptable if a person is not legally or completely blind
+Visually impaired: Similar to the term "hearing impaired," some may object to it because it describes the condition as a deficiency.
+AP style: Included in its "Disabled/Handicapped" entry, the stylebook describes blind as "a person with complete loss of sight" and suggests using the terms "visually impaired" or "person with low vision" for those who have some sight.
+
+NCDJ Recommendation: Use "person with a brain injury" or "person with a traumatic brain injury" rather than "brain damaged," which is considered derogatory.
+AP style: Addressed in entry for "Trauma," suggesting that "traumatic brain injury" is an acceptable use of the word "trauma."
+
+NCDJ Recommendation: "Caregiver" is preferable to "caretaker" when referring to the care of people.
+Conforms to AP style
+
+NCDJ Recommendation: Refer to someone as "catatonic" only if it is part of a medical diagnosis. Avoid using it casually as it may be offensive and inaccurate.
+AP style: Not addressed
+
+NCDJ Recommendation: It is acceptable to describe a person as "someone with cerebral palsy," followed by a short explanation of what the condition entails. It is acceptable to refer to someone as "having spastic cerebral palsy," but it is derogatory to refer to someone as "spastic" or "a spaz." When describing specific symptoms, it is always best to ask the person what terms they prefer.
+AP style: Not addressed
+
+NCDJ Recommendation: Use "person with chemical intolerance" or "people with environmental illness." Do not use "chemophobic" as it is considered derogatory.
+AP style: Not addressed
+
+NCDJ Recommendation: When referring to a person with a chronic illness, only refer to the condition if it is pertinent to the story you are confident there is a medical diagnosis. Ask your sources how they want to be described and, when in doubt, consider using people-first language, such as "person with diabetes" rather than "a diabetic."
+AP style: Not addressed
+
+NCJD Recommendation: Use "person who has a cleft palate." Avoid "harelip."
+Conforms to AP style
+
+NCDJ Recommendation: When referring to a cochlear implant, avoid describing it as a corrective device or one that would restore a deaf person to mainstream society. Instead, define it as an electronic device that can assist a person who is deaf or hard of hearing in understanding speech.
+AP style: Not addressed
+See also Deaf
+
+NCDJ Recommendation: It is acceptable to state that someone has a congenital disability or lives with a congenital disability. Alternatively, it is acceptable to say that a person "has had a disability since birth" or "was born with a disability." State the specific disability if possible. Avoid using "defect" or "defective" when describing a disability because the terms imply that the person is somehow incomplete or sub-par.
+AP style: The style book states that "congenital disorder" is acceptable and recommends being specific about the condition.
+
+NCDJ Recommendation: Do not use these words, particularly when reporting on mental illness, unless they are part of a quote that is essential to the story.
+Conforms to AP style
+See also Insane/mentally deranged/psychopathology
+
+NCDJ Recommendation: "Cretin" is considered a slur to describe a person with intellectual disabilities. Use the term "hypothyroidism" instead.
+AP style: Not addressed
+
+NCDJ Recommendation: Avoid using "cripple" as either a noun or verb unless you are describing the "crip" movement or if it's in a direct quote.
+AP style: "Cripple" is considered offensive when used to describe a person who is lame or disabled.
+
+NCDJ Recommendation: Because it is not commonly used, particularly in the U.S., include a definition when using the term.
+AP style: Not addressed
+
+NCDJ Recommendation: Lowercase when referring to a hearing-loss condition or to a deaf person who prefers lowercase. Capitalize for those who identify as members of the Deaf community or when they capitalize Deaf when describing themselves. "Deaf" should be used as an adjective, not as a noun; it describes a person with profound or complete hearing loss. Other acceptable phrases include "woman who is deaf" or "boy who is hard of hearing." When quoting or paraphrasing a person who has signed their responses, it's appropriate on first reference to indicate that the responses were signed. It's acceptable to use the word "said" in subsequent references.
+AP style: The stylebook uses "deaf" to describe a person with total hearing loss and "partially deaf" or "partial hearing loss" for others. It calls for use of a lower case "d" in all usages.
+
+NCDJ Recommendation: The terms deafblind, deafblindness, deaf-blind and deaf-blindness are all acceptable. However, whenever possible, ask the individual which term they prefer.
+AP style: Not addressed
+
+NCDJ Recommendation: Avoid these terms as they often are used inaccurately and can be offensive. It is acceptable to refer to someone as deaf or hard of hearing. If possible, ask the person which is preferable. Mute and dumb imply that communication is not possible. Instead, be as specific as possible. If someone uses American Sign Language, lip-reads or uses other means to communicate, state that.
+Conforms to AP style
+
+NCDJ Recommendation: Avoid using "defect" or "defective" when describing a disability. Instead, state the nature of the disability or injury.
+AP style: The stylebook says "birth defect" is acceptable in broad references, such as lessening the chances of birth defects. But it should not be used when referring to a specific person or to a group of people with a specific condition. Instead, be specific about the condition and use only if relevant to the story. Some prefer the term congenital disorder.
+
+NCDJ Recommendation: Avoid using "deformed" as an adjective to describe a person.
+AP style: AP medical stories tend to refer to a specific deformity or deformities rather than describing an individual as "deformed."
+
+NCDJ Recommendation: Refer to someone as having dementia only if the information is relevant to the story and you are confident there is a medical diagnosis. Use "a person with dementia" or "a person living with dementia" rather than "demented" or "senile." When possible, reference the specific disease, such as "someone with Huntington's disease." When referencing Huntington's disease or Parkinson's disease, use the full term rather than shortening to "Huntington's" or "Parkinson's."
+AP style: Not addressed
+
+NCDJ Recommendation: Refer to someone as having depression only if the information is relevant to the story and you are confident there is a medical diagnosis. If a medical diagnosis is not available, use quotes around the term and indicate that a diagnosis has not been confirmed. Specify the type of condition if it is known. The terms "depressed," "depressing" and "depressive" are acceptable in other contexts when the person being referenced does not have a medically diagnosed condition. For example, "They found the election results depressing."
+AP style: The style book suggests naming the specific condition when possible rather than making a general reference. Use lower case unless referring to the Great Depression.
+See also Bipolar disorder and Mental illness/mental disorder
+
+NCDJ Recommendation: While it is acceptable to use the terms "developmental disability" and "developmental disabilities," it is preferable to use the name of the specific disability whenever possible.
+Conforms to AP style
+
+NCDJ: "Person with a disability" is a more neutral term than "differently-abled."
+AP style: The style book suggests avoiding the term and, instead, trying to be specific about the disability.
+See also Disabled/disability
+
+NCDJ Recommendation: While it is usually acceptable to use these terms, keep in mind that disability and people who have disabilities are not monolithic. Avoid referring to "the disabled" in the same way that you would avoid referring to "the Asians," "the Jews" or "the African Americans." When describing individuals, do not reference disabilities unless it is clearly pertinent to the story. When possible, refer to a person's specific condition.
+AP style: "Disabled" is described as a general term for a physical, mental, developmental or intellectual disability. Avoid describing someone as "handicapped."
+See also Disabled people/people with disabilities
+
+NCDJ Recommendation: Use Disability Studies in the same way you would reference other academic disciplines.
+AP style: Not addressed
+
+NCDJ Recommendation: Ask the disabled person or disability organizational spokesperson about their preferred terminology.
+AP style: Conforms to AP style, which adds that in describing groups of people, or when individual preferences cannot be determined, use person-first language.
+
+NCDJ Recommendation: Do not call someone "disfigured" as it is considered derogatory. Refer specifically to the physical changes.
+AP style: Not addressed
+
+NCDJ Recommendation: Refer to someone as having "dissociative identity disorder" only if the information is relevant to the story and if you're confident there is a medical diagnosis. Use the term "dissociative identity disorder," not "multiple personality disorder," and avoid the acronym "DID." Consider using people-first language, such as "a person with dissociative identity disorder."
+AP style: Not addressed
+
+NCDJ Recommendation: When writing about Tiffany Yu's group, use "Diversability" as a proper name. Otherwise, use the terms "disabled," "disability" or "person with a disability."
+AP style: Not addressed
+
+NCDJ Recommendation: The proper term for the disorder is Down syndrome, not Down's syndrome or Down's Syndrome. (The proper terminology in the United Kingdom is Down's syndrome). Consider using people-first language, stating that someone is "a person with Down syndrome" or "has Down syndrome." Avoid using terms such as "suffers from" or "afflicted with" in association with the condition.
+The terms "intellectually disabled," "developmentally disabled," "cognitive disability" and "intellectual disability" are acceptable when used in a people-first context to describe someone with Down syndrome, such as "the person has a developmental disability." However, it is more accurate to refer specifically to Down syndrome when that is the medically diagnosed condition.
+Conforms to AP style
+See also Mentally retarded and Mongoloid
+
+NCDJ Recommendation: Only refer to a person's short stature if it is relevant to the story. It is best to ask people which term they prefer to describe them. Use the term "dwarf" only when applied to a medical diagnosis or in a quote. Avoid the terms "vertically challenged" and "midget."
+AP style: Dwarf is the "preferred term for people with a medical or genetic condition resulting in short stature." "Midget" is considered offensive. The plural of "dwarf" is "dwarfs."
+
+NCDJ Recommendation: Refer to someone as having dyslexia only if the information is relevant to the story and if you're confident there is a medical diagnosis. If a medical diagnosis is not available, use quotes around the term and indicate that a diagnosis has not been confirmed. Consider using people-first language, stating that someone "has dyslexia" rather than referring to him or her as "a dyslexic person." Avoid using "dyslexic" as a noun, as in, "She is a dyslexic."
+AP style: Not addressed
+
+NCDJ Recommendation: Refer to someone as having epilepsy only if the information is relevant to the story and if you're confident there is a medical diagnosis. Consider using people-first language, stating that someone "has epilepsy" or "has been diagnosed with epilepsy" rather than referring to him or her as an "epileptic." The term "seizure" is preferred when referring to the brief manifestation of symptoms common among those with epilepsy. Do not say the person "had a fit" or "had an epileptic fit."
+AP style: Not addressed
+See also Seizure
+
+NCDJ Recommendation: Avoid language that may legitimize facilitated communication. When writing about it, specify that major disability organizations do not recognize facilitated communication as a valid communication technique.
+AP style: Not addressed
+
+NCDJ Recommendation: Do not use the term "freak" to describe a person with a disability as it is derogatory.
+AP style: Not addressed
+
+NCDJ Recommendation: Avoid terms like "disorder" or "defect," which are considered derogatory. Instead use the word "condition" and try to identify the specific diagnosis if possible.
+AP style: Not addressed, although the stylebook uses the term "disorder" to describe a range of conditions.
+
+NCDJ Recommendation: Avoid describing people as "gifted" or "twice exceptional" unless they have been identified as such by a professional.
+AP style: Not addressed
+
+NCDJ Recommendation: Avoid using "handicap" and "handicapped" when describing a person. Instead, refer to the person's specific condition or use "person with a disability." The terms are still widely used and generally acceptable when citing laws, regulations, places or things, such as "handicapped parking," although many prefer the term "accessible parking." Avoid "handicapable."
+Conforms to AP style with regard to "handicap" and "handicapped." The stylebook does not address "handicapable."
+
+NCDJ Recommendation: "Hard of hearing" is almost always acceptable. However, use the term the person prefers if it's possible to ask.
+AP style: Not addressed except to recommend using "hard of hearing" without hyphens unless it is an adjective directly preceding a person. However, AP advises against the latter formulation.
+See also Deaf
+
+NCDJ Recommendation: Do not use "hearing impaired" or "hearing impairment." For those with total hearing loss, "deaf" is acceptable. For others, "partial hearing loss" or "partially deaf "is preferred. Some might want to be called "hard of hearing." It is best to ask your sources which terms they prefer.
+AP style: The style book defers to the National Association of the Deaf, stating: "Hearing-impaired" was a well-meaning term that is not accepted or used by many deaf and hard of hearing people."
+See also Deaf
+
+NCDJ Recommendation: Avoid using the terms "high functioning" and "low functioning." Instead, use medical diagnoses and describe an individual's abilities and challenges, rather than using less-specific labels.
+AP style: Not addressed
+
+NCDJ Recommendation: Avoid using the terms unless used in a direct quote.
+AP style: Not addressed except to state that homebound and housebound are one word with no hyphens.
+
+NCDJ Recommendation: Ask the person with the disability how they would like to be described. If that's not possible, ask a spokesperson for the organization representing the relevant disability for preferred terminology.
+Conforms to AP style
+
+NCDJ Recommendation: Use the term polio rather than infantile paralysis. It is preferable to say, "He had polio as a child;""She contracted polio as an adult," or "He has post-polio syndrome" rather than "He suffers from polio" or "He is a victim of polio."
+Conforms to AP style
+
+NCDJ Recommendation: Refer to injuries as being "sustained" or "received" rather than "suffered," as "suffer" implies that an injured person is a victim or somehow less than a person who has not been injured. Use of "sustain" or "receive" removes the implied judgment.
+AP style: The stylebook says injuries may be "suffered," "sustained" or "received,"
+
+NCDJ Recommendation: Use the term "mental illness" instead of "insane" or "mentally deranged," except in a quote or when referring to a criminal defense.
+Conforms to AP style
+
+NCDJ Recommendation: "Behavioral health hospital" or "psychiatric hospital" are the preferred terms to describe medical facilities specifically devoted to treating people with mental health conditions.
+Conforms to AP style
+See also Insane/insanity/mentally deranged/psychopathology
+
+NCDJ Recommendation: Both terms are acceptable, although consider using people-first language, stating that someone is "a person with an intellectual disability" rather than referring to the person as intellectually disabled.
+Conforms to AP style
+
+NCDJ Recommendation: Since the term is not in widespread use, its meaning should be explained for a general audience; ask sources how they prefer to describe their relationships whenever possible.
+AP style: Not addressed except as it relates to hyphenation. In general, there is no hyphen after inter, so interabled is the correct usage (not inter-abled).
+
+NCDJ Recommendation: Avoid using "invalid" to describe a person with a disability except in a direct quote.
+AP style: Not addressed
+
+NCDJ recommendation: Do not apply the term "invisible disability" to people without asking what they prefer. Many people with chronic illnesses do not consider themselves disabled and thus may be offended by the term. If a preference is unknown, specify the condition rather than referring to it as a "hidden disability," which is vague and open to interpretation.
+AP style: Not specifically addressed, but the style book suggests not using such terms without asking for an individual's preference.
+
+NCDJ Recommendation: Avoid using "lame" or "lamebrain" to describe a person except in a quote. In the case of a leg injury, explain instead that an injury resulted in difficulty walking.
+AP style: Not addressed
+
+NCDJ Recommendation: Use "learning disability" when you're confident there is a medical diagnosis. If a medical diagnosis is not available, use quotes around the term and indicate that a diagnosis has not been confirmed. Do not substitute "slow learner" or another derogatory term like "retarded."
+AP style: Not addressed
+
+NCDJ Recommendation: Refer to an individual's mental illness only when it is relevant to the story and you're confident there is a medical diagnosis. Whenever possible, specify the specific illness a person has rather than mental illness in general. Always refer to someone with a mental illness as a person first. Use quotes when officials or family members use a term such as "a history of mental illness" to refer to an individual, and when appropriate, indicate that the diagnosis has not been confirmed.
+Conforms to AP style: The stylebook cautions against describing an individual as mentally ill unless clearly pertinent to a story and the diagnosis is properly sourced. Specific disorders should be used and the source of the diagnosis identified whenever possible. The stylebook also warns against drawing a connection between mental illness and violent crime and recommends that any source used to characterize a criminal suspect's mental health history should have the authority to speak on the matter. Finally, it cautions against "using mental health terms to describe non-health issues. Don't say that an awards show, for example, was "schizophrenic."
+
+NCDJ Recommendation: Ask professionals how they should be identified, based on their formal training. Avoid using the word "shrink" in reference to a mental health professional except in a quote.
+AP style: Not specifically addressed, but the style book refers to "mental health professional" in an entry on mental illness.
+
+NCDJ Recommendation: Do not use the term retarded or other iterations. If you are going to use it in a quote, consider that decision carefully, as the word is particularly charged. Instead, always try to specify the type of disability being referenced. Otherwise, the term "intellectually disabled" is acceptable. Consider using people-first language, as in "a person with an intellectual disability" rather than "an intellectually disabled person." As always, ask the person which terms they prefer.
+At times, words that are considered outdated may be appropriate because of the story's historical context. In those cases, attribute the term or note its historic use. For example, "The doctor said he was retarded, a term widely used at the time."
+AP style: "Mentally retarded" should be avoided. The stylebook suggests using terms such as "mentally disabled," "intellectually disabled" and "developmentally disabled."
+See also Intellectual disabilities/intellectually disabled
+
+NCDJ Recommendation: Avoid the use of "mongoloid" to refer to someone with Down syndrome. Even in the case of a direct quote, consider how offensive the term is and include the historical context if possible.
+AP style: Not addressed
+See also Down syndrome
+
+NCDJ Recommendation: It is acceptable to describe a person as "someone with muscular dystrophy" or "someone living with muscular dystrophy," followed by a short explanation of what the condition entails. Avoid saying a person "suffers from" or "is afflicted with" the disease. MD is acceptable on second reference.
+AP style: Not addressed, although AP does not use the abbreviation MD.
+
+NCDJ Recommendation: "Non-disabled" or "does not have a disability" are acceptable terms when referring to people who do not identify as having a disability. In general, avoid using "able-bodied' except in a quote.
+AP style: Not addressed
+See also Able-bodied
+
+NCDJ Recommendation: "Neurodiversity" can be used as a way of describing someone on the autism spectrum, but because it's a relatively new term, consider offering the definition when you use it, particularly in work meant for a mainstream audience. Remember that not everyone in the autism community prefers the term.
+AP style: Not addressed
+
+NCDJ Recommendation: Avoid using either term except in a direct quote. Ask the person or someone who knows them how they would like to be described.
+AP style: Not addressed except in terms of hyphenation. The general rule is not to hyphenate when using a prefix with a word starting with a consonant (nonverbal and nonspeaking)
+See also: Facilitated communication
+
+NCDJ Recommendation: Refer to someone as having OCD only if the information is relevant to the story and you're confident there is a medical diagnosis. If a medical diagnosis is not available, use quotes around the term and indicate that a diagnosis has not been confirmed. Do not use OCD as an adjective for someone who obsesses over certain things but has not been formally diagnosed with the disorder. Use "obsessive-compulsive disorder" on first reference; OCD is acceptable in second reference.
+AP style: Not addressed
+
+NCDJ Recommendation: Avoid referring to an individual as a paraplegic. Instead, say the person has paraplegia. Sometimes people with paraplegia refer to themselves as a "para." In those cases, use the word in quotes.
+AP style: Not specifically addressed, but AP refers to paraplegia in its general disability entry.
+
+NCDJ Recommendation: Ask your sources what term they prefer. Otherwise, "hard of hearing" is almost always acceptable.
+AP style: The stylebook recommends using "partial hearing loss" or "partially deaf" for those who have some hearing loss.
+See also Deaf; Cochlear implant and Hard of hearing
+
+NCDJ Recommendation: Avoid referring to someone with a disability as "sick" or to their disability as a "sickness." If a person is receiving medical treatment, then the word "patient" is appropriate; however, it should be avoided outside of a medical context.
+AP style: Not addressed
+
+NCDJ Recommendation: Ask the person with a disability how they prefer to be described; if that's not possible, ask a spokesperson for the organization representing the relevant disability for preferred terminology.
+Conforms to AP style
+See also Identity-first language
+
+NCDJ Recommendation: Use Plain English or Plain Language but confirm with the source that that is the correct terminology. It might be Easy English.
+AP style: Not addressed
+
+NCDJ Recommendation: Refer to someone as having PTSD only if the information is relevant to the story and you're confident there is a medical diagnosis. "Post-traumatic stress disorder" is correct on first reference; use PTSD on second reference. The term "flashback" may be used to denote reliving an event that triggered the PTSD.
+AP style: PTSD is acceptable on either first or second reference but should be spelled out at least one time. Many medical organizations do not use a hyphen when spelling "posttraumatic;" however the AP does.
+
+NCDJ Recommendation: All the terms are acceptable, although, because they are not widely used, an explanation is required for a general audience.
+AP style: Not addressed
+See also Deaf
+
+NCDJ Recommendation: Use the words "psychotic" and "psychosis" only when they accurately describe a medical experience. Avoid using "psychotic" as an adjective to describe a person; instead refer to a person as "having a psychotic condition" or "experiencing a psychosis." Avoid using the terms colloquially.
+AP style: Not directly addressed, although the style book recommends avoiding using disability-related words lightly or in unrelated situations.
+See also Mental illness/mental disorder
+
+NCDJ Recommendation: Consider using people-first language, such as "a person with quadriplegia," or "a person living with quadriplegia" rather than "quadriplegic," since the latter implies that the condition defines them. Sometimes people with quadriplegia refer to themselves as "quads." In these cases, use in quotes.
+AP style: Not addressed
+See also Tetraplegia/tetraplegic
+
+NCDJ Recommendation: Refer to someone as having schizophrenia only if the information is relevant to the story and you're confident there is a medical diagnosis. If a medical diagnosis is not available, use quotes around the term and indicate that a diagnosis has not been confirmed. Consider using people-first language, stating that someone is "a person with schizophrenia," "a person living with schizophrenia," or "a person diagnosed with schizophrenia" rather than a "schizophrenic" or "a schizophrenic person." Do not use the word "schizophrenic" colloquially as a synonym for something inconsistent or contradictory.
+AP style: Schizophrenia is classified as a mental illness. The stylebook cautions against using mental health terms to describe non-health issues. "Don't say that an awards show, for example, was schizophrenic."
+
+NCDJ Recommendation: Do not say someone has had a seizure unless there has been a medical diagnosis. If a medical diagnosis is not available, use quotes around the word and indicate that a diagnosis has not been confirmed. Do not assume that a person who has had a seizure has epilepsy.
+AP style: Not addressed
+See also Epilepsy/epileptic/epileptic fit
+
+NCDJ Recommendation: The terms "service animal,"" assistance animal" and "guide dog" all are acceptable. Avoid use of "Seeing Eye dog" as Seeing Eye is a registered trademark of The Seeing Eye school in Morristown, N.J. Be aware that licensure and/or certification of service animals is a contentious issue in the disability community, so it may be best to refer to the federal definition.
+AP style: Although there is no entry for service animal, the style book takes note of the Seeing Eye dog trademark and says "guide dog" is prefered in all references.
+
+NCDJ Recommendation: Avoid using these terms when describing a person with a disability or the programs designed to serve them, with the exception of government references or formal names of organizations and programs. It is more accurate to cite the specific disability or disabilities in question. The term "functional needs" is preferred when a term is required. For example, "addressing the functional needs of people with disabilities" could be used when referring to a facility or program.
+Don't use the term "SPED" as shorthand for special education. It's considered offensive.
+AP style: The style book urges avoidance of the term "special education" and suggests trying to be specific about the needs or services in question.
+
+NCDJ Recommendation: It is acceptable to describe a person as "someone with spina bifida" or "someone living with spina bifida," followed by a short explanation of what their condition entails, if it is pertinent to the story.
+AP style: Not addressed
+
+NCDJ Recommendation: The word "stuttering" is preferred over "stammering." Instead of referring to an individual as "a stutterer;" say "a person who stutters." Refer to stuttering only if it is relevant to the story. Avoid "childhood-onset fluency disorder" without explanation.
+AP style: Not addressed
+
+NCDJ Recommendation: It is preferable to use neutral language when describing a person who has a disability, simply stating the facts about the nature of the disability. For example: "He has muscular dystrophy," and avoiding characterizing those conditions as afflictions.
+Conforms to AP style that suggests avoiding "descriptions that connote pity."
+
+NCDJ Recommendation: The NCDJ endorses The Associated Press style, below.
+AP style: Avoid using "committed suicide" except in direct quotations from authorities. Alternate phrases include "killed himself," "took her own life" or "died by suicide." The verb "commit" with "suicide" can imply a criminal act. Laws against suicide have been repealed in the U.S. and many other places. Do not refer to an "unsuccessful suicide attempt." Refer instead to an "attempted suicide."
+"Medically assisted suicide" is permitted in some states and countries. Advocacy groups call it "death with dignity" or "right-to-die," but AP does use those phrases on their own. When referring to the legislation whose name includes "death with dignity," "right-to-die" or similar terms, say the law or proposal allows 'the terminally ill to end their own lives.' If the term is in the name of a bill or law, make that clear. 'Euthanasia' should not be used to describe 'medically assisted suicide' or 'physician-assisted suicide'." The AP also suggests using resources from www.reportingonsuicide.org.
+
+NCDJ Recommendation: Terms such as "battle" and "survivor" are still widely accepted and understood, but the user should be aware that they could offend some people.
+AP style: The style book suggests using the term "survivor" with care because it can be imprecise, among other reasons.
+
+NCDJ Recommendation: Consider using people-first language, such as "a person with tetraplegia" rather than tetraplegic, since this implies that the condition defines them.
+AP style: Not addressed
+See also Quadriplegia
+
+NCDJ Recommendation: If you're an educator, consider alerting students ahead of time if content contains graphic descriptions of traumatic events. Journalists also may want to include such warnings in material distributed to a general audience. Triggers can be hard to predict, and they vary from individual to individual, but communicating the nature of your content builds audience trust. Refrain from using the term "trigger warning" in a flip or casual way.
+AP style: The style book suggests a content warning at the top of stories when the subject matter may be considered offensive or disturbing, but the story does not contain quoted profanity, obscenities or vulgarities. For example: "Eds: Graphic details of the killings could be offensive or disturbing to some readers."
+
+NCDJ Recommendation: Use "Tourette syndrome" with no possessive or capitalization of "syndrome." Refer to someone as "having Tourette syndrome" only if the information is relevant to the story and if you're confident there has been a medical diagnosis. Consider using people-first language, stating that someone is "a person with Tourette syndrome" or "a person diagnosed with Tourette syndrome." Avoid the acronym TS, as it is not widely known.
+AP style: The AP merely defines Tourette Syndrome as, "A neurological disorder characterized by involuntary, repetitive movements and vocalizations."
+
+NCDJ Recommendation: "Treatment" is an acceptable term for medical interventions, and "treatment center" is acceptable for the establishment in which such practices take place. Use "treatment center" in place of "rehab" or "detox" center. A person enrolled in a treatment center should be referred to as a patient.
+AP style: Not addressed
+
+NCDJ Recommendation: It is preferable to use a medical professional's diagnosis or, if that is not possible, terms such as "comatose" or "non-responsive." Avoid referring to someone as "a vegetable" or "veg" as such words dehumanize the person. The term "vegetative state" is preferable to "vegetable" or "veg," but it is considered offensive by some and is frequently misused.
+AP style: The stylebook allows the use of "vegetative state," describing it as "a condition in which the eyes are open and can move, and the patient has periods of sleep and periods of wakefulness, but remains unconscious, unaware of self or others."
+
+NCDJ Recommendation: It is acceptable to describe a person as "someone who uses a wheelchair," followed by an explanation of why the equipment is required. Avoid "confined to a wheelchair" or "wheelchair-bound" as these terms describe a person only in relationship to a piece of equipment. The terms also are misleading, as wheelchairs can liberate people, allowing them to move about, and they are inaccurate, as people who use wheelchairs are not permanently confined to them but are transferred to sleep, sit in chairs, drive cars, etc.
+Conforms to AP style
+

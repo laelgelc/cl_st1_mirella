@@ -1,0 +1,94 @@
+GENDER-NEUTRAL LANGUAGE
+
+Use the singular "they" instead of "he or she." The singular "they" is grammatically correct and can be used to refer to an unspecified person, a person whose pronouns are unknown, or a person who uses they/them pronouns.
+
+Example: Before a resident fills out their application, they should check the eligibility requirements.
+
+Do not assume a person's gender or pronouns. When communicating with or about coworkers, contractors, and members of the public, do not address them as Sir, Ma'am, Mr., Ms., Miss, or any other language that assumes gender. Only use honorifics (Mr./Ms./Mx.) if the person has indicated their desired honorific. The gender-neutral honorific "Mx." is pronounced mɪks (micks) or mʌks (mucks).
+
+You can simply exclude this language and/or use the person's name. If you want to indicate a higher level of formality, you can use other language to communicate politeness, or you can use gender-neutral titles, like Chair, Commissioner, Attorney, etc.
+
+Example: Excuse me, would you be able to direct me to the Clerk's Office?
+Example: Thank you for that presentation, Attorney Lopez. Commissioner Miller, you have the floor.
+
+Omit unnecessary references to gender. Do not call attention to gender, gender expression, appearance, or other identities. For example, is it important to the content you are writing that a doctor is a woman, or that a presenter is transgender? If not, remove the language.
+
+TRANSLATIONS, "LATINX," AND "LATINE"
+
+When translating and interpreting into other languages, use gender inclusive language.
+
+Gender-inclusive language is emergent and is constantly changing. For example, in Spanish, neither Latinx nor Latine is universally accepted, similar to the singular "they" in English. Latine was created by queer and feminist communities in Spanish-speaking countries, while Latinx is more popular in the United States. The "-x" and "-e" endings were both created to challenge the grammatical gender binary, as an alternative to using the masculine form for mixed-gender groups, and to be inclusive of all genders. We should do our best to use the most inclusive language available, and recognize that language is complicated and imperfect.
+
+In City documents, use Latinx or Latine instead of Latino, Latina, or Latin@. When referring to a group, a person whose gender you do not know, or someone who uses gender neutral pronouns, use -x or -e(s) endings instead of -o(s) or -a(s).
+
+Example: Todes elles están interesades en diversidad e inclusión.
+
+To help avoid confusion, consider adding a statement at the beginning of written communications that explains use of Latinx or Latine.
+
+Example: We use "Latine" and "-e" endings in this document to center gender inclusion. We understand that language is complicated. Everyone has the right to identify with language that feels right to them. Regardless of the language you use to identify yourself, you are welcome here.
+
+Note that, while Latinx or Latine are more inclusive when referring to groups, it is important to respect the language that individuals use to describe themselves, including Latino, Latina, Latinx, and Latine. Never correct the language someone uses to self-identify.
+
+
+TRANSGENDER-INCLUSIVE LANGUAGE
+
+Always use a person's chosen name and pronouns. A person's name and pronouns are not optional or "preferred," and their correct name and pronouns must be used every time.
+
+Use "gender" instead of "gender identity." Saying that someone "identifies as a man" or that their "gender identity is nonbinary" marks them as different and undermines their gender. Just say, "He is a man," or "They are nonbinary."
+
+Use "gender identity" only to specify or draw a distinction between gender identity and expression.
+
+Example: The community group recognizes diversity of both gender identity and gender expression.
+
+
+OTHER LANGUAGE TO AVOID
+
+This list is not comprehensive, and it is subject to change. Offensive language is listed here only for the purpose of education. It should not be used in any other context.
+
+
+FORMS & DEMOGRAPHICS
+
+Avoid asking for information you don't need. Demographic information can be sensitive, and can deter users from completing forms. Users may not feel comfortable sharing their personal information, or the available options may not describe them. Data collection can be especially invasive for underserved populations, who may not trust government organizations due to historical and systemic oppression.
+
+Only ask for demographic information if the City needs the data to serve a marginalized population. Demographic data should be de-identified and treated confidentially during analysis and use.
+
+Think critically about whether you truly need to know a user's gender (or any other personal information). Could you omit the question? Could you ask for a person's pronouns instead of gender?
+
+QUESTIONS TO CONSIDER
+
+Consider these questions before you choose to ask for personal or demographic information:
+- How would I use this information to benefit the target audience of this question?
+- Do I have the resources and a plan to effectively analyze and apply the information I want to collect?
+- What potential harm could I cause by asking this question?
+- What potential harm could I cause by not asking this question?
+- Is this question intrusive? Would I ask this question of a stranger?
+- Why might a person with a marginalized identity be uncomfortable providing this information?
+
+BEST PRACTICES
+
+If you must ask for demographic information, always follow these guidelines:
+- Be transparent about why you are asking and how it will benefit the user.
+  Sample: We use demographic information to help us understand our population and for grant reporting. Please help us serve you better by choosing the options that best describe you.
+- Allow users to choose multiple options by offering checkboxes instead of radio buttons.
+- Make fields optional, and include an option "Prefer not to say".
+- Allow users to choose their own language by making the field a text box, or offering an option "Prefer to self-describe".
+
+NAME
+
+Do not require a legal name. If you need a person's legal name in order to comply with state or federal regulations, also ask for their chosen name. Explain why you need their legal name, and use their chosen name in any response.
+
+GENDER & PRONOUNS
+
+Consider what information you need to collect. Do you need to know if a person is transgender? Do you need to know their gender, or just what pronouns they use?
+
+LGBTQ+ IDENTITY
+
+Avoid asking for a person's sexual orientation or gender if possible. Recognize that this topic is very personal for many people, and some users will be very uncomfortable with this question.
+
+
+INCORRECT FIELDS
+
+Do not use any of these incorrect field configurations:
+- Do not list Transgender under Sexual Orientation.
+- Do not place non-binary genders into an "Other" category or use the labels "Male" and "Female".
+- Do not list Transgender Woman/Man separately from Woman/Man.

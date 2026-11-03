@@ -1,0 +1,58 @@
+Replace words such as 'Master' and 'Slave' with Primary and Secondary. 
+
+
+Race and ethnicity
+
+The terms highlighted below may infer a level of racial bias or discrimination.
+
+White-list / Black-list
+Suggested replacements: Allow List / Deny List; Approved List / Block List
+
+Master / Slave
+Suggested replacements: Primary / Secondary; Active / Standby; Primary / Subordinate
+
+White hat / Black hat
+Suggested replacements: Non-Malicious / Malicious; Ethical / Unethical; Authorised / Non-authorised
+
+Black Market
+Suggested replacements: Illegal market; Unsanctioned
+
+Gender and orientation
+
+The terms highlighted below may infer a level of gender bias or discrimination.
+
+Grandfather
+Suggested replacements: Legacy; Primary / Secondary / Tertiary; Full / Incremental
+
+Penetration testing
+Suggested replacements: Ethical Hacking; Red / Blue Testing; Security Assessment / Test
+
+Man-in-the-middle
+Suggested replacements: Intercept-attack; Network interception
+
+Male to Female
+Suggested replacements: Male Alternative: Plug, Pin, Prong; Female Alternative: Receptacle Socket, Slot, Jack
+
+Accessibility
+
+The terms highlighted below may infer a level of disability bias or discrimination.
+
+Sanity Check
+Suggested replacements: Functional test; Confidence check; Sense check; Spot check
+
+Dummy
+Suggested replacements: Beginner
+
+
+Military and criminal
+
+The terms highlighted below may infer a level of criminal bias or discrimination.
+
+Repeat Offenders
+Suggested replacements: History of violations; Accidental insider; Malicious insider; Threat actor; When used in conjunction with phishing: Repeat clickers
+
+Kill chain
+Suggested replacements: Attack chain; Attack lifecycle
+
+Wargames
+Suggested replacements: Cybersecurity exercise / simulation

@@ -1,0 +1,255 @@
+ABILITY
+
+Avoid language that ascribes a negative association to disability, mental illness, or addiction.
+These include "blind spot," "a deaf ear," "a blind eye," "lame," "spaz," "crazy," and other words or expressions that stigmatize physical disability, as well as phrases such as "I'm so OCD about my schedule" or "this cake is like crack to me."
+
+Avoid negative or demeaning language for people with disabilities, mental illness, or substance use.
+Use neutral language when referring to someone's disability, injury, illness, or addiction. Avoid language that suggests suffering, affliction, or struggle unless that information is known and relevant to the information being shared.
+
+Focus on language that is 'person-first' to emphasize the individual as a human being and view the disease, condition, or disability as only one part of the whole person.
+
+Examples:
+    Mr. Francesco uses a wheelchair (not "Mr. Francesco is wheelchair-bound")
+    Andrea Navarro has anxiety (not "Andrea Navarro suffers from anxiety")
+    They are in recovery from addiction (not "they struggle from addiction")
+
+
+Speak to audiences of all abilities.
+Use language that is accessible to audiences of all abilities and cognitive levels. Avoid the use of jargon. Write in the active voice, using clear and direct language. Explain acronyms or other terms of the profession in plain language.
+
+
+Structure information clearly.
+Provide "sign posts" in your writing, such as subheadings, bullet points and other structural cues that allow readers to clearly follow the information being presented. Use these "sign posts" consistently throughout your content so that their significance can clearly be understood.
+
+Avoid complex presentations of information (such as tables or complicated flow charts) if a plain text version would suffice. If a visual diagram is necessary, provide a written description of the information.
+
+For digital content, use descriptive link text that clearly indicates where the user will be taken when they click the link.
+
+Example:
+    If linking to a document titled "Health History Form," use the words "Health History Form" as your link text, rather than "click here" or simply "Form").
+
+Use accessible formats.
+Present information as plain text (rather than as an attachment or download) where possible so that readers can scan and/or scale the content as needed on their device. Audiences may not be able to open, read or understand attachments such as PDFs, Powerpoints and Excel spreadsheets, depending on their ability, device and software access. Provide alt text for all images.
+
+IDENTITY
+
+Use language that reflects what people call themselves.
+Take the time to find out what words a person or group uses for their identities and experiences, rather than making assumptions. Match the descriptions each person provides for themself. However, do not include descriptions of race, gender, ability or age unless they are relevant to the information being shared. If you are writing or speaking about someone whose pronouns you do not know, try to "write around" the use of pronouns by using their name, rather than assuming which pronoun to use, or use "they" as a gender-neutral pronoun.
+
+When meeting someone or introducing yourself, share your pronouns and ask the other person for theirs, such as, "Hi, I'm Ms. Li. My pronouns are she/her. What is your name and what pronouns do you use?"
+
+Ask before using a title such as "Mr." or Mrs." when addressing an adult, such as, "May I call you Mr. Hernandez?" or "How would you like to be addressed?"
+
+If you do not have the opportunity to ask about someone's title, consider using their full name in correspondence, such as, "Dear Raj Patel."
+
+Use person-centered language unless otherwise indicated.
+When talking about groups you aren't a member of, do not use an identity as a stand-in for a person or a group. Refer to "people with disabilities" instead of "the disabled;" "transgender people" instead of "transgenders" or "the transgendered;" etc. However, if someone self-identifies as "deaf" rather than "a deaf person," follow their lead.
+
+Similarly, use racial and religious identification as an adjective, rather than a noun ("Black people" instead of "Blacks"), unless an individual or group identifies that way.
+
+Be aware that one person's definition of disability may vary from the next.
+
+Example:
+    A person with autism may not consider themselves to be disabled, but may identify as autistic.
+
+Choose visuals that accurately reflect the full diversity of your community.
+Diversity encompasses far more than race. Your school community contains people of diverse ages, national origins, gender identities, sexual orientations, physical and developmental abilities, socioeconomic statuses, religious beliefs, parental and marital statuses, educational backgrounds, veteran status, citizenship, income, and employment.
+
+Within your school community, you have educators and students with varied interests, tastes, fashions, personalities, and identities.
+
+While each school district contains a broad spectrum of beliefs, experiences and affinities, the imagery that you select should not overstate or misrepresent what that diversity looks like. Avoid tokenism, when a small number of people are repeatedly or prominently featured in such a way that suggests the district is more diverse in some areas than it may truly be.
+
+When selecting images to use in your communications, consider the following questions:
+
+    Who is missing or excluded? Can everyone see someone like themselves represented in these photos?
+    Would I want to be portrayed this way? If this was a photo of me or someone I love, would I be okay with how they are represented?
+    Are any stereotypes being perpetuated in the photo I am using? Am I depicting someone in the role our culture typically puts them in, or making a more unexpected choice?
+    Do these images accurately represent our community? Does this look like a picture of my district? Does this combination of images truly showcase the types of diversity that are found in this community?
+
+While no single image can capture the full range of diversity within your school community, each image becomes part of a larger story about the district.
+
+Write without stereotyping.
+Be aware of stereotypes about race, gender, sexual orientation or physical ability. When writing about an individual who may be historically excluded, examine your writing for any descriptions that reinforce stereotypes. Ask yourself if you would write the same way about someone of a different race, gender, sexual orientation or physical ability. If the answer is "no," that may be an indication that you are being influenced by stereotypes about your subject.
+
+In the 1980s, sports journalists and fans often used different language to describe NBA stars Larry Bird and Magic Johnson. Bird was often characterized as "hard-working," while Johnson was described as "naturally gifted," reinforcing stereotypes about race. Other examples of this include: describing a person of color as "articulate," suggesting that someone of Asian descent is "naturally" skilled at math or science, or expressing surprise when a woman excels in a field that has traditionally been dominated by men, such as the construction trades.
+
+Use specific (not coded) language.
+Speak clearly and directly about expectations for students, and about students themselves. Terms such as "achievement gap," "underachieving" and "at-risk" can inaccurately portray the reality of the situation.
+
+Seek precise language rather than vague terms or catchphrases.
+
+Examples:
+    It is more precise to say that your school district serves a majority of Black, Latinx and/or Indigenous students, rather than referring to it as a "minority" population.
+    Referring to an "achievement gap" between Black and white students obscures the inequities that lead to disparate outcomes between privileged and less privileged students.
+
+FAMILY FORMATION AND SOCIOECONOMICS
+
+Recognize diverse family formation.
+In written and other communications, including forms and official documents, consider "parent/ caregiver" instead of "mother," "father" or just "parent." Consider whether it is appropriate to refer to "your child," knowing that the recipient of your communications may be a guardian who is not the parent of that child.
+
+If your district recognizes celebrations such as Mother's Day and Father's Day, or hosts events such as "Doughnuts with Dads," ensure that other types of non-parental caregivers — including single parents, grandparents and non-related caregivers — are also honored and included.
+
+Use language that is mindful of the pressures families may face outside of school.
+For many households, weekends, breaks and time off school can be stressful, rather than fun or relaxing. When addressing families, take these circumstances into consideration when you are referring to what happens outside of school.
+
+Your audience may include people who are unemployed, self-employed, required to work early mornings, late nights or weekends; receiving benefits; and transient or in unstable housing. Your audience may not have access to a backyard, vacations, a car, a private bedroom, a refrigerator or a stove.
+
+Examples:
+    A homework assignment can direct a student to read a book "outside of school with an adult," rather than "Read this book in your room at bedtime with your Mom or Dad."
+    An end-of-year newsletter can wish families "a safe and healthy summer," rather than saying, "I'm sure we are all looking forward to some rest and relaxation."
+
+Use person-first language about poverty and houselessness.
+Use language such as "experiencing houselessness" or "experiencing poverty." Avoid terms such as hobo, needy, poverty-stricken, less fortunate, at-risk or impoverished.
+
+Be specific if writing about a block, neighborhood, community or population with regard to inequalities, rather than describing a neighborhood as "troubled," "run-down," "dangerous" or "the ghetto."
+
+Example:
+    "Valerie grew up on the East Side in the 1990s, at a time when many people in her neighborhood experienced poverty and unemployment."
+
+Avoid reinforcing stereotypes about communities. Center the experiences of the people within a community, rather than an outsider's perspective of that community, when writing about it.
+
+SEXUALITY AND GENDER
+
+Understand and respect the difference between sexual orientation and gender identity.
+The first four letters of the acronym LGBTQIA+ are used to describe the lesbian, gay, bisexual, and transgender community. The first three letters (LGB) refer to sexual orientation. The 'T' refers to gender identity.
+
+Avoid the use of gender-specific terms unless relevant.
+Seek out terms and titles that do not specify gender.
+
+Avoid adding gender-specific modifiers to someone's profession or role. Use, for example, professor rather than female professor or nurse rather than male nurse.
+
+Use 'they' as a singular pronoun.
+When presenting a generalization or speaking in the abstract, use "they," including as a singular pronoun, rather than choosing a masculine or feminine term.
+
+Examples:
+    "When a student enters our school, they are welcomed …" (instead of "he is welcomed" or "he or she is welcomed").
+    "Once our new teacher is in place, we will introduce them to the school community" (instead of "introduce him/her").
+
+Avoid identifying members of the LGBTQ+ community without permission.
+When referring to individuals, it is critical to ask permission when identifying them as a member of the LGBTQ+ community. This is critical in preventing anyone being 'outed' without their consent.
+
+
+YOUTH AND AGING
+
+Avoid references to age unless necessary and relevant.
+If a reference to age is necessary, use specifics rather than generalizations ("older than 65" rather than "elderly," or "a grade-school student" instead of "a child").
+
+Be aware of stereotypes based on age.
+Ageist language may characterize someone as "feeble" when they are old, and "bratty" or "acting up" when they are young. Using fact-based descriptors to describe people and events can help avoid stereotyping and generalizations.
+
+
+STYLE AND FORMATTING
+
+Important disclaimer:
+While this section contains a list of words, the goal of our equity and inclusivity work is not to create a list of things we 'can' and 'cannot' say - it is to help us all as we learn how to pause and think about how we communicate and the impact of our words. That pause might sometimes lead you here to check your language.
+
+
+GENDER, PRONOUNS, IDENTITY
+
+
+Pronouns
+Ask and let the person self-identify
+Use terms such as pronouns, correct pronouns, proper pronouns, name, or correct name and avoid using terms such as preferred pronouns/name.
+
+Use "they/their":
+    as a gender-neutral pronoun
+    until someone confirms what their pronouns are
+    when someone tells you those are their pronouns
+    in place of he/she or his/her
+
+GENERAL
+
+equity vs. equality
+"Equity" is our preferred term whenever possible. That said, "equality" may be a better choice depending on context.
+
+
+DO NOT USE
+
+black mark
+black market
+black sheep
+blacklist/whitelist
+blind leading the blind
+cakewalk
+call a spade a spade
+circle the wagon
+colorblind ("I don't see color")
+crack the whip
+crazy, insane, psycho
+crippling (as in fear)
+dumb, lame
+eenie meenie miney mo
+Eskimo
+Falling on deaf ears
+fuzzy wuzzy
+grandfathered in
+guru
+gypsy/gyp/gypped
+hip hip hooray
+hooligan
+Indian style
+kumbaya
+long time no see
+low man on the totem pole
+master/slave
+mumbo jumbo
+ninja
+no can do
+off the reservation
+peanut gallery
+pow-wow
+Sherpa
+spirit animal
+tipping point
+uppity
+voodoo
+war path
+white knight
+
+
+THE GRAY AREA
+
+Some words/phrases depend on context. For these, pause before using and think about your audience. When in doubt, ask!
+
+ADD/OCD
+Ok when referring to people who are neurodivergent, but should be avoided when used to refer to someone who is distracted or particular.
+
+articulate
+Avoid as an adjective (to describe someone). Generally OK as a verb, but consider your audience.
+
+black and white
+In general, this phrase is fine - it doesn't compare good and bad, but consider your context. If you are using it to compare good/bad or are writing about race, consider rephrasing ("cut and dry").
+
+boy
+OK when referring to children, but do not use in any context to describe a Black adult OR child.
+
+chief
+OK when used to mean primary (chief concern) or in a formal title. Consider your
+
+exotic
+Do not use to describe people in any context.
+
+manned
+OK if you're positive something is manned by...a man. Otherwise, avoid.
+
+tribe
+urban
+woke
+
+HISTORY OF WORDS TO AVOID
+
+black mark, black market, black sheep, blacklist
+All too often, our culture uses the symbolism of white being something positive and black being negative. Using language that is critical to something being black or dark while praising white or light colludes with racism by reinforcing notions that black = bad and white = good.
+
+call a spade a spade
+An example of how a phrase can take on a negative connotation over time, a "spade" began to evolve into a racialized term for a Black person in the 1920s.
+
+circle the wagon
+Attached to the saying "the savages are coming and we are about to be attacked", this phrase was greatly influenced by Hollywood depictions of settlers in North America moving west to invade and inhabit the traditional territories of indigenous people.
+
+colorblind ("I don't see color")
+We are striving for equity, not assimilation. Being different is not inherently negative. By saying you don't see color, it could be interpreted to mean that you are not aware of, or concerned by, the systemic bias that maintains disproportionate vulnerability for people of color in American society.
+
+crippling (as in fear)
+Ableist language that insinuates something is the worst it can be.
+

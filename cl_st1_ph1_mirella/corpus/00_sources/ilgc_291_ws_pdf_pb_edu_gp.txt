@@ -1,0 +1,246 @@
+---
+3. INCLUSIVE LANGUAGE FRAMEWORK
+---
+
+Language is a powerful tool that can be used to bring people together or to foment divisions. In all environments — including technical environments — the way we communicate can have powerful effects on others, as described above. Inclusive language is an important step in building inclusive environments. In this section, we present an overview of our inclusive language framework, designed to help identify potentially un-inclusive language as well as more inclusive alternatives.
+
+What does it mean to use inclusive language and how might we identify harmful terms? Given that we each have our own experiences and perspectives, inclusive language might not mean using the exact same set of words in all contexts and for all people. This set of four guiding principles will help us to consider whether the words we are using might be harmful within a given context, and, if so, identify more inclusive alternatives.
+
+Table 1. Inclusive Language Framework
+
+Guiding Principle 1: Inclusive language conveys respect to all people.
+Guiding Principle 2: Inclusive language communicates a message effectively through precise language.
+Guiding Principle 3: Inclusive language recognizes diversity.
+Guiding Principle 4: Inclusive language involves continual improvement.
+
+Key Question 1: Does this term center dominant groups as the default and/or perpetuate harmful stereotypes? If yes: look for a more inclusive term.
+Key Question 2: Does this term have a harmful history or association? If yes: look for a more inclusive term.
+Key Question 3: Does this term contribute to communication in which everyone feels respected and seen? If no: look for a more inclusive term.
+Key Question 4: Does this term convey the intended meaning to all people precisely and effectively? If no: look for a more inclusive term.
+Key Question 5: Is this term the best we can find to communicate the message? If no: consider using a more inclusive term.
+
+In addition to the framework, we share seven recommendations for inclusive language:
+
+Recommendation 1: Use metaphorical and other figurative language thoughtfully.
+Recommendation 2: Learn to distinguish borrowing terms from other languages from appropriating terms.
+Recommendation 3: Avoid language with harmful associations.
+Recommendation 4: Honor how people identify themselves.
+Recommendation 5: Understand inclusive language across different identities.
+Recommendation 6: Consider intersectionality.
+Recommendation 7: Work with others to adopt inclusive language.
+
+
+3.1 Principles for Inclusive Language
+
+Principle 1: Inclusive language conveys respect to all people.
+
+Inclusive language recognizes the humanity of all people and allows for self-determination of how individuals wish to be identified. It invites people to participate in the conversation by respecting their identities. Using words that affirm individuals' identities is crucial. As Thomas writes, "The act of being seen and being named is empowering; it confirms the basic right to exist." When we talk about people, we have the potential to impact how they are seen by others, and as a result, we take on responsibility when we represent others with our words. Inclusive language also promotes equal opportunities by avoiding stereotypes and limiting conceptualizations of people's potentials. Stereotypes and limiting conceptualizations of people's potential can be conveyed through direct uses, such as gender-exclusive terminology, and indirect uses, such as through metaphors that draw harmful connections.
+
+Inclusive language is also context-dependent. While it may be important to use a particular word or phrase in one context, that term may be considered harmful in another. As an example, it may be crucial to use one set of pronouns with trans individuals in private spaces where they feel comfortable, and avoid those pronouns in public spaces where they do not feel safe if their trans identity is known.
+
+Principle 2: Inclusive language communicates a message effectively through precise language.
+
+Using precise terms that distinguish between multiple experiences is more inclusive than using vague terms. For example, with respect to age, terms like "elderly" imprecisely categorize the diverse experiences of older adults. Instead, we could use more precise terms that better describe the demographic of focus, whether retirees, people with grandchildren, or people aged 60+. We can also reflect on the use of metaphors and other figures of speech to ensure that the comparison drawn by that language is accurate and does not form harmful or misleading connections. Using precise, inclusive language also helps improve the efficacy of the message, as it may reduce the strain placed on individuals who are harmed by non-inclusive language and instead allow them to focus on the content of the message rather than its wording.
+
+Principle 3: Inclusive language acknowledges diversity.
+
+Instead of minimizing differences and homogenizing the experiences of a diversity of individuals, we can be sensitive to the differences each of us bring as a result of our identities and life experiences. For example, instead of using imprecise terms like "non-White" (through which many different groups are homogenized into a unit that contrasts with the dominance of Whiteness) or "non-native English speaker" (through which many people with different linguistic backgrounds are grouped together) we can use more precise terms that recognize the unique experiences of individuals and groups we are talking about. We can refer to specific identity groups (Black, Indigenous, Asian American, Pacific Islander, etc.) or use more precise descriptors of linguistic backgrounds (Spanish-speaker, adult English-learner, etc.). Acknowledging diversity also requires us to suspend our assumptions: we should learn about an individual's unique experiences rather than forming assumptions based on their identities.
+
+Principle 4: Inclusive language involves continual improvement.
+
+Language and language preferences will continue to change and shift over time, and we must be ready to learn and shift with those changes. Approaching the topic with a sense of humility can help. While we can continue to learn more and practice using inclusive language, there will always be more to learn, and we are likely to make mistakes along the way. We should be ready to be wrong and be willing to make changes to improve. What is important is that we acknowledge any harm that has been done and learn from those mistakes. Moreover, it can be helpful to approach adoption of inclusive language from a place of empathy and generosity. Instead of focusing on the effort required to adopt new terms, we can seek to understand why terms may be harmful for others and focus on the benefits of creating more inclusive spaces through our efforts to use more inclusive language. Inclusive language is about taking advantage of opportunities to use more effective words and phrases in our communication.
+
+
+3.2 Key Questions in Assessing Terms
+
+Our guiding questions can help determine whether a term is inclusive. These questions can be applied to language used across contexts, whether in the workplace, in code or datasets, or in interpersonal communication. In considering these questions, think not just about the specific term, but also the context in which it is used. In some cases, terms may be inclusive in some contexts, but not in others.
+
+Key Question 1: Does this term center dominant groups as the default and/or perpetuate harmful stereotypes?
+
+Instead of using terms like "non-White," which centers whiteness as the default and groups a diverse set of individuals and experiences into a single, imprecise category, use specific terms for specific groups or experiences. This acknowledges the unique and intersectional experiences of different individuals and groups and pushes back against the hegemony of dominant groups.
+
+Dominant narratives often reflect the perspectives of people with power, but they may be misleading. For example, describing people who owned slaves as "masters" rather than "enslavers" may minimize the harm of what they did. Other terms may reflect harmful stereotypes. Referring to a "chairman" of the board (rather than a "chair" or "chairperson"), for example, reflects a stereotype that this is a role for a man, and not for people of other genders. Instead of replicating the dominant perspective, we can use more inclusive language that makes other perspectives visible.
+
+Key Question 2: Does this term have a harmful history or association?
+
+Using terminology that has racist origins or is associated with negative stereotypes — whether used in coding or in casual conversation — can lead to people who encounter such harmful language feeling disrespected or unincluded. We consider any language which has an unnecessary negative impact on individuals to be harmful.
+
+Language has an impact on society. Language that contains harmful biases or stereotypes can perpetuate them and result in negative outcomes for individuals who are described with biased or stereotypical language. Avoid using language that contains harmful stereotypes or metaphors.
+
+Key Question 3: Does this term contribute to communication in which everyone feels respected and seen?
+
+Use of non-inclusive terminology or categories when collecting or displaying data (such as presenting only a gender binary or using racial categories that don't reflect the terms preferred by members of those groups) may result in audiences feeling unseen and disrespected. Replace outdated and harmful terms with terms that are supported by community members.
+
+If you are using a term other than self-reported identity, be clear about how and why you are using that term. For example, use of perceived identity categories (rather than self-reported identity categories) may be important in studies examining bias. If you report perceived identity, note that in your work and explain why. In some cases, members of the same group may have different preferences in how to describe that group. Again, be transparent in explaining your decision to use one term or another.
+
+Using terms that have ties to specific identity groups to describe broader or more general experiences can also be harmful, as it minimizes the diversity of individuals' different experiences. For example, referring to a group of friends as a "tribe" can minimize the distinct histories of Indigenous tribes and can contribute to an environment where members of Indigenous tribes may feel unseen.
+
+Key Question 4: Does this term convey the intended meaning to all people precisely and effectively?
+
+Precise terms eliminate ambiguity. Terms and phrases with multiple meanings are imprecise because their meaning within a given context may be ambiguous between those multiple meanings (this has been argued, for example, with respect to the terms master/slave in coding, which have been used to describe several different dependency relationships within coding). They also avoid overgeneralizations. For example, stating that "Women are socialized to be caregivers" may be an overgeneralization; "Many individuals who are raised as girls are socialized to be caregivers" may be more precise. By clarifying that many (but not all) individuals have been raised this way, we are more inclusive of individuals whose experiences do not fit the description. Moreover, we can specify when we are referring to individuals who were raised as girls so that we are inclusive of people who were raised as girls but who do not identify as women.
+
+Effective communication means that the audience is able to understand the intended meaning of the author, speaker, or signer. In some cases, the language used may cause certain audience members to feel harm or distress; this may decrease the efficacy of the communication, as those affected may have their attention diverted from the message in order to consider and attend to the impacts of the harmful language used. Using more inclusive language can reduce this communicative barrier.
+
+Key Question 5: Can we find an alternate term that does a better job?
+
+If there is a term that is more precise or effective, or which generates respect, honors self-identification, promotes equal opportunities, and acknowledges diversity, we can use that term. We can also create new terms to replace problematic terms if no suitable replacements exist.
+
+If you are feeling hesitant to use a new term, reflect on your reasons. The motivation behind shifting to more inclusive language use is to create a more inclusive society. Change can be uncomfortable, but it is necessary if we wish to create a more inclusive future.
+
+Figure 1: Inclusive Language Framework (Flowchart)
+
+Set Intentions — Start from a place where you feel ready and open to learning. Then ask the following questions:
+
+Step 1: Does this term center dominant groups as the default, and/or perpetuate harmful stereotypes? Consider Context.
+Step 2: Does this term have a harmful history or association?
+Step 3: Does this term contribute to communication in which everyone feels respected and seen?
+Step 4: Does this term convey the intended meaning to all people precisely and effectively?
+
+If No to all: Continue using the term.
+If Yes to any: Center Inclusion — Can we find an alternate term that does a better job at communicating the message?
+  If No: Use the term with caution or decide not to use it. Consider explaining your choice to your audience.
+  If Yes: Implement Positive Change — Use the more inclusive term.
+
+---
+4. RECOMMENDATIONS FOR INCLUSIVE LANGUAGE
+---
+
+In this section, we briefly lay out some recommendations for using inclusive language, including guidance on metaphorical and appropriative language, language with harmful associations, and language to talk about different identities and their intersections. We close with some suggestions for building an inclusive language community that can help support inclusive language adoption within an organization.
+
+
+4.1. Use metaphorical and other figurative language thoughtfully
+
+While using metaphorical and other figurative language can help convey a message in a way that can be easily understood by the audience, use such language thoughtfully. When metaphors are invoked, the full context of the comparison is brought to bear on the situation, and the audience's understanding of both elements being compared may be changed as a result. For example, using a phrase like "infant mortality" to describe the rate of defective, newly-assembled electronics draws a comparison between human infants and inanimate machines, and in the process both personifies machines and dehumanizes infants.
+
+As mentioned above in the example of different policies being endorsed whether crime is described as a "virus" or a "beast," metaphors have been shown to influence the audience's reactions to the same phenomenon. This shows that metaphors can shape how we think about issues and events, and as a result, it is important to critically examine metaphors within our language. This is particularly true given that certain types of metaphors — particularly militaristic and technological metaphors — are more prevalent (at least within US discourse) and reflect racial and gender stereotypes that may be perpetuated through their use. Even if a metaphor is intended to be invoked in a specific context, the speaker, writer, or signer does not have complete control over how that metaphor is perceived by the audience; the audience may bring their own experiences and prejudices to the metaphor and draw additional conclusions. Moreover, for audiences with different cultural and linguistic backgrounds, metaphorical, idiomatic, or other non-literal phrases may be unnecessarily confusing or isolating if they are not part of audience members' backgrounds or understandings. While metaphorical and figurative language can play a role in illuminating complex topics for non-specialist audiences, it is important to think carefully about how all aspects of potential metaphorical comparisons might play out and what impacts those associations could have.
+
+
+4.2. Learn to distinguish borrowing and appropriation
+
+Language is constantly changing and evolving, and this includes adopting and using words from other languages. For example, many words describing new technologies come from the languages spoken by the people who invented them, such as karaoke and anime (both borrowed from Japanese). While borrowing is a regular part of language change, in some situations a dominant group takes linguistic elements from a group with less power and uses them to their own benefit. This results not in borrowing but in appropriation. Often, the dominant group also simultaneously devalues members of the minoritized group who use the exact terms that the dominant group has appropriated and benefits from. For example, White people often adopt phrases that were coined by speakers of African American English — including terms such as on fleek, bae, and squad — in order to portray themselves as "cool," but when Black speakers use the same phrases, they are often judged as "uneducated" or "unprofessional." Whether or not a term is being borrowed or appropriated is highly context specific, and terms might be considered harmful and appropriative in one context but supportive and inclusive in another. Remember that language is dynamic and context dependent, so it can be difficult or impossible to determine whether using a word involves appropriation without taking into consideration the context of use. Moreover, in seeking to be more inclusive in language use, focus on impact: whether or not we know the true origin of a term, if its use reinforces harmful power dynamics, it would be more inclusive to use an alternate term.
+
+There can be harmful material consequences to linguistic appropriation. Appropriated terms show up in advertisements, music, and the other media that result in financial gain for members of the dominant group. This can be especially problematic when appropriated terms are used to reference stereotypical features of a marginalized group. For example, African American English terms have been used in advertising to evoke stereotypes of hypermasculinity that are associated with Black men; use of those terms then reinforces harmful stereotypes.
+
+Similar patterns can be seen in the appropriation of what Jane Hill calls mock Spanish: use of phrases like no problemo that are loosely based on the Spanish language. English speakers who use mock Spanish may gain status through being perceived as humorous, cosmopolitan individuals who have access to a second language, but Spanish speakers who use similar phrases may be perceived as "lazy" individuals who are "incapable" of using English.
+
+Speakers of Indigenous languages in the United States face similar problems. Words taken from Indigenous languages, such as the Massachusett word "mugwump" meaning "war leader," have been appropriated into English and assigned new, derogatory meanings that in turn make them unappealing for use within their original contexts. This type of "language theft" has negative impacts on speakers of minoritized languages and language varieties who may no longer feel comfortable using their own languages.
+
+While borrowing words and phrases from different languages and communities is common, it is important to consider not only the words or phrases being borrowed, but also the larger power dynamics at play within a specific context. When thinking about whether a term is appropriative in a particular context, you might consider:
+
+Question 1: Is this a term that originated in a community that I'm a part of? If not, would members of the community that coined this term be treated similarly to me if they used the term in this context? If the term is not from a community that you're a part of, and you'll gain some benefit from using the term that members of the community where the term originated would not, this is likely appropriation. Think about whether using the term is useful and necessary, and consider using an alternate term.
+
+Question 2: What is the response of the community where this term originated when I use it in this context? Are they upset by my use of the term? If community members are upset by your use of the term, consider replacing it with an alternative that does not cause a negative reaction. In some contexts, members of a community may want you to use a particular term while others may feel upset. There are no absolute rules about when to use or avoid such terms. In many cases, there will be no clear answer, and it may be useful to open a discussion with community members, learn more about how they react to your use of a term, and consider why you use it in that context.
+
+If the use of a word or phrase is well-regarded only if used by the dominant group (but not by the minoritized group from which it was taken), it is likely appropriation. In that case, consider using a different term and also think critically about why the term may be highly valued in one context but not another. Changing our language to be more inclusive is one important step toward greater equity, but so is shifting the balance of social and economic power between different groups.
+
+
+4.3. Avoid language with harmful associations
+
+Identity-based slurs and phrases that have harmful or derogatory associations should be avoided. The use of such harmful language has been shown to contribute to negative self-images among members of the group affected, as well as other disparities in healthcare access and outcomes, economic status, and legal support. Crucially, what is most important is not the true meaning or origin of a harmful term, but rather the way that the term is received by an individual. For example, attention has been drawn to the harmfulness of the term nitty gritty. This is due to a proposed link between that term and its possible use by enslavers who used it to describe detritus that would collect at the bottom of ships used to transport enslaved people across the Atlantic. Whether or not this term was used by enslavers in this way, the association has been made and is now salient; this association can cause harm, and as a result, using a more inclusive term, such as details, is advised.
+
+The potential for language to do harm is also context dependent. Some community members, for example, have worked to reclaim harmful slurs and redefine them in positive ways. Respect the self-identification of individuals while understanding that the same term may be differently received in different contexts. If you are not a member of an identity group, your use of a reclaimed term may still be perceived as harmful, so it may be best not to use such terms.
+
+
+4.4. Honor how people identify themselves
+
+When describing individuals and their identities, what is most important is to respect the self-identification of individuals whenever possible and to represent people accurately. Moreover, consider whether the identities you reference are contextually important and include them only if they are. If you're not sure how a person identifies, it's best to ask them in a respectful way, being mindful that some people may wish to keep their identities private. It may help to explain the reason why knowing a person's identity is important. For example, if you are introducing a guest speaker on a panel and their identity may be relevant to the conversation, you might ask, "Are there aspects of your identity you'd like me to mention when I introduce you?"
+
+Self-identification may vary from person to person, over time, and across contexts, and as a result the suggestions may not always apply. This guidance is meant to serve as a starting point to orient you toward possible ways that people may self-identify, as well as highlight some areas in which there is a lack of consensus about which terms are most inclusive.
+
+
+4.5. Understand inclusive language across different identities
+
+Take care to present narratives that do not reinforce negative or harmful stereotypes, and work to make sure that the voices and perspectives of the people being discussed are represented. Center the humanity of individuals by referring to them as people and using identity categories as adjectives, not nouns (i.e. Black people and not Blacks, people with Autism/Autistic people and not Autistics, gay people and not gays, etc.). More specific points for consideration and commonly used harmful terms are presented below. However, keep in mind that language is constantly changing and is dependent on context. The recommendations provided below are a good starting point, but remember to honor self-identification and use terms that fit the context. For example, while the majority of members of a racial group might prefer one term (such as Black), specific individuals might have a different preference (such as African American) that should be respected. While some terms may be harmful if used by people who do not hold that identity, they may be important tools of empowerment when used by group members.
+
+
+4.5.1. Gender, sex, and sexual orientation
+
+Gender representation in language matters. Research shows that the use of masculine terms such as "chairman," even when intended to reference individuals of all genders, evokes and reinforces stereotypes of men within those roles.
+
+To address this imbalance, some have advocated for using feminine terms as the default (i.e. "mailwoman"), while others have advocated for using masculine and feminine terms together (i.e. "mailman/woman"). However, these solutions still rely on a conceptualization of gender as a male/female binary, and as a result may be exclusive of individuals with other gender identities, such as nonbinary people. Using gender-neutral or gender-inclusive terms, such as "postal worker," is maximally inclusive. Using gender-inclusive language has been shown to shape stereotypes about who might occupy a role, resulting in greater inclusivity.
+
+Note, however, that gender-neutral terms have still been shown to invoke some stereotypes of men occupying positions, particularly when in reality those positions show an overrepresentation of men. This highlights the importance of changing both language and social reality in pursuit of gender equity. Gender diversity in examples is also important, so take care to create examples, case studies, and other tools that reflect gender diversity — in the identities of the characters referenced and in the activities that they're depicted performing to ensure that examples are not reinforcing gendered stereotypes.
+
+Shifting to gender-inclusive language use entails different challenges for different languages. Most languages have some gendered terms such as mother and father, but some languages also have grammatical gender, meaning that all nouns are assigned an (often arbitrary) "gender." For example, in Spanish, the word casa 'house' is feminine while the word hogar 'home' is masculine. When using these nouns, other parts of the sentence (such as the endings of adjectives) also change to reflect the gender of the noun. As a result of linguistic differences, different strategies for implementing gender-inclusive language may be better suited to different language contexts. However, gender-inclusive language is possible and preferable even for languages with grammatical gender.
+
+Respecting individuals' gender identity is important. Using terms — including pronouns — that align with an individual's identity can lead to more positive life outcomes, including improved mental health. The differences in life outcomes based on respecting or disrespecting pronouns are stark: trans youth who reported having their pronouns used by most or all of the people in their lives attempted suicide 50% less than those whose pronouns were not used. Pay attention to how people introduce themselves or ask for their name and pronouns if appropriate and follow their lead. In some situations, not everyone may feel safe or comfortable sharing their pronouns, particularly trans and nonbinary people who may face violence or other negative consequences if their identities become known. One way to invite those who feel comfortable to share their pronouns is to lead by example: introduce yourself with your name and pronouns as a way of normalizing the practice. However, avoid requiring people to identify their pronouns in case this may cause harm. If you're not sure what pronouns a person uses and it's not appropriate to ask, use the person's name instead.
+
+Not everyone uses he or she as their pronouns. Many nonbinary people use singular they. While singular "they" is common in casual speech and was even used by Shakespeare, there has been resistance to using this term. However, it is becoming increasingly common and follows communication guidelines set out by the Linguistic Society of America, the American Psychological Society, the Associated Press, and Chicago Manual of Style, among other sources.
+
+There are differences between gender, sex, and sexual orientation. Gender is a social construct and identity; sex refers to biological sex assignment (i.e. sex assigned at birth). It is important to be precise in referring to the gender or sex of individuals rather than assuming cisgender identities (i.e. when an individual's gender identity is the same as the sex they were assigned at birth) that overlook transgender identities (i.e. when an individual's gender identity is not the same as the sex they were assigned at birth). Terms like "man/male" and "woman/female" have been casually used to refer to different aspects of both gender and sex. However, such uses may be imprecise and overlook areas of variation between individuals. An individual may, for example, be assigned male (sex) at birth but identify as female (gender). As Linguist Lal Zimman notes, not all casual uses of a term like "women" describe the same demographic:
+
+Example 1: Women grow up being taught to accommodate others' needs. (Here "women" refers to individuals socialized as girls, including trans men who were raised as girls.)
+Example 2: Women face negative assumptions about their professional capabilities. (Here "women" refers to individuals perceived as women, including male-identifying individuals who are perceived by others as female.)
+Example 3: All women need access to cervical cancer screenings. (Here "women" refers to individuals who have a cervix, regardless of their gender identity.)
+
+Instead of simply using "women" to describe these distinct groups, we can be more specific (i.e. people raised as girls / people perceived as women / people with a cervix), and as a result, more inclusive of individuals who may otherwise be incorrectly included or excluded from the group being mentioned.
+
+Sexual orientation is another aspect of identity that is independent of sex and gender. Sexual orientation refers to the "sexual and emotional attraction" that one person may feel for another. This can include the degree to which an individual feels sexual or emotional attraction, including identities as sexual, demisexual, asexual, and others. It may also include whether individuals are attracted to people with similar or different gender identities. People who are attracted to individuals of another gender may be referred to as "straight" or "heterosexual"; assuming this sexual orientation (as opposed to other orientations such as lesbian, gay, asexual, bisexual, queer, polysexual or pansexual) is known as heterosexism. When referring to multiple sexual orientations and gender identities, define the terms that you use and be sure to use them precisely. For example, terms such as LGBTQ+ (i.e. lesbian, gay, bisexual, transgender, queer, and more) are common. However, they should not be used when other terms would be more precise; for example, if reporting on trans youth, say trans youth rather than LGBTQ community.
+
+
+4.5.2. Race & Ethnicity
+
+Race is a social contract. While differences related to language, nationality, and culture have always existed, race emerged as a socially significant category during the Trans-Atlantic slave trade as a means of justifying slavery by promoting White superiority. "Scientific" arguments for differences between races relied on biological arguments that have been debunked as pseudoscience. In fact, there are much greater genetic differences within populations than between populations or races. Moreover, many "scientific" arguments for racial differences overlook the role of systemic forces like housing segregation and economic discrimination that result in disparate life outcomes between racial groups.
+
+Race & ethnicity can be considered overlapping categories. They share some features, such as relying on physical traits such as facial features, skin color, and hair type. However, racial classification is often imposed while ethnic identity often emerges from the group itself. Moreover, race is associated with a power hierarchy, with certain racial groups deemed inferior by other racial groups, while ethnicity centers on common origins, ancestry, or heritage. Some scholars argue that race and ethnicity are distinct but overlapping categories while others argue that race is a subset of ethnicity.
+
+Respecting self-identification is important. No matter how we conceptualize race and ethnicity as categories, it is essential to respect individuals' self-identification to the extent possible. Different individuals who may consider themselves members of the same racial or ethnic group may have different preferences in the labels they use to describe their identities, and we should honor those individual preferences whenever possible. At the same time, it is important to be precise. In some instances, we may be talking not about self-identification but perceived identification. For example, in reporting on how former police officer Eric Parker treated Sureshbhai Patel, a man from India who police targeted after receiving a call about a "suspicious black man," Parker's treatment of Patel hinges not on Patel's self-identification, but rather on Parker's perception of Patel.
+
+It is also important to use terms that precisely and accurately describe the group you wish to refer to. For example, African American refers to Americans with African ancestry, while Black is a larger category that also includes non-American citizens who are racially categorized as Black. While some Black Americans identify as either/both Black and/or African American, these terms are not interchangeable. Similarly, BIPOC (standing for Black, Indigenous, and people of color) serves to include all people of color (i.e. non-White people) while highlighting the unique challenges faced by Black and Indigenous people that may not be shared by other people of color. When talking about race and ethnicity, choose terms that best describe the group and context under discussion.
+
+Avoid assuming a particular race/ethnicity is the "default" or "unmarked." Everyone has a race — including White people. When talking about race/ethnicity, be sure not only to mention the race/ethnicities of minoritized groups, but also of the dominant group. Moreover, avoid using catch-all terms like "other" or "non-White" that push diverse groups of people into the same homogenous category. Using terms like "non-White" also fails to recognize the diversity of experiences of people of color in their own right and instead positions them only in opposition to Whiteness.
+
+
+4.5.3. Nationality & religion
+
+Be precise in referring to an individual's nationality or immigration status. Remember that nationality and ethnicity are distinct: ethnicity reflects membership in a cultural group, while nationality indicates membership within a nation-state. To avoid invoking potentially harmful stereotypes, avoid imprecise phrases like "the Mexicans" or "the French," and instead use more precise terms such as "Mexican citizens" or "the French people interviewed for this story." Remember, however, that not all residents are citizens; a more precise term could be "people" or "the public" if citizenship is not the focus of the discussion.
+
+Do not use the term "illegal" to describe human beings — regardless of immigration status. This follows guidance from the Associated Press, Los Angeles Times, Human Rights Watch, and other organizations and activists. If an individual has entered a country without following immigration protocols, best practice is to describe their particular immigration status if relevant (i.e. "overstayed a student visa" or "was brought to the United States by parents without a visa"). Some suggest using terms such as "undocumented," "unauthorized," or "irregular" migrants/immigrants. While some have argued that the term "illegal immigrants" is precise, concise, and less dehumanizing than other terms (such as "illegals" that reduce immigrants to their immigration status), others argue the opposite. The term "illegal immigrant" is misleading legally, as it implies criminality, while presence in the United States without proper documents is a civil offense, not criminal. Moreover, it is similar to calling a criminal defendant "guilty" rather than "accused," as the term is often used to describe individuals whose cases have yet to be presented in court. It is important to remember that all humans, regardless of their nation of origin, immigration status, or residency, are first and foremost human beings. Using terms like "illegals" dehumanizes those who are described with that term and can lead to discrimination and violence against members of minoritized groups.
+
+Instead of assuming someone's religious identity, ask them. Avoid making assumptions about religion based on race, ethnicity, geography or other factors, and instead allow individuals to self-identify. Even if a region has an "official" religion or language, individuals may resist those policies and identify with others. Similarly, when describing the extent to which an individual practices a religion, terms like "practicing" or "observant" are preferred to more subjective terms such as "devout" or "pious," though it is best to ask an individual how they self-identify. Be cautious about using terms and phrases that rely on religious metaphors or traditions that may be unknown to individuals from other religious traditions, as this may add to a feeling of exclusion and make your message less clear.
+
+
+4.5.4. Ability
+
+Person-first and identity-first language can each be inclusive. Person-first language requires that personhood of the individual comes first: person with a disability (rather than disabled person) or individual with autism (rather than autistic person), for example. Such language pushes back against the dehumanization of people with disabilities as well as homogenization of the unique experiences of people with disabilities. Referring to "people with diabetes," for example, may help to highlight that each person with diabetes may have a unique experience, while "diabetics" may downplay such uniqueness. But not all disability communities agree with this point of view. Others advocate for identity-first language, such as "disabled person" or "autistic person," as being disabled or autistic is an important part of their identities that cannot be separated from their person. Moreover, this pattern fits with the placement of other positive adjectives in English, i.e. "intelligent person" rather than "person with intelligence," and thereby reduces the implication that there is something negative about having a disability. Moreover, some disability communities advance the use of capitalized identity-first terms, like Deaf, to indicate membership in the community of Deaf people. Because preferences differ between individuals, it is best to listen to how people describe themselves or ask how they prefer to be referred to. When it is not possible to learn an individual's preference, using person-first or alternating between person-first and identity-first phrasing is recommended.
+
+Avoid negative or condescending framings. Instead of phrases like "afflicted by ADHD" or "confined to a wheelchair" that imply something negative about the disability, use more neutral phrases like "has ADHD" or "uses a wheelchair" instead. Similarly, refrain from using euphemisms like "handi-capable" or "special," as these may be perceived as patronizing. Think critically about depictions of people with disabilities and ensure that they are balanced, depicting multiple aspects of disabled people's identities and experiences, and that they don't reinforce negative stereotypes or serve only to entertain or inspire others.
+
+Avoid using disability-related terms in derogatory ways. Using these terms — whether they are outdated (i.e. lame, insane, crazy, etc.) or current possible diagnoses (i.e. blind, ADHD) — casually to refer to people without those disabilities is harmful. It can reinforce negative stereotypes about people with disabilities. It can also minimize the perceived impact of having a disability by drawing comparisons between personality traits (i.e. detail-oriented) and diagnosable disorders (i.e. OCD). Finally, avoid using phrases that rely on metaphors linked to disabilities, such as "deaf to our concerns" or "crippled by debt," and use more precise terms instead, such as "ignored our concerns" or "with large debts."
+
+
+4.5.5. Older Adults
+
+Use precise terms that avoid negative stereotypes about aging. When referring to older adults, it is important to use inclusive language that doesn't advance negative perceptions of the aging process, as this can result in decreased functional health of individuals described in negative terms. Being precise may help. Common terms such as "elderly" or "senior citizens" can be imprecise and fail to describe a meaningful population. For example, not all "seniors" may be "citizens" and not all "elderly" people may be at similar life stages: some may be experiencing health problems, some may not; some may be retired, some may not; some may have grandchildren, some may not. Instead of using an imprecise term like "elderly," consider using more specific criteria that are relevant to the demographic in question: retired adults, people over 65, or grandparents, for instance. Moreover, "elderly" is rarely a term used by individuals to self-identify, while other terms (i.e. grandparent, retiree, etc.) are. If use of a more specific, self-identified term is not possible, terms such as "older adults" or "older people" are preferred as they center the humanity of older individuals and highlight that aging is a process: one doesn't simply wake up one day in a new category of "old" but instead becomes gradually older.
+
+Using "older adults" is not entirely unproblematic, as it is often used in contrast to "adults" (rather than "younger adults") and thus promotes youth as the default. However, it is preferred to other terms. As Elana Buch notes, it is difficult to find a term to refer to older people that is viewed positively: "I'd argue that the reason there isn't consensus about a preferred term has everything to do with ageism rather than that the terms themselves are problematic." Thus, in addition to using more inclusive terms like "older adult" it is also important to work against negative stereotypes and conceptions about aging.
+
+
+4.5.6. Socioeconomic Status
+
+Be precise. Socioeconomic status — sometimes referred to as class — may refer to the income, educational attainment, occupational prestige, or subjective perceptions of social status of individuals and groups. When mentioning socioeconomic status, it is useful to be as precise as possible: if distinguishing between "high" and "low" income individuals, name the criteria for determining those categories, such as contextual or environmental indicators, i.e. median neighborhood household income, percentage of (un)employed people, or proportion of children who qualify for free or reduced-price lunch at school. Use person-first language like "people who receive TANF (Temporary Assistance for Needy Families)" or "people experiencing homelessness" rather than "welfare recipients" or "homeless people." Moreover, ensure that socioeconomic status is not being used imprecisely to implicitly reference race or other identities. If race, for example, is an important factor in the discussion, name it.
+
+Think critically about how socioeconomic disparities are presented and strive to avoid deficit-based language. For example, instead of writing about "high school dropouts" (which focuses on individuals' shortcomings), write about "people with grade school education" (which focuses on individuals' achievements). Similarly, be sure to visualize systemic barriers to opportunity and achievement rather than placing blame on individuals who face those barriers. This may include shifting from a description of "achievement gaps," for example, to "systemic inequities" and avoiding negative phrasing like "poverty stricken" or "afflicted by poverty" in favor of more neutral phrases like "with income below the national average." Avoid terms that have become associated with negative stereotypes, particularly if those stereotypes are also associated with race such as "ghetto," "inner-city," or "the projects." Use alternatives such as naming the specific neighborhood or subsidized housing initiative under discussion.
+
+
+4.6. Consider intersectionality
+
+Individuals belong to multiple, often overlapping identity categories. Membership in multiple marginalized groups may result in unique experiences that are distinct from experiences of people who are members of only one group or the other. As Kimberlé Crenshaw, who coined the term, notes, the experiences of people with overlapping identities, like Black women, "is greater than the sum of racism and sexism." Keeping in mind that the preferences and experiences of individual people will differ depending on their unique and intersecting identities can be helpful as we reflect on how to use language in a way that is inclusive for everyone.
+
+
+4.7. Work with others to adopt inclusive language together
+
+Adopting more inclusive language takes practice, and one way to support that practice is to form a community where inclusive language is promoted and valued. It's important to have a growth mindset, remembering that through making mistakes, we learn and become more adept at using new inclusive language practices. Members of a supportive inclusive language community can point out instances where more inclusive language could be used and can help others remember to use inclusive alternatives.
+
+As you adopt more inclusive language, you will also make mistakes; that is part of the learning process and should be expected. When you make a mistake, it can be helpful to apologize sincerely. You may want to:
+
+Step 1: Acknowledge the mistake you made and the harm or offense it caused. Let the person who was harmed know that it was not acceptable.
+Step 2: Explain what happened without excusing it. Let the other person know that you've identified what went wrong and the negative impact it had.
+Step 3: Express your remorse.
+Step 4: Offer to make amends.
+
+For example, imagine that you've just described a successful presentation as "a cakewalk" and your colleague points out that term's harmful history. You might say, "You're right, using that phrase is harmful. I'm sorry, and I'll do my best to use a better term in the future."
+
+While using inclusive language is important, it's also important to build support for other social equity initiatives. While changing our language practices can help support more inclusive and equitable environments, it is not sufficient on its own. Instead, working to build personal, social, and institutional practices that support minoritized voices is also crucial.
+
+

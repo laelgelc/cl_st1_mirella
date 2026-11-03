@@ -1,0 +1,61 @@
+Examples of bias-free language
+
+The following are examples of bias-free language for age. Both problematic and preferred examples are presented with explanatory comments.
+
+1. Terms for older adults
+
+Problematic:
+the elderly
+elders
+elderly people
+the aged
+aging dependents
+seniors
+senior citizens
+
+Preferred:
+older adults
+older people
+persons 65 years and older
+the older population
+
+Comment: The problematic terms perpetuate stereotypes. “Seniors” and “senior citizens” are not uniformly recognized age groups. Be specific about the age groups when possible.
+
+2. Specifying ages for older adults
+
+Problematic:
+old men
+
+Preferred:
+older men
+men between the ages of 65 and 75
+octogenarians
+
+Comment: Use precise language, provide information about age range, mean, and median. This recognizes that older adults are diverse and not a monolithic group.
+
+3. Discussion of social security and Medicare
+
+Problematic:
+social security recipients
+social security beneficiaries
+Medicare recipients, unless study about Medicare specifically
+Medicare beneficiaries, unless study about Medicare specifically
+
+Preferred:
+people who are receiving social security or Medicare benefits and are over the age of 62, or another age that was included in the study
+people who are receiving social security or Medicare benefits due to a disability
+
+Comment: Social security and Medicare recipients or beneficiaries are not a specific age group because social security can begin at different ages and individuals with certain disabilities may receive social security and/or Medicare benefits.
+
+4. Discussion of dementia
+
+Problematic:
+senility
+senile
+
+Preferred:
+dementia
+person with dementia
+person with dementia due to Alzheimer’s disease
+
+Comment: Do not use language that implies that all older adults are experiencing perceptual or cognitive decline or have health problems, or that all older adults are frail. “Senile” is an outdated term with no agreed-upon meaning.

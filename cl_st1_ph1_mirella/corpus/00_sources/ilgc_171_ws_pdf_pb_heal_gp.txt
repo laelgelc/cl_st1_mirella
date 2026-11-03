@@ -1,0 +1,128 @@
+USING A HEALTH EQUITY LENS TO COMMUNICATE ABOUT CANCER DISPARITIES
+
+This section of the Guide will focus on some basic inclusive writing skills that can serve as a starting place for materials development. When we communicate about the term "health equity," it's important to remember that not everyone will know what that means. Therefore, always give appropriate context and framing to your audiences and constituents using these principles:
+
+Emphasize health equity as a shared value where all communities benefit when we uplift those with the greatest need.
+
+Avoid language that appears to assign blame to a specific individual, population group, or community for their increased cancer risk.
+
+Explain the connection between cancer disparities and the root causes of health and how they impact each other, using clear and concise terms.
+
+State facts, sharing data objectively and giving readers additional context around the data points by explaining the systemic barriers that impact the findings.
+
+TELLING AUTHENTIC STORIES
+
+It's important to engage the people whose stories you're telling to ensure their experiences and perspectives are reflected. You will hear about individual cultural identities, life experiences, languages, histories, nationalities, and religious/spiritual beliefs for every population group you engage. People can have overlapping identities, which are varied, complex, and shaped by the systems they interface. This concept is referred to as intersectionality.
+
+TELLING AUTHENTIC STORIES, CONT.
+
+You can achieve authenticity and successfully communicate our work through a health equity lens by doing the following:
+
+* Ask people from the communities you are writing about to co-create your materials with you and give you their input as subject matter experts and/or testers.
+
+* Recognize that not all communities will be able to adopt health recommendations or clinical guidelines due to lack of resources and other systemic barriers such as structural racism.
+
+* Avoid the use of stereotypes or stigmas in your words and images - this includes outdated terminology.
+
+* Choose culturally appropriate and culturally sensitive words and images that are relevant to the community you are trying to reach.
+
+* Use language that's inclusive, clear, consistent, and plain.
+
+* Use the everyday terms, names, titles, and labels that are preferred by the community you're writing for and about when it's relevant to the story you're telling.
+
+* Use the correct identity perspective preferred by the specific community or person you are referring to, whether it's person-first or identity-first.
+
+* Acknowledge that the community ultimately owns their own stories and that their voices must always be centered, prioritized, and givencredit/attribution.
+
+
+A DEEPER DIVE ON MORE INCLUSIVE WRITING AND COMMUNICATING
+
+Ready to really start applying these inclusive language skills? Here's some additional insights that you can use to keep building your knowledge base:
+
+1. Have ongoing conversations with colleagues and partners about inclusive language. Don't just do it when language evolves because of changing norms or current events. Make it part of your everyday communications.
+
+2. Use plain language as much as possible. Plain language is writing in a way that ensures your reader understands as quickly, completely, and easily as possible.
+
+
+A DEEPER DIVE ON MORE INCLUSIVE WRITING AND COMMUNICATING, CONT.
+
+ Pick familiar or everyday words over obscure or unusual words.
+ Avoid jargon or overly technical language when you are writing for non-professional audiences. Your writing should be used to inform first, impress second.
+ Use a thesaurus to find words with similar meanings but more appropriate readability.
+ Minimize abbreviations and spell acronyms out on first mention (ex: Spell out American Cancer Society followed b the acronym on first mention, then abbreviate as ACS after that.)
+ Consistently use the same words and terminology throughout your writing.
+ Avoid adding extra verbs and nouns when they are not necessary to understanding your message.
+ Avoid stringing too many nouns together in a single sentence. A good rule of thumb is to use bullets when you need to list more than three nouns in a row. This helps with readability.
+ Be concise. This means staying away from wordy or very dense sentences with multiple phrases and clauses.
+ Bookmark and use a free readability checker such as Grammarly or the CDC's Clear Communications Index.
+
+3. Use an active voice as much as possible. Active voice means that the subject in a sentence acts upon the verb, making the tone strong, direct, and clear. The sentence structure should be subject- verb-object in that order.
+ï An example of active voice (preferred) is "Susan stayed at the Atlanta Hope Lodge during her treatment."
+ï An example of passive voice using the same sentence is "The Atlanta Hope Lodge is where Susan stayed during her treatment."
+
+4. Always ask if it's OK to share personal details about someone such as gender identity or disability status in your story. Never assume someone is OK with sharing information about aspects of their identity to the public.
+
+5. Write for your audience. Know the expertise level, interest level, and comfort level of each of your audience groups. What do they want to know? What do they already know? What do you want them to do after reading your message? It's crucial for you to do your research and test your assumptions to truly understand who your audience is and how to effectively reach them.
+
+6. Prevent and address unintended consequences (an ACS and ACS CAN health equity principle) by thoughtfully checking for content that could cause unintended harm to audiences of focus when you communicate about health equity. An effective strategy to prevent unintended consequences is to engage the community in the development, implementation, and evaluation of your work. Language is constantly evolving, so if you receive negative feedback, seek to understand why it was a mistake and identify an appropriate way to remedy it.
+
+SHIFTING TO PERSON-CENTERED LANGUAGE
+
+The language we use around patient care matters, and a person-centered perspective allows us to focus on the dignity, strength, and uniqueness of every individual instead of centering their disease or illness. In the clinical setting, providers may sometimes use casual labels or deficits-based language that contributes to bias and depersonalizes the individual under their care. While not always done intentionally, this approach can result in ineffective care and discriminatory practices that become embedded into the health care system's culture. It's vital that we make a conscious effort to shift the way we talk about illness so that barriers to recovery can be removed.
+
+UP CLOSE: WHEN TO USE "PATIENT"
+
+Knowing when to use the word "patient" versus "person with (a specific illness") can be confusing. On the one hand, the word "patient" is the status quo - it's the word we're most accustomed to hearing, saying, and writing when we talk about cancer care. It's also the most logical fit when you're writing for clinicians and professional audiences.
+And, if you work in marketing or fundraising, sometimes using "patient" can seem compelling, evoking strong emotions for donors and volunteers to be called to action. However, it's really important to remember that people are whole, unique, and not solely defined by their medical conditions. If we want to use fully-inclusive language, it's vital to uphold the person-first principle that all patients are people who should be treated with dignity and respect.
+
+As you continue your journey toward health equity practice, challenge yourself to reframe how you write about people with cancer in instances where it's not required to say "patient". 
+
+A NOTE ON OLDER ADULTS
+
+There are many terms to describe people who have advanced past middle age, but many journalistic and professional organizations have started moving away from using stigmatizing or victimizing terms such as elderly, senior citizens/seniors, geriatric people, and "old people". Be mindful that someone's numerical age does not fully define who they are as a person regarding cultural identity, values, interests, or mental and physical health status. Age should only be used as an identifier when it's relevant to the content being created. When mention of age is a necessary part of your story, it's recommended to either use "older adults" or to be precise and mention the population group's age parameters such as "adults over 65" or "adults between the ages of x and y."
+
+Please note that some cultures use the term "Elder" as a sign of respect and to denote a station of significance in their community, neighborhood, or family. When this is the case, please confer with the people or organizations you are working with to ensure you're using respectful terminology.
+
+RACE, ETHNICITY, AND NATIONAL ORIGIN
+
+From the ACS Editorial Style Guide: " General writing that involves reference to race or ethnicity calls for thoughtful consideration, precise language, and an openness to discussions with others of diverse backgrounds about how to frame the text and include language that is appropriate, accurate, and fair. Only include references to a person's race or ethnicity when it is pertinent, and its relevance is clear to readers."
+Remember that race and ethnicity are not the same thing, and groups of people should be considered as individuals instead of a monolithic group. Avoid broad generalizations and labels, as race and ethnicity are only one part of a person'sidentity.
+
+
+ There is no single Indigenous culture or language, and Indigenous people describe their cultures, histories, and homes in many different ways. Always use the terminology the members of the community use to collectively describe themselves to ensure accuracy and cultural sensitivity.
+
+ Christopher Columbus was so certain the "new" world he landed on was India that he called its people "Indios," which later became "Indians". While the U.S. government continues to use the term "American Indian", many find "Indian" or "native" a painful reminder of the racism, violence, theft, and decimation of their people. Some Indigenous people may favor the term "Native American," while others prefer "American Indian". This terminology is important when it comes to personal preference and should be used with respect.
+
+ In addition to federally recognized tribes, there are also state recognized tribes, tribes that are unrecognized, and tribes that were terminated in the 1950s and 1960s that have not been restored. Not all tribes have federal recognition status.
+
+
+ Some tribes and tribal nations may refer to individuals as "members", while others may use "citizen", and the words "tribe" and "nation" may hold different meanings from one tribal community to another.
+
+ It's important to keep in mind that some tribal names you're familiar with may not actually originate with that tribe. For example, enrolled members of the Sioux Nation may call themselves Lakota or members of the Navajo Nation may call themselves DinÈ - their names in their own languages. The best term to use in a given situation usually comes down to preference - not your personal preference, but the preference of the person you're speaking with.
+
+It is crucial to tailor communications for and about LGBTQ+ people based on insights from the community (i.e., through an advisory board) and an individual's personal preferences. It's important not to make assumptions about a person's sexual orientation. It's equally important to only communicate about someone's sexual orientation when it is relevant to the story or if they have given you express permission to do so. Sexual orientation can be very personal and private for some people, and they may or may not want it to be public knowledge. There is also potential to do unintended harm and possibly even reinforce a stigma or stereotype if mention of sexual orientation is not contextualized.
+
+GENDER IDENTITY 
+
+Making decisions about gendered language in your writing can be challenging against the status-quo as traditionally, masculine nouns and pronouns have always been used when a subject's gender is unclear (for example, in job titles such as "fireman" or "mailman"). The general public has historically also leaned on gendered language when it comes to broadly categorizing groups of people by referring to them as "men" or by assigning gender-specific titles to people such as "Mr." or "Ms."
+Gender-inclusive terminology is constantly evolving and changing with the times. Additionally, someone's gender identity may shift over time or not be assigned to any one specific gender at all. It has become standard for most journalistic or professional organizations to use gender-neutral language to be as inclusive of all gender identities as possible. While there are no universally agreed-upon guidelines for this, there are strategies you can take to avoid stereotypes and show sensitivity in your writing.
+
+A NOTE ON PRONOUN USE
+
+When someone shares their pronouns with you, they are informing you how to refer to them in the third person (or how you should refer to them when you're talking to someone else). Pronouns are very important to gender expression, individuality, and validation of personhood. They can include she/her, he/him, they/them, ze/hir, and many other options. If you're unsure of someone's pronouns, you can use their name until you've had an opportunity to ask them directly what pronouns you should use. Do not assume anything about someone's gender or sexual orientation based on their pronouns or outwardappearance.
+
+Using an individual's shared pronouns is a sign of respect and honor, and it helps us to normalize gender-inclusive terms and identities for everyone. 
+
+DISABILITY STATUS
+
+Much like writing about race and ethnicity, careful thought and respect should go into communicating about disability status. No two people in the disability community are alike, and the language is constantly evolving. The best way to ensure accuracy and objectiveness is to work directly with the community or ask for individual preferences and feedback. You should also consider whether mention of someone's disability status is relevant to your story. For some people with disabilities, their status is an important part of their cancer story and disability is part of their identity. For others, they may prefer to keep that information private, and it should never be assumed that someone is willing to openly share their status unless they disclose it to you.
+What society considers a "disability" is also evolving, as the general public has become more aware of mental health issues in light of the COVID-19 pandemic. It's important to know that not
+all disabilities are obvious or involve a visible condition. In addition to mental health diagnoses, conditions such as developmental disorders, cognitive or learning disorders, chronic pain conditions, immune or endocrine disorders, traumatic brain injuries, deafness/blindness, and many others, can be considered "invisible" disabilities. Disabilities can be present at birth, can be acquired (as the result of an acute illness like cancer or a traumatic injury like a car accident), can appear gradually over a person's lifetime, or can come and go in periodic intervals and intensity.
+Care should be taken not to elaborate a story about someone with a disability using overly heroic or inspiring jargon; this can reinforce negative stereotypes that everyone with a disability is expected to live up to inspiring or extraordinary expectations. People with disabilities want full acceptance into society and to simply be able to live their lives, and this type of false or exaggerated narrative can cause unintended harm.
+
+Just like no two people with disabilities are the same, no two disability communities are the same either. As disability rights have become part of political and public health discourse, disability advocates have worked hard and faced years of institutional discrimination (ableism) to have their voices heard and cultures recognized. It is crucial to be aware of how an individual with disabilities identifies themselves as a sign of respect, especially if they align with a specific community's beliefs. Some people with disabilities prefer person-first language, where personhood is listed before the disability (i.e., a person with cystic fibrosis). Others may prefer identity-first language, where the disability is listed first (i.e., a blind person, an autistic person). There are three broad communities of note who have collectively advocated for identity-first language: the autistic community, the d/Deaf and Hard of Hearing (HOH) community, and the blind community. When you write about these groups, it is especially important to confirm with them what identity perspective they use.
+
+
+
+
+

@@ -1,0 +1,19 @@
+The use of gender-inclusive language in ETSI deliverables
+
+Executive summary
+
+This guide discusses which language is appropriate for the use in ETSI deliverables and gives examples of how to best avoid common mistakes.
+
+Introduction
+
+The ETSI community is diverse and includes all kinds of organisation, from all over the globe. It is therefore important that the way in which ETSI deliverables are phrased is representative of the whole community. This means that ETSI staff and all people working in the different ETSI groups should be conscious about the language they use to not unconsciously leave out or misrepresent parts of the community or society.
+
+This guide focusses in its first release on gender-inclusive language but could be broadened to other aspects in the future.
+
+“Using gender-inclusive language means speaking and writing in a way that does not discriminate against a particular sex, social gender or gender identity, and does not perpetuate gender stereotypes. Given the key role of language in shaping cultural and social attitudes, using gender-inclusive language is a powerful way to promote gender equality and eradicate gender bias.” [statement from the United Nations on gender-inclusive language].
+
+This guide includes a number of recommendations that are a direct copy from the United Nations guidelines on gender-inclusive language, since they are internationally recognised and therefore set a global standard for how to communicate in a gender-inclusive manner.
+
+Scope
+
+The present document focusses on giving guidance on how to communicate using gender-inclusive language in a written form. The aim of this document is to facilitate the development of gender inclusive ETSI deliverables.

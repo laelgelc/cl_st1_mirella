@@ -1,0 +1,546 @@
+Examples of metaphors/phrases to avoid:
+
+Metaphor or phrase | Meaning | Avoid because…
+
+"Welshing on a bet" — To swindle a person by not paying a debt. Reinforces stereotypes about people of Welsh heritage.
+
+"Being gypped" — To be cheated or conned. Reinforces stereotypes about people of Romani heritage.
+
+"Low man on the totem pole" — If you describe someone with this phrase, you mean that they are the least important person in an organization or a group. Is offensive to Indigenous Peoples due to the inappropriate reference to a significant cultural symbol.
+
+"Turning a deaf ear" or "turning a blind eye" — To ignore something observed or overheard that is ethically questionable. Reinforces negative connotations around various physical disabilities.
+
+"Long Time No See" — Informal greeting by people who have not seen each other for an extended period of time. While today the phrase is used to indicate that significant time has passed, "long time no see" originally mimicked and denigrated Chinese or Native American speech patterns.
+
+"No Can Do" — Often used to mean "I can't do that". Originally emerged in the 19th century and mocked Chinese immigrants' speech patterns in English.
+
+"Are you deaf?" "Are you blind?" — Asking someone if they did not hear or see something. Reinforces negative connotations around hearing and seeing disabilities.
+
+"That's lame" — When something/someone is considered boring, uninteresting, or inadequate. The term "lame" means difficulty walking or unable to walk, so its colloquial use reinforces negative connotations around mobility disabilities.
+
+Having a "pow-wow" — To have a quick meeting to resolve something. Is offensive to Indigenous Peoples due to the inappropriate reference to a significant cultural practice.
+
+"Sold down the river" — Used to signify an act of betrayal or compromised trust. This term originates from the early 19th century colonial slave trade in the United States. The "river" is a literal reference to the Mississippi or Ohio rivers and "to be sold down the river" refers to when Black slaves from more northern regions would be sold in Louisville, Kentucky, a slave-trading marketplace. Being "sold down the river" became synonymous with being subjected to brutally hard labour. This term is offensive to racialized groups due to its origins.
+
+"Master bedroom" — The largest bedroom in a house. The origins of the term are thought to come from when there were "masters" of the house. Master is another word for slave owner. This term is offensive to racialized groups due to its origins. The Canadian Real Estate Association has switched to using term "primary bedroom".
+
+"Master Plan" or "Master Data" or "Master List" — An organized set of decisions made by one person or a team of people about how to do something in the future. The origins of the term are thought to come from when there were "masters" of the house. Master is another word for slave owner. This term is offensive to racialized groups due to its origins. Consider using "Standard", "Universal", or "Primary" as alternatives.
+
+"Whitelist" or "Blacklist" — In general terms, a whitelist refers to a list of people or things considered acceptable or trustworthy; a blacklist refers to a list of people or things considered unacceptable or untrustworthy, or that should be excluded or avoided. When in reference to computer technology, whitelist refers to a list of programs, email addresses, applications or IP addresses that are considered, by default, safe; blacklist refers to a list of programs, email addresses, applications or IP addresses that are considered, by default, unsafe. The association between "white" and "black" with "acceptable" and "unacceptable", respectively, is offensive to racialized groups due to its perpetuation of the bias that black is "bad." The terms "safe/unsafe list" or "allow/deny list" have been used as alternatives.
+
+"Open the Kimono" — To reveal what is being planned or to share important information freely. In the business context, it means to open a company up to closer examination and to reveal its inner workings. "Open the Kimono" arose in American business jargon during the 1980's. The phrase is not in wide use in Japan today. In feudal times the Kimono was opened to show that the wearer was unarmed. "Open the Kimono" is a sexist term in that it relies on stereotypes of women revealing their bodies at the direction of men. The terms "open the books" or "raise the curtain" have been used as alternatives.
+
+"Peanut Gallery" — A group of people who criticize something or someone, often by only focusing on insignificant details. Originates from Vaudeville, which flourished in North America from around 1880 to the 1930's. The "Peanut Gallery" referred to the cheapest seats in the theatre. These theatres were often segregated, and the "Peanut Gallery" mostly consisted of Black audience members. This term is offensive to racialized groups due to its origins.
+
+"Grandfathered in" — A provision within a new law or regulation that exempts certain people or entities from following that law. Those with "grandfathered in" status may continue to behave as before, while everyone else must follow the new law. This term originated following the passage of the 15th Amendment to the US Constitution, which prohibited discrimination in elections based on race. In reaction to the 15th Amendment, several states implemented voting requirements designed to keep Black citizens from voting (such as literacy requirements, poll taxes and constitutional quizzes). However, these requirements put many white voters at risk of losing their rights because they could not meet such expectations. The solution many States used to continue to suppress the Black vote was to maintain the voting rights of citizens who could vote before the Black community was enfranchised (almost all of whom were white), plus their lineal descendants. Extending the right to vote through lineage established the use of the term "grandfathering in." This term could be offensive to racialized groups due to its origins.
+
+"Going Postal" — The phrase refers to an employee or ex-employee becoming extremely and uncontrollably angry in a workplace environment, often resorting to violence or aggression towards fellow employees or supervisors. The expression arose in response to a series of violent events at United States Postal Service facilities from 1970 to date, particularly from 1986 to 1993. Generally, using the phrase is not advised as it makes light of injury and death. It has also been used negatively in connection with potential mental health illnesses.
+
+"Stakeholder" — A person or organization with an interest or concern in something. The term originates from the time of colonization, when settlers were given wooden stakes to claim their plot of land prior to any treaty or land negotiations with Indigenous Peoples as right and title holders. Consider using "interested parties" or "community partners".
+
+"Blackout Period" — In procurement practices, this refers to a specified period of time during a competitive procurement process in which any proposer, bidder, or its agent or representative, is prohibited from communicating with the contractor. The association between "white" and "black" with "acceptable" and "unacceptable", respectively, is offensive to racialized groups due to its perpetuation of the bias that black is "bad." Consider using Confidential Period.
+
+"Divide and Conquer" — In project management, this refers to breaking down a complex problem into smaller, more manageable sub-tasks, and assigning each sub-task to a specific team member or time block. The phrase is associated with oppression and colonialism and carries complex or negative historical context. Consider using "divide tasks among team members", "work together to complete a project", or "breakdown a project into smaller tasks or phases".
+
+Please Note: The above are examples and do not constitute an exhaustive list of metaphors or phrases to avoid.
+
+
+Examples — Problematic: "How old are you?" Preferred: "I'm impressed by your skills, knowledge, experience".
+
+Examples — Problematic: "You are too old to understand how this new software works". Preferred: "Your experience is valued. Please provide your feedback on how the new software is functioning".
+
+Examples — Problematic: "Act your age". "You'll understand some day". "It's not like that anymore". "That's ancient history". "Get with the times". Preferred: "I respect that we have different approaches and perspectives".
+
+Preferred terms relating to Age
+
+Older adult, senior (Please note: Some people prefer older adult over senior and some people prefer senior over older adult. Respect the unique language preferences of the individual.)
+Problematic when used in a condescending way: old man/woman, old person, oldies, old-timer, elderly person, aged person, grey-hairs, grandpa, grandma, codger, ancient, baby boomer, boomer, our poor dear old.
+
+Young adult, young person
+Problematic when used in a condescending way: junior, kid, kiddo, punk, wet behind the ears, child, whippersnapper, baby, toddler, adolescent, teenager, millennial, Gen Z, pumpkin, dumpling.
+
+New to the job field, has potential
+Problematic when used in a condescending way: immature, naïve, too young, underdeveloped, fresh, inexperienced.
+
+Experienced
+Problematic: Past their prime, older worker, retirement age, set in their ways, worn out.
+
+
+Examples — Problematic: "You look good for your age". Preferred: Generally speaking, you should not be commenting on people's appearance. If you are confident that the compliment will be received well, consider: "You look well".
+
+Examples — Problematic: "What's your citizenship status?", "Do you have a work visa?", "Are you here legally?" Preferred: "I'm so glad to have you on my team. Your previous experience outside of Canada is really helping this project".
+
+Examples — Problematic: "How long have you been living in Canada?", "Are you fresh off the boat?", "You're new, so you probably don't know that's not how we do things in Canada". Preferred: "I hope you have enjoyed your time in Canada". "How have you enjoyed being in Canada?"
+
+Examples — Problematic: "No wonder you came to Canada, your home country sounds very uncivilized". "People are crazy drivers in your country!" Preferred: "What do you miss about [country of origin]?"
+
+Examples — Problematic: "Are you allowed to have a job?" Preferred: "How are you enjoying your job?"
+
+Preferred terms relating to Citizenship/Immigration Status
+
+Please note: This terminology should be used in a respectful way and not in an accusatory tone. The citizenship/immigration status of an individual should not be questioned/commented on unless it is necessary to securing/providing services or it is raised as a topic by the individual.
+
+Newcomer
+Problematic: New Canadian, fresh off the boat, imposter, non-Canadian, illegal, green carder, alien, foreigner, outsider, stranger, new arrival, squatter, interloper, non-citizen, intruder, invader, undocumented.
+
+Person who is an immigrant, person without Canadian citizenship
+Problematic: Imposter, non-Canadian, illegal, green carder, alien, foreigner, outsider, stranger, new arrival, squatter, interloper, non-citizen, intruder, invader, undocumented.
+
+Person with Canadian citizenship, Canadian citizen
+Problematic: Taxpayer, legalized, a "real" citizen, a "real" Canadian.
+
+Examples — Problematic: "What did you give up for Lent?" Preferred: "What did you do this weekend?"
+
+Examples — Problematic: "I thought you weren't supposed to eat pork because of your religion?" Preferred: "What did your family do for Hanukkah this year?"
+
+Examples — Problematic: "Come join us in Christmas carolling! It's an important part of the holidays!" Preferred: "What would you like to do for the holiday party?"
+
+Examples — Problematic: "I pray to Jesus we have good weather", "What is your Christian name?" Preferred: "I hope we have good weather", "What is your name?"
+
+Preferred terms relating to Creed or Religion
+
+Work/school/winter break/vacation/holidays
+Problematic: Christmas break/vacation/holidays
+
+That's surprising. That's interesting to hear
+Problematic: Oh my god! Sweet Jesus! Dear Christ!
+
+Followers of the _______ faith (applies to any religious affiliation or belief system)
+Problematic: Holy followers, church go-ers
+
+Followers of the Christian faith; Christians
+Problematic: Bible beater, Bible thumper, Fundie (short for Fundamentalist), Prot (short for Protestant), holy roller
+
+Followers of the Catholic faith; Catholics
+Problematic: The/those Catholics
+
+Jewish
+Problematic: The/those Jews. Depending on how it is used, the word "Jew" is not necessarily improper to use, however it has historically been used with intended malice. The use of "The/those Jews" is problematic.
+
+Followers of the Muslim faith; Muslims
+Problematic: The/those Muslims
+
+Followers of the Sikh faith; Sikhs
+Problematic: The/those Sikhs
+
+Followers of the Hindu faith; Hindus
+Problematic: The/those Hindus
+
+Persons without a religious affiliation
+Problematic: Heathen, infidel, pagan, non-believer, without faith
+
+
+Examples — Problematic: Disabled person, wheelchair user, deaf person, epileptic person, handicapped person. Preferred: Person with a disability, person in a wheelchair, person who is deaf or hard of hearing, person with epilepsy, person with chronic pain, person with a fatiguing disability, person who experiences dizziness.
+
+
+Examples — Problematic: "An elevator is available for wheelchair users". Preferred: "There are various accommodations available for persons with disabilities. If you require an accommodation, please let me know".
+
+Examples — Problematic: "Don't worry about lifting that box, I know you have balance difficulties". Preferred: "Please let me know if you would like assistance moving your items".
+
+Examples — Problematic: She is disabled, he is arthritic, they are epileptic, she is deaf, she is mentally ill. Preferred: She has a disability, he has arthritis, they have epilepsy, she has a hearing disability, she has a mental health disability, she has a learning disability.
+
+Examples — Problematic: "You are very courageous for coming in here, given your mobility challenges". Preferred: Treat and talk to persons with disabilities the same way you talk to anyone else.
+
+
+
+Preferred terms relating to Disability
+
+Disability, Diverse abilities
+Problematic: Differently abled, different abilities, different, special, exceptional, exceptionality
+
+Person with a physical disability
+Problematic: Wheelchair or scooter bound, handicapped, physically challenged, physically limited, incapable, differently abled
+
+Person with a cognitive disability/developmental disability/intellectual disability
+Problematic: Dumb, slow, SPED (for special education), developmentally delayed, cognitively challenged
+
+Person with a visual disability, person with vision loss
+Preferred usage notes: Blind, for someone who has complete loss of sight; Legally blind, for someone who has almost complete loss of sight; Limited vision, low vision or partially sighted, for someone who is neither legally or completely blind.
+Problematic: Visually challenged, blind-as-a-bat, partially blind, the blind
+
+Person with hearing loss, person who is hard of hearing, Deaf
+(Please note: Many individuals in the Deaf community use identity-first language as part of their identity. When referring to the Deaf community, "Deaf" should be capitalized.)
+Problematic: Hearing challenged, the deaf (unless referring to the Deaf community), deaf and dumb, deaf-mute, hearing impaired
+
+Person who is deaf-blind (person who has any combination of visual and auditory disabilities)
+Problematic: The deaf-blind, the blind, deaf and dumb
+
+Person with a speech disability, person with a speech impediment
+Problematic: Stutterer
+
+Person with Down Syndrome (only use this terminology when it is directly relevant to the context)
+Problematic: Down's
+
+Person with a form of dwarfism
+Problematic: Midget, dwarf
+
+Person with a learning disability
+Problematic: Learning disabled
+
+Neurodivergent person/people; People/persons who are neurodivergent
+Problematic: Diagnosed with or has Attention Deficit Hyperactivity Disorder (ADHD), or a Sensory Processing Disorder.
+
+Person with autism, person with Autism Spectrum Disorder (ASD), Autistic
+(Please note: Some members of this community prefer identity-first language.)
+Problematic: Low-functioning, high-functioning, "on the spectrum"
+
+Mental health disability, mental health illness
+(Please note: More guidance around mental health terminology is provided in the mental health and mental illness section.)
+Problematic: Mentally challenged, mental, crazy, insane, psycho, "off their meds"
+
+Seizures
+Problematic: Fits, spells, attacks
+
+Person who is not disabled, person without visible disabilities, neurotypical
+Problematic: Normal, regular, unchallenged, able-bodied, healthy (problematic in the context of disability)
+
+Accessible parking/washrooms
+Problematic: Handicapped parking/washrooms, wheelchair parking/washrooms; barrier-free washrooms
+(Please note: The International Symbol of Access (ISA) is used to visually represent disability in general, despite the icon showing a person in a wheelchair. Referring to designated parking or washrooms as "wheelchair" or "handicapped parking/washrooms" instead of accessible parking or washrooms is still a common yet ableist practice.)
+
+Examples — Problematic: "The employee should inform his manager of any schedule changes". Preferred: "Employees should inform their manager of any schedule changes". "Employees who require schedule changes should contact their manager".
+
+Examples — Problematic: "Because you are a man, I expect you to wear a shirt and tie to the workplace". Preferred: "Dress in attire that is appropriate for the workplace".
+
+Examples — Problematic: "What gender are you?". Preferred: "Let's all go around the room and introduce ourselves, our interests, and if you'd like to, please feel free to share your pronouns".
+
+Examples — Problematic: "I won't call you by your new name because that's not what I know you as". Preferred: "Great to see you today, ____ [use of chosen name]".
+
+Examples — Problematic: "Jane is what I think they call a transexual". Preferred: "Jane identifies as a transgender person".
+
+
+Preferred gender-neutral terms
+
+Please note: the problematic terms listed below are acceptable if the person's desired terms are known.
+
+When pronouns are unknown: They/them/theirs
+Problematic: He/him/his, she/her/hers, his or hers
+
+When gender identity is unknown: The person, individual
+Problematic: Man, woman
+
+When the gender identity of someone's partner/spouse is unknown: Partner, spouse
+Problematic: Boyfriend, husband, girlfriend, wife
+
+"Hi everyone/folks/teams/friends."
+Problematic: "Hi guys/girls/ladies/gentlemen."
+
+When the gender identity of someone's sibling is unknown: Sibling
+Problematic: Brother, sister
+
+When the gender identity of someone's nibling is unknown: Nibling
+Problematic: Niece, nephew
+
+Preferred terms relating to Gender identity, expression and sex assigned at birth
+
+Assigned male/female at birth, designated male/female at birth
+Problematic: Biologically male/female, genetically male/female, born a man/woman
+
+Cisgender
+Problematic: Normal, uncomplicated
+
+Gender-affirming surgery, gender-confirmation surgery, transitioning (Please note: This a very personal topic of discussion and should not be addressed unless brought up by the individual.)
+Problematic: Sex change, sexual reassignment surgery, gender reassignment surgery
+
+Intersex
+Problematic: Hermaphrodite, she-male
+
+Non-binary, gender non-conforming, gender variant, genderqueer
+Problematic: Gender confused, mixed up, undecided
+
+Transgender people, transgender person
+Problematic: Transexual, cross-dresser, drag queen, transvestite, transgenders, a transgender, "It"
+(Please note: Transgender should be used as an adjective, not as a noun. Do not say, "Tony is a transgender," or "The parade included many transgenders.")
+
+Transgender (adjective)
+Problematic: Transgendered
+(Please note: The adjective "transgendered" can confuse the word tense and should not be used.)
+
+Preferred terms relating to Gender
+
+People, human beings, humanity
+Problematic: Mankind
+
+Actor (for any person who is an actor)
+Problematic: Actress
+
+Best person or candidate for the job
+Problematic: Best man for the job
+
+Business-person, executive, manager, entrepreneur
+Problematic: Businessman, businesswoman
+
+Clerical staff, office worker, personal assistant
+Problematic: The secretary girls, the office ladies
+
+Firefighter, cleaner, police officer
+Problematic: Fireman, policeman, cleaning lady
+
+Chair, chairperson
+Problematic: Chairman, chairwoman
+
+Utility worker, tradesperson, foreperson
+Problematic: Utility man, tradesman, foreman
+
+Fair, sporting, team player
+Problematic: Sportsmanlike, sportsmanship
+
+We need someone to staff the desk
+Problematic: We need someone to man the desk
+
+Staff hours, work hours
+Problematic: Man hours
+
+Examples — Problematic: "Indigenous people are diverse." Preferred: "Indigenous Peoples are diverse."
+
+Examples — Problematic: "The Indigenous group has a growing population." Preferred: "The Chippewas of Georgina Island have a growing population."
+
+Examples — Problematic: York Region's/Ontario's/Canada's Indigenous Peoples, our Indigenous communities. Preferred: Indigenous People living in what we now recognize as Canada.
+
+Examples — Problematic: "We invited elder Snow". Preferred: "Elder Vera Snow will attend the event". NOTE: When it is a part of a person's title, capitalize "Chief," "Hereditary Chief," "Grand Chief," and "Elder." 
+
+Preferred terms relating to Indigenous Peoples
+
+Indigenous Peoples, Indigenous people (in reference to more than one Indigenous person)
+Problematic: Indian (unless stating from a legal document), Native (unless stating title of organization), Aboriginal (some legislation uses this term), Native Americans
+
+Aboriginal People (Please note: The term can be used when referring to Constitutional Rights or organizations and/or groups with 'Aboriginal' in the title.)
+Problematic: Indians, Natives, Native Americans
+
+First Nations
+Problematic: Indians, Natives, Aboriginals, Native Americans
+
+Métis
+Problematic: Indians, Natives, First Nations, Inuit, half-breed
+
+Inuit
+Problematic: Indians, Natives, First Nations, Métis, Eskimo
+
+Elder
+Problematic: Old Indian, old geezer, senior
+
+Traditional medicines – Sage, sweetgrass, tobacco and cedar
+Problematic: Marijuana
+
+Colonization
+Problematic: Settlement, European arrival
+
+Reconciliation
+Problematic: Helping Indigenous persons, giving Indigenous persons special treatment
+
+There are various online tools to inform inclusive language related to Indigenous Peoples you can explore, including:
+
+Ayisinowak – A Communications Guide
+A Guide to Indigenous Protocol
+Indigenous Peoples: A Guide to Terminology
+Twenty-Three Tips on What Not to Say and Do When Working Effectively With Indigenous Peoples
+
+
+Examples — Problematic: "They are choosing to remain on social assistance". Preferred: "They have had to remain on social assistance".
+
+Examples — Problematic: "Have you tried looking for rent-geared to income apartments? I hear that they can help people in your situation." Preferred: "Have you talked to a social services professional?"
+
+Examples — Problematic: "He is still on Ontario Works". "He is so lazy". "If you do not go to university, you will end up working a low-paying job the rest of your life". Preferred: Follow the recommendation of the general principle.
+
+Examples — Problematic: Poor person, impoverished person, low-income person, homeless person. Preferred: Person experiencing low-income, person who is unhoused, person experiencing houselessness, person on social assistance.
+
+Preferred terms relating to Low-Income Status
+
+Person experiencing low-income, person with low-income status
+Problematic: Street person, couch surfer, beggar, poor person, poverty stricken, impoverished people, person in poverty, person experiencing poverty, poverty (as a noun)
+(Please note: Due to the stigma associated with the word "poverty", it is recommended that this word is avoided unless delivering or referring to federal/provincial legislation/policy that uses this terminology.)
+
+Person accessing social assistance or Ontario Works, person with a disability accessing Ontario Disability Support Program
+Problematic: Welfare seeker/user, food stamper, on disability, on the dole
+
+Person who is unhoused or houseless, person in a shelter, person experiencing houselessness, person experiencing insecure housing
+Problematic: Homeless person, shelter hopper, the homeless, street person, beggar, bum, vagrant, transient, derelict
+(Please note: It is acceptable to describe actions to address homelessness as "homelessness programs", but people should not be identified as homeless people.)
+
+Person experiencing food insecurity
+Problematic: The hungry poor, the hungry
+
+Person in conflict with the law
+Problematic: Criminal, gangster, squeegee kid, hoodlum, street kid, thug, street person
+
+Examples — Problematic: "It's great to meet you, Mrs. Nassif". Preferred: "It's great to meet you, Aalia".
+
+Examples — Problematic: "How is your husband doing? [While in conversation with someone who is not married]" Preferred: "How is your partner doing?"
+
+Examples — Problematic: "Adopted children may need additional support when transitioning into a new school environment." Preferred: "Some children may need additional support when transitioning into a new school environment."
+
+Examples — Problematic: "Is Andre the mommy in the relationship?" Preferred: "You and Andre seem like such good parents".
+
+Examples — Problematic: "I don't know how you manage the kids alone". Preferred: "You are a fantastic parent".
+
+Examples — Problematic: "It was nice meeting your real parents." Preferred: "It was nice meeting your birth parents."
+
+Examples — Problematic: "Have you tried… [x] to help with fertility?" Preferred: "How can I support you?"
+
+Preferred terms relating to Marital and Family Status
+
+Use people's names in written and oral communication.
+Problematic: Mr., Mrs., Miss, or Ms.
+
+Spouse, partner
+Problematic: Husband, wife, boyfriend, girlfriend
+
+Grown-ups, adults, caregivers, guardians, family (Use with caution: Parents. Parents can be an exclusive term if it is used in a setting where all children may not have parents and instead have non-parental caregivers/guardians. Please make sure you know your audience before using "parents." Use grownups, adults, caregivers, guardians and family if parental status is unknown.)
+Problematic: Mother and father, mothering/fathering, mums/moms and dads
+
+Adults/caregivers with children, expecting adult(s), person expecting a child (Use with caution: Expecting parent(s). Expecting parent denotes that the person will be taking care of the child after its birth. This may not always be the case. If the audience is unknown, be careful with this language.)
+Problematic: Parents with children, expecting mother/father
+
+Children or child
+Problematic: Son, daughter
+
+Blended family
+Problematic: Divorced family, stepfamily, mixed family
+
+Childless by circumstance, childless not-by-choice
+Problematic: Childless family, childless couple, infertile parents
+
+Family members
+Problematic: Members of a household
+
+Person's last name or previous last name
+Problematic: Maiden name, married name
+
+Examples — Problematic: "What is your mental health condition?" Preferred: "How are you?"
+
+Examples — Problematic: "None of my staff have mental health struggles, they are all well and act well." Preferred: "Let me know if you need support or a break in any way."
+
+Examples — Problematic: "They committed suicide." Preferred: "They died by suicide."
+
+Examples — Problematic: "They are schizophrenic." Preferred: "They have schizophrenia."
+
+Examples — Problematic: "She is courageous for coming to work despite her depression." Preferred: Treat and talk to persons with mental health conditions as you would anyone else.
+
+Preferred terms relating to Mental Health
+
+Person with a mental health condition, person with depression/anxiety/other diagnosed mental health disorder, person living with a mental health problem
+Problematic: Crazy, crazy person, unstable, having mental disorders, insane, lunatic, mental, nuts, psycho, Schizo, manic, temperamental, hormonal, disturbed, psycho, mentally ill
+
+This bothers/annoys/frustrates me.
+Problematic: This drives me crazy.
+
+This individual lives with or/is experiencing depression
+Problematic: This individual suffers from depression
+
+Died by suicide
+Problematic: Committed suicide, successful suicide
+
+Survived a suicide attempt
+Problematic: Failed or unsuccessful suicide attempt
+
+Substance use, substance use challenges, substance use dependence
+Problematic: Drug abuse, substance abuse, substance misuse
+Note: The terms "abuse" and "misuse" have a high association with negative judgments and punishment.
+
+A person who uses drugs/substances, a person with substance use dependence
+Problematic: Drug user, person with a drug habit, alcoholic, drunk, addict, drug abuser, junkie
+Note: Use person-first language. Shows the person "has" a problem, rather than "is" the problem. Not all people who use substances have a substance use disorder. "Habit" downplays the seriousness of a substance use disorder and inaccurately implies that a person can choose to stop.
+
+Person in recovery or long-term recovery
+Problematic: Former addict, reformed addict, staying clean, clean, sober
+Note: Use of problematic terms may evoke negative thoughts and feelings. Recovery is how the individual defines it and may or may not mean abstinence from drugs.
+
+Pharmacotherapy, medication for a substance use dependence or challenge, medication for an opioid use dependence or challenge, medication for addiction treatment
+Problematic: Replacement/substitution therapy, opioid replacement therapy
+Note: Replacement and substitution therapy may suggest to some that addictive substance use is being replaced by an alternative. Medication used to treat addiction helps people regain well-being.
+
+For example: If you are bringing up the inequalities Black children may face in the education system, say "Black students" rather than "BIPOC students". 
+
+Examples — Problematic: "My co-worker looks Chinese and may require time off for Lunar New Year." Preferred: "My co-worker has been working hard and may appreciate some time off."
+
+Examples — Problematic: "Have you met my new co-worker? He is also Asian. You two will get along." Preferred: "Have you met my new co-worker?"
+
+Examples — Problematic: "My staff member is a Chinese Canadian and has worked for us for three years." Preferred: "My staff member has worked for us for three years."
+
+Examples — Problematic: "My colleague is a person of colour." Preferred: "My colleague has identified herself as Black and may like to know about the Employee Resource Group for Black staff." 
+
+Examples — Problematic: Outdated terms including coloured people, people of colour, non-whites, oriental. Preferred: More modern and accepted terms, including person from Asia, person from the Black community, etc.
+
+Examples — Problematic: black, indigenous people, Caucasian, arab, asian, etc. Preferred: Black, Indigenous people, Caucasian, Arab, Asian.
+
+Examples — Problematic: Pakistani. Blacks. Asians. Preferred: A person from Pakistan, A person from Asia, A person from the Black community.
+
+Examples — Problematic: "Chinese people don't park well." Preferred: Follow the recommendation of the general principle.
+
+Examples — Problematic: "Where are you from?", "But where are you really from?" Preferred: [If trying to ask what community they live in] "Where do you live?", "Where are you travelling from?"
+
+
+Preferred terms relating to Race or Ethnic Background
+
+Please note, not everyone will choose the same way to describe themselves. Use the language preferred by the individual to ensure you are not making assumptions or perpetuating stereotypes.
+
+A person of Asian heritage/background/descent.
+Problematic: Orientals. Asians.
+
+A person of Black heritage/background/descent. A person from the Black community. A person who identifies as Black. A person who identifies as an African-Canadian. (Please note: Some people refer to themselves as "Black" and others prefer "African-Canadian." Please check with the individual what their preferences are.)
+Problematic: Coloured. Person of colour, African-Americans. Non-whites. Blacks.
+
+A person of East Asian heritage/background/descent. A person of specific East Asian heritage, for example: Person of Chinese heritage/background/descent; Person of Japanese heritage/background/descent; Person of Korean heritage/background/descent.
+Problematic: The/those East Asians [or specific nationality].
+
+A person of South Asian heritage/background/descent. A person of specific South Asian heritage, for example: Person of Indian heritage/background/descent; Person of Pakistani heritage/background/descent.
+Problematic: The/those South Asians [or specific nationality].
+
+A person of Southeast Asian heritage/background/descent. A person of specific Southeast Asian heritage, for example: Person of Indonesian heritage/background/descent; Person of Thai heritage/background/descent.
+Problematic: The/those Southeast Asians [or specific nationality].
+
+A person of Middle Eastern heritage/background/descent. A person of specific Middle Eastern heritage, for example: Person of Iraqi heritage/background/descent; Person of Israeli heritage/background/descent.
+Problematic: The/those Middle Easterners [or specific nationality].
+
+A person of Latin American heritage/background/descent, person who identifies as Hispanic. (Please note: Some people refer to themselves as "Latin-American" and others prefer "Hispanic" or "Latina" or "Latinx." Please check with the individual what their preferences are.) A person of specific Latin American heritage, for example: Person of Brazilian heritage/background/descent; Person of Costa Rican heritage/background/descent; Person of Mexican heritage/background/descent.
+Problematic: The/those Latin Americans [or specific nationality].
+
+A person of European heritage/background/descent, person who identifies as Caucasian. A person of specific European heritage, for example: Person of German heritage/background/descent; Person of French heritage/background/heritage; Person of Italian heritage/background/descent.
+Problematic: The/those Europeans [or specific nationality].
+
+Bi-racial. Multi-racial individuals.
+Problematic: Mixed race, Half or half-breed
+
+Developing world.
+Problematic: Third world
+
+Equity-deserving groups (Please note: The emphasis on deserving recognizes that groups' barriers to equal access, opportunities and resources are due to marginalization created by attitudinal, historical and environmental barriers. This term is not limited to racialized groups and can be applicable to other marginalized groups.)
+Problematic: Equity-seeking groups
+
+Examples — Problematic: "That is so gay." Preferred: "That sucks." "That is not good."
+
+Examples — Problematic: "Suki is in a same-sex relationship." Preferred: "Suki is in a relationship."
+
+Examples — Problematic: "I'm not gay, but I support gay rights." Preferred: "I support gay rights."
+
+Preferred terms relating to Sexual Orientation
+
+Lesbian, Gay, Gay and lesbian community, 2SLGTBQI+ community.
+Problematic: Queer (as an insult), Homosexual. (Please note: Some members of the gay/lesbian community reject the term "homosexual" due to its historical use to frame attraction to the same sex as a disease. For more information, refer to GLAAD's Media Reference Guide – Glossary of Terms: LGBTQ)
+
+Sexual orientation.
+Problematic: Sexual preference.
+
+Relationship, Same-sex relationship, Same-sex couple, Gay couple, Lesbian couple. (Please note: Only use "same-sex relationship" instead of "relationship" if clarifying the "same-sex" nature of the relationship is necessary to the point being communicated.)
+Problematic: Homosexual relationship, Homosexual couple
+
+Gay lives, Lesbian lives, Gay and lesbian lives.
+Problematic: Gay lifestyle, Homosexual lifestyle
+
+Bisexual.
+Problematic: Person who swings both ways.
+
+Heterosexual. (Please note: Some members of the gay/lesbian community reject the use of the word "straight" due to the potential implication that gays and lesbians "deviate" from normalcy.)
+Problematic: Normal. Straight.
+
+Issues relating to persons who are gay/lesbians.
+Problematic: Gay agenda, Lesbian agenda, Homosexual agenda.
+
+Partner, Spouse.
+Problematic: Boyfriend, Husband, Girlfriend, Wife.
+
+
+
+
+
+

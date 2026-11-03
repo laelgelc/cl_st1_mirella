@@ -1,0 +1,100 @@
+Examples of bias-free language
+
+The following are examples of bias-free language for racial and ethnic identity. Both problematic and preferred examples are presented with explanatory comments.
+
+1. Description of African American or Black people
+
+Problematic:
+We interviewed 25 Afro-American people living in rural Louisiana.
+
+Preferred:
+We interviewed 25 Black people living in rural Louisiana.
+We interviewed 25 African Americans living in rural Louisiana.
+
+Comment: “Afro-American” and “Negro” have become dated; therefore, usage of these terms generally is inappropriate. Specify region or nation of origin when possible to avoid the impression that all people of African descent have the same cultural background, family history, or family experiences. Note that “Black” is appropriate rather than “African American” to describe people of African descent from various national origins (e.g., Haitian, Nigerian).
+
+2. Description of Asian or Asian American people
+
+Problematic:
+Participants were 300 Orientals.
+
+Preferred:
+There were 300 Asian participants; among these, 100 were from South Asia (India, Nepal, Bangladesh), 100 were from Southeast Asia (Thailand, Laos, and Vietnam), and 100 were from East Asia (China, South Korea, Japan).
+
+Comment: “Orientals” is considered pejorative; use “Asian” for people from Asia, “Asian American” for people of Asian descent in North America, or be more specific by providing nation and region of origin (Japanese, Chinese, Vietnamese, etc.).
+
+3. Description of European American or White people
+
+Problematic:
+All participants were Caucasian.
+
+Preferred:
+All participants were European American.
+All participants were White.
+
+Comment: The term “Caucasian” is considered offensive to some cultures; use “White” or “European American” instead for people of European descent living in North America, or be more specific by providing the nation of origin.
+
+4. Description of Indigenous people
+
+Problematic:
+The 50 Indians represented…
+
+Preferred:
+The 50 Native Americans (25 Choctaw, 15 Hopi, and 10 Seminole) represented…
+The 50 Indigenous People (23 First Nations, 17 Inuit, 10 Métis) represented…
+
+Comment: When appropriate, authors should identify groups indigenous to North America by specific group or nation; when the broader designation is appropriate, note that “Native American” may be preferred to “American Indian.” “Indian” refers to people from India. In general, refer to a group as a “people” or “nation” rather than as a “tribe.”
+
+Problematic:
+We studied Eskimos.
+
+Preferred:
+We studied Inuit from Canada and Aleuts.
+The 50 Indigenous People (23 First Nations and 27 Inuit) represented…
+
+Comment: Native peoples of northern Canada, Alaska, eastern Siberia, and Greenland may prefer “Inuk” (“Inuit” for plural) to “Eskimo.” Alaska Natives include many groups in addition to Eskimos. “Indigenous Peoples” may be used when the broader designation is appropriate.
+
+5. Description of Latinx or Hispanic people
+
+Problematic:
+Participants were 200 Hispanics/Latinos.
+
+Preferred:
+Participants were from Central America (150 from Guatemala, 50 from Honduras, and 50 from Belize).
+
+Comment: “Hispanic” and “Latinx” (or Latino, etc.) have different meanings; ask participants to self-identify with a term and use a precise nationality if possible.
+
+6. Racial-ethnic comparisons
+
+Problematic:
+Participants’ race was categorized as either White or non-White.
+
+Preferred:
+Participants’ race was categorized as European American, African American, Asian American, or Latin American.
+
+Comment: Use parallel terms, especially in table labels. “Non-White” implies a standard of comparison and is imprecise.
+
+7. Discussion of racial and ethnic minorities
+
+Problematic:
+minorities
+minority students
+
+Preferred:
+racial minorities, ethnic minorities, racial-ethnic minorities
+racial minority students, ethnic minority students, racial-ethnic minority students
+people of color
+underrepresented people, underrepresented groups
+
+Comment: “Minority” is usually equated with being less than, oppressed, and deficient in comparison with the majority. When it is necessary to compare a dominant racial group with a nondominant racial group, use a modifier like “racial,” “ethnic,” or “racial-ethnic.” Otherwise, other terms may be preferred, such as “people of color” to refer to non-White racial and ethnic groups or “underrepresented people.”
+
+8. Use of qualifying adjectives with racial and ethnic identity
+
+Problematic:
+the articulate Mexican American professor
+
+Preferred:
+the Mexican American professor
+
+Comment: Qualifying adjectives may imply that the “articulate” Mexican American professor is an exception to the norm (for Mexican American professors). Depending on the context of the sentence, ethnic identity may not be relevant and therefore should not be mentioned.
+

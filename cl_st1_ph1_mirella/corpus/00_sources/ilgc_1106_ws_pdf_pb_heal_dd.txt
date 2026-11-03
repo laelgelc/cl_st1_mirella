@@ -1,0 +1,68 @@
+Instead of these terms... | Use one of these terms...
+
+Disabled; Differently abled; Mentally/Physically challenged; Handicapped; Handi-capable; Special needs; Suffering with/afflicted by/victim of (disability) | People with disabilities/a disability; Disabled person (identity first*); People with an intellectual disability; Person with a developmental disability; Person with a physical disability
+Mentally ill; Crazy; Insane; Mental defect/defective; Suffers from or is afflicted with (condition); Brain damaged | Person living with a mental illness; Person with a mental health condition; Person with a behavioral health disorder; Person with a diagnosis of a mental illness/mental health disorder/behavioral health disorder; Person with a traumatic brain injury
+Asylum | Psychiatric hospital/facility
+Drug user | Person who uses drugs
+Addict/abuser | Person with substance use disorder
+Alcoholic | Persons with alcohol use disorder
+Persons taking medication assisted treatment (MAT) | Persons taking medications for opioid use disorder (MOUD)
+Relapsed | Persons who returned to use
+Smokers | People who smoke
+Recovering addict | Persons in recovery from substance use
+Homeless people; The homeless; Transient populations | People experiencing homelessness; People experiencing houselessness; Persons experiencing unstable housing/housing insecurity; Persons who are not securely housed; People experiencing unsheltered homelessness; Person without housing
+Prostitute | Person who engages in sex work; Sex worker
+Inmate | Formerly incarcerated
+Prisoner | Person with a history of incarceration
+Convict/ex-con | Person who is/has been incarcerated
+Offender | Person in pre-trial or with charge
+Felon/Criminal | Person who was formerly incarcerated
+Parolee | Person on parole or probation
+Detainee | Person detained by or under the custody of (specify agency)
+Elderly/the elderly; Seniors/Senior citizens; The aged; Aging dependents | Older adults; Older people/individuals; Persons aged [specific numeric age group]; Elders (when referring to older adults in specific cultural contexts)
+Frail | Frail (when referring to older adults in a specific clinical context)
+Geriatric pregnancy | Advanced maternal age
+Silver tsunami | Age related population/demographic changes
+Slave | Person who is/was enslaved
+Owner/Master | Enslaver
+Underweight | Lower weight
+Overweight | Higher weight
+Fat; Obese/Morbidly obese | Larger-bodied; Person living with obesity; Person living in a larger body; Fat (used by Fat Acceptance and Fat Activist movements)
+The poor; Poor people; Poverty-stricken | People with lower incomes; People whose incomes are below the federal poverty threshold; People experiencing poverty
+Low class/Lower class | People who are of low SES/socioeconomic status
+Committed suicide | Died by suicide
+Successful suicide | Death by suicide
+Failed suicide | Survived a suicide attempt
+Killed themselves | Lost their life by suicide
+Child prostitute | Child who has been trafficked
+Sex with an underage person | Child who has been raped
+Nonconsensual sex | Rape
+Date rape or acquaintance rape | Rape or sexual assault
+Illegals; Illegal immigrant/Migrant; Illegal aliens | Person(s) with undocumented status; Person who is an undocumented noncitizen
+Foreigner | Immigrant; Non-U.S.-born person; Migrant; Person who is seeking asylum; Refugee
+
+
+Instead of this... | Use one of these...
+Disadvantaged; Under-resourced; Under-served; Under-privileged; Needy | Groups experiencing disadvantage because of (reason); Historically and intentionally excluded; Disinvested; Oppressed; Groups that have been economically/socially marginalized; Groups struggling against economic marginalization
+Vulnerable | Made Vulnerable; Vulnerable (when used as a legal or clinical term)
+At-risk; High-risk; High burden | Groups put at increased risk of (outcome); Groups with a higher risk of (outcome)
+Non-compliant | Unable to adhere because of (reason)
+Failed treatment | Did not respond to treatment
+Target (communities, population) | Engage, collaborate
+Tackle (issues in the community) | Prioritize, Serve, Consider the needs of
+Aimed at (community) | Communities of focus
+Fight/Combat/War against (issue) | Eliminate/prevent/control (issue)
+
+
+Instead of this... | Use one of these...
+Minority/Minorities; Ethnic groups; Racial groups; Racial and ethnic minorities | Black physicians; Indigenous students; Latino/a/x respondents; Asian American patients
+Disability groups | People with a physical disability
+
+
+Avoid leading with data... | Lead with known structural determinants of health
+
+Compared to their straight peers, twice as many young people who are LGBTQ+ have smoked a cigarette before the age of 13. The rates are even higher for young LGBTQ+ people of color | Young people who are LGBTQ+ report high levels of stress from discrimination. The link between stress and smoking helps to explain why, when compared to straight peers, twice as many LGBTQ+ youth have tried a cigarette before the age of 13.
+Native Americans have the highest prevalence of cigarette smoking, have more difficulty quitting smoking, and have lower utilization of cessation treatments such as counseling and medication. | There is a lack of culturally appropriate smoking cessation programs for Native American people. Few programs have been funded, implemented, and evaluated for specific tribal cultures. This helps explain why Native Americans have more difficulty quitting smoking and have lower utilization of cessation treatments.
+The prevalence of obesity is higher in Hispanic or Latino/a/x children than it is for white children. | The places where Hispanic/Latino/a/x children live are less likely to offer access to healthy foods and safe places to exercise. This helps explain why the prevalence of obesity is higher in Hispanic or Latino/a/x children that it is for white children
+African American women are two to three times more likely to experience premature birth and three times more likely to give birth to a low-birth-weight infant, even after controlling for socioeconomic factors. | Research suggests that racism likely serves as a source of chronic stress, negatively affecting the body's hormonal levels, which can increase the likelihood of premature birth and low birth weights. This helps explain why African American women are two to three times more likely to experience premature birth and three times more likely to give birth to a low birth weight infant.
+

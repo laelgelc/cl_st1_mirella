@@ -1,0 +1,345 @@
+PERSON-FIRST AND IDENTITY-FIRST LANGUAGE
+TERM TO AVOID
+
+wheelchair-bound
+confined to a wheelchair
+mentally ill
+crazy
+insane
+mental defect
+suffers from or is afflicted with [condition]
+asylum
+drug user/abuser
+addict
+alcoholic
+alcohol abuser
+person taking/prescribed medication-assisted treatment (MAT)
+person who relapsed
+smoker
+homeless people
+the homeless
+transient populations
+prostitute
+prisoner
+convict
+slave
+
+SUGGESTED ALTERNATIVE
+
+person who uses a wheelchair
+wheelchair user
+person living with a mental illness
+person with a preexisting mental health disorder
+person with a preexisting behavioral health disorder
+person with a diagnosis of a mental illness/mental health disorder/behavioral health disorder
+psychiatric hospital/facility
+person who uses drugs
+person who injects drugs
+person with substance use disorder
+person with alcohol use disorder
+person in recovery from substance use/alcohol disorder
+person taking/prescribed medications for opioid use disorder (MOUD)
+person who returned to use
+person who smokes
+people without housing
+people experiencing homelessness
+people experiencing unstable housing/housing insecurity/people who are not securely housed
+people experiencing unsheltered homelessness
+clients/guests who are accessing homeless services
+people experiencing houselessness
+people experiencing housing or food insecurity
+person who engages in sex work
+sex worker (abbreviated as SWer)
+person who is/has been incarcerated
+person who is/was enslaved
+
+IDENTITY-RELATED TERMS
+
+AGE
+TERM TO AVOID
+
+the elderly
+elderly people
+the aged
+aging dependents
+seniors
+senior citizens
+geriatric pregnancy
+silver tsunami
+
+SUGGESTED ALTERNATIVE
+
+older adults
+older people
+persons 60 years and older
+older population
+older individuals
+advanced maternal age
+pregnancy at age 35 or older
+age-related population changes
+age-related demographic changes
+
+
+TERM TO AVOID
+
+ideal weight
+goal weight
+“Your preferred weight is...”
+“Your ideal weight is...”
+underweight
+fat
+obese
+morbidly obese
+
+SUGGESTED ALTERNATIVE
+
+“Your weight is...”
+“The health indicator(s) for you to be aware of is/are”
+lower weight
+higher weight
+
+
+Disability
+
+TERM TO AVOID
+
+special needs
+differently abled
+multiabled
+physically challenged
+mentally challenged
+mentally retarded
+handi-capable
+handicapped
+suffering with… [disability or condition]
+mentally ill
+person with deafness
+hearing-impaired person
+person who is hearing impaired
+person with deafness and blindness
+person with blindness
+visually challenged person
+visually impaired person
+vision-impaired person
+person who is visually impaired
+person who is vision impaired
+sight-challenged person
+wheelchair-bound person
+confined to a wheelchair
+cripple
+invalid
+gimp
+AIDS victim
+HIV patient
+brain damaged
+defective
+nuts
+crazy
+alcoholic
+addict
+stand up for
+turn a blind eye to
+be myopic or shortsighted
+have a blind spot for
+blind review
+blind coding
+color blind
+fall on deaf ears
+tone deaf
+midget
+lame
+lend your voice
+make your voice heard
+able-bodied
+
+SUGGESTED ALTERNATIVE
+
+person with a disability
+person who has a disability
+disabled person
+people with intellectual disabilities
+child with a congenital disability
+child with a birth impairment
+physically disabled person
+person with a physical disability
+person with a mental disorder
+person with a mental illness
+person living with a mental health condition
+Deaf person
+person who is deaf
+hard-of-hearing person
+person who is hard-of-hearing
+person with hearing loss
+Deaf-Blind person
+a Deaf person with low vision
+a person who is deaf with low vision
+blind person
+person who is blind
+person with low vision
+wheelchair user
+person who uses a wheelchair
+person with a physical disability
+person with AIDS
+person with HIV
+person living with HIV
+HIV-positive person
+person with a traumatic brain injury (TBI)
+person with a mental disorder
+person with a mental illness
+person living with a mental illness
+person with alcohol use disorder
+person with substance use disorder
+support
+champion
+ignore
+refuse to notice
+ignore
+miss
+show unconscious bias
+anonymous review
+masked review
+masked coding
+deuteranomaly, achromatopsia (or other type of color-vision deficiency)
+color-vision deficiency
+be willfully ignorant
+deliberately ignore
+insensitive
+out of context
+little person
+person of small stature
+dwarf
+having dwarfism (Little People of America, 2021)
+boring
+mundane
+uncool
+support
+everyone should have a voice [in this matter]
+everyone should have input
+express your perspective/opinion
+nondisabled
+
+
+Sexual Orientation and Gender Diversity
+
+TERM TO AVOID
+
+birth sex
+natal sex
+born a girl, born female
+born a boy, born male
+female to male
+male to female
+hermaphrodite
+she-male, he-female
+tranny
+transvestite
+transsexual
+transgendered
+
+SUGGESTED ALTERNATIVE
+
+assigned sex
+sex assigned at birth
+assigned female at birth (AFAB)
+assigned male at birth (AMAB)
+assigned female at birth (AFAB)
+assigned male at birth (AMAB)
+intersex
+LGBTQ, LGBTQ+, LBGTQIA+, etc.
+transgender person
+transgender people
+trans and gender nonbinary folks or folx
+genderqueer
+queer
+transgender
+
+COMMENT
+
+Some people may use terms to describe themselves and others that may be perceived as pejorative but are empowering for those individuals and their communities. “Tranny” or “queer” are examples of such terms. Some members of the LGBTQ+ community have reclaimed them, whereas others may consider them offensive.
+
+“Transgendered is a dated term that suggests a point in time when a person ‘became’ transgender, which diverges from the lived experiences of most transgender people” (National Institutes of Health, 2023, Transgender, trans definition).
+
+
+Socioeconomic Status
+
+TERM TO AVOID
+
+the poor
+poor people
+low-class people
+lower class people
+homeless people
+blue-collar worker
+white-collar worker
+ghetto/the ghetto
+
+SUGGESTED ALTERNATIVE
+
+people whose incomes are below the federal poverty threshold
+people who are of low SES/socioeconomic status
+people without housing
+people experiencing houselessness
+people experiencing housing insecurity or food insecurity
+skilled tradesworker
+manual laborer
+salaried professional
+underresourced area
+low socioeconomic area
+
+Violent Language
+
+TERM TO AVOID
+
+killing it
+nailing it
+take a shot at
+take your best shot
+take a stab at
+target population
+off the reservation
+
+SUGGESTED ALTERNATIVE
+
+great job
+awesome
+give it a go
+try
+specific population
+group of focus
+disagree with the group
+defect from the group
+
+
+Language That Doesn’t Say What We Mean
+
+TERM TO AVOID
+
+committed suicide/suicided
+failed/successful suicide
+completed suicide
+killed themselves
+child prostitute
+sex with an underage person
+nonconsensual sex
+date rape or acquaintance rape
+
+SUGGESTED ALTERNATIVE
+
+died by suicide
+death by suicide
+lost their life by suicide
+survived a suicide attempt
+child who has been trafficked
+child who has been raped
+rape
+rape or sexual assault
+
+COMMENT
+
+“Commit” implies crime or sin. Do not describe suicide attempts as “successful,” “unsuccessful,” or “failed.” Instead, say “survived a suicide attempt,” similar to describing someone who has survived a medical event such as cancer or a heart attack.
+
+These terms are considered somewhat outdated as they originated in the early 20th century.
+
+A term that is often used to describe the intersectionality of socioeconomic status and race/ethnicity. It also has roots in antisemitism. The colloquial use of the term “ghetto” to describe others is rooted in classism and racism.
+
+Although these terms and idioms may seem innocuous ways to signal achievement, it is notable how pervasive violent or militaristic language is seen as positive when it should be the opposite. Even when used in medicine, violent metaphors have been described as “ironic, unfortunate, and unnecessary”.

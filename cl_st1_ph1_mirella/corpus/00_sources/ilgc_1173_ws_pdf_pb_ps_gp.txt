@@ -1,0 +1,74 @@
+
+3 PRINCIPLES OF RESPECT
+
+Think before you speak. Think about how your 'words count'. How will they be perceived by those you are speaking to or those observing. Avoid phrases that link black with negative situations (e.g. Blacklists, Blackout, Black Sheep, Black Swan). Lead by example but be cautious about creating rules for others. Be curious about common phrases and share what you learn with others in the spirit of understanding.
+
+Do not be quick to assume malice. If someone says something you feel offended by, do not be quick to assume they intended it to be hurtful. Feel empowered to call out offensive terms/phrases, but do so in a kind, considerate and empathic way. Confide in a manager you have a good relationship with if you do not feel you can speak to the person yourself.
+
+Be quick to apologise. Full stop. It doesn't matter about who was in the right or wrong, be quick to apologise if you have upset someone by something that was said. Make sure you are sincere and learn from the experience. We all say things that are taken the wrong way or blurted out in a clumsy manner…it's how we deal with it afterwards that defines us.
+
+STEPS TO SUCCESS
+
+Changing technology and cybersecurity language in organisations can be driven by the respective communities but it will need to be part of the wider D&I strategy. In many situations, education is the first step in instigating change – it is key for leadership to understand the challenge, the impact it is having on the organisation's employees and future ability to attract diverse top talent and what needs to change. Reinforcement of messaging is key to driving sustainable change.
+
+It is recognised that financial services organisations will be at different stages of their journey and hence this 12-step guide may be helpful in determining what to do and when:
+
+Step 1: Review current language used in technology and cyber
+Step 2: Identify non inclusive language
+Step 3: Secure technology and cyber leadership support
+Step 4: Engage central D&I or HR team
+Step 5: Agree a set of alternative words to replace the non-inclusive language
+Step 6: Business Leadership sponsor
+Step 7: Consider cultural alignment
+Step 8: Engage employees to help shape response
+Step 9: Approval of alternative words
+Step 10: Communication strategy
+Step 11: Instigate changes, update policy documents
+Step 12: Assign maintenance responsibility
+
+Set regular review dates to examine progress, further embed the changes and ensure that the culture is adapting to embrace the change needed. Within this it will be important to gauge if further education and awareness is needed to support the right level of change.
+
+CALL TO ACTION AND KEY TAKEAWAYS
+
+Remember many organisations have already started on their journey to actively change non-inclusive language. It is not necessary to start from scratch, but rather to build from the foundations already set by some of the leading technology companies and industry bodies. It is imperative that all UK Finance members work together – if only a few organisations change their use of language then the majority will still be using insensitive and non-inclusive terms.
+
+The below table highlights areas to considered when building a strategy and plan for effective change, which focuses on four key areas:
+
+1. Technical changes to systems and products
+2. Driving the right culture from the top
+3. Engaging employees in the conversation
+4. Continuous improvement and policy review
+
+1. Technical changes to systems and products
+Pilot programs to identify and replace hard coded terms.
+Determine alternative options or create tools in developing new/emerging technology to QA such language prior to release
+Include a non-inclusive language review point from day one in new projects
+Understand potential biases applied in AI/ML algorithms, and how this can be counteracted.
+
+2. Driving the right culture from the top
+Engagement of senior sponsor to drive the tone from the top.
+Support from overall business leadership to stand behind changes
+Build a core team of champions within Technology, D&I team, Talent and policy.
+Drive inclusive culture through mentorship, sponsorship and allyship initiatives.
+
+3. Engaging employees in the conversation
+Encourage open dialogue / seek opinions and viewpoints
+Publish communications on positive changes
+Perform educational sessions for technology and cybersecurity target groups (strategists, product owners, developers, coders, CTOs and users)
+Empower people to utilise available tools / products to identify non-inclusive language
+
+4. Continuous improvement, and policy review
+Review current language used in technology and cyber and agree alternative terms
+Schedule future review of policies
+Consider wider impact of non-inclusive language beyond technology and cybersecurity as a secondary focus area
+Review current technology recruitment advertisements against non-inclusive language – and agree ongoing protocols.
+
+APPENDIX – ALTERNATIVE TERMS
+
+These tables represent examples of non-inclusive language utilised in technology and cybersecurity that have been identified as part of the research for this report. The list is not intended to be exhaustive but provides examples of terms that may be perceived as offensive by certain groups of people.
+
+Suggested alternatives to the terms have been provided, some of which have already been widely adopted across the industry. When assessing the use of the words, and alternatives, organisations need to consider the contextual meaning, how these may be used within their own organisation and whether there may be cultural variances that may also need to be considered.
+
+Organisations with an international presence should consider how the use of words may be perceived or translated when used in different cultures or translated to/from English as terms may have different meanings or connotation. Conversely, there may be words utilised in other countries, or cultures that may also be deemed offensive. It is therefore important that variances in terms and their meaning be assessed for relevance and appropriateness.
+
+

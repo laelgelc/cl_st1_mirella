@@ -1,0 +1,127 @@
+Guidelines
+
+When to apply
+
+These Guidelines include a number of strategies to help ETSI staff and ETSI community use inclusive language. They may be applied to any type of communication, whether it is oral or written, formal or informal, or addressed to an internal or external audience.
+
+When deciding what strategies to use, ETSI staff and ETSI community should:
+
+• Take into account the type of text/oral communication, the context, the audience and the purpose of the communication;
+• Ensure that the text is readable and the text/oral communication clear, fluid and concise;
+• Seek to combine different strategies throughout the text/oral communication that allow all categories of the expected audience to be included.
+
+There are different areas that may need extra attention like the use of gender, race, age, cultural background, religion, sexuality etc. Most of these areas may not seem to occur in ETSI documents including standards but being aware of them is important to avoid biased text.
+
+The following chapters give guidance on how to avoid biased text with regard to gender, since this is regarded as the most critical area at the time of the first draft of this guidance.
+
+Gender in English
+
+In English, there is a difference between “grammatical gender”, “gender as a social construct” (which refers to the roles, behaviours, activities and attributes that a given society at a certain time considers appropriate for men, women or nonbinary people) and “sex” as a biological characteristic of living beings.
+
+English has very few gender markers: the pronouns and possessives (he, she, her, his, they and their); and some nouns and forms of address. Most English nouns do not have grammatical gender forms (teacher, president), whereas a few nouns are specifically masculine or feminine (actor/actress, waiter/waitress). Some nouns that once ended in -man now have neutral equivalents that are used to include all genders (police officer for policeman/policewoman, spokesperson for spokesman, chair/chairperson for chairman etc).
+
+A challenge for gender-inclusive communication in English is the use of the masculine form by default. For example, “Every Permanent Representative must submit his credentials to Protocol.”
+
+This is why the following chapter on best practices/strategies provides examples how these types of sentences can be written in a different way to avoid the direct mentioning of one gender only.
+
+Best practices/strategies for the use of gender in texts, events, …
+
+A number of strategies can be applied, when speaking or writing in English, to be more gender-inclusive:
+
+Using non-discriminatory language
+
+Forms of address
+
+When referring to or addressing specific individuals, use forms of address and pronouns that are consistent with their gender identity (e.g. Ms. for females, Mr. for males). If unsure, use neutral terms like the delegate, the chair, the convenor, etc, or their name (e.g. Robin or Robin Jones) or titles (if appropriate) like Professor Smith.
+
+Alternatively, and if the situation permits, ask the persons addressed or written about what pronoun and form of address should be used for them.
+
+There should also be consistency in the way people are referred to: if one of them is addressed by their name, last name, courtesy title, or profession, the others should be addressed similarly.
+
+Ms. or Mrs.?
+
+Care should be taken to use the form of address preferred by each individual. However, when that preference is not known, precedence is given to Ms. over Mrs., as the former is more inclusive and can refer to any woman, regardless of marital status. Note also, but increasingly rare, some will prefer Miss to Ms or Mrs. The use of the non-specific form of address Mx is also available but is not widely used and use should be clarified on an individual basis.
+
+Use of Chair
+
+ETSI has adopted the gender-neutral Chair as the expression for the Chair of a meeting. It can be assumed that this can be used as a form of address in oral and written work. It does not however preclude the use of other forms of address where they are generally agreed by the people involved, in particular the person who is the Chair. Such expressions include Madam Chair, Chairperson, Chairman etc. Formal records of meetings and published documents are expected to use Chair as the term.
+
+Avoid gender-biased expressions or expressions that reinforce gender stereotypes
+
+Discriminatory examples
+
+“She throws/runs/fights like a girl.”
+“In a manly way.”
+“Oh, that’s women’s work.”
+“Thank you to the ladies for making the room more beautiful.”
+“Men just don’t understand.”
+
+How do I know if I am using discriminatory language?
+
+Reverse the gender: Would reversing the designation or the term from masculine to feminine or vice versa change the meaning or emphasis of the sentence? Would it make the sentence sound odd?
+
+Examples
+
+“Women should not seek out leadership positions.”
+“Men cannot do two things at the same time.”
+
+Avoid gender-biased presentation that is not relevant (e.g. age)
+
+Discriminatory example
+
+“Anna (34) is an e-Governance expert, e-Estonia Briefing Centre managing director, and TED speaker. Maarten Mes is Managing Director of one2many, a world leader in Cell Broadcast.”
+
+Ask yourself if the added information is relevant for the message of the text.
+
+Be open to all forms of gender
+
+The concepts of non-binary gender and gender fluidity are now widely understood. There are a range of norms that relate to the treatment of language relating to them, but they are not universally accepted.
+
+Particular treatment is thus not indicated in this document, but it is highlighted as something where sensitivity and tolerance are necessary.
+
+Informal terms
+
+Informal terms such as “dude”, “mate”, “pal” and “buddy” are often used in conversation amongst friends but should not be used in a professional context. They may also have alternative meanings eg “mate” can be a noun or a verb and should therefore be avoided as far as possible.
+
+Terms of endearment
+
+Terms of endearment such as “love”, “darling”, “sweetheart”, “gorgeous”, “chick”, “boy”, “girl”, “baby”, “sugar”, “honey” and “sweetness” often make the gender of the speaker sound superior to the gender of the person spoken to in multigender conversations.
+
+Such terms should generally be avoided as far as possible.
+
+Make gender visible when it is relevant for communication
+
+Using several different words
+
+In cases in which highlighting gender would make the sentence more inclusive, several separate words can be used. This strategy should be used only when popular beliefs or preconceptions may obscure the presence or action of any gender.
+
+Examples
+
+“Children should attend the first cooking class with their parents.”
+“All of the soldiers, men, women and non-binary, responded negatively to question 5 in the survey on gender inclusivity.”
+
+Not recommended in general: Using feminine and masculine pronouns
+
+“Pairing” is the use of both feminine and masculine forms (he or she; her or his). It is a strategy that may be used when the author/speaker wants to explicitly make both women and men visible. This guide does not recommend the usage of pairing in general though, because of the following reasons:
+
+• It may be distracting to the reader, in particular in narrative texts.
+• Not everyone may consider themselves to fall into one of these two categories.
+• It may also create inconsistencies or render the text less accurate — for example, in legal texts.
+
+Do not make gender visible when it is not relevant for communication
+
+
+Using plural pronouns/adjectives
+
+Plural pronouns may be used as a shortcut to ensure gender inclusiveness (words such as they, them, their). Care should be taken to ensure that there is no confusion using a plural pronoun in the singular that there is no confusing plural meaning – especially if there is a legal use of the material.
+
+The plural form is also widely used in speech and would be quite acceptable in meetings and informal conversations at ETSI
+
+Example
+
+“Before submitting your document, send it to the focal point for their review; they will return it to you with comments.”
+
+It is noted that there are several schemes of genderless pronoun. For example, zie for he or she, zim for him/her and zir for his/her. Whilst their use is not precluded in discussions where participants understand those pronouns, it is suggested that they are not used in written correspondence and the plural form or other neutral forms of speech are used as far as possible.
+
+The passive voice is not an appropriate option for all sentences in English, as employing the passive voice often changes the emphasis of the sentence. However, it does offer an option for avoiding gendered constructions.
+

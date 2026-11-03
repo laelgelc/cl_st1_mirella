@@ -1,0 +1,43 @@
+Phrases to avoid
+The list of phrases contains two types of expressions: gendered or exclusive terms that will decrease the likelihood of attracting a targeted candidate profile; and everyday phrases with racist origins.
+
+Bossy: This term has been skewed to be a negative term to describe a woman that is direct and communicates expectations.
+
+Guys: Using “guys” to address all people is gendered languages that may insinuate that men are the preferred gender at your organization. Instead, use gender-neutral language such as; folks, people, you all, y’all, and teammates.
+
+Girl/Girls: For anyone over 18 years old, woman or women is a better choice.
+
+Grandfathering/grandfather clause: A way to exempt some people from a change because of conditions that existed before the change (e.g. we’ve grandfathered some users on an unlimited data plan.”) The term “grandfather clause” originated in the American South in the 1890s as a way to defy the 15th Amendment and prevent black Americans from voting. A good alternative might be “legacy”
+
+Gypped: Racial slur for being defrauded, swindled or cheated. According to the Oxford English Dictionary, the term is “probably an abbreviation of ‘gypsy,’ a word commonly used to describe the Romani people.
+
+Ghetto: The creation of ghettos was a key step in the Nazi process of separating, persecuting, and ultimately destroying Europe’s Jews. In America, the term became associated with poor areas with non-white residents. Now, it’s a bigoted term that gets tossed around to mean low-class.
+
+Females: To many English speakers, “females” sounds like a scientific designation one would use 
+
+Hacker: In job descriptions, the term ”hacker” can be tough for many to identify with. Alternatives: engineer, developer
+
+Handicap: Some disability advocates believe this term is rooted in a correlation between a disabled individual and a beggar, “who had to beg with a cap in his or her hand because of the inability to maintain employment.” Better alternative: Disabled
+
+Housekeeping: In reference to office work, this language can feel gendered. Suggested alternative: maintenance, cleanup
+
+Indian/American Indian: This language dates back to Christopher Columbus and naming a people on a Anglo-Saxon perception. It implies that these nations are only defined by how they were perceived by Europeans after 1492, when their people were massacred. Use the term “Native American.”
+
+Ladies/gals: Terms like “ladies”, “gals” or others can feel patronizing to some. Try women instead, or “folks” or “people” for mixed-gender groups.
+
+Lame: Originally used in reference to people with reduced mobility, now often a synonym for “uncool.” Both types of uses are ableist.
+
+Man: As a synonym for work — as in “man hours,” “man the inbox,” “man the conference booth,” — this is unnecessarily gendered language. Try using work instead. More inclusive: Folks, people, you all, y’all, teammates
+
+Master/slave: Problematic term sometimes used to refer to one machine that has the original copy of data and others that automatically update themselves to match its data. Replacements include primary/replica, primary/standby.
+
+Mental Disability: The use of this phrase implies that someone that may struggle or have a psychiatric diagnosis is disabled and unable to do their job. This is likely to make them feel stigmatized and unwelcome in the workplace. Many people that struggle with mental health problems are great at their jobs, despite adversity, and supporting them can make them an even greater asset to your workplace.
+
+Meritocracy: Belief in the flawed idea that hard work and talent alone are all that’s needed to achieve success. Challenges like implicit bias, structural inequality and varying degrees of privilege or disadvantage mean meritocracy isn’t currently a reality.
+
+Minority: The word is sometimes used as a blanket term for people from underrepresented groups including African Americans, Hispanics, Asian Americans, Pacific Islanders, Native Americans, and so on. People of color will comprise a majority of the nation’s population in a little more than a generation by 2040. In fact, children from Black, Latinx, Asian and bi-racial births now account for more than half the births in the US. Instead say, students from underrepresented backgrounds or specify a specific ethnic group.
+
+Ninja/rockstar: Words sometimes used in tech job descriptions that can skew towards a gendered interpretation and discourage some groups from applying.
+
+Peanut gallery: This term for heckling or unwanted disturbance originates in the 1920s when the peanut gallery referred to the back section of theaters, which were the only places that people of color were allowed to sit at the time. The phrase was meant to poke fun at the idea of people of color engaging in intellectualism. animals or plants. Try “women” instead.
+

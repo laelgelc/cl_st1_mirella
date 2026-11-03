@@ -1,0 +1,24 @@
+Avoiding Ableist Language
+
+When referring to a person with a disability, it is best to use the terms the individual you are speaking or referring to prefers, but when preference is unknown or undeclared, use person-first, not ability- or disability-first, terminology.
+
+Often, references to disabilities are used metaphorically to negatively remark on a situation or event, such as "Due to the attack, the system was crippled," or "Hey, can you do a sanity-check on this for me?" This type of language equates physical, mental, and psychological disabilities with bad or aberrant qualities and thus can be harming and upsetting. Writing best practices include avoiding disability-based metaphors.
+
+Avoiding Ageist Language
+
+Ageist language shows up quite often in more relaxed technical discourse, especially when the speaker assumes the person's age tells the speaker something about the person's technological knowledge.
+
+When writing or speaking, avoid ageist terminology like these.
+
+Avoiding Loaded Terminology
+
+Information technology has a history of using terminology that is loaded with racial, cultural, and gendered bias or words the connote violence. In order to make our organization a more inclusive space for all IT professionals, we suggest using the following replacement guidelines for avoiding loaded terminology.
+
+Pronoun Usage and Gender
+
+One of the easiest ways to create a gender inclusive atmosphere at your organization is through thoughtful use of pronouns. When creating content, always use gender neutral pronouns when referring to an unnamed or unspecified person (examples: IoT user, malicious actor, or university student).
+
+
+When referring to a specific person, use their preferred pronouns when known. Remember, do not assume you know a person's gender based on their name or outward appearance. Offering up your own preferred pronouns is a good way to signal both your own identity and that your organization is an inclusive space.
+
+In addition, avoid using terms that are inherently gendered, such as the following:

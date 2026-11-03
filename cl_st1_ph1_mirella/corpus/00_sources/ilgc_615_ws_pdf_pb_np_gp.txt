@@ -1,0 +1,76 @@
+HOW LANGUAGE IMPACTS DIFFERENT GROUPS OF PEOPLE
+
+
+Age
+- Ageist language discriminates against people based on their age. It is based on preconceived notions and ideas of the abilities that different generations either possess or lack.
+- Examples of ageist language include 'old school', and 'young'un' and examples of stereotyping based on age can be promoting the idea that younger employees are less focused and experienced, and senior employees are more rigid and lack the willingness to adapt to digitalisation.
+
+Disability
+- Language that insinuates persons with disabilities are less capable and inferior to persons without disabilities is called ableist.
+- Persons with disabilities should primarily be referred to as persons (person-first language) as opposed to first being identified by the disability that they have. This would, for example, mean saying 'a person with a disability' instead of 'a disabled person'.
+- Ableist language also implies that it is unusual for persons with disabilities to be successful and productive and to live happy and fulfilling lives. Descriptions of persons with disabilities as 'courageous' or 'brave' or as having 'overcome' their disability can be patronising and should be avoided.
+
+Gender
+- Examples of how language of gender impacts people can be found in gender-biased language or unnecessarily gendered terms that favour one gender over another and promotes stereotypes around cisgender men and women. They foster preconceived notions about cisgender women and men and their capabilities.
+- Although gender specifications in job advertisement are not allowed in many jurisdictions, gender preferences can still be conveyed with more subtle cues such as traits and stereotypes typically associated with certain genders. For example, words such as competitive, dominant or leader are associated with male stereotypes, while words such as support, understand and interpersonal are associated with female stereotypes.
+- Gender identity is complex, and it is important to recognise that there are differences between sex, gender identity, gender expression and sexual orientation. The use of language is evolving to be more inclusive and go beyond simple binary gender (male/female only).
+
+Sexual Orientation & Sexual & Gender Minorities (SGM)
+- Sexual orientation and gender identity or expression have different meanings and are subjective and circumstantial to the individual. It is also important to note that the commonly used acronyms (LGBTQIA+, LGBTQ2S+, LGBTQ etc.) represent many, but not all, groups and the '+' recognises that there are many more identities as well.
+- LGBTQIA+ biased language typically includes phrases and terms that are cis/hetero-normative and promote the idea that gender is binary. For example, asking colleagues to invite their 'husbands' and 'wives' reinforces the bias that heterosexuality is the preferred way of being.
+- 'Queer' is sometimes used as an umbrella term to refer to all people with non-heterosexual sexual orientations. Although it is a reclaimed term within the LGBTQIA+ community, it is considered offensive in some contexts, and therefore it is encouraged to only be used if necessary and appropriate.
+
+Ethnicity and Culture
+- Language that is ethnically and culturally biased assumes that one nationality, culture or religion is superior. Preferred terms change as language evolves and as awareness increases. It is important to respect a group's or an individual's preference on how they wish to be addressed and referred to.
+- Stereotypes are perpetuated and language can create in-groups and out-groups, often excluding members of the nondominant ethnic or cultural group. However, in-group terms are accepted and used by members of the same group but are most often not appropriate for use by people who are not members of the group. In-group terms sometimes form as an act of resilience and re-appropriation.
+- Language should be representative of different groups of people; members of historically marginalised groups are less likely to feel included when their ethnic or cultural group is only described through the lens of the dominant ethnic or cultural group.
+
+Neurodiversity
+- Language that excludes people who are neurodivergent is based on societal norms and expectations which outline what is 'normal' and often insinuate that people who are neurodiverse are less able than those who are neurotypical.
+- Examples of non-inclusive neurodiverse phrases include referring to mental or psychosocial conditions in a joking or casual manner such as referring to a preference for tidy surroundings as obsessive-compulsive disorder (OCD).
+- Exclusive language towards neurodivergence results in a limit to understanding and appreciating the varying ways in which individuals cognitively process differently than what society considers to be the norm, sometimes resulting in people socialising and expressing themselves differently. It may also contribute to the misconception that neurodivergence is synonymous with a disability, which can result in further discrimination and 'othering.'
+
+
+CHECKLISTS
+
+Written Communication
+- Use gender-neutral pronouns (such as 'they' and 'them') or an intentional balance of pronouns when not referring to a specific individual. Alternatively, use the person's name as a pronoun instead, as some people may not use pronouns.
+- Ensure gender diverse people are represented in examples, case studies and materials and that all genders are quoted as experts and authorities.
+- Avoid describing people in a way that reinforces gender and other stereotypes. In scenarios that relate to inclusion of women in male dominated industries, the key messages should represent women as agents of change and avoid language that portrays women as passive recipients of aid or as victims.
+- Depict different genders actively participating in diverse aspects of public and private life (at home, school, the workplace, in public and family life and in the community) and be mindful of people's many complementary identities at work and in the home.
+- Use of inclusive language tools such as Develop Diverse or Textio for job ads but also for other types of written communications.
+- Organise content with descriptive headings to guide readers through the document and include brief summaries at the beginning or end of documents to outline key points. This ensures accessibility for audiences that include people with cognitive disabilities or those who use assistive technologies like screen readers.
+
+Audio and Visual Content
+- Choose images that show all genders in non-traditional and non-stereotypical roles and professions. Show women in positions of power and authority as the norm and not an exception.
+- Ensure at least proportionate numbers of women and men in image selection.
+- Consider posture, expressions, gestures, positioning and clothing within a picture or image to convey balance, equal status, and authority. For example, avoid portraying a man explaining something to a women-only group.
+- Try not to reinforce traditional or dominant ideologies of beauty – focus on the roles of the people in the images and a variety of representative appearances. Include representations of intersectional marginalisation (disability, first language, race, sexuality, age, etc.).
+- Do not limit communication solely to visuals; incorporate audio as well. Additionally, provide audio and visual descriptions for any images.
+- Include alt-text captions and image descriptions to make audiovisual materials more understandable and accessible.
+
+
+EXAMPLES OF INCLUSIVE LANGUAGE IN CONVERSATION
+
+
+NON-INCLUSIVE CONVERSATION:
+Person A: Hey! So good to see you! How was your weekend?
+Person B: Oh! It was amazing! We had such a crazy time together at dinner. It was an insane evening.
+Person A: That is good. Glad to hear you had a nice weekend. I was thinking, perhaps it would be great for us to create an inclusive communication guide for the office?
+Person B: I agree! We need to have discussions about how we can be more inclusive of the disabled, the transgendered and minorities.
+Person A: I'm glad you're on board. We can't turn a blind eye to these things any longer.
+Person B: Should our guide also include a blacklist of terms, so people have practical examples of non-inclusive language?
+Person A: Yes, great idea. I'll be working from home tomorrow, so email me your preliminary ideas and we can present them to the guys at the office next week.
+
+INCLUSIVE CONVERSATION:
+Person A: Hey! So good to see you! How was your weekend?
+Person B: Oh! It was amazing! We had such a good time at dinner. It was such a fun evening.
+Person A: That's good. Glad to hear you had a nice weekend. I was thinking, perhaps it would be great for us to create an inclusive communication guide for the office?
+Person B: I agree! We need to have discussions about how we can be more inclusive of persons with disabilities, transgender persons, and other underrepresented communities.
+Person A: I'm glad you're on board. We can no longer be insensitive to these things.
+Person B: Should our guide also include a list of terms to exclude, so people have practical examples of non-inclusive language?
+Person A: Yes, great idea. I'll be working from home tomorrow, so email me your preliminary ideas and we can present them to the team at the office next week.
+
+
+
+

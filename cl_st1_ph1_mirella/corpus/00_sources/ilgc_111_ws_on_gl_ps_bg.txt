@@ -1,0 +1,29 @@
+Is your tech language racist?
+
+Our language often reflects how we view the world and the habits we have formed. It's essential in our everyday lives and at work. But what if our language negatively impacts another person?
+
+Language in technology and cybersecurity has been developed over time between teams as short hand to describe a specific process, activity or operation. The language is often technical and can be used to document how a system works. There are many terms in technology and cyber security that have strong negative associations and using them creates barriers based on ethnicity, gender, sexual orientation, and accessibility.
+
+Which is why we're working with UK Finance and industry peers Microsoft and EY to address this. A new paper, Use of non-inclusive language in technology and cybersecurity and why it matters, highlights the industry’s commitment to driving change and ensuring language is inclusive and promotes diversity in the workplace.
+
+Where non-inclusive language comes from
+Language is contextual and evolves over time. Being mindful of how a word has become corrupted through misuse in context is a good first step in objectively identifying a broad suite of potential terms that may require replacing.
+
+As language evolves, its use evolves, and it is important to reflect on its current contextual use to promote diverse and inclusive working practices and be mindful about the effect that language may have on people. Terms now deemed unacceptable were previously acceptable, and it is conceivable that as cultural norms and social values continue to evolve, that other terms may become unacceptable over time.
+
+For so long the tech space has used outdated and inherently problematic words and phrases. Our language reflects who we are and who we want to be, so for Lloyds Banking Group to be a truly inclusive organisation, we needed to change. While change doesn’t happen overnight, the Group have been at the forefront of this work at an industry level and a tangible difference can be seen in how we communicate. 
+
+Why does language matter?
+Language affects how people see the issues they are trying to solve and can impact decision-making.
+
+As language builds assumptions, these then need to be broken down and challenged when trying to manage technology and cybersecurity differently. Bias in language and visual cues have also been identified as key ethical considerations in the training phases of machine learning and facial recognition, to establish pattern recognition, and false positives. The potential for reinforced biases is an important factor to consider when designing and building technologies, in order to acknowledge and remove any potential ‘poisoning’ of algorithms.
+
+Some language is steeped in negativity that highlights and entrenches inequality, further compounding a system that often creates barriers based on race and ethnicity, gender, sexual orientation, and accessibility. It is incumbent on all of us to ensure that we remove those barriers, creating a society that is fairer and equal to all.
+
+At Lloyds Banking Group, we continue to invest in an environment where everyone can bring their whole selves to work and experience psychological safety. Setting this ethos has helped set standards of acceptance which enrich how we interact and speak with our customers from all walks of life.  
+
+Making our tech language inclusive
+In many situations, education is the first step in going about change. Below are some terms which are outdated, along with some suggested alternatives.
+
+When proposing alternatives in the moment, it’s extremely powerful to do so in an encouraging way where the other person understands the context of why, whilst feeling more supported, than embarrassed, to learn a new phrase. This supports the second principle of respect (see below) and inspires change instead of a collision of opinions. 
+

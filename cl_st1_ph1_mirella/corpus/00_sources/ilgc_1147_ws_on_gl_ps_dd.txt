@@ -1,0 +1,10 @@
+Example: Good morning Mr. Horst Hinkelbaum -> Good morning Horst Hinkelbaum
+
+Example: salesman -> salesperson
+Example: clerk (man) -> clerk-person
+
+Example: team leader (man) -> the people who lead the team, no gender implication
+Example: agent (man) -> agent
+
+Example: If someone needs the material, he should register at the secretariat -> If someone needs the material, register at the secretaries
+

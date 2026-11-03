@@ -1,0 +1,86 @@
+1. First Nations peoples
+
+Using inclusive, person-centred language is key to honouring First Nations peoples and their rich cultural diversity. It means being mindful of and respecting each individual's unique identity and background, rather than relying on broad generalisations. By adopting language that acknowledges and values each person's heritage, traditions, and experiences, we help create a more inclusive and respectful space. This not only affirms their dignity and significance but also helps challenge and correct misunderstandings and stereotypes, promoting a deeper and more genuine appreciation of First Nations cultures.
+
+Basic respectful language means using:
+- Specific terms, like the name of a community, before using broader terms
+- Plurals when speaking about collectives (peoples, nations, cultures, languages)
+- Present tense, unless speaking about a past event
+- Empowering, strengths-based language.
+
+Language that can be discriminatory or offensive includes:
+- Shorthand terms like 'Aborigines', 'Islanders', or acronyms like 'ATSI'
+- Using terms like 'myth', 'legend' or 'folklore' when referring to the beliefs of First Nations peoples
+- Blood quanta (for example, 'half-castle' or percentage measures)
+- 'us versus them' or deficit language
+- Possessive terms such as 'our', as in 'our Aboriginal peoples'
+- 'Australian Indigenous peoples', as it also implies ownership, much like 'our'.
+
+For consistency across all documents and reports, please use the term First Nations peoples when referring to Aboriginal and Torres Strait Islander peoples, unless specifying a particular community. This terminology acknowledges their cultural identity and promotes respectful representation.
+
+
+2. Multicultural communities
+
+Members of multicultural communities are often referred to as Culturally and Linguistically Diverse (CALD), which describes communities in Australia from non-Anglo cultural and linguistic backgrounds. According to the Australian Bureau of Statistics, nearly half of Australians today come from a CALD background. CALD communities often face difficulties accessing services and opportunities. Language barriers, lack of recognition of overseas qualifications, and cultural misunderstandings can disadvantage CALD community members. Additionally, racism and discrimination remain significant issues, with nearly one-fifth of CALD Australians reporting unfair treatment due to their cultural background.
+
+Multicultural communities have diverse needs that traditional communications often fail to address. For individuals with limited English proficiency, clear and straightforward communication is preferred. Using plain language helps make information accessible to everyone. When engaging with people for whom English is not their first language, it's important to use plain language and minimise slang. Avoid wordplay, colloquialisms, and phrases with double meanings to prevent confusion. Speaking at a reasonable pace also facilitates better communication and enhances understanding. While it is acceptable to use specialised terms when necessary, always provide explanations to ensure your audience comprehends the discussion content.
+
+Key considerations for effectively and respectfully communicating with multicultural communities:
+
+Highlight the key message: Ensure the main point is clear in the title or the first sentence of your communication.
+
+Use plain English: Write in straightforward language to help all stakeholders, regardless of their language proficiency, age, or education, easily find and understand the information. Present concepts one at a time.
+
+Avoid jargon: Use jargon-free language, as some concepts may not translate well or could carry negative connotations. Be prepared to modify your copy to ensure it resonates in other languages.
+
+Use clear language: For example, during COVID, the tagline 'Let's do this' was changed to 'Let's get vaccinated' for clarity and easier translation.
+
+Steer clear of puns and colloquialisms: These may not resonate with diverse audiences and can be difficult to translate accurately.
+
+Avoid double negatives: A double negative occurs when two negative words are used in the same sentence, which can create confusion and lead to misinterpretation. For example, 'I don't think it's not a good idea.' The words 'don't' and 'not' both indicate negation. This makes the sentence unclear—does the speaker think it is a good idea or not? By removing one negative, the sentence becomes clearer: 'I don't think it's a good idea.'
+
+Minimise use of acronyms: If you need to use an acronym, first explain the term fully before introducing the acronym.
+
+
+3. Disabilities and mental illness
+
+Q Shelter embraces both the social model and the human rights model of disability in our approach. The social model views disability as a social construct, emphasising that societal barriers hinder equal participation rather than individual impairments. This model rejects the medical perspective, which treats disability as an individual deficit and often reinforces ableism—the discrimination and prejudice against people with disabilities based on the belief that typical abilities are superior. The human rights model builds on this by recognising dignity and freedom as fundamental rights, acknowledging impairment as part of human diversity, and emphasising the need for equitable support even after barriers are removed.
+
+There are different terminologies used by people to describe their mental health status, as well as their accessibility abilities. The first may include mental health problems, mental disorders, mental health conditions, and psychiatric disability, while the latter may include terms like physical disability, sensory impairment, cognitive disability, and developmental disability. These different terms may refer to the extent of their condition and whether it has been formally diagnosed.
+
+If you are unsure about what language to use, simply ask the person you are conversing with what terminology they prefer to describe their condition.
+
+
+4. Neurodiversity
+
+Neurodiversity refers to the vast and limitless range of human cognition, celebrating the uniqueness of every individual's mind. People who have been diagnosed with autism, dyslexia, dyspraxia, dysgraphia and attention deficit hyperactivity disorder (ADHD) may use this term when referring to themselves. Some individuals on the autism spectrum choose to identify as autistic, viewing autism as a cultural identity that extends beyond a medical diagnosis. For them, their diagnosis may or may not be considered a disability. It's important to respect their preferred language which can be done by simply asking them how they prefer to identify can give back ownership and empowerment to the person.
+
+
+5. LGBTQIA+ community
+
+LGBTQIA+ inclusivity means recognising and respecting the diverse sexual orientations, gender identities, and sex characteristics that are natural aspects of life. Inclusive communication—through verbal expressions, written forms like intake documents, and visual cues such as LGBTQIA+ flags—fosters feelings of safety and belonging. While evidence on the impact of inclusive communication in child, family, and community welfare services is limited, insights from healthcare and educational settings underscore its significance. Service providers who assume all clients are heterosexual may negatively impact the wellbeing of LGBTQIA+ community members. Research indicates that a lack of inclusive communication can increase stress, heighten fears of inadequate treatment, and discourage individuals from seeking help. Community members are more likely to disclose their identities when supported by providers who create an inclusive environment using respectful and affirming terminology.
+
+Asking someone's pronouns is always better than assuming based on how they look. The language a person uses doesn't automatically align with what they were presumed at birth, their name, or how they appear or sound. Asking pronouns ensures a client is not misgendered.
+
+When language is not gender neutral, it assumes everyone is cisgender and heterosexual. The use of non-assuming, neutral language and asking open questions without assuming sexual orientation, gender identity or sexual characteristics can indicate you are comfortable with diversity. It also avoids assumptions made on someone's presentation, clothing or body.
+
+Children have a better chance of thriving when the uniqueness of their family is acknowledged and respected (17). Assuming a family has heterosexual, cisgender or biologically related parents can privilege the role of the birthing parent above other relationships and/or create an assumption that the birthing parent is a woman.
+
+Competence with language involves a knowledge of terms and comfort using them. Discomfort discussing LGBTIQ+ intimate relationships can demonstrate embarrassment, bias or unease, which creates a barrier to service provision. Hostility or discrimination can accompany discomfort with language and this can exclude LGBTIQ+ people from equitable and safe support. Competence with language involves building it into organisational processes (e.g. intake forms) and comfortably including partners in decisions where appropriate.
+
+When designing digital forms, create inclusive questions about sex, gender identity, and sexual orientation, tailored to the organisation's context. Ensure questions respect diverse identities and allow space for self-identification. Include a clear statement on data collection, usage, storage, and confidentiality to address privacy and discrimination concerns (26).
+
+Data collection should accommodate non-binary, transgender, and intersex identities, moving beyond traditional binaries. Using 'non-binary' and providing an 'other' option with free text better reflects diverse preferences and promotes inclusivity. For example:
+
+What is your gender?
+Woman
+Man
+Non-binary
+Self-described (please specify):
+I do not wish to disclose
+
+
+6. Acronyms
+
+The homelessness and housing sector is rich with professional terminology and acronyms that can sometimes be challenging to follow, especially for those new to the sector. To help with this, we have outlined the meanings of some commonly used acronyms below. While acronyms are often used for convenience, best practice in the sector is to prioritise inclusivity by using the full name of an entity or concept whenever possible. This approach helps ensure clear communication, particularly when engaging with a new workforce or individuals unfamiliar with the jargon. Please keep this in mind, especially when speaking with new team members or those unfamiliar with the sector's terminology.
+

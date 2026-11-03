@@ -1,0 +1,37 @@
+INITIALS | MEANING
+AHURI | Australian Housing and Urban Research Institute
+AHVTT | Australian Homelessness Vulnerability Triage Tool
+AOD | Alcohol and Other Drugs
+ATSI | Aboriginal and Torres Strait Islander
+ATSICHS | Aboriginal and Torres Strait Islander Community Health Services
+BTR | Build-To-Rent
+BNL | By-Name List
+CAP | Crisis Accommodation Program
+CHP | Community Housing Provider
+CRT | Critical Response Team
+DCSSDS | Department of Child Safety, Seniors and Disability Services
+DESBT | Department of Employment, Small Business and Training
+DFV | Domestic and Family Violence
+DOH | Department of Housing
+EDQ | Economic Development Queensland
+HHOT | Homeless Health Outreach Team
+HRT | High Risk Team
+HSC | Housing Service Centre
+ICHO | Indigenous Community Housing Organisation
+IFS | Intensive Family Support
+IHR | Immediate Housing Response
+IHRF | Immediate Housing Response for Families (this term is outdated, though some still use it to distinguish support for families as opposed to individuals)
+MMC | Modern Methods of Construction
+NRAS | National Rental Affordability Scheme
+NRSCH | National Regulatory System for Community Housing
+PBLT | Place Based Leadership Team
+PBR | Place Based Response
+PBRT | Place Based Response Team
+QCAT | Queensland Civil and Administrative Tribunal
+QSTARS | Queensland Statewide Tenant Advice and Referral Service
+REIQ | Real Estate Institute of Queensland
+RSS | Rental Security Subsidy
+RTA | Residential Tenancies Authority
+SHS | Specialist Homelessness Service
+SPDAT | Service Prioritisation Decision Assistance Tool
+

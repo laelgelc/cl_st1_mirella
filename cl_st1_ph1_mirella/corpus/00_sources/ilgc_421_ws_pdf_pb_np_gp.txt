@@ -1,0 +1,511 @@
+Order and lists
+
+Keep the status quo and "default" groups in mind when ordering information and presenting lists. It is common to present statistics or numbers in order from largest to smallest, or vice versa. However, this can sometimes be problematic as it may result in the dominant power group always being listed first. For example, in countries like the US, documenting statistics of population will usually result in White being listed first, reinforcing the idea that White is the default or "normal" race in that country. It may also imply that that group is the intended audience (Schwabish). To avoid this, the information might be ordered randomly or in alphabetical order.
+
+Relevancy and specificity
+
+Ask whether the information is relevant to the topic at hand. Does a person's immigration status, race, gender identity, and so on matter in this context? If it does, it is best to be as specific as necessary. Avoid generalizations. Don't say "older Asian people" if you mean "Chinese women over the age of 70."
+Person-first language
+
+In most cases it is preferable to emphasize the person over the attribute. For example, "person with cancer" instead of "cancer patient", "man in prison" instead of "inmate." Emphasizing the attribute can reduce the person to a label and dehumanize them.
+
+Ask
+
+Whenever possible, ask the person or group what terms they use. Language is always evolving and there is not always agreement about the best word to use. For examples, see the sections on Race and Gender identity.
+
+AGE
+
+Ageism makes judgments and assumptions about an individual regarding their perceived age. Discrimination against older adults has received more research than other age categorizations, but it is not the only kind of ageism.
+
+Ageism includes adultism, which discounts children and teenagers. It is never wise to lump people together by their ages or physical features as this deprives each person of their individualism.
+
+Ageism thrives on negative and inaccurate stereotypes. Society typically groups individuals by age; one such grouping that is largely typical is from the American Medical Association:
+
+- Neonates/newborns: birth to 1 month
+- Infants: 1 month to 1 year (12 months)
+- Children: 1 to 12 years
+- Adolescents: 13 through 17 years
+- Young adults: 18 to 24
+- Adults: 18 years or older
+- Older adults: 60 years or older
+
+To avoid age discrimination, only include an individual's age or age grouping if it is essential to the text and/or context. Avoid gender stereotypes both in general and in reference to age; persons should be described as they self-identify, whether that's binary, non-binary, male, female, and so forth.
+
+Avoid suggesting stereotypes when describing age, including the following words meant to imply a specific age or age range:
+
+- ancient
+- antiquated
+- childish
+- cougar
+- dated
+- emerging adult
+- fossil
+- geezer
+- geriatric (unless in the phrase "geriatric medicine" or similar instances)
+- immature
+- infirm
+- medieval
+- middle-aged
+- old lady/man
+- over the hill
+- senile (unless talking about the specific medical condition of senility)
+- the aged
+- the elderly
+- the old
+- youngster
+
+Reframing aging
+
+Ageism can be countered by changing how aging is discussed or described in scholarly literature:
+
+- Usually, there's no need to refer to a person's age. When the need does arise, use a person's specific age number rather than an age range to avoid stereotypes or negative connotations.
+- Whenever possible, ask a person about their preferred terminology regarding age, such as "senior" versus "older adult."
+- Avoid ages to suggest stereotypes of a life stage, e.g., teenager, tween, or oldster.
+- Avoid language that patronizes, sentimentalizes, distorts, or characterizes people based on their age.
+- Avoid assumptions regarding age and stereotypes—not every teenager is hormone-fueled nor every senior senile and slow. "Baby Boomers" don't all act or think alike.
+- Do not assume that older individuals live with a disability due to age.
+
+Age in research
+
+For formal research, age should be reported as part of the description of participants in the paper's methodology section. Specific age ranges with means and medians should be given instead of descriptions like "younger than 18 years" or "older than 65 years" (American Psychological Association).
+
+CRIME AND INCARCERATION
+
+Crime
+
+Avoid stereotypes. Various racial and ethnic groups can be portrayed very differently in the media. In the United States, for example, Black people and Latinx people are often portrayed on the news as persons who commit crimes and break the law (Vaes et al). At the same time, they are systemically under-represented as victims or defenders of the law in the same programming.
+
+In a 2017 study, Jeroen Vaes, Marcella Latrofa, et al. analyzed how Italian journalists cover crime. They found that the style and language changed when reporting on crimes involving marginalized racial or ethnic minorities ("outgroups"), revealing linguistic biases (2019: 13). Thus, unconscious bias in journalists can "help to create and maintain a distorted and stereotyped image of minority group members" as aggressors and people who break the law (2019: 14).
+
+A well-documented bias is the use of passive tense when reporting on sexual abuse cases. (Vaes, et al.) For example: The girl was raped by an older man (this places the perceived responsibility of the crime on the victim). Instead of: An older man raped the girl. Another factor contributing to bias is the use of certain adjectives that either make the crime seem worse (aggravating adjectives) or less severe (attenuating adjectives).
+
+The study found that aggravating adjectives were used more often when journalists reported on crimes committed by racial or ethnic minority groups (2019:17) and that "the way members of racial/ethnic minorities are depicted in the media is detrimental to the development and maintenance of crime-related stereotypes that typically target such social groups" (2019:20)
+
+The study concluded that while "newsmakers might be under pressure to color and sensationalize their news reports, the present findings plead for more factual-based and neutral language when reporting crimes in the media, especially when the crime suspect is a member of a racial/ethnic minority" (2019: 21).
+
+
+Incarceration
+
+Language used to describe people who are affected by the criminal justice system should be respectful and person-centered (Tran, World Health Organization).
+
+The WHO style guide of 2013 states that "Stigma-free language can positively influence media narratives, public opinion, and, above all, ensure that policy changes are inclusive of this priority population."
+
+In their article, "Words Matter," Tran et al. advocate four guiding principles for writing about people who are incarcerated or have been in the criminal justice system.
+
+- Engage people and respect their preferences. Ask about the language the person prefers to identify as/with. Extending this – language usage must be adapted to local contexts and communities.
+- Use stigma-free and accurate language. Using language to talk about people who are incarcerated is often reflective of one's own biases, opinions, and moral point of view. Expressing from this point of view does not lend itself to supporting respectful interactions. For example, "terms that devalue, exclude, discriminate, stereotype, objectify, dehumanize, and reinforce a 'criminal self-image', such as offender, criminal, felon, prisoner, convict, should be avoided. Inmate should not be used as it is ambiguous and refers to people living in any institution, including psychiatric hospitals" (Tran).
+
+- Prioritize the individual. Incarceration is not the only experience an individual has and it does not define them. Avoid use of terms like murderer, rapist, or pedophile as they emphasize the crime instead of the person. Use person-centered language to describe the condition a person has or the circumstances in which they live.
+- Cultivate awareness. It is important to realize the power and influence that language has on shaping discourse and opinion. Therefore, authors should be aware of the language they choose to use. They should strive to be humane and constructive and use language that "promotes respect, dignity, understanding, and positive outlooks" for persons in the criminal justice system, and encourage others to do the same (Tran).
+
+
+In terms of representation through photographs, exercise caution in searching for images that portray the criminal body in a negative, stereotyped, or stigmatized light. Researchers Diana Miranda and Helena Machado conducted a study of people who were incarcerated in three Portuguese prisons. They noted that each person's photograph was taken upon arrival at the prison when many of them were experiencing homelessness, were under the influence of drugs, or were freshly bruised from interactions with the police. These photographs, though used on their prison identification cards, were never updated regardless of the length of their sentence. In fact, people who later served another prison term would use the same photograph from their original stay. The study showed that "portraying elements of unworthiness, unpleasantness, and immutability plays a significant role in the parole board's decisions and produce an embodied sense of identity and perpetuation of stigma" (Miranda).
+
+Avoid selecting images that show the criminal body as abnormal, ugly, and deviant; or someone with a "mean face" or characteristics that are monsterish or animalistic.
+
+Do not only select images of the criminal body where the subjects are Black, Latino, or other historically marginalized groups commonly stereotyped as criminals.
+
+
+FAMILY AND RELATIONSHIP STATUS
+
+Guardians. Because not all children live with their parents, a more inclusive term, such as "caregiver" or "guardian", should be used when referring to the homelife of children whose family relationships are unknown. Other options include "adult", "grown-up", and "person in charge."
+
+Gender-neutral caregiver terms. Because not all parents are heterosexual couples or identify as men and women, avoid using "mother" and "father" when you don't know the gender of a parent. Similarly, use "parenting" instead of "mothering" or "fathering" when the gender of a parent is not known. See the section on gender for more guidance on gender-neutral terms. When you don't know the caregiver's role in a child's life, use "caregiver", "guardian", or a different inclusive term instead of parent.
+
+Terms for birth and adoptive parents. Use positive adoption language to treat birth and adoptive families with respect. For example, use "birth parent" or "biological parent" instead of "real parent" or "natural parent." "Parent" alone is usually appropriate for an adoptive parent unless you need to note the adoption or distinguish between the adoptive and birth parents.
+
+Caregivers. Generally, use "caregiver" instead of "caretaker" to refer to people providing care. Also consider your audience when choosing which term to use. For example, while "carer" is used in Australia, the UK, and South Africa, it is not common in Canada or the US. Avoid the assumption that a woman is the primary caregiver in any situation.
+
+Marital status. Refer to someone's marital status only when that information is necessary. When it is necessary, refer to the parties in the relationship equally. For example, don't default to describing women in relation to men, and give everyone's name and position in parallel construction rather than giving a woman's first name only. If the relationship is between a man and a woman, don't always state the man's name first. In addition, use honorifics such as Mr., Ms., or Mrs. only when you have confirmed which honorific someone wants to use; some people use the gender-neutral Mx., and some use no honorific at all. If you do use honorifics, include everyone's full names instead of referring to, for example, Mr. and Mrs. Adam Smith. Note that Ms. is preferred over Mrs. or Miss if the person's preference is unknown.
+
+Avoid assumptions about partners. When you want to refer to someone's partner and you don't know their gender, use a gender-neutral term, such as "partner" or "significant other", rather than "husband" or "wife." Don't assume that people in a committed relationship are married or are in a heterosexual relationship or that there are only two people in a loving relationship.
+
+Avoid stereotypes. Don't assume that all married women are or want to be mothers or that all older adults are grandparents. Don't assume that people without children are more career-focused or willing to work long hours than their peers with children.
+
+
+GENDER, GENDER IDENTITY, AND SEXUAL ORIENTATION
+
+General guidance
+
+As with many of the topics covered in these guidelines, there is some disagreement on preferred terminology and how inclusive language should be. For example, the United Nations guidance stops at proscribing harm – "Use non-discriminatory language"– whereas other guidelines go farther – "Language can harm or heal; it can further oppression or create liberation – the choice is ours". These conflicting opinions may represent various theoretical, ideological, or geographical views. Furthermore, within a single set of guidelines, some principles may be in tension with each other and must be weighed against one another. This is because language is ever evolving and constantly in flux. It may at times be difficult to determine which terminology is appropriate because terminology involves changing struggles regarding identity, visibility, and power.
+
+Determine relevance
+
+Denote a specific gender, sex, and gender identity where it is relevant (e.g., the appointment of a chairwoman was one step towards meeting legal requirements). Otherwise use neutral terms (e.g., the chairperson) and neutralizing strategies (e.g., passive voice to eclipse the subject, plurals, "one", etc.).
+
+Note: Seek explicit permission from sources before publishing details about their sexual orientation or gender identity, especially if they may be harmed by doing so. Anonymizing them may also be an option.
+
+Allow people to self-identify
+
+Acknowledge people's agency in determining the language they use to describe themselves and how they are described by others. To avoid misgendering and other forms of misidentification, ask what language the person uses. Where appropriate, explain how the terms are used.
+
+Note: The phrase "preferred pronouns" should not be used as it implies that gender identity is a choice. Rather, simply use "pronouns" or "identified pronouns" or "self-identified gender identity".
+
+When a person does not use specific terms to describe themselves (e.g., queer) or cannot be asked which terms they use, possible considerations include using neutral terminology, using general terms, omitting that aspect of their identity, or explaining why particular terms were used.
+
+Where disagreement among members of the same community is relevant, or where divergence regarding self-identifying and other-identifying language is relevant, this can be reflected when appropriate. Also consider the position of the Radical Copyeditor: "When a marginalized person claims language to describe their oppressed identity, they are speaking themself into existence in a society that is trying to annihilate them. When a privileged person rejects an accurate descriptor of their privileged status, they are refusing to acknowledge that they are privileged".
+
+Note that where someone holds a position with an official title, such as chairman, authors should "use the formal title adopted by the person currently holding the position even when the gender noted in it does not appear to match the gender of the person holding it".
+
+Distinguish clearly between gender, sex, and gender identity
+
+Take care to distinguish between three interrelated terms gender, sex, and gender identity when necessary: gender denotes a primarily socio-cultural construct; sex denotes biological assignment; and gender identity primarily denotes a person's psychological sense of their gender.
+
+
+Gender and sex
+
+General comments
+
+Consider arranging a list of groups in an order that disrupts the usual hierarchies of domination. For example, consider varying the order of terms such as nonbinary, female, and male so that male is not always listed first.
+
+People of different genders should be described equally in terms of their title and first or last name. See the first example in the below table.
+
+Use non-gendered terms and avoid stereotypes
+
+Care should be taken to use gender-neutral and gender-inclusive language. In general, expressions that reinforce gender stereotypes should be avoided, as should terms that insinuate only one gender is involved in the specified task or role.
+
+To determine if the language used is problematic, consider if changing the term from masculine to feminine or vice versa modifies the meaning or emphasis of the sentence (United Nations). In the below example, "You throw like a boy" would not generally be considered an insult.
+
+When referring to all human beings, non-gendered terms are preferred: individuals, people, persons.
+
+When referring to all human beings in a role or occupation, non-gendered terms are preferred: fire fighter, mail carrier, homemaker.
+
+Gender identity
+
+Use of nonbinary, gender neutral, and gender-specific language
+
+In general, nonbinary and gender-neutral language should be used.
+
+Some pronouns people may use include gender-specific binary terms such as "she" and "he", as well as gender-neutral terms such as "they" and "them". (Note that these examples are not exhaustive. Refer to the Resources for more information.) Whereas specific pronouns and terms such as "she" and "he" may at times be appropriate, "they" and "them" have the advantage of also including nonbinary persons.
+
+The singular gender-neutral "they" is preferred over alternating "she/he" and "he/she" as the latter excludes people who do not use those pronouns. However, the APA notes that usage of "he or she" and "she or he" (without slashes) may be appropriate when referring only to persons who use these pronouns.
+
+Adjectives should be used to describe people rather than labeling them with nouns. Example: "lesbian women" or "a lesbian woman" instead of "the lesbians" or "a lesbian".
+
+When gender-specific nouns are required, use "man" and "woman." Example: "transgender man" and "cisgender woman" rather than "transgender male" and "cisgender female."
+
+When gender-specific adjectives are required, use "male" and "female" as in "a female researcher."
+
+When the age range is broad and age-specific terms such as "girl" or "woman" are therefore inaccurate, "male" and "female" can be used as nouns. "Female" and "male" are also appropriate to denote a transgender person's sex assignment at birth. For example, "person assigned female at birth", not "person assigned girl at birth". The dated term "transsexual" should only be used where persons prefer this themselves.
+
+To denote the assignment of a sex term to a person at birth, use "assigned sex" or "sex assigned at birth".
+
+To avoid binary and gender specific forms, use "partner" or "spouse", "another sex" or "another gender", and "mixed gender" or "mixed sex" when referring to partners or to parents instead of "opposite sex" or "opposite gender". When partners or parents have the same sex or gender, use "same gender" or "same sex."
+
+Consider context
+
+The language surrounding reproductive health is inherently gendered. The terms women's health, pregnant women, and maternity care are just a few examples. Using gender-neutral terms such as reproductive health, pregnant people, and perinatal care is preferable as it is inclusive of transgender and nonbinary people. However, Helen Green and Ash Riddington encourage a gender-additive approach, "using gender-neutral language alongside the language of womanhood in order to ensure that everyone is represented and included." They note that the language used to describe people influences how likely they are to seek healthcare. Use of phrases such as "pregnant women and people" is inclusive of transgender and nonbinary people while not erasing women, who can also be disadvantaged in healthcare. It is important to use the language most appropriate for the context.
+
+Sexual orientation
+
+General comments
+
+The APA advises authors to use "sexual orientation" rather than "sexual preference" and "sexual identity." Sexual orientation includes the "degree to which a person feels sexual and emotional attraction" as reflected in terms such as sexual, demisexual, and asexual. Sexual orientation also includes the direction of attraction so that a person can be attracted to, for example men, masculinity, women, femininity, to some or neither of the former.
+
+Specific terminology
+
+There is no consensus on the appropriate umbrella term for LGBTQIA+ people. Cumulative abbreviations commonly used within the US include LGBTQ or LGBTQ+ and LGBTQIA or LGBTQIA+. LGBT is considered dated by some. SOGIESC, SOGI, and SOGIE are used in some countries outside the US and are also acceptable (GLAAD, IOM).
+
+These cumulative abbreviations are general umbrella terms that amass a broad range of more specific terms. Accordingly, use the general and specific terms appropriately. Use the umbrella term (e.g., LGBTQIA+) if the complete range is intended; use the specific term (e.g., lesbian) if only that is meant.
+
+These abbreviations denote groups and not an individual; hence avoid the singular "She is a LGBTQ+ person"; conversely the plural "LGBTQ+ persons" is acceptable.
+
+The term "homosexual" is generally considered offensive in the United States due to its clinical history and persistent negative connotations; "heterosexual" and "straight" are acceptable (Blazucki, GLAAD). However, note that "homosexual" remains acceptable in many non-English speaking contexts (IOM).
+
+Additionally, the phrase "gay lifestyle" or "LGBTQ+ lifestyle" should not be used as there is no one singular community or lifestyle and these terms can imply choice.
+
+Be specific whenever possible and define ambiguous language, e.g., when using "gay", it is advisable to specify whether this is limited to men or extends to gay people of various genders. Ex: "gay men" or "gay people". Avoid using the term "queer" as a synonym for lesbian, gay, or bisexual.
+
+Use caution with reclaimed terms that were initially derogatory (e.g., queer, moffie) and which some people still consider slurs. It may be advisable to avoid using them at all. There is disagreement about whether these terms are acceptable if the user is part of the designated community or whether their use should solely be regulated by whether harm is done or not. Sic may be used when citing derogatory or initially derogatory language to signify that its use is questionable.
+
+Use terms with care as the meanings may vary according to settings and users. Be attentive to and use local terms where appropriate such as "hijra" and "two-spirit". See the SOGIESC Full Glossary of Terms, listed in the references below and in the Resources section, for a list of terms used around the world.
+
+
+GEOPOLITICS
+
+General
+
+Encyclopedia Britannica defines geopolitics as "analysis of the geographic influences on power relationships in international relations" and notes that it has come to be used as a synonym for international politics. When writing about geopolitics it is important to consider the point of view, tone, and imagery that the language puts forth. Some words conjure particular images or associations and can affect the way that the subject is seen.
+
+Point of View
+
+Consider who is controlling the narrative. As noted in the introduction to the language section of this guide, "A dominant culture or set of group dynamics can result in silencing [voices], without any individual intending to do so". In the paper, "Journalism studies still needs to fix Western bias," argues that the field still struggles with Western bias despite efforts to change. He notes that Western countries are both the majority producer and subject of research, and "in part, this Western dominance has resulted from, and is reinforcing, a concentration of academic and textbook publishers in the Anglo-Saxon world using English as the default language". Although he is specifically referring to the field of journalism studies, the same can be said for scholarly communication as a whole.
+
+Relevancy and Specificity
+
+Is the characteristic in question necessary to the story? Would the same information be included for someone in a situation that could be considered the opposite of the one in question? For example, consider if it's relevant to mention that someone is from a lower income family when the background of someone from a higher income family would not be mentioned. If it is, the APA recommends being specific to reduce ambiguity.
+
+Global Location
+
+The terms Global North and Global South are often used in scholarly communication, and the popularity of Global South in particular has expanded rapidly in recent years (Haug). While there isn't one agreed-upon definition, Global South is generally used as a synonym of or replacement for "developing countries" or "Third World countries." However, like many of the umbrella terms mentioned in these guidelines, there is disagreement about its use (GSSC). It is generally seen as a better alternative to "Third World", which is now considered demeaning or pejorative (Silver). However, some argue that "Global South" is just as problematic (Teixeira da Silva). The Global Press Style Guide recommends avoiding "developing world", "emerging economy", and "Global South" in favor of including the relevant economic data. Another alternative is to use the World Bank's designations, which are updated annually based on each economy's gross national income (GNI). The classifications are low, lower middle, upper middle, and high income (Serajuddin, World Bank Group).
+
+It should be noted that Global North and Global South are not technically geographical references. Australia, for example, is not considered part of the Global South but lies in the southern hemisphere.
+
+In general, it is best to be specific. Name the locations being discussed or outline the criteria being used. Some examples are included in the table below.
+
+America; Americans: Do not use in place of the United States or residents of the United States. The US is not the only country in the Americas.
+
+Arab; Arab World: Do not use in place of Muslim. When referring to a nation or people from an Arabic-speaking country, it is better to specify the nation/nationality instead.
+
+continental references (e.g., Asian, African): Do not use to generally describe people, practices, language, or culture. It is better to be more specific.
+
+Old world: Do not use to refer to the Eastern Hemisphere, whether geography, language, or culture. Instead, specify the relevant country, context, or culture.
+
+Western world; First World; Third World; Global North; Global South; underdeveloped countries; developing, developed countries; emerging economies: Do not use. It is best to be specific. Possible alternatives include low, lower-middle, upper-middle, and high-income countries
+
+Socioeconomic status
+
+
+In their tip sheet for The Journalist's Resource, offer the following guidelines:
+
+Avoid stereotypes. People experiencing poverty are often portrayed as victims, criminals, or exceptions. This extends to a person's habits, such as smoking, food choices, cleanliness, or the way they speak. Consider including people who are experiencing poverty in all types of research and narratives, not just those that center on income or poverty or stories of despair. Are the mannerisms being depicted important or do they perpetuate biases?
+
+Avoid overgeneralizations. Consider if an expression really reflects the opinions or values of all. People who are or have experienced poverty can easily be excluded by blanket statements regarding purchasing habits or experiences that are considered "normal," such as regularly going out for coffee or upgrading to the latest smartphone as soon as it is released.
+
+Consider your audience. All too often, narratives about people experiencing poverty are not written for them. Consider whether a group is being spoken about, for, or to. Is there authority to speak about or for the group? Were they consulted?
+
+Avoid vague terms, obscure references, and jargon. Be specific to avoid ambiguity. Additionally, coded language and pejorative terms should be avoided. For example, do not use "inner city" to mean "predominantly Black neighborhoods" or if a specific area is being referenced.
+
+
+HEALTH
+
+Appearance
+
+Seldom discussed, yet present in every interaction, whether in person or virtually, appearance discrimination is a barrier for any individual whose physical features don't meet or aspire to the societal norms of what is considered attractive.
+
+Inclusive writing devoid of appearance discrimination excludes descriptions or judgments of physical appearance unless essential and relevant to the topic. "Body neutrality" is a movement in which individuals speak of the physical body in positive-only terms. As a rule, avoid descriptions of appearance unless essential to the subject of the text.
+
+Much of what is written about appearance discrimination is within employment law and practices, including recruitment, hiring, performance and retention. "An individual's personal appearance may reflect, sustain, and nourish his personality and may well be used as a means of expressing his attitude and lifestyle." Appearance ranks among the top three discriminatory actions routinely occurring within hiring. Economists estimate a "beauty premium" in wages of 4%-12% for attractive individuals. Conversely, there is also an "ugliness" penalty when individuals don't meet beauty norms of any given culture or group.
+
+Appearance discrimination takes many forms:
+
+Individuals encounter appearance discrimination primarily related to the following factors (Victorian Equal Opportunity & Human Rights Commission):
+
+- height and weight
+- body size and body shape
+- facial features, proportions, and overall relationship
+- body and facial hair
+- moles, scars, birthmarks, and other distinguishing body elements
+
+Appearance discrimination may be observed as follows:
+
+- employees of a certain enterprise have similar appearances, build, or facial features
+- club goers seeking entertainment may be excluded entry if their physical features don't conform to unspoken expectations
+- sports teams of similar builds and stature that seem to lack additional players beyond the physical norms visually apparent among a specific team
+- a teacher pointing out a specific attribute of a student's physical appearance, such as a person with eyes that don't fully align or a crooked nose
+
+
+Weight and Size
+
+Like many topics in these guidelines, a person's weight or size should only be mentioned when it is directly relevant. Please see below for terms and practices to avoid and consider instead in the realm of weight- and size-related topics:
+
+*Note that the terms "fat" and "dwarf" are not considered offensive by all people and may be used if that is the person's preference.
+
+
+Disability and ableist language
+
+Disabilities, disorders, diseases, and other health conditions. There is no consensus on what differentiates a disability from a disorder, disease, or other health condition. Different places have legal definitions of "disability," but no universal definitions exist. Some people with disabilities prefer one term over another. Some people don't consider their condition an impairment, so the term "disability" might not be appropriate (O'Reilly, 2015). For example, under the social model of disability, the environment, not a physical or cognitive difference, is disabling.
+
+Although people with disabilities, disorders, and other conditions have diverse experiences and needs, this section discusses all disabilities and health-related conditions together because they share some considerations related to language. Not all guidelines will apply in the same way to people with disabilities versus those with mental illness, for example. In all cases, use respect for people as a guide, and refer to the general guidelines of this resource.
+
+Mention only when necessary. Mention someone's disability or health condition only when it is necessary for readers to know and when you have confirmation of the diagnosis. Never disclose someone's health information without their knowledge or consent.
+
+Content framing. Carefully consider how you frame someone's disability or illness. Avoid "inspiration porn," which objectifies people with disabilities by treating them as inspirational simply for having a disability and by using them to make nondisabled people feel better about themselves. In addition, referring people with disabilities or other health conditions as "patients" is not appropriate. If you are not discussing a context in which someone is receiving medical care, the term "person" is more appropriate; even in some medical contexts, people may prefer to be called a "person" more than a "patient."
+
+Respect how people want to be described. Defer to people's preferences when deciding how to describe someone's health, whether a disease, disability, mental illness, or other condition. This deference applies to all aspects of description, including the specific terms to use (e.g., "blind" versus "low or limited vision"), whether to use people-first or identity-first language, and whether to describe someone as a "survivor". When you cannot ascertain someone's preference, use the preference associated with groups of people with a condition. For example, many in the Deaf community and autism community have been outspoken about preferring identity-first language. In contrast, when preference is not known, person-first language is generally preferred for people with mental illnesses.
+
+Capitalization. In general, follow a standard dictionary for the capitalization of health conditions. An exception is distinguishing between "Deaf," which denotes people who identify with the Deaf community, and "deaf," which refers to the audiological condition or people who do not identify with the Deaf community (National Association of the Deaf).
+
+Avoid objectifying people. Avoid using "the" or "a" or "an" plus an adjective to refer to groups. Instead, use descriptions that refer to people.
+
+Use neutral, non-stigmatizing terms. Do not portray people with disabilities, disorders, or health conditions as powerless or helpless. For example, avoid the terms "victim," "suffering," "afflicted," "stricken," "damaged," and "impaired." Similarly, avoid militaristic terms, such as saying someone "lost a battle" with a health problem. Opt instead for neutral terms like "has" or "person with."
+
+Do not use terms that stigmatize people with physical, cognitive, or mental illness. For example, avoid terms associated with crime, such as "committed suicide" and "drug abuse"; use "died by suicide" and "drug use" instead.
+
+Be specific. Avoid generalizing about large groups of people and using nonspecific words that blur important distinctions or assume deficits. For example, avoid using the word "normal" as a contrast with people with disabilities or disorders. Also take care when using "healthy" as a contrast, especially when discussing disabilities. Use specific wording instead (Bottema-Beutel 2021).
+
+Avoid slurs, outdated terms, and euphemisms. Use clear, direct, accurate terms to describe people. Do not use slurs or outdated terms (e.g., "mental retardation," "handicapped"). Avoid euphemisms, like "handicapable," "special needs," "physically challenged," and "differently abled." Instead, use the terms "disabled" and "disability." Also avoid "able-bodied" to refer to people without disabilities, as that term assumes that all people with disabilities do not have able bodies. Use "nondisabled" or "people without disabilities" instead.
+
+Ableism. Do not use terms related to disability, mental illness, or disease flippantly or metaphorically to mean something negative. Even words that are no longer used to refer to people with disabilities or health conditions should still be avoided if their historical use was to denigrate disabled people or enforce stereotypes. See the glossary of ableist terms and phrases from Lydia X. Z. Brown on the blog Autistic Hoya for examples of words to avoid. While some people with disabilities and diseases are reclaiming terms (e.g., "crip" and "crazy"), care should be used to avoid offense, especially when people outside those communities use the terms.
+
+Take care with details. Consider your content's purpose, platform, and audience when deciding what details to include about people's mental illnesses. Suicide prevention organizations urge writers to not discuss details about suicide or self-harm methods (Time to Change). Similarly, organizations on eating disorder awareness recommend not including details such as specific weights and food eaten, as they can trigger others (Beat). The needs of various authors will differ, but in each case, the writer should take care to treat the topic with respect and avoid unnecessary details that could lead others to harm themselves.
+
+
+IMMIGRATION
+
+The language used to describe people's immigration or citizenship status can reinforce stereotypes, dehumanize individuals and groups, render them invisible or hyper visible, and regulate their access to civil and human rights. Using inclusive language can help reframe discussions around borders and national belonging and intervene in the larger meaning-making processes that construct and maintain an evolving and interconnected network of notions and assumptions about immigrants, refugees, and asylum seekers. These terms mean different things and are not interchangeable.
+
+In general, avoid referring to people's immigration status unless contextually relevant and essential. Avoid inaccurate and demeaning terminology, such as that listed in the table below.
+
+
+RACE AND ETHNICITY
+
+It is important to talk about matters related to race and ethnicity using terms that the community prefers and uses to self-identify rather than defaulting to what is generally accepted by dominant power holders and structures. This may require questioning and reimagining terms that have been historically used in favor of those identified by and for specific communities. Despite common belief, a person's race, ethnicity, or nationality cannot be determined simply by looking at them.
+
+Do not mention race or ethnicity if it is not relevant. If race is mentioned, consider whether mentioning that someone is white is relevant; do not treat it as the default.
+
+What assumptions about default characteristics are made about people within the story? Avoid portraying people as stereotypes. Consider whether the context contributes to a stereotype. For example, see the study about Italian news coverage in the Crime section of these guidelines. Example: A Black man who is a good athlete; a Japanese American boy who is good at math.
+
+Avoid generalizations and vague terms. Do not use continents as descriptors as this lumps large and often diverse groups of people together. Example: "Chinese American" instead of "Asian American"; "Nigerian" instead of "African"; "from the United States" instead of "American." See also: Geopolitics.
+
+Do not use umbrella terms, such as "Black, Asian, and minority ethnic" (BAME) or "people of color", when a more precise word or phrase is appropriate. For example, do not use BAME if the group referenced is only Black Britons. Note: the Roma, Gypsy, and Irish Traveller peoples are considered minority ethnic populations in the UK, and using BAME or BME as a synonym for people of color is inaccurate.
+
+Are terms capitalized where they should be? Many style guides now recommend capitalizing "black", although there is still some disagreement about whether "white" should be capitalized. Example: "Black woman", "White man" (National Association of Black Journalists, National Association of Hispanic Journalists). Note that in some countries like South Africa it is not common to capitalize these words.
+
+Consider the context. For example, while "black" is a term that some in the US have embraced, not all people with African ancestry identify this way. In Nigeria people are more likely to identify as part of a particular ethnic group, such as Yoruba or Igbo. Also, a person with Haitian ancestry who was born in the United States may identify as Haitian rather than Black or Haitian American.
+
+Has the community self-identified using this term? Note that there can be disagreement within communities about what terms are preferred. When writing about someone, it is best to ask how they self-identify or what their preferred terms are. For example, only 3% of US adults who identify as Hispanic or Latino prefer the term "Latinx" (Noe-Bustamante). Similarly, the Native Governance Center "does not recommend that non-Native folks use the terms American Indian or Indian," whereas other organizations recommend this language. Some Roma peoples prefer the term "Gypsy", while others find it offensive.
+
+Be respectful. Do not use pejorative or derogatory terms, and do not use dehumanizing or fetishizing language. In particular, do not use food words to describe the color of someone's skin or appearance. Example: caramel, cocoa, chocolate. The same goes for comparing people to animals.
+
+
+RELIGION; ATHEISM; SPIRITUALITY
+
+Religion and beliefs
+
+When describing people's religious affiliation or referring to groups of people with shared religious or nonreligious beliefs and worldviews, using non-inclusive language can alienate, dehumanize, and discriminate. Religious slurs and more subtle faith-based prejudicial discourse can effectively create moral hierarchies and value-based boundaries, dividing the world into in-groups ("us") and out-groups ("them"). Such linguistic utterances, even if they occur behind closed doors and are heard by a small group of people, can reverberate through time and space, shapeshift into discriminatory policies, and manifest as hate crimes. Reframing conversations around religions and worldviews starts with using inclusive language in scholarly and everyday communications.
+
+In general, unless contextually relevant and essential for communicating meaning, specifying people's religious affiliation or beliefs is unnecessary. In some contexts, language that excludes nonreligious people (humanists, agnostics, atheists, secularists, etc.) should be avoided. For example, if the referent group includes nonreligious people, rather than saying "religions" say "religions and beliefs" or "religions and worldviews."
+
+Avoid stereotypes. For example, Islam is often portrayed as an inherently violent religion, and Muslim children have reported being called "terrorists" and "bombers" by classmates. The Church of Jesus Christ of Latter-day Saints is often depicted as endorsing polygamy despite the fact that the practice was banned in the late 19th century and the Church has repeatedly clarified its stance publicly.
+
+Consider context and perspective. Many religious groups experience harassment around the world depending on local demographics. Those groups banned most often by local governments in 2019 include Jehovah's Witnesses, Baha'is, and Ahmadis. According to a Pew Research Center study, the number of countries where religious groups, which includes people who are religiously unaffiliated, experienced harassment reached a new high in 2019—harassment occurred in 190 out of the 198 countries studied. Christians and Muslims are the two largest and most dispersed religions in the world, and they experienced harassment in the most countries in 2019, both in countries where they are not the religious majority as well as those where they are. (It should be noted that the study reports the number of countries in which harassment occurred, not the severity nor frequency of harassment.) Jews were harassed in the third most countries in 2019 despite their comparatively small population size. Whereas most of the religious groups analyzed, including those who are religiously unaffiliated, faced harassment in more countries from governments and public officials than private entities in 2019, Jews faced social harassment in more countries than government harassment that year.
+
+
+INCLUSIVE IMAGES
+
+What are inclusive images? Inclusive images intentionally include a variety of people and seek to portray people respectfully and disrupt stereotypes. In many cases, this means showing marginalized people in active, strong roles and not defaulting to showing those who have historically held power in society. A Forum One blog post originally published in 2019 recommends asking several questions to avoid bias when choosing images. Most importantly: Who is missing or excluded? A related question is who has historically been missing or excluded from this type of content.
+
+Consider multiple characteristics when deciding what people to show in images. Avoid using the same combinations of characteristics. For example, when you show Black people, don't always show people with the same skin tone, hair texture, and body size. Diversity in images should be a concern not only when full people are shown but also when only part of people, such as just hands, are shown. A selection of characteristics to consider are below:
+
+- Race and ethnicity
+- Gender and gender expression
+- Sexual orientation
+- Disability
+- Age
+- Body type
+- Hair style
+- Skin tone
+- Relationship status
+- Clothing, including clothing from certain cultures or religions
+
+Finding images that show diversity and inclusion. Some databases purposefully focus on photos showing diversity or images of people who are marginalized because of their race, gender, age, or other characteristics. A selection of these resources is below. Another strategy is to use targeted search functions within more general image banks. For example, use search terms that include a specific race, or use filters that exclude a socially dominant group (e.g., exclude "White" from search results).
+
+- All Go: Body-size diversity
+- Body Liberation Stock: Body-size diversity
+- Centre for Ageing Better's library: Older people and age-positive icons
+- CreateHER: Women of color
+- DisabilityImages.com: People with disabilities
+- Diversify.photo: Photos by people of color
+- Gender Spectrum Collection: Gender diversity
+- Getty Images, Disability Collection: People with disabilities
+- Getty Images, Project #ShowUs: Female-identifying and nonbinary people
+- If/Then Collection: Women in STEM
+- Jopwell Collection: Black, Latino, and Native American professionals
+- Nappy.co: Black and Brown people
+- PhotoAbility: People with disabilities
+- RawPixel.com: Diverse people
+- Reclaimphoto.com: Photos by underrepresented photographers
+- TONL: Cultural diversity
+
+Examine your portfolio. Think about your entire portfolio when assessing the diversity and inclusion in your images. It is unrealistic to expect that a single photo or illustration will show the diversity in your audience (and in fact may come across as performative). Taking a portfolio approach will allow you to use several images to show a wide variety of people. Periodically examine the images your organization uses so that you can identify what people tend to get left out. The If/Then Initiative offers a toolkit to identify gender representation in images, and this tool can be modified to apply to any characteristic. Beyond single factors like gender, your assessment should also account for variety within a characteristic. For example, when you show women, do you tend to show women of a certain race or body type? Identify what patterns in your imagery may exclude people and how you can introduce greater diversity.
+
+Pair with policy changes. Showing diversity and inclusion in images alone and not in your organization's content or actions will appear hypocritical to audiences. Inclusive images should be combined with policies to make the organization more diverse, inclusive, and equitable.
+
+Don't be performative. Do not make superficial attempts to show diversity and inclusion in images. For example, do not just put a photo of people of color on the cover of a textbook but nowhere else in that book.
+
+Avoid stereotypes. Inclusive images do not simply have diverse people in them. They should also portray people respectfully and avoid stereotypes. For example, avoid "inspiration porn" which uses people with disabilities only as objects of inspiration, and avoid "poverty porn," which people in extreme poverty, who are largely portrayed as people of color, are shown without dignity.
+
+Before including images of a certain population, do research on how to most respectfully portray them. For example, one study argues that photos of people in prison can contribute to stigma if the images contain "elements of unworthiness, unpleasantness and immutability". The Conscious Style Guide also has resources that can aid in researching inclusive images.
+
+Some aspects to consider when evaluating whether an image is appropriate include the following:
+
+- Who is in the foreground, and who is in the background or out of focus?
+- Who is in a position of power, and who is in a subordinate role?
+- Who is shown in full view, and who is partly obscured?
+- Who is larger, and who is smaller?
+- Who is behaving appropriately, and who is not? For example, consider this Red Cross safety poster, in which four of the five actions labeled "Not cool" are done by Black children. In contrast, both "Cool" actions are done by White people.
+- What environments are people shown in?
+
+In addition to evaluating each image on its own, examine the entire project (e.g., book or article) to identify problematic patterns. For example, are images of people of color always shown in a less important sidebar instead of the main text?. Also, ensure that any objects of cultural or religious significance are treated respectfully and are appropriate for the context. Take special care with illustrations, as cartoons and similar formats often contain stereotypes.
+
+Hiring a diverse team of professionals to create, locate, and review images can help prevent the perpetuation of harmful stereotypes in images.
+
+Do no harm. Beyond avoiding stereotypes, inclusive images preserve people's dignity and avoid causing harm to others. For example, the organization Time to Change recommends not using images that show self-harm or people with mental illness in acute distress as those images may be triggering. Similarly, Beat, a UK eating disorder charity, recommends not using images of emaciated body parts.
+
+
+DATA VISUALIZATION
+
+"[T]he choices we make about the colors, shapes, words, and representations in our data analysis and visualizations can affect how people perceive the final results, how change might be implemented, and how that change will impact different people and communities".
+
+It is important to be inclusive in all visual aspects of a publication, not just photographs or other images of people. In their guide Do No Harm: Applying Equity Awareness in Data Visualization, Schwabish and Feng provide the following recommendations.
+
+Demonstrate empathy. Help readers connect with the data and remember that it represents the lives and experiences of people. This might be done by pairing data-driven charts with personal stories or by making charts interactive. Also, recognize the needs of your audience. Is the content accessible? Would it be more useful if it were translated into a different language? Is the issue being framed in a way that introduces bias? Empathy can also be embedded into the graphics themselves. For example, consider using icons for data points that represent or reflect people instead of dots or bars on a graph.
+
+Reflect lived experiences. As mentioned in the writing section, whenever possible it is best if data can be developed in conjunction with communities instead of about them. Ideally this would be considered from the beginning of the project.
+
+Consider the data. Are the data biased or the product of oppressive data collection systems? Data visualizations amplify data and may therefore amplify the harm that bias can do. Consider how and why the data were collected and generated. Who is represented and who is missing? Who will benefit from or be harmed by the data? Schwabish and Feng note that applying the principles outlined in their guide will not fix data or analysis that is inherently biased.
+
+Use language with an equity awareness. Titles, text, and labels are important as they are often the first thing readers see when looking at a graph or chart. The principles outlined in the language section of these guidelines should be considered when writing text to accompany data visualizations. For example, use person-first language and inclusive language in chart labels. Schwabish and Feng use the example of a graph showing the relationship between race and poverty where the axes were labeled "More Black" and "More Poverty." They note that, "A more inclusive way to label the legend might be 'Larger proportion of people experiencing poverty' and 'Larger Black population.'"
+
+Order data purposefully. Consider the order in which data is presented, particularly if it presents people in an implied hierarchy. For example, do all the charts depicting demographic information start with "White" or "Male" as the default or first position? Consider starting with the particular group the study is focused on or sorting the data alphabetically or according to sample or population size. This is another example where interactive charts may be useful.
+
+Consider missing groups. Noting information that is missing or limited acknowledges the missing communities and may encourage others to include them in the future. Conversely, if the data is not directly relevant to the study or the point being made, does it need to be collected at all? Also consider whether aggregating smaller sample sizes is the best approach as it may inadvertently harm or erase those communities. If necessary, Schwabish and Feng offer several alternatives to the label "Other," including "another race," "additional groups," "all other self-descriptions," and "identity not listed." Regardless of the term, the AMA recommends noting which groups are included in such categories. Finally, if data about a group is purposely excluded, it may be worth mentioning. For example, in situations where sample sizes are too small, this may be noted instead of omitting the category.
+
+Using colors with an equity awareness. Color palettes should meet basic accessibility guidelines, offer sufficient contrast for readers with low vision or colorblindness, and avoid reinforcing gender or racial stereotypes. Schwabish and Feng provide the example of a chart showing racial and ethnic data where "White" is represented in blue, "International" and "Unknown" in shades of gray, and "Black or African American," "Hispanic or Latino," "American Indian or Alaskan Native," Native Hawaiian or Other Pacific Islander," "Asian," and "Two or more races" are all varying shades of red. The effect of this graph is that "White" is seen as default and all other categories are either lumped together or fade into the background. Also consider the connotation that certain colors may have and consider omitting them. Orange, yellow, green, and red may fall into this category.
+
+Using icons and shapes with an equity awareness. Consider whether the icons and shapes used are appropriate given the context or if they might reinforce stereotypes. The example of an icon of a baby in a chart about infant mortality. Other examples are similar to those for photographs. Are nurses always represented as women and doctors as men? Are Black people always in images representing poverty or crime? Also consider whether the use of a specific icon might cause readers to misrepresent the data.
+
+Embrace context and complexity. Data should not "speak for themselves" because data are not neutral. More complex designs should be used when necessary to foster better understanding of the data. Conversely, Schwabish and Feng also note that not all data needs to be visualized.
+
+Accessibility. It should be noted that many data visualizations are exclusive of people with disabilities. Marriott et al. notes that such designs are "premised on implicit assumptions about the reader's sensory, cognitive, and motor abilities." For example, in the spring of 2020 during the early months of the COVID-19 pandemic, a popular data visualization encouraged readers to "flatten the curve." The graphic was a quick and simple way to understand the situation, but such depictions are not accessible to people who are blind or have low vision. Interactive graphics may also be inaccessible to users with motor disabilities. See the next section for more information on accessibility.
+
+
+ACCESSIBILITY
+
+Both written and visual content should be accessible to people with disabilities. It has been estimated that 15% of the world's population has a disability. Common disabilities include but are not limited to those that affect motor skills, vision, hearing, and cognitive functioning. For this reason, it is often necessary to provide content in multiple or alternate formats. While outlining full accessibility guidelines is beyond the scope of this document, here are some basic principles to keep in mind.
+
+Text
+
+- Use simple sans serif fonts, such as Arial or Calibri. Serif fonts, such as Times New Roman or Garamond, can be harder for people with cognitive disabilities or dyslexia to read.
+- Avoid fonts that are cursive, italicized, or otherwise hard to read.
+- Use bold for emphasis instead of italics or underlining.
+- Text should be left-aligned instead of justified.
+- Use plain language—avoid jargon and idioms.
+- Break up denser texts by utilizing white space. Keep paragraphs short and include space between paragraphs.
+- Use built-in styles and headings to create sections as this kind of formatting is easier to navigate for people who use screen reading devices.
+- Use font size 12 or larger.
+- Underline and embed hyperlinks. Avoid lengthy URLs.
+- Supply documents as plain text instead of PDFs or create accessible PDFs. Standard PDFs are not accessible to people who use screen readers.
+- Provide alternative text (alt-text) for all non-text elements. Alt-text is a concise written description of what is shown in the visual.
+- Ensure there is sufficient contrast between the text and background.
+
+Images
+
+- Include alt-text that is concise, non-repetitive, and informative.
+- Avoid text-as-image or embedded text within images. These will not be picked up by screen reading devices and cannot be scaled for readers who may increase the text size.
+
+Charts
+
+- Ensure sufficient contrast, not only for people with low vision but also for printing in grayscale or black and white.
+- Choose colors that are accessible to people with colorblindness. Avoid rainbows. Avoid reds, especially when paired with greens.
+- Don't rely on color alone. For example, consider using shapes or textured lines.
+
+Tables
+
+- Include headers for each row and column.
+- Avoid empty rows or columns.
+- Avoid split or merged cells.
+- Provide alt-text that summarizes the table.
+- Use simple table structures.
+- Never use tables to control layout and do not nest tables.
+
+Audio and Video
+
+- Include captions or subtitles.
+- Consider providing a separate text transcript.
+- Be aware of photosensitivity and include a warning if a video includes any flashing or high-intensity effects or patterns.
+- Avoid auto-play.
+
+The most common accessibility issues are missing alt-text, poor color contrast, and important information being difficult to find (CBM). Many programs, such as those in the Microsoft Office suite, have accessibility checking functions built into them. There are also online tools that can provide accessible color palettes, audit the accessibility of websites, and simulate color blindness so authors can check their own figures. See the Tools and Resources section for links.
+

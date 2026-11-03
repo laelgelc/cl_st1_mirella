@@ -1,0 +1,20 @@
+Thoughtworks
+Gender-inclusive language in web applications
+
+Published: September 28, 2022
+
+"Language creates reality" 
+
+In experiment, the researchers asked Spanish- and German-speaking subjects to describe an object, such as a key, that had a different grammatical gender in the two languages. The team showed subjects a key, but did not say the Spanish or German words for it. The grammatical gender of the Spanish word for "key" is feminine. The experimenters found that Spanish speakers tended to describe the key with words that fit the stereotypes for women, such as "small", "beautiful", etc., even though the researchers did not verbally remind them of the gender of the "key." In contrast, the German word for "key" is a masculine word, and German speakers tend to describe it with words that fit the stereotypes for men, such as "utility," "heavy," and "powerful." In artificial experimental settings, the gender system of language does seem to influence users. But what about in the real world? Researchers surveyed more than 100 countries and their languages in 2012 and concluded that gender parity is worse in countries where grammatical gender is used in the first language than in countries where the first language is gender-neutral. That is, language constructs our perception of reality.
+
+As tech becomes more pervasive, the language which limits our thoughts must become more equitable and so does the language we use in the products we build. The language used in our project, which is German, is heavily gendered. It means addressing groups of people highly depends on their gender. Currently, there is no collective noun that encompasses all genders. Furthermore, German applies the "generic masculine" to groups of people as default, meaning that it could refer to women, non-binary people, etc., too. In order to settle this imperfection, we implemented five rules in our project based on research.
+
+5. Test acceptance and educate
+
+After we implement all of the modifications, we introduce them in user sessions, then test and observe the responses: did they notice, and if so, was their reaction positive or negative? Will it affect their understanding? Do they accept such expressions? Also, explain to users why gender-inclusive language is important when needed. We want to make sure that our intentions are understood and accepted.
+
+For example, "see customer details" has gender implications in German. We changed it to "see more details", but found that users did not understand what these details were about, so we finally changed it to "see personal details", which avoided gendering and guaranteed the users could still understand every function of the product.
+
+Language violence, oppression and discrimination are not just exclusive to gender, the same issues of language arise with groups such as BIPoC, LGBTQI+ and etc. It's better to take a moment to think about it in the design phase and make sure no one is left out.
+
+Disclaimer: The statements and opinions expressed in this article are those of the author(s) and do not necessarily reflect the positions of Thoughtworks.

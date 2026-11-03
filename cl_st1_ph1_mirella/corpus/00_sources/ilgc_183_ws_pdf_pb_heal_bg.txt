@@ -1,0 +1,51 @@
+ACS Inclusivity Style Guide
+
+Welcome to the ACS Inclusivity Style Guide
+
+This guide aims to help American Chemical Society staff and members communicate in ways that recognize and respect diversity in all its forms.
+
+Introduction and FAQ
+Inclusive language, also referred to as conscious or bias-free language, is:
+
+language that avoids excluding or alienating people because of any individual characteristics. 
+makes content more accurate.
+ensures that it finds the widest possible audience.
+supports the American Chemical Society’s core value of inclusion and belonging.
+The following guidelines may change over time, as language is always evolving, and what is considered inclusive phrasing today may not be in the future. ACS will update this guide for accuracy, fairness, and respect for all audiences. In addition, this guide does not cover all topics related to inclusive language. When this guide conflicts with other style guides, ACS staff are encouraged to follow this guide on matters of inclusive language and images.
+
+This resource is available to everyone at www.acs.org/inclusivityguide. To give feedback on this guide, please email ISG@acs.org or use the Feedback button on this web page. Communicating inclusively is important to ACS, and staff and members should support each other in updating ACS materials over time. If you have suggestions for how to update content to follow these guidelines, please email inclusion@acs.org.
+
+Please note that the guide will include examples of harmful terms, frames, and narratives. We do this to make everyone aware of what to avoid, but we recognize that these terms can be upsetting. Please engage with the content in a way that prioritizes your self-care.
+
+How is this guide helpful?
+Inclusive communication helps avoid bias. We all have implicit biases that left unchecked, can appear in our communication. The human brain is capable of change, and with awareness of those biases and purposeful work to overcome them, we can create environments that are truly inclusive of everyone.1
+
+Inclusive communication is more accurate. Respecting the way that people want to be described makes communication more accurate.
+
+Inclusive communication expands your reach.  Being inclusive helps you reach a wider audience. When people feel respected and included in words and images, they are more likely to engage with the content.
+
+Inclusive communication demonstrates a commitment to inclusion and belonging. Inclusive language and images support the American Chemical Society's core value of inclusion and belonging.
+
+1. There is much peer-reviewed research, resources, and training on the topic of implicit bias. We recommend a summary of studies on the existence of implicit bias for more information.
+
+
+Information technology and software development
+Background:
+Some workers in software development and information technology have been pushing since at least 2003 for technical documentation to use more inclusive terminology. During racial protests starting in 2020 after George Floyd’s murder, this movement gained more momentum, and technology professionals began suggesting alternatives for terms such as “master” and “slave,” which were commonly used to describe a variety of hierarchical systems and which can normalize and trivialize slavery when used metaphorically. Groups such as the Inclusive Naming Initiative have looked at terminology holistically, reviewing whether terms exclude people on the basis of gender, disability, and other factors.
+
+The leadership of the Internet Engineering Task Force, an internet standards organization, has voiced support for inclusive language, as has the Academy Software Foundation, a branch of the Academy of Motion Picture Arts and Sciences. Several universities have followed suit and developed their own inclusive language projects, such as the University of Washington’s IT-specific guide.
+
+Using more inclusive terms can make people feel more welcome and accepted and be clearer—using straightforward terms instead of metaphors makes the meaning more widely understood. In some instances, regardless of whether a term is exclusionary, a replacement is more precise. For example, people have debated whether “dummy value” is ableist—whether it reinforces stereotypes against people with disabilities because of the historical use of “dummy” as an insult. But an alternative, “placeholder value,” is clearer regardless of whether “dummy value” is exclusionary. Similarly, some groups also think violent words like "kill" and "nuke" should be replaced because their violent associations are distracting, but on top of that, alternatives like “halting a process” and “deleting files” are more direct.
+
+Job descriptions
+
+According to the US Equal Employment Opportunity Commission, “it is illegal for an employer to publish a job advertisement that shows a preference for or discourages someone from applying for a job because of his or her race, color, religion, sex (including gender identity, sexual orientation, and pregnancy), national origin, age (40 or older), disability or genetic information.” This section of the ACS Inclusivity Style Guide will help you recognize biased language in typical job ads and write more inclusive announcements for your open positions.
+
+
+Background:
+Job descriptions that use gendered language suggest that some people are not suitable for the job based solely on their gender identity. Gendered language perpetuates gender inequality in the workplace. Gendered language in job descriptions can inadvertently turn away qualified job seekers from applying or even considering applying for the job. Therefore, gender-inclusive language should be used in job descriptions and titles to ensure that everyone, regardless of their gender identity, can apply for and, if qualified, get the job. There are also certain words that can turn away women and nonbinary applicants because those words appeal more to men.
+
+
+Background:
+Like gendered language, biased or coded language can also inadvertently exclude qualified job seekers from applying for a position because of their race, age, disability status, and other characteristics. Some phrases are seen as codes for seeking people with a certain personal background beyond the skills needed for a job. For example, people may view “digital native” as code for “younger person,” and “recent college graduates” can discourage older applicants from applying. Similarly, ableism can unintentionally exclude people with disabilities from applying. For example, job descriptions that mention the applicant “must be able to lift 15 pounds,” when the job itself is in an office and does not require heavy lifting as part of the day-to-day job activities, can exclude people with certain physical disabilities. Also, job descriptions that require written and spoken ability in a particular language, when not core to the role, may exclude people whose primary language is sign language or a language other than the one requested.
+

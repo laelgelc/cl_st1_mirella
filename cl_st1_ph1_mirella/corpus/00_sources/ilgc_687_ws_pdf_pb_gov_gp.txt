@@ -1,0 +1,511 @@
+WRITING IN PLAIN ENGLISH
+
+Our public-facing work is for all Londoners. We publish many of our technical and governance documents too. As such, we must choose our words carefully so that everyone can understand what we're saying. Find out more on the plain English website: http://plainenglish.co.uk/
+
+Below are some general writing rules to help keep your writing clear and concise:
+
+Use short sentences
+Long sentences make text hard to read. Most experts agree that clear writing should use sentences of around 15 to 20 words.
+
+Keep paragraphs on point
+Long paragraphs are hard to follow and often lack focus.
+
+Junk the jargon
+'Govspeak' can confuse the public. Don't use it unless there is no alternative. And when you do, explain it in terms a lay audience can understand.
+
+Use active verbs
+Write 'we will do it' rather than 'it will be done by us'.
+
+Beware of nominalisations
+Nominalisations are verbs that have been made into nouns by putting 'tion' at the end. For example, 'an evaluation of the standards needs to be done'. Instead, say, 'we need to evaluate the standards.'
+
+Be clear and concise
+Prefer short words to long, so 'use' rather than 'utilise', and cut out the waffle. Don't cram too many ideas into a sentence or paragraph.
+
+Be personal, friendly and human
+Imagine you're having a conversation with your reader. Relate to them as a human being, not a consumer of information. This makes it much easier for the reader to understand what we are saying.
+
+Be straightforward
+Avoid similes, metaphors and other figures of speech.
+
+Avoid hyperbole
+Be honest, don't exaggerate.
+
+Use storytelling
+Plan your writing with a start, middle and end. Think about your 'story' before you begin.
+
+Never assume prior knowledge
+Just because you're familiar with something, doesn't mean your reader is (unless you know otherwise).
+
+Use contractions
+Make your writing easier to read by using 'you're/we're' rather than 'you are/we are'.
+
+Read your writing back
+Sense-check every sentence and paragraph before sharing it widely. If it's hard to understand, or sounds awkward, try to improve it.
+
+Verify facts, check spelling and grammar
+Don't rely on spellcheck to do it for you. Confirm any facts you include are correct and from reliable, up to date sources.
+
+Edit and edit again
+Always revisit what you've written. Often, less is more.
+
+
+BRAND VALUES AND TONE OF VOICE
+
+An organisation's brand personality is built on a set of values that stay the same. Its tone of voice, however, can adapt according to both the purpose of the communication, and the audience. For example, a piece of content for young Londoners on Snapchat would use a different tone of voice to a leaflet on Pension Credit.
+
+You can find our brand guidelines at: https://www.london.gov.uk/about-us/governance-and-spending/sharing-our-information/our-brand-guidelines
+
+Our tone of voice principles can be summarised as CASE:
+
+CLEAR AND CONFIDENT - We get straight to the point and use simple language
+AUTHENTIC - We talk in a conversational, human and friendly way
+SINCERE - We believe in what we say
+ENGAGING - Our comms make sense to the audience, so they want to get involved.
+
+As a rule, 'we' is preferred to 'Greater London Authority' across our comms. In our reports (such as the Mayor's Housing Strategy), we can use 'the Mayor's housing team' instead.
+
+
+INCLUSIVE LANGUAGE
+
+
+We must use inclusive language when talking about (and to) Londoners. Here's advice on how - and how not - write about ethnicity and race, LGBTQ+ communities, disability, gender and age.
+
+
+RACE
+
+A racial group can be made up of two or more distinct racial groups, for example Black Britons, British Asians, British Sikhs, British Jews, Romany Gypsies and Irish Travellers.
+
+Use race when talking about our 'anti-racism' work or where it is in the context of a protected characteristic, otherwise use ethnicity.
+
+
+ETHNICITY
+
+If using ethnicity, please note it is not (usually) the same as nationality. For example, someone could describe themselves as British Asian or Black British.
+
+However, the following ethnic groups are also nationalities:
+- Bangladeshi
+- Chinese
+- Indian
+- Pakistani
+
+See the full list of ethnic groups at: www.ethnicity-facts-figures.service.gov.uk/style-guide/ethnic-groups
+
+
+If using the term BAME please write it out in full 'Black, Asian and minority ethnic'.
+
+Generally, it's better to be specific about which ethnic groups you are talking about.
+
+For example, never use BAME when discussing issues such as #BlackLivesMatter.
+
+Avoid using the term 'people of colour' (POC) or BME (Black and minority ethnic).
+
+
+East and South East Asian
+
+Use the term 'East and South East Asian Londoners' to refer to people who are in the census categories "Chinese" or "Asian - Any other". This includes who identify themselves with heritage from an East or South East Asian country.
+
+(Southeast Asia includes Laos, Myanmar, Thailand, Vietnam, Cambodia, the Philippines, Malaysia, Brunei, Singapore, Timor-Leste and Indonesia. East Asia is comprised of China, Hong Kong, Japan, Macau, Mongolia, North Korea, South Korea, Taiwan).
+
+It also encompasses UK born or mixed-heritage people from East or South East Asia.
+
+
+Minority ethnic groups
+
+This term includes White minorities, such as Gypsy, Roma and Irish Traveller groups.
+
+
+Capitalisation
+
+We follow the GOV.UK style guide and capitalise all ethnic groups, when referring to official ethnic groups. For example, Asian, Black, Mixed, White, Gypsy, Irish Traveller, and Other.
+
+See: https://www.ethnicity-facts-figures.service.gov.uk/style-guide/writing-about-ethnicity
+
+
+Migrants
+
+Use 'people seeking asylum' if possible, instead of asylum seekers.
+
+Use 'undocumented' or 'with insecure immigration status' - never use 'illegal' immigrant/migrant.
+
+
+European Londoners
+
+When talking about Brexit and the changes in rights certain nationalities face, use 'European Londoners and their families'.
+
+Be aware that 'EU nationals' only refers to the EU27 member states. Changes resulting from Brexit will also affect people from Switzerland and the three additional European countries that are members of the European Economic Area (EEA).
+
+When talking about European Londoners applying to stay here after Brexit, use 'applying under the EU Settlement Scheme'. Avoid 'applying for settled status'.
+
+
+LGBTQ+ COMMUNITIES
+
+LGBTQ+ (lesbian, gay, bisexual, trans +) The plus is for how people self-identify.
+
+There is no one London-wide LGBTQ+ community. LGBTQ+ people are as diverse as other Londoners. As such, their experiences may differ depending on other aspects of their identity (for example, their ethnicity, faith, family situation etc).
+
+You can use identifying terms such as gay men or lesbian women if referring to those specific groups within the community.
+
+GENDER
+
+Use gender-neutral language in all external comms, such as 'everyone', 'people' or 'Londoners' and 'they' 'them' 'theirs'. Don't refer to 'men and women'/'he or she' unless necessary.
+
+Avoid using men and women as catch-all terms because this excludes non-binary people.
+
+
+Generally, refer to someone's gender, not their sex.
+
+However, there may be instances where it is relevant to refer to someone's sex, or their sex assigned at birth, in a medical context. See the NHS guidance for more info: https://service-manual.nhs.uk/content/inclusive-language#sex-gender-sexuality
+
+
+AGE
+
+Older people
+
+Don't talk about older people just in terms of life expectancy and end of life.
+
+Do make statements that reinforce that older people are an asset to society and the economy (as employees, carers, volunteers...)
+
+Remember for employees, people can experience age-based discrimination aged 50 and over.
+
+Children and younger people
+
+Children vs young people - which term you use will depend on age
+
+Students vs pupils - use 'pupil' for primary schoolchildren, and 'students' for young people aged 11 plus.
+
+
+DISABILITY
+
+Use 'Deaf and disabled people' in most circumstances.
+
+Deaf (with capital 'D') refers to people who use British Sign language (BSL) to communicate.
+
+Use 'deaf' (with lower case 'd') if talking about deaf people who don't use BSL.
+
+Use 'blind and partially sighted people'.
+
+Avoid referring to people as 'impaired' (for example 'visually impaired' / 'hearing impaired').
+
+Use 'non-disabled' if making comparisons with those not Deaf or disabled.
+
+Avoid phrases like 'suffers from' which suggest discomfort, pain and a sense of hopelessness.
+
+Wheelchair users may not view themselves as 'confined to' a wheelchair - try thinking of it as a mobility aid instead.
+
+Never describe Deaf and disabled people as a generic 'vulnerable' or 'disadvantaged' group. Indeed, the term 'vulnerable' should not be used to describe any group.
+
+Don't use 'the disabled'.
+
+Don't use 'able-bodied' when describing a non-disabled person.
+
+Never use the term 'handicapped'.
+
+
+MENTAL HEALTH
+
+Mental health problems can affect anyone and so we shouldn't distance ourselves from people with mental health problems.
+
+Don't refer to someone as 'mentally ill'.
+
+
+SEXUAL AND DOMESTIC ABUSE
+
+Use 'sexual violence' as an umbrella term for 'rape/sexual assault' and unwanted harassment (including online).
+
+Use 'harmful practices' as an umbrella term for crimes like Female Genital Mutilation and Forced Marriage. Never use 'cultural practices.'
+
+Avoid describing individuals who have suffered sexual and domestic abuse as 'victims' (unless that is their wish). Some prefer the word 'survivor'.
+
+For more detailed information, see the excellent Inclusive Language Guide produced by the Communities & Social Policy team on the intranet.
+
+
+GET IN TOUCH
+====================
+
+Language is constantly evolving. This is a 'living' document and updated regularly. Please check the intranet for the latest version. Send any feedback to [redacted] so we can improve it.
+
+RACE / ETHNICITY
+
+
+Avoid:
+
+People have lots of different opinions on these terms. Terms like BAME are to frame policy and should not be used to refer to individuals.
+
+Do not use BAME or POC when talking about issues faced by a specific community e.g., in response to #blacklivesmatter you should talk about racism and about Black Londoners not 'BAME communities. We also use the term 'minoritised/marginalised' groups as this acknowledges the systematic discrimination and oppression that has created this.
+
+Never use terms such as 'coloured' and 'half-caste' which are offensive.
+
+When writing papers and if using the term 'BAME' please use the phrase 'BAME communities' or 'Londoners from BAME communities' as opposed to 'BAME Londoners'. This phrasing avoids giving the impression that there is any single 'BAME community'.
+
+Things to consider:
+
+Ethnicity and nationality are not interchangeable!
+
+For example, someone may describe themselves as British Asian or Black British to provide information on both their nationality / residency and ethnicity. Likewise, in other countries there are a vast array of different ethnicities: for example, in Malaysia the main ethnic groups are Malay, Chinese and Indian - with many sub-categories within each. If someone describes themselves as Malaysian Chinese, they may be describing their nationality, and then their ethnic group.
+
+On a global scale, people of colour can are often reference as the term 'Global Majority'
+
+Use the term "East and Southeast Asian Londoners" (ESEA) to refer to people who are in the census categories "Chinese" or "Asian - Any other" - people who identify themselves with heritage from an ESEA country, including UK born or mixed-heritage ESEA.
+
+[Nota de rodapé] Southeast Asia is comprised of Laos, Myanmar, Thailand, Vietnam, Cambodia, the Philippines, Malaysia, Brunei, Singapore, Timor-Leste and Indonesia. East Asia is comprised of China, Hong Kong, Japan, Macau, Mongolia, North Korea, South Korea, Taiwan.
+
+There are a number of distinct ethnic Traveller groups, with their own languages, traditions and custom, these include Gypsy, Roma and Irish Traveller groups. To be inclusive, if you are unsure which Traveller group you are referring to say in full 'Gypsy, Roma and Traveller' (GRT) groups. There are also Traveller groups which are known as 'cultural' rather than 'ethnic' Travellers including 'new' Travellers, showmen and Barge Travellers.
+
+In understanding ethnic identities, religious identities can also play a role. Religions can be a marker of origin and some (Jewish, Sikh) are recognised as ethnic groups. Therefore, some Sikh people may describe their ethnicity as Sikh, for example. There is cross over too in considering the discrimination communities face based on faith and race. Although Islamophobia relates to discrimination faced by Muslim communities, it is also racialised. Anti-Semitism is racism, as well as targeting a specific faith group.
+
+Think carefully about whether comms are reinforcing narratives that uphold structural racism e.g. 'model minority' or describing societal problems as being located in certain groups (e.g. a 'Asian problem') or use language or notions which essentialise or stereotype ethnic or faith groups.
+
+Some people may self-identify their ethnicity or heritage - this will sometimes be dependent on context. If they have, then stick with their description. This could include: 2nd generation British; mixed heritage; person of dual heritage; British Asian; person of 'xx' descent; person of colour; etc.
+
+In England and Wales, there are 18 ethnic groups (grouped into 5 broad ethnic groups) usually used when collecting data about ethnicity. These can be found here: https://www.ethnicity-facts-figures.service.gov.uk/style-guide/ethnic-groups
+
+In data studies (such as the ethnicity projections by the City Hall Intelligence Unit) the term 'BAME' usually does not include any of the categories under 'White': White British, White Irish and White Other.
+
+
+MIGRANTS / LANGUAGE NEEDS
+
+Avoid:
+
+'Non-English speakers'. Positions them as flawed and defective. Use 'Londoners with English Language Needs'. The range of language abilities is wide amongst migrants.
+
+'Illiterate', use 'with (basic) literacy needs'. The first positions the person as lacking, whereas the second denotes a need that impact on their ability to fully participate.
+
+Distinguishing between 'economic migrants' versus 'legitimate migrants'. This is a reactionary way of discussing migrants and dismissing the reasons that people have for migrating. People who migrate for economic reasons are not fundamentally inferior than people who migrate for other reasons.
+
+Things to consider:
+
+Value multilingualism as a unique asset in super diverse London. Be careful with power hierarchy of foreign languages, such as speaking French is a positive asset in life but speaking Lingala, Swahili, etc, or Creole languages often overlooked. Value multilingual households where different languages are spoken at home. Be aware of children or other family member being asked to translate often sensitive content for their parents - where possible independent translators should always be used
+
+Language learning is a right, not a service aimed at migrants. Access to the common language is a precondition of full and equal participation in society. Denying access to learning the common language is a fundamental barrier to participation. If migrants aren't learning English is not because of lack of will but often because of systemic barriers that prevent them from engaging.
+
+Avoid language around contribution of migrants to London (this includes referring to people who migrate to London as 'talent'). Often more importance is given to economic contribution of migrants, i.e. working in London makes them valuable assets. Avoid representing migrants as one-dimensional communities. People who migrate to London have a right to be here irrespective of how much they are able to contribute economically.
+
+Remember, we are all Londoners. Don't make a distinction between 'migrants' and 'Londoners'. Beware of representing migrants only as people that have struggled and overcome big barriers, which is not always accurate and is one-dimensional.
+
+
+
+EUROPEAN LONDONERS
+
+Things to consider:
+
+When talking about Brexit and the changes in rights certain nationalities will experience, try to use the term 'European Londoners and their families' or 'EEA+ citizens' rather than 'EU nationals' to be as inclusive as possible. EU nationals refers only to the EU27 member states, whereas an additional four nationalities are affected by these changes - Norway, Iceland, Liechtenstein (EEA) and Switzerland.
+
+When talking about European Londoners applying to stay in the UK after Brexit, try to say 'applying to/ under the EU Settlement Scheme' rather than 'applying for settled status'. Applicants are granted either pre-settled or settled status so just referring to settled status leaves out about 40% of applicants.
+
+Frame language around belonging rather than welcome. European Londoners applying to the Scheme are all current residents in the UK and need to be reassured that they already belong in our communities.
+
+When talking about Brexit and the impact on businesses and public services, ensure to also make reference to people.
+
+
+
+UKRAINE
+
+Things to consider:
+
+Kyiv should be pronounced the Ukrainian way (KEE-yiv) [-ee as in street, -y as in yes, -I as in bit], not the Russian Kiev (kee-ev). Ukraine should not be referred to as 'The Ukraine'.
+
+Ukrainians in the UK may have different immigration statuses, often depending on their route of arrival. It should not be assumed that they have the same rights and entitlements as people with refugee status. Some people displaced from Ukraine are not Ukrainian nationals, or they may belong to one of Ukraine's minoritized communities, including Roma. Some non-Ukrainian nationals, and racialized Ukrainians have faced differential and racist treatment. Some narratives that draw distinctions between Ukrainian refugees and other displaced people have been highly problematic and should be avoided.
+
+
+
+HONG KONG BN(O)
+
+Things to consider:
+
+In understanding ethnic identities, political and historical associations and connotations can also play a role. In its status as a Special Administrative Region (SAR), Hong Kong is often considered as a distinct region to Mainland China. Hong Kong has a separate legal, political, and economic system to that of Mainland China, which has been challenged by the imposition of the National Security Law in 2020. Hong Kong citizens have long enjoyed freedoms and liberties not available to other Chinese citizens, such as the right to protest and freedom of the press. Many of these freedoms have been halted by the imposition of the National Security Law, which aims to bring Hong Kong's governance in line with Mainland China's. Historical connections with the British Empire also helped to shape a distinct Hong Kong identity, with English being an official language of the Hong Kong SAR (alongside Chinese), and cultural references (such as the use of buses and trams similar to London's Red double-deckers) still being observed in the city today.
+
+Due to the historical differences between China and Hong Kong, Hong Kong citizens may therefore mainly identify as being a 'Hong Konger' or 'Hongkonger' rather than Chinese, to separate themselves from political ideologies, such as the Chinese Communist Party (CCP). Although not all Hong Kongers or Chinese people carry the same political views, therefore one cannot generalize, but it is important to take into consideration these factors when talking about Hong Kongers.
+
+In addition, there is cross over too in considering associations related to languages. Cantonese is typically associated Hong Kong, and Mandarin with China. Traditional Chinese is traditionally associated with Cantonese and simplified Chinese with Mandarin as it originated from Mainland China. Both can carry political connotations with them therefore it is important not to confuse them.
+
+Since the Hong Kong Protests of 2019 and the imposition of the National Security Law, people from Hong Kong increasingly recognise the ideological differences between democracy supporting Hongkongers and CCP-supportive Chinese citizens. This has created new dynamics between both identities, and even led to violent incidents where both identities clash. The Umbrella Movement started in 2014 was the first time the colour yellow was associated with universal suffrage and pro democracy. In retaliation, the colour blue became associated with pro police and anti-protest, and at times, anti-democratic Hong Kong.
+
+
+POVERTY AND LOW INCOME
+
+Destitution is a severe form of poverty which means going without the bare essentials we all need. That's a home, food, lighting, clothing, shoes and basic toiletries. The Joseph Rowntree Foundation defines destitution specifically as when people have lacked two or more of these essentials over the past month because they couldn't afford them, or if their income is extremely low. Migrants who have the temporary visa condition "no recourse to public funds" and therefore don't have access to welfare benefits are particularly at risk of destitution.
+
+Avoid:
+
+When describing people, avoid using stigmatising terms like "poor", "destitute", "struggling", "disadvantaged", "less fortunate", "in need".
+
+Describing individuals as "poor" has been proven to alienate and disengage people, and turn them away from services. Instead use terms like "Londoners on low incomes", "financial hardship", struggling with money, "financial support" and "welfare rights".
+
+"Low income" is preferable to "low paid" because it acknowledges the impact of the benefit system.
+
+Where possible, try to avoid describing people as "workers" (although we acknowledge that "key workers" is now a household term). It's better to use human-centred language like "people in paid employment".
+
+Things to consider:
+
+"Children on free school meals" is not a proxy for children in poverty - many children in poverty are not eligible for FSM (including children whose families have no recourse to public funds). You may instead want to use the measure from the Survey of Londoners of children in low or very low food security (400,000 children in London).
+
+
+
+LGBTQ+ COMMUNITIES
+
+
+Things to consider:
+
+Pride is not just a celebration. Pride is political anti-discrimination movement started in the 1970's seeking social and legislative justice
+
+Be careful when using the terms 'sexual orientation' and 'sexuality'. Sexual orientation is about who you are into. Sexuality is about what you are into. In a GLA/ public policy context 'sexual orientation' is usually the right term to use.
+
+Recognize that LGBTQ+ people are diverse, and people may have different experiences based on intersecting aspects of their identity; for example, LGBTQ+ parents in London, Londoners of faith who are LGBTQ+, Black Londoners who are LGBTQ+. There is unlikely to be one 'London-wide LGBTQ+ Community' with shared experiences, needs or networks.
+
+Ensure that gender neutral language is used in all external communications (e.g. - use 'everyone' instead of 'men and women'), use 'they' instead of 'he or she', unless the communications are about individuals in which case their pronouns should be used to describe them. See section "Gender" for further notes.
+
+Wherever possible, be specific.
+
+Terms/definitions
+
+See section "LGBTQ+ communities" for notes on describing gender
+
+
+GENDER
+
+Avoid:
+
+Avoid using "men and women" - say "people" or "Londoners". Similarly, instead of "ladies and gentlemen" say something that doesn't exclude non-binary people.
+
+Avoid segregating by gender in group activities/referring to people's genders if you don't know them or need to do so.
+
+Never say someone "identifies as" their gender - this implies there is something fake or disingenuous about their identity.
+
+Avoid the use of 'male' or 'female', this is dated and medicalised. Female humans are called 'girls and/or women', male humans are called 'boys and/or men'. It's better to use these.
+
+For jobs, avoid terms that show gender biases in the profession - firefighter, not fireman.
+
+Avoid referring to someone's sex (and preferring assigned-at-birth, only if you are required to speak medically), instead using gender (the person's chosen gender at the time).
+
+Things to consider:
+
+Where talking about periods and pregnancy, wherever possible use language that is inclusive of those who experience a health or medical process. For example, "people affected by period poverty" - not all women have periods, and some trans men and non-binary people have periods, go through menopause and experience pregnancy.
+
+When talking about families, don't assume heterosexuality. Statistics about couples, families, mothers and fathers should clarify that they apply to mixed-gender couples, if this is the case.
+
+Do not assume anyone's pronouns (he, she, they). If in doubt, consider using gender-neutral pronouns (e.g. they, them, theirs) as standard unless you know otherwise. It can be helpful to start meetings by introducing yourself with your name and preferred pronoun so that others may use the same format if they choose.
+
+
+
+SEXUAL AND DOMESTIC ABUSE
+
+For rape/ sexual assault we use the umbrella term of sexual violence that encompasses the range of behaviours such as unwanted online harassment through to the above.
+
+When describing individuals, people who have suffered sexual and domestic abuse may not wish to be described as a victim, unless they choose the word themselves. Some prefer the word survivor. Victims is often used in a criminal justice context. The Mayor's Tackling VAWG Strategy does refer to 'victims/survivors of VAWG'.
+
+Things to consider:
+
+It's important to resist the narrative that sexual and domestic abuse is a 'women's issue' - it is a human issue. However, women and girls are disproportionately more likely to experience high risk or severe domestic abuse, and these are forms of Violence Against Women and Girls (VAWG). It's important to put domestic abuse in the wider context of all forms of VAWG, as they can be closely linked.
+
+
+
+OLDER PEOPLE
+
+Terms/Definitions
+
+Use 'older people'
+
+It's better to say "people xx and over" (e.g. "people 70 and over") than to say "the over xxs (e.g. "the over 70s")
+
+Avoid:
+
+Don't use 'the old' or 'the elderly'.
+
+
+Don't make statements that suggest that older people are more likely to be lonely than other age groups - this is a myth not supported by evidence.
+
+Don't make statements about older people and dementia that suggest that only older people experience dementia.
+
+Don't make statements that suggest older people are a drain on society.
+
+Don't talk about older people just in terms of life expectancy and end of life.
+
+Do make statements that reinforce that older people are an asset to society and the economy (as employees, carers, volunteers...)
+
+Things to consider:
+
+We don't have a corporately defined age at which we consider someone to be an older person, as there is no consensus on what age is older age.
+
+For our work on older people we use the age from which there is evidence of discrimination or disadvantage on the basis of older age for the topic under consideration. For example, in employment people experience discrimination or disadvantage aged 50 and over; there are certain decisions made about health conditions based on a patient's age; people are not allowed to become magistrates/JPs if they are 60 and over and have to retire at 70.
+
+
+
+DISABILITY
+
+Terms/definitions
+
+Use 'Deaf and disabled people' in most circumstances (in line with the social model of disability and if there is no reason to exclude Deaf people).
+
+Use 'D/deaf' when talking about deaf people in a general sense.
+
+Use Deaf (with capital 'D') when talking about people who use (British) Sign language to communicate.
+
+Use 'deaf' (with lower case 'd') if talking about deaf people who don't use (British) Sign language to communicate.
+
+Note on sensory disabilities and a shift of language away from 'xxx-impaired'. Blind/visually impaired: sight loss charities and individuals are increasingly re-using the terms 'blind and partially sighted people' rather than visually impaired. Similarly, Deaf people describe themselves as Deaf rather than hearing-impaired.
+
+Always use the term 'non-disabled' if making comparisons (e.g. of data or experience) with those not Deaf or disabled.
+
+The term 'hearing people' is used when making direct comparisons (e.g. of data or experience) of those who are not deaf.
+
+Use the term 'Disabled people's user led organisations (DPULOs)' when talking about user-led organisations run by and for disabled people.
+
+Use the term 'non-visible' disabilities rather than 'hidden'. Hidden can imply that people should hide their disabilities. Invisible can imply that it is not there, or the impact cannot be seen. Non-visible is a more neutral term that describes a disability that cannot immediately be seen.
+
+When describing mental health conditions, the terms 'mental health problems', 'mental health conditions', 'mental health issues' and 'mental health illnesses' are all generally accepted by mental health organisations and charities. The mental health charity Mind says they use 'mental health problems' as many people who experience them have told them this feels helpful and appropriate for them
+
+Avoid:
+
+Try to avoid describing Deaf and disabled people as a generic 'vulnerable' or 'disadvantaged' group.
+
+Don't use 'the disabled', 'the blind' or 'the deaf'
+
+Don't use the term 'able-bodied' when describing a non-disabled person.
+
+
+Never use the term 'handicapped'
+
+Things to consider:
+
+Frame language around a specific issue, vulnerability or barrier e.g. disabled people are vulnerable to hate crime, under-represented in the workforce or can experience difficulties accessing the transport system.
+
+Providing context supports the Mayor's message that disabled people have an equal place in society but may face physical barriers such as inaccessible transport or discrimination. Pitch and frame discussion to reflect on disabled people living equally and as entitled to equal access and provision of services.
+
+Remember that not all disabilities are visible. An non-visible disability is one that isn't easily visible or immediately apparent. Some non-visible disabilities may include neurodiverse conditions as well as long-term mental health conditions.
+
+A mental health condition is considered a disability if it has a long-term effect on your normal day-to-day activity. It is considered 'long-term' if it lasts, or is likely to last, 12 months.
+
+Examples of invisible disabilities include: Autism, Chronic pain, Diabetes, learning difficulties (e.g. dyslexia, dyspraxia, dysgraphia and language processing disorder), brain injuries, Depression, ADHD, Bipolar Disorder, Schizophrenia, Chronic Fatigue Syndrome, Crohn's Disease.
+
+Consider using plain English where possible and avoiding using figurative language such as metaphors to make text as easy to understand as possible.
+
+
+
+CHILDREN AND YOUNG LONDONERS
+
+Terms and definitions:
+
+Young Londoners - the most inclusive phrase
+
+Children vs young people - age dependent
+
+Avoid:
+
+Avoid patronising phrases such as 'kids'
+
+Young people are usually sensitive to being called 'disadvantaged' or grouped in ways that might distinguish them negatively from their peer group. Be mindful how you refer to marginalized young people ie. Young people from vulnerable groups should be referred to as vulnerable/at risk or young people with ACE (adverse childhood experiences)
+
+Avoid the term 'young adult'
+
+'Serious youth violence' - suggests that young people only do serious violence, a better term would be violence against others
+
+Things to consider:
+
+Young people who may be associated with 'Serious youth violence' will be involved at different levels, be from different life experiences and backgrounds, which is important to recognise. Make sure to not stereotype as one particular type of young person, particularly as this phrase is often racialised against black young people.
+
+'Hard to reach' is a perspective - hard to reach to who? The problem is that it's often services that are hard to reach. It could be put 'young people needing more specialised support'.
+
+Students vs pupils - The term "pupil" generally applies to a student under the direct supervision of a teacher / tutor. Therefore, older young people usually prefer to have their independence and maturity reflected with the use of 'student'. 'Pupil' more common with young people <11 years.
+
+When referring to children or young people with a disability or special educational needs, they should be referred to as children or young people with SEND

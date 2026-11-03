@@ -1,0 +1,189 @@
+BEST PRACTICES
+
+Using Identifying Descriptors
+
+A person's identity should only be described in legal writing if it is a fact that may determine the outcome of the case. For example, in a case where a plaintiff alleges racial discrimination, it would be necessary to describe the racial identity of the plaintiff. Whereas, if a plaintiff is involved in a trip-and-fall case, the individual's racial identity would not need to be disclosed as it is not a relevant fact in the case, and including that information may increase opportunity for bias in the outcome of the case.
+
+Making fewer assumptions about a person or group generally increases the inclusivity of your writing. When unknown, you may ask an individual how they prefer to be described in terms of identity.
+
+Accessible Design
+
+Ensure that your writing follows accessible design practices. Best practices in this area include the provision of text descriptions for all photographs and the conversion of PDF documents for screen readers using OCR technology.
+
+Font selection may enhance or reduce readability. Sans-serif (without tails) fonts are accessible for many readers. Verdana is great on both screens and printed documents.
+
+Footnotes and endnotes cannot be accessed by many screen readers. Whenever possible, footnotes and endnotes should be deleted, and the content included within the document's content.
+
+If you are using Microsoft Word or Outlook, you may check the accessibility of your document by visiting the Review menu and clicking on the Check Accessibility button. This feature will let you know if people with disabilities could have difficulty reading your document and provide suggestions to make your document more accessible. Many other platforms also offer accessibility prompts or guides.
+
+
+ABILITY AND DISABILITY
+
+Avoid ableist language, e.g. "dumb" or "lame." Note that terms like "blind spot," "tone deaf," "deaf to our pleas," or "blind drunk" contribute to stigmas around disabilities and should be avoided.
+
+- Avoid using terms like "high functioning" or "low functioning" to describe ability. Instead, describe the person's abilities and the things for which they may need support, e.g. She is able to communicate verbally and do most things with little to no support. She will need support traveling up the stairs.
+
+Use only neutral descriptors of a person's disability status. For example, use has multiple sclerosis NOT "is afflicted by multiple sclerosis" or "suffers from multiple sclerosis." Similarly, don't use "confined to a wheelchair;" rather use a more neutral term like wheelchair user.
+
+
+Many people prefer to use person-first language to avoid insinuating that their illness or disability is the primary characteristic that defines who they are. However, some communities do prefer identity first, such as autistic people/autistics or Deaf people instead of "people who are Deaf."
+
+- Use a lowercase d to refer to audiological status and the use of a capital D when referring to the culture and community of Deaf people.
+
+Use blind or legally blind. The terms blind or legally blind are acceptable for people with almost complete vision loss.
+
+- The American Foundation for the Blind recommends the use of the terms low vision, limited vision or visually impaired unless the person refers to themself as legally blind or blind. While visually impaired is generally considered acceptable for a wide range of visual functions, some people may object to it because it describes the condition in terms of deficiency, as with the term hearing impaired.
+
+- The terms mental disability, intellectual disability, cognitive disability, and developmental disability are also acceptable.
+
+- Do not use "special" or "special needs", as it is offensive when used in reference to those with disabilities. It can be considered a euphemism for "less-than." It may be necessary to use the term "Special Education" in reference to a specific program that uses the title, but in your own writing, replace "special needs" by referring to the specific needs of the person or persons being referenced. For example, you could write that someone needs a wheelchair-accessible bus or the Braille menu.
+
+When discussing mental illness, refer specifically to the illness a person has. When their diagnosis is unknown, refer to them as a person living with a mental illness rather than referring to them as "mentally ill."
+
+- When referencing a diagnosis, describe the person just as you would someone with any other form of illness, such as they have depression. Do not describe individuals as a diagnosis, like "she is a schizophrenic."
+
+- Avoid using a diagnosable condition such as "bipolar," "schizophrenic," "OCD," etc, as a synonym to generally describe someone's behavior as it makes light of serious illnesses.
+
+- Avoid stigmatizing terms like "insane" or "crazy."
+
+
+GENDER, SEXUALITY, AND PRONOUNS
+
+- "Queer" was originally a derogatory term but is now reclaimed by some LGBTQ+ people. It is best to avoid this term in legal writing except when referencing a self-identification.
+
+If it is necessary to refer to someone's assigned sex at birth, use the terms assigned male at birth, assigned female at birth, raised female, or raised male, as opposed to "biological gender," "biological sex," "biological woman," "biological man," "biological female," or "biological male."
+
+- Use different sex instead of "opposite sex", because the term different sex recognizes gender as a spectrum, rather than a binary.
+
+Transgender is used to describe a variety of identities of people who are not cisgender. Cisgender means that a person's gender identity corresponds with the sex assigned to them at birth. Nonbinary is a transgender identity that falls outside the gender binary, as is genderqueer. However, some people who identify as nonbinary or genderqueer may not identify as transgender. It is best to let people explain their own identities and follow their lead.
+
+Trans men and trans women are also appropriate terms, although a trans man can simply be referred to as a man and a trans woman as a woman, unless their trans identity is necessary to disclose. Transgender is an adjective, not a noun.
+
+- Always use a transgender person's chosen name. Do not put quotation marks around either a transgender person's chosen name or the pronoun that reflects that person's gender identity.
+
+- Where a transgender person uses a chosen name different from their legal or birth name, avoid including or referencing their legal or birth name (called a dead name). Referencing a dead name, or deadnaming a person, can be dangerous to a person's safety due to transphobia and can be perceived as an attempt to deny or undermine a person's gender identity.
+
+
+Pronouns are used in place of a proper noun, such as a name.
+
+- Refer simply to pronouns, NOT "preferred pronouns" which suggests that there is some choice in whether the pronouns should be used.
+
+- There are many gender-neutral pronouns, but the most common are they and them. They, their, and them are grammatically correct both in singular and plural form, e.g. The winning brief is Kai's. Their work is really strong or Candice and Tom aren't in office, they are in court.
+
+- While you may simply ask someone's pronouns, it is appropriate to use someone's name or use the singular they if their pronouns are unknown. If you are writing about a hypothetical person we suggest using they or them.
+
+- Avoid the phrase "identifies as" to write about a person's gender if replacing the phrase with the word is doesn't change the meaning of the sentence. This level of specificity questions a person's gender instead of just stating someone is nonbinary or a man/woman.
+
+- "S/he" is often disliked by judges and that is still not inclusive of non-binary people, use they or, if possible, write in the plural, e.g. All residents must change their water meters instead of Each resident must change his water meter.
+
+- Some people prefer the use of Mx. as a gender-neutral courtesy title that is an alternative to Ms. or Mr.
+
+- Including your pronouns in your introduction or email signature allows others to use the appropriate pronouns for you and encourages colleagues to feel comfortable sharing their own pronouns.
+
+Using gendered roles when not specified by the person being referenced makes assumptions about marital or family relationships.
+
+However, we recognize that in Child Welfare cases in particular, it may not be possible to change terminology already used by an agency or investigators without causing confusion.
+
+Avoid words and phrases that indicate gender bias or reinforce gender-based stereotypes (e.g. "emasculate" meaning "to weaken").
+
+Some examples in common usage include referring to mixed-gender groups as "guys" (some alternatives include folks or y'all), describing a woman as "detail-oriented" or "maternal" when her acts would be described differently if done by a man, or using only "he" as the pronouns in your legal writing.
+
+
+NATIONALITY AND CITIZENSHIP STATUS
+
+RACE, ETHNICITY, AND RELIGION
+
+
+- Allow the individual who is being described to self-identify their race and ethnicity whenever possible.
+
+POC, or people of color, is a useful umbrella term referring to people who are not white.
+
+- When known, it is important to acknowledge a person's specific racial or ethnic group as each group has its own distinct experience.
+
+- The City of Philadelphia generally uses BIPOC but some prefer the term Black and brown people. Brown is often used as a term referring to people who are not white but do not identify as Black.
+
+Capitalize the word Black when referring to a person's race.
+
+- It is acceptable to use the term African American. However, be aware of complexities within racial and ethnic identities. For example, not all Black people are African Americans if they were born outside of the United States. Where an individual's race is relevant and there is no stated preference for such individual, use Black because it is an accurate description of race.
+
+When referring to a person's race or ethnicity, use adjectives, not nouns. For example, use a Hispanic person, not "a Hispanic".
+
+Latina (feminine)/ Latino (masculine) and Hispanic are generally acceptable to refer to residents or citizens of the United States with Latin American or Spanish ancestry. Although there is some variation, generally, people from Mexico, Central America, South America, and the Spanish-speaking Caribbean islands are both Hispanic and Latino/a/x. However, Brazilians (who speak Portuguese) are Latino/a/x, but not Hispanic. People from Spain are Hispanic but not Latino/a/x. Those who identify as Latino or Hispanic can be of any race but note that many Latinx people consider their ethnicity to also be their race.
+
+- Latinx (pronounced La-teen-ex, plural Latinxs) and Latine (pronounced La-teen-ay, plural Latines) encompass both feminine and masculine word endings of Latina or Latino.
+
+Asian refers to people who are citizens of countries in East or South Asia or who are of Asian descent. Asian American describes someone in the United States who is of Asian descent. Avoid "Oriental".
+
+- When referring to individuals, use the most specific ethnic identifier available, such as Vietnamese or Indonesian.
+
+Pacific Islander includes Native Hawaiian, Samoan, and other people of the Pacific Island nations.
+
+- Asian Pacific Islander (API) and Asian American Pacific Islander (AAPI) are both acceptable to refer to a diverse population of more than 20 ethnic groups living in the United States.
+
+There is no strong consensus on whether to capitalize "white" when describing race. Some people use White because they interpret the use of lowercase to reinforce the flawed idea that this is the default race. Some major media outlets like AP, The New York Times, NBC News, Los Angeles Times and Chicago Tribune do not capitalize white because as AP explains, there is no shared history and culture among the group described.
+
+- Because there is no consensus, you can use either in your writing.
+
+- Avoid the term "non-white," or other terms that treat white as a default.
+
+- Do not use the term "Caucasian" as a proxy for white or European because its use originated in the 18th Century as a way of classifying white people as a race to be favorably compared with other races. The term is technically a geographic descriptor of people hailing from the Caucasus mountains region (which includes Georgia, Armenia, Azerbaijan, parts of north Iran, and central southern Russia).
+
+Use biracial or multiracial when referring to an individual who identifies as two or more races, NOT "mixed" or "mixed race" which are outdated. When describing ethnicity, preferred terms include multiethnic or polyethnic.
+
+- Do not use the term "ethnic" when describing things that originate from outside of North America. Like the word "exotic," the word connotes otherness and can be seen as marginalizing or offensive.
+
+The term minority or minorities is collective when used as a noun and is defined as a group or groups differing especially in race, religion, or ethnicity from the majority of a population. Do not use these terms when describing individuals.
+
+Use Native American and Indigenous. Use Alaska Native when referring to individuals who identify as indigenous to Alaska. Use specific nation/tribal names where possible.
+
+- The term Indigenous Peoples (uppercase I and P) refers to Indigenous People as groups with distinct legal rights. Indigenous peoples (uppercase I, lowercase p) refers to Indigenous peoples with individual rights.
+
+- Nation is a more appropriate descriptor than "tribe," as nation shows respect for sovereignty and recognizes that Native American Nations have their own systems of government.
+
+- Use powwow only when referring to the title of a specific Native American event. Avoid if referring to a general gathering because the term evokes a stereotypical image of Native American
+
+- Avoid using "tribe" to refer to different ethnic groups in African countries or other groups that are not Native American Nations or other self-described indigenous groups. Also avoid words and phrases that trivialize the term "tribe" (e.g. "political tribalism" or referring to close ones or a business community as "my/our tribe").
+
+Use Romani or Roma, NOT gypsy. Romani people consider the term "gypsy" to be a racial slur.
+
+The Middle East describes a predominantly Muslim geopolitical region between the Mediterranean in the West and the Indian subcontinent in the East. Different maps include different countries as part of the Middle East. Egypt is generally the only country in Africa considered to be part of the Middle East, even though it is not the only Arabic-speaking and predominantly Muslim country in North Africa.
+
+Use Islam when referring to the religion. Muslim is the proper term for individual believers/followers of Islam and can be used as a noun or an adjective.
+
+- Arab and Muslim are not synonymous terms, and therefore do not use them interchangeably. Muslim refers to adherents of the Islamic faith. Arab refers to people who hail from a specific geographical region or who speak Arabic as a first language.
+
+- Islamic is an adjective used to describe the religion of Islam, and it is not synonymous with Islamist, which describes a political movement.
+
+Jewish people are an ethno-religious group associated with Judaism. As there is no significant consensus on the term "Jew" when used as a noun, it is best to refer to individuals as being Jewish e.g. they are Jewish.
+
+- Be aware of coded anti-Semitic language. For example, "globalist" is a coded term that enforces the conspiracy that Jewish people have an allegiance to a worldwide order, like a global economy or international political system, that will enhance their control over the banks, governments, and media. Note that antisemitism and anti-Semitism are both correct stylings of the term.
+
+
+SUBSTANCE USE
+
+Addiction refers to a condition of being addicted to a particular substance.
+
+- Addiction is not the same as dependence. Addiction usually refers to a disease or disorder; dependence may, on the other hand, describe the condition of a medical patient who relies on medication.
+
+Substance use disorder refers to a mental disorder that causes a person's inability to control their use of substances such as legal or illegal drugs, alcohol, or medicine.
+
+
+- Use recovering or in recovery from to refer to someone trying to overcome an addiction.
+
+Use risky use, unhealthy use, excessive use, or heavy drug use, NOT "drug abuse" or "drug problem." Misuse also is acceptable. Additionally, do not assume all people who engage in misuse have an addiction.
+
+When referring to the results of a drug test, state that the person tested positive or negative for (drug), rather than saying the test result was "clean" or "dirty". Those terms are considered derogatory because they equate symptoms of illness to filth.
+
+
+MISCELLANEOUS
+
+Do not use "ghetto" because it is a pejorative term for lower income neighborhoods and is specifically anti-Black.
+
+Racist or otherwise coded language you should avoid include: "black sheep" (use outcast); "blacklisted" (use banned); "gyp/gypped" (use cheated); "low on the totem pole" (use low priority or limited in power); "sold down the river" (use betrayed); "paddy wagon" (use police van); "off the reservation" (use outside the norm); "prostitute" (use sex worker); "uppity" (use arrogant); and "thug" (just avoid), among others.
+
+Some people prefer using person-first language like person experiencing homelessness or unhoused person instead of using "homeless" to describe a person. There is not yet consensus on proper terminology.
+
+The term derives from attempts to keep Black people from voting by allowing illiterate men to vote if their grandfathers had been registered to vote before the passage of the 15th Amendment. This term is common in case law and legal discussion to describe the neutral impact of zoning laws, covenants, etc. Consider explaining in a footnote your choice to depart from using that term because of its origin in prior racist laws so that the court understands what you are referring to when you depart from this common terminology.
+
+When discussing slavery, use enslaved person rather than "slave." Bluebook Rule 10.7.1(d) now requires that when citing cases involving slavery, they must be marked as such. For example, Dred Scott v. Sanford, 60 U.S. (19 How.) 393 (1857) (enslaved party), superseded by constitutional amendment, U.S. Const. amend. XIV or Wall v. Wall, 30 Miss. 91 (1855) (enslaved person at issue). The goal of the change is to encourage lawyers to use precedent that does not rely upon slavery or to, at minimum, compel readers to recognize that human suffering underlies a given legal theory.
+

@@ -1,0 +1,192 @@
+TIP SHEET Age
+
+Avoid stigmatizing terms
+Generally use “older people” or “older adults” instead of “senior citizens” or “the elderly.”
+Avoid framing aging as negative
+
+Avoid implying that being young is better than being old.
+Example
+Use: 70 years old
+Avoid: 70 years young
+
+Avoid generational terms, which imply that people of a certain generation are homogeneous.
+Example
+Use: people born between 1946 and 1964
+Avoid: baby boomers
+
+Avoid relying on a label for a large group of people when discussing only a subset of that group.
+Example
+Use: Black, Hispanic, and Asian students reacted positively.
+Avoid: Students of color reacted positively.
+
+Avoid labeling people by a characteristic, and recognize that a particular characteristic does not define or describe a person as a whole.
+Example
+Use: older people
+Avoid: the elderly
+
+TIP SHEET Body size
+
+Avoid stigmatizing terms
+Use comparative terms such as “higher weight” rather than the medical terms “obese” and “overweight.”
+Example
+Use: larger-bodied people
+Avoid: people with obesity
+Don’t conflate weight and health, but also avoid healthism
+
+Example
+Use: Participants were drawn from [criteria for participating in the study]. [Number of
+participants] lost on average [overall number and percentage of starting weight] after [amount of
+time]. This change remained after controlling for [factors controlled for]. [Number of people]
+dropped out of the study because of [reasons].
+Avoid: The drug successfully led to long-term weight loss in a large sample.
+
+TIP SHEET Disabilities, disorders, and other health conditions
+
+People-first language (e.g., “person with autism”) and identity-first language (e.g., “autistic
+person”) are two ways of considering a condition. Use whichever the person or group prefers.
+Example
+Use: people with disabilities, the disability community
+Avoid: the disabled
+
+When describing a health condition, use neutral terms like “with” or “has” rather than terms that
+connote pity or imply a person has a reduced quality of life.
+Example
+Use: She has cancer.
+Avoid: She suffers from cancer.
+Avoid stigmatizing language
+
+Words such as “abuse” have connotations of crime and violence. Instead of “drug abuse,” use the
+term “misuse” or an adjective in combination with the word “use.”
+
+TIP SHEET Socioeconomic status
+
+Avoid dehumanizing language that leads with deficits. Use language that looks at root causes
+and describes the barriers that impede those seeking opportunity.
+Example
+Use: Consider donating to help students from lower socioeconomic groups participate in
+science research.
+Avoid: Consider donating to ensure these impoverished students receive the help they
+desperately need.
+
+Avoid language that treats socioeconomic status groups as homogeneous or that treats higher
+socioeconomic status groups as the norm.
+Example
+Use: Buying a car is a privilege enjoyed by some teens in the US.
+Avoid: Buying a car is an important coming-of-age ritual for every teen.
+
+How to refer to occupation
+Avoid representing some types of employment as being inherently better than others, and avoid
+describing jobs or workers as “unskilled” or “low skill.” Use specific descriptions instead of “blue
+collar” and “white collar.”
+
+Avoid using broad, vague terms that signal entire parts of the globe as “other,” such as
+“developed” and “developing” nations and “first world” and “third world” countries. When
+discussing groups of countries, identify them by name or specific geographic regions.
+Example
+Use: low-income countries in East Asia
+Avoid: the Global South
+
+Recommendation:
+See the table below for a selection of terms to use in place of problematic ones in IT. This is not a comprehensive list of all exclusionary terms in IT or software. Rather, the list is intended to highlight the main problematic terms and spark reflection on the impact of language used in IT. 
+
+avoid/ use/ notes
+black box – closed box/ mystery box
+Context: A device, system, or object that produces useful information without revealing any information about its internal workings.
+
+blacklist and whitelist - block list and allow list/ reject list and accept list/ prohibit list and permit list/ deny list and safe list (or any combination of these)
+Context: Permissions, publishing.
+
+cripple – hinder
+Context: Cybersecurity.
+
+dark pattern – deceptive pattern
+Context: Thread signaling, user interface and user experience design.
+
+dummy value – placeholder value/ sample value
+Context: Testing.
+
+male and female connectors – plug and socket
+Context: Hardware.
+Note: Framing “male” and “female” as opposites enforces the gender binary.
+
+man hours – person hours
+Context: Resourcing and scheduling.
+
+man in the middle – attacker in the middle/ machine in the middle
+Context: Cryptographic attacks.
+
+master and slave – primary and secondary/ main and replica/ parent and child
+Context: Hierarchical services.
+
+mom test, girlfriend test – test with novice users/ usability test
+Context: User testing.
+Note: Associating a mom or girlfriend with beginners perpetuates the stereotype that women aren’t skilled with technology.
+
+sanity check – quick check/ confidence check/ coherence check
+Context: Quality control.
+See also: “Avoid using disability-related terms to describe something negative.”
+
+Scrum master – agile lead/ agile team facilitator/ Scrum leader/ Scrum facilitator
+Context: Project or product management.
+
+webmaster – web product owner
+Context: Website development.
+
+white hat, black hat, and gray hat – benign, malicious, and hacktivist
+Context: Security hacking.
+
+Recommendation:
+Instead of using the pronouns “he/she” or “him/her” in job descriptions, use gender-neutral language like “the applicant,” “the candidate,” or “they” when describing the role responsibilities. Similarly, when advertising job titles, avoid the use of gendered titles such as “chairman” or “councilman”; use instead “chair,” “chairperson,” or “council member.” Research shows that gendered wording associated with stereotypes in job descriptions can sustain gender inequality. The use of words associated with male stereotypes, like “leader,” “competitive,” or “dominant,” impacted women’s perceptions of the job, making the jobs less appealing. A tool that can help you find language that might exclude certain candidates because of their gender identity is Kat Matfield’s Gender Decoder, which is based on the aforementioned research by Danielle Gaucher, Justin Friesen, and Aaron C. Kay. 
+
+Examples:
+Use:
+Their job responsibilities include
+
+Avoid:
+His or her job responsibilities include
+
+Use:
+Applicants will promote and teach search-engine optimization to the staff.
+
+Avoid:
+A successful applicant will champion search-engine optimization to the staff. (“Championing” might appeal more to men.)
+
+Recommendation:
+Avoid terms that code for gender, age, race, disability, or another characteristic. See this list (PDF) from the University of Massachusetts for suggestions about how to describe requirements in ways that comply with the Americans with Disabilities Act. Also see “Ageist language and stereotypes.” Consider whether a particular skill set is truly critical to succeeding in the role before adding it to the role description.
+
+Example:
+Use:
+We are looking for people familiar with word-processing software like Microsoft Word.
+
+Recommendation:
+To ensure the use of plain language, substitute shorter words for longer ones and avoid redundant information.
+
+Examples:
+Use:
+Responsible
+
+Avoid:
+Primarily responsible
+
+Use:
+Intelligent
+
+Avoid:
+Highly intelligent
+
+Use:
+Because
+
+Avoid:
+Because of the fact that
+
+Recommendation:
+For external audiences, use a straightforward, specific, and sufficiently descriptive job title. Seek outside feedback from someone unfamiliar with the role. And try to avoid the use of any phrases that could be misinterpreted. Use action verbs that describe a mental or physical action that is specific and appropriate to the workplace.
+
+Example:
+Use:
+Must be able to balance and prioritize multiple ongoing projects
+
+Avoid:
+Must be able to juggle multiple projects
+

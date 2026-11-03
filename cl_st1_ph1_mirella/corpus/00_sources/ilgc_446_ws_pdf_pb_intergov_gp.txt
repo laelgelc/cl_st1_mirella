@@ -1,0 +1,83 @@
+Strategies for inclusive language in English
+
+The English language has fewer gender-based markers than so-called grammatical gender languages, such as French. The principal gender-based markers in English are pronouns (he/she) and possessive pronouns (his/her) and a few nouns which have masculine and feminine forms (e.g. waiter/waitress). The main challenges in English are the use of the masculine form by default as representing the "inclusive" or "generic" form, the use of expressions that are sexist or reinforce gender stereotypes and the strict adherence to the gender binary.
+
+The strategies that we propose, to help use inclusive language in English, stem either directly or implicitly from Council of Europe standards.
+
+The strategies are presented in no particular order. When deciding what strategies to use, we recommend that you:
+* take into account the type of text/oral communication, the context, the audience and the purpose of the communication;
+* ensure that the text is readable and the text/oral communication is clear, flowing and concise;
+* seek to combine different strategies throughout the text/oral communication.
+
+Avoid discriminatory, sexist and stereotyped language
+This strategy stems directly from Instruction No. 33 (1994) and from the Committee of Ministers Recommendation on preventing and combating sexism (2019).
+
+This is done by using the following strategies.
+
+* Avoid discriminatory, sexist expressions or expressions that reinforce gender stereotypes
+Some expressions are overtly discriminatory, sexist or convey gender stereotypes by relegating men and women to traditional roles. They exist in all languages. Here are some examples: "it is a man's work", "she throws/runs/fights like a girl", "Thank you to the ladies for making the room more beautiful", "Men just don't understand". Discriminatory or sexist expressions should be removed and those that reinforce gender stereotypes should be replaced by more neutral formulations.
+
+It is also recommended not to use titles which refer to women's marital status, such as "Mrs" or "Miss". If the person concerned is known to prefer "Mrs" or "Miss", this may be used. If the person's preference is not known and it is considered necessary to use a title, that of "Ms" is recommended, as it is more inclusive and can refer to any woman, regardless of marital status.
+
+Tip: to know whether the language used is discriminatory or sexist, reverse the gender: would reversing the designation or the term from masculine to feminine or vice versa change the meaning or emphasis of the sentence? Would it make the sentence sound odd?
+Women should not seek out leadership positions.
+Men cannot do two things at once.
+Men should be educated about their rights.
+
+But also, e.g.: "woman president" or "woman lawyer": such expressions should, in principle, be avoided as we would never say "man president" or "man lawyer". We do not do so because men in positions of power are the norm. However, by emphasising the peculiarity of women in such positions we reinforce that norm. Such expressions may, however, be used if the emphasis is needed to raise awareness of entrenched disparity (see section below: "Specifically mention genders").
+
+Context and application
+All texts and types of communication of the Organisation.
+
+* Use forms of address that respect the gender of known individuals
+When referring to or addressing specific individuals, use forms of address and pronouns that are consistent with their gender identity. If the situation permits, you may ask the persons you are addressing or writing about what pronoun and form of address should be used for them.
+
+There should also be consistency in the way different persons are referred to: if one of them is addressed by their name, last name, courtesy title or profession, others should be as well.
+
+If it is not considered necessary to use a courtesy title, it is preferable to avoid them altogether (for lists of participants, for instance).
+
+Context and application
+All texts and types of communication of the Organisation. If a text is to be translated and refers to a specific person, the author is asked to indicate to translators the gender of that person so they can use appropriate language in their translations.
+
+Do not make gender visible, where the context allows
+This can be done by using the following strategies.
+
+Use gender-neutral words
+Words that are not gender specific but are intended to include people in general should be replaced by gender-neutral terms. Chief among these are forms of expression that include the word "man", which should be replaced by more inclusive terms depending on the context.
+
+When describing professions and functions, a term which is equally appropriate to both genders and which is not gender specific ("lawyer", "doctor", "nurse", "ambassador") is to be preferred to one which uses an exclusively male or female form or which adds the word "male" or "female" to define the gender.
+
+Use plural pronouns/adjectives
+The plural form may be used to ensure gender inclusiveness. Plural pronouns may be used with a singular antecedent as a shortcut to ensure gender inclusiveness.
+
+Use the impersonal pronoun one
+The pronoun "one" can be used to avoid the repetition of "he or she" and the use of the masculine form as a generic personal (he) or possessive pronoun (his), while also being inclusive of non-binary gender identities.
+
+Use the relative pronoun who
+More inclusive | Less inclusive
+An applicant who is not satisfied with the Court's decision may lodge an appeal. | If an applicant is not satisfied with the Court's decision, he may lodge an appeal.
+
+Omit the gendered word
+
+Use the passive voice
+The use of the passive voice may not always be appropriate since it may change the intended emphasis of the sentence. However, it may offer an opportunity to avoid a gendered construction.
+
+Make gender visible, where the context allows
+This strategy stems directly from Instruction No. 33 and from the Committee of Ministers Recommendation on preventing and combating sexism.
+
+This can be done by using the following strategies.
+
+Use feminine and masculine pronouns
+The use of the feminine and masculine forms ("he or she", "his or her") is appropriate when the author or speaker wishes explicitly to include women and men. This can be particularly useful in the context of nominations or human resources. When using both pronouns repeatedly in the same text, it is good practice to alternate their order.
+* The Secretary General is responsible to the Committee of Ministers. He or she shall provide such secretariat and other assistance as the Committee of Ministers may require.
+* The Head of Unit oversees financial management. She or he shall produce annual financial reports.
+
+Context and application
+All texts depending on the context, especially those relating to human resources, including texts relating to external experts. Studies, guidelines, leaflets, speeches. For standard-setting texts, to be used with caution.
+
+Specifically mention genders
+In cases where gender stereotypes prevail and in which highlighting gender would make the sentence more inclusive, genders can be specifically mentioned. This strategy should be used only when popular beliefs or preconceptions may obscure the presence or action of either gender.
+* Women and men staff members are entitled to carers' leave.
+* All the soldiers, both men and women, responded negatively to Question 5 in the survey.
+* Women journalists are confronted with a lot of hate speech.
+

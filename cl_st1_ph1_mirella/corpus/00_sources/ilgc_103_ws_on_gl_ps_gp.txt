@@ -1,0 +1,22 @@
+Best practices
+Reference identity with caution: Ensure references to demographics, identity characteristics, or group membership is essential and relevant before including. When in doubt, opt for neutral language that applies to everyone.
+Use accurate terms and phrases: Always seek guidance from subject matter experts or representatives of the group you’re referencing to confirm the appropriate language, terms, or phrases to use.
+Prioritize people-first language: Avoid labeling individuals, and when you find you must reference their group membership, acknowledge their humanity first.
+Collect identity data sparingly and responsibly: While it can ensure experiences relevant and accessible, always collaborate with the legal team before asking users for such information.
+Collect data with caution
+
+Consult Legal to ensure applicable laws don’t prevent collecting or using demographic information.
+
+Personally identifiable information (PII)
+Personally identifiable information (PII) includes unique identity characteristics that can be used to identify an individual, particularly when combined with other non-sensitive data. This includes full name, social security number, government-issued identification number, mailing or residential address, driver’s license number, bank account number, passport number, or email address.
+
+Only collect PII when it’s essential.
+Consult with your designated legal representative before collecting PII in Visa apps or experiences.
+Consider local laws pertaining to certain states, provinces, countries, and regions. Failure to comply can result in Visa and our partners risking fines and violations.
+Collecting identity characteristics
+Identity characteristics refer to personal attributes such as gender, race, and ethnicity that define an individual’s identity.
+
+Only ask for these characteristics when it is immediately relevant to the product or experience or provides you with meaningful information to improve the experience for all users.
+Include the option to select multiple items to enable users to accurately represent themselves.
+Always include options such as “Prefer to self-describe” if collecting this information is essential to your product or experience.
+Avoid including items such as “other”, as it doesn’t provide useful data and implies the identities not represented are less important than those that are. If your product can’t accommodate custom input, consider including “Not listed”

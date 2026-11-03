@@ -1,0 +1,75 @@
+Examples of bias-free language
+
+The following are examples of bias-free language for socioeconomic status. Both problematic and preferred examples are presented with explanatory comments.
+
+1. Description of legal status
+
+Problematic:
+the undocumented
+illegal aliens
+illegal immigrants
+
+Preferred:
+individuals who are undocumented, people who are undocumented
+undocumented people, undocumented children, undocumented adults
+undocumented Bulgarians
+DACA students
+undocumented workers
+people who lack documents required for legal immigration
+
+Comment: Individuals who are undocumented come from a variety of countries and ethnic groups. Although their status may be illegal, the people themselves are not. Moreover, families will have a mix of documented and undocumented individuals in the same family. Be specific about which group is being included.
+
+2. Description of income
+
+Problematic:
+the poor
+low-class people
+poor people
+
+Preferred:
+people whose incomes are below the federal poverty threshold
+people whose self-reported income were in the lowest income bracket
+
+Comment: Many find the terms “low class” and “poor” pejorative. Use person-first language instead. Define income brackets and levels if possible.
+
+3. Description of housing status
+
+Problematic:
+the homeless
+the projects, the ghetto, the inner city
+
+Preferred:
+people experiencing homelessness, youth experiencing homelessness
+people who are homeless
+people who are living in a place not meant for human habitation, in emergency shelter, or in transitional housing
+people without fixed, regular, or adequate nighttime residence
+low-income housing, low-income areas of the city
+
+Comment: Use specific language that addresses the quality or lack of housing or length of time without housing rather than focusing on whether an individual considers a residence a home. Individuals can be precariously housed or experience chronic or transient homelessness. Avoid conflating social class and race or ethnicity by using coded language like “inner city,” “projects,” or “ghetto.” Specify race or ethnicity and measures of socioeconomic standing separately.
+
+4. Description of government assistance
+
+Problematic:
+welfare mothers
+welfare reliant
+
+Preferred:
+mothers who receive TANF benefits
+people who are unable to work because of a disability
+families whose main income is from TANF benefits
+
+Comment: Avoid language that focuses on blaming the individual or on individual deficits. Instead focus on contextualizing individuals’ status location and on what participants have (not what they lack). TANF stands for “Temporary Assistance for Needy Families” and is the proper term for the current welfare program in the United States.
+
+5. Description of educational attainment
+
+Problematic:
+high-school dropouts
+achievement gap
+
+Preferred:
+people who have completed 10th grade
+people with less than a high-school education
+opportunity gap
+
+Comment: Avoid language that focuses on blaming the individual or on individual deficits; instead, focus on what people have, not what they lack. When comparing groups, use parallel terminology (e.g., people with a high school diploma vs. without a high school diploma or equivalent, not high-school dropouts vs. high-school graduates).
+

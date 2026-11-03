@@ -1,0 +1,148 @@
+TriCollege Libraries
+
+"These definitions are starting points, and are not comprehensive or definitive. There are often other definitions, and are always new ways of thinking about these terms and concepts. It is also important to note that these terms are constantly evolving, but it is intended to be a start."
+
+Ability/Disability
+A concept that symbolizes or categorizes people based on a person's ways of navigating and negotiating society.
+A disability is a condition or function judged to be significantly restrictive. The term is used to refer to individual functioning, including physical impairment, sensory impairment, cognitive/intellectual impairment, mental illness, and various types of chronic disease.
+Additional reading:
+An Introductory Guide to Disability Language and Empowerment
+Ableism in academia: where are all the disabled and ill academics?
+
+Allyship
+Allyship involves listening to and standing up for people in minority groups that you do not belong to when their rights are being challenged. It involves a lot of listening. "Ally" is not an identity, rather it is an ongoing and lifelong process that involves a lot of work. Everyone has more to learn.
+Additional reading:
+How to Be an Ally if You Are a Person with Privilege
+Allyship: Challenging Hetereosexism and Homophobia
+
+Class
+One's position on the economic hierarchy that is determined by wealth and income. Class also encompasses education or access to education and geographic background.
+Additional reading:
+What is Classism?
+What the Privileged Poor Can Teach Us
+The 'Hidden Mechanisms' That Help Those Born Rich to Excel in Elite Jobs
+
+Cultural Appropriation
+Taking objects, practices, and bodies out of their cultural context and exhibiting or performing them without consideration of the privilege such a removal or display entails.
+Additional reading:
+What Does Cultural Appropriation Mean?
+
+Diversity
+Differences in race, ethnicity, national origin, religion, age, gender, class, disability status, size, sexual orientation, education, life experience, among many other aspects of identity. Diversity is a reflection of a multicultural/multiracial society.
+Additional reading:
+Discussion of Diversity and Inclusivity at the Institutional Level: The Need for a Strategic Plan
+
+Ethnicity
+The identity of a group of people having common racial, national, religious, and/or cultural origins as well as shared histories.
+
+Equality
+The state of being equal, especially in status, rights, and opportunities.
+Additional reading:
+Why we need to keep talking about equality in physics
+
+Equity
+The quality of being fair and impartial.
+Additional reading:
+What's the Difference Between Equity and Equality in Education?
+Equity in Education: What it is and Why it Matters
+
+Feminism
+Feminism is traditionally described as the advocacy of women's rights on the grounds of political, social, and economic equality to men.
+Additional reading:
+Why Everyday Feminism is For Everyone
+We Should All Be Feminists by Chimamanda Ngozi Adichie
+
+Gender
+A set of social, psychological, and emotional traits, often influenced by societal expectations that classify an individual as feminine, masculine, androgynous, or other. Though often linked with sex, this is inaccurate because sex refers to birth genitalia and/or chromosomes and gender refers to social and emotional feelings and norms.
+When we use pronouns like "she" or "he" to identify a person, we might be making an assumption about that person's gender that is different from their gender identity. It is important to ask for gender pronouns before making assumptions.
+Additional reading:
+Understanding Gender
+
+Implicit Bias
+"Implicit bias" describe[s] when we have attitudes towards people or associate stereotypes with them without our conscious knowledge.
+Additional reading:
+Harvard Implicit Bias Test
+Why does John get the STEM job rather than Jennifer?
+Minorities Who 'Whiten' Job Resumes Get More Interviews
+
+Inclusion
+The action or state of including or of being included within a group or structure.
+Additional reading:
+What We Mean When We Talk About Inclusion
+Diversity Doesn't Stick Without Inclusion
+
+Indigenous Peoples
+Indigenous peoples are inheritors and practitioners of unique cultures and ways of relating to people and the environment. They have retained social, cultural, economic, and political characteristics that are distinct from those of the dominant societies in which they live.
+Additional reading:
+10 Things to Know about Indigenous Peoples
+Amnesty International, Indigenous Peoples
+
+Intersectionality
+Intersectionality is a theoretical framework that comes from critical theory to describe the way that oppressive institutions like racism, sexism, ableism, xenophobia, classism, transphobia, etc. are interlapping and cannot be separated from one another.
+Additional reading:
+The Urgency of Intersectionality
+Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color by Kimberlé Crenshaw
+"Intersectional Approaches" by Amy Allen
+
+LGBTQ+
+LGBTQ+ is an acronym that attempts to cover the spectrum of people with marginalized identities of gender and sexuality. People generally agree that it stands for "Lesbian, Gay, Bisexual, Trans, Queer/Questioning."
+Some people have switched to using the term "queer" as an umbrella term to cover the spectrum of gender and sexuality.
+Additional reading:
+Harvard Office of BGLTQ Student Life
+LGBTQIA: A Beginner's Guide to the Great Alphabet Soup of Queer Identity
+
+Marginalization
+When a member of a racial, ethnic, religious, cultural, or any social group is relegated to an unimportant or powerless position within a society or group. Being marginalized requires historical and ongoing oppression of the identity in question.
+
+Microagression
+Microaggressions are commonplace verbal or behavioral indignities, whether intentional or unintentional, which communicate hostile, derogatory, or negative slights and insults in relation to race, gender identification, sexuality, class, language, etc. They are structurally based and invoke systems of hierarchy.
+Additional reading:
+Language Matters: Considering Microaggressions in Science
+Microaggressions Matter
+
+Nationality
+The status of belonging to a particular nation by origin, birth, or naturalized citizenship.
+
+Person of Color
+A person who is not white or of European parentage.
+Additional reading:
+Code Switch: The Journey From 'Colored' To 'Minorities' To 'People of Color'
+
+Privilege
+Having unearned benefits because of an identity you hold. There are various forms of privilege; for example, institutional racism in the US leads to greater social/political access, representation and entitlement, and material and economic security for those considered white.
+Additional reading:
+Privilege 101: A Quick and Dirty Guide
+Unpacking the Invisible Knapsack
+White Men of Academia Have an 'Objectivity' Problem
+
+Race/Racism (in the US)
+Race is a concept that signifies and symbolizes sociopolitical conflicts and interests in reference to different types of human bodies. Race is not established by some set of natural forces, but a product of human perception and classification. Racial categories are historical products and often contested. In the US, whiteness (a racial category) has been consistently privileged over non-whiteness, with persons of color consigned to the margins of American society and culture.
+Racism is a perpetuation of historical, systematized discrimination. While personal actions can contribute to or reinforce institutional oppression, racism is much more than the sum of individual actions. Racism maintains the racial hierarchy that consistently benefits some ethnic, racial, and cultural groups at the expense of others.
+Institutional oppression is the network of institutional structures, policies, and practices that create advantages and benefits for dominant group members and discrimination, oppression, and disadvantages for subordinated group members. The advantages for dominant group members are often invisible to them or are considered entitlements.
+Additional reading:
+"Race" by Michael James
+Critical Race Theory introduction
+Why There's No Such Thing as Reverse Racism
+A Working Definition of Racism
+A brief history of the enduring phony science that perpetuates White Supremacy
+
+Sex (Assigned at Birth)
+Refers to the biological characteristics between males and females. Sex is typically assigned at birth based on an infant's external genitalia. Chromosomes (such as XX or XY) and hormones (such as estrogen or testosterone) are also involved, but are hardly ever tested to assign a sex to an individual.
+
+Socio-Economic Status
+An intersectional representation of social class, which is often indicated by a combination of a person's education, occupation, social capital, and income.
+
+Stereotype
+Blanket beliefs and expectations about members of certain groups that present an oversimplified opinion, prejudiced attitude, or uncritical judgement. They are typically negative, are based on little information, and are highly generalized.
+Additional reading:
+Stereotypes, Student Identity, and Academic Success
+Claude Steele on Stereotype Threat
+
+Underrepresented Minority (URM)
+Also sometimes Historically Underrepresented Minority or Historically Underrepresented Group. Typically defined as someone whose racial or ethnic makeup is from one or more of the following: African American/Black; Asian: Filipino, Hmong, or Vietnamese only; Hispanic/Latinx; Native American/Alaskan Native; Native Hawaiian/Other Pacific Islander.
+
+White Supremacy
+White Supremacy is a historically based, institutionally perpetuated system of exploitation and oppression of continents, nations, and people of color by white people, the U.S., and nations of the European continent, for the purposes of maintaining and defending a system of wealth, power, and privilege.
+Additional reading:
+The History of White Supremacy
+

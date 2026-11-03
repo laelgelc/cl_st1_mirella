@@ -1,0 +1,30 @@
+Inclusive Language and Context Style Guidelines
+
+1st Edition
+
+Introduction
+The Importance of Inclusive Language
+
+The American Medical Informatics Association (AMIA) is committed to diversity, equity, and inclusion (DEI). Inclusive language helps AMIA promote DEI-oriented communication and serve a diverse community of informaticians. Specifically, inclusive language facilitates this by
+1) respecting the autonomy, dignity, and experiences of marginalized and historically excluded communities,
+2) incorporating just and equitable scientific practices through the language used to accurately generate and precisely describe scientific knowledge, and
+3) attracting researchers to contribute valuable insights new to AMIA's scientific understanding.
+
+AMIA recognizes that inclusive language has a place not only in our academic communications but also in our professional and personal interactions with other AMIA members and various communities. To that end, the Inclusive Language and Context Style Guidelines (ILCSG) serve as an educational resource for creating a more diverse, equitable, and inclusive
+
+AMIA as we learn to enact these commitments to DEI in our professional and personal lives. The ILCSG is intended for authors, researchers, and AMIA community members looking to incorporate inclusive language into their research, work, and personal lives.
+
+Using language that affirms lived experiences and accurately describes diverse ranges of expertise and science is important to advancing AMIA's DEI commitment. However, incorporating inclusive language cannot be the only step in this direction, and we must be careful to avoid mechanical processes that make AMIA seem welcoming and inclusive while not addressing the underlying culture and behaviors. To that end, it is important for us to internalize and apply the information in this document while creating our science and community within AMIA. As it stands, this document is intended for authors, reviewers, and AMIA members as a resource for AMIA annual symposium submissions and will be expanded to other forms of communications (e.g, policy response letters, press releases from AMIA, leadership communications, working group products, etc).
+
+
+
+
+
+
+
+
+
+
+
+
+

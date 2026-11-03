@@ -1,0 +1,141 @@
+Seneca's (2023) Inclusive Writing Guide provides six basic principles you can apply to help you communicate with care.
+
+1. Respect individual preferences & avoid generalizations — Individuals and groups are diverse, and each may have their own preferred language. Don't assume that the same language or term can be applied to all individuals in the same group. If you're unsure of what terminology to use when writing about a person or group, it's always best to ask them whenever possible.
+
+2. Be respectful — Choose words with care. Review and reflect on the words you're using and ensure that they're respectful and don't reinforce stereotypes. In addition, consider that the overall content (including the images that you use and tone of your writing) is inclusive and respectful.
+
+3. Be conscious of false hierarchies — When conducting comparisons, consider which groups are compared. For example, describing one group as "normal" can exclude other groups and make readers think that they are "abnormal" (APA). Similarly, be thoughtful when determining the order in which groups will be presented. Automatically mentioning socially dominant groups at the beginning can make it seem that the groups that follow are less important or inferior.
+
+4. Share only what is relevant — Ask yourself if you need to refer to a person or group's identity (e.g., gender, race) in your writing. 
+
+5. Be consistently inclusive — Inclusive writing is not a one-time thing. Inclusive writing style, techniques, and language should be used in all forms of communication. Your school or workplace may also have their own inclusive writing guidelines. If this is the case, follow your organization's guidelines to ensure that your writing is consistent with your organization's preferred language and style.
+
+6. Create content for everyone — Inclusive writing techniques work together with principles of effective communication. In addition to using inclusive language, create content for your audience that is clear, accessible, and accurate.
+
+Disability language
+
+When writing about people with disabilities, the APA's Inclusive Language Guide recommends the following approaches:
+
+1. Person-first
+2. Identify-first
+
+Person-first language focuses on the person and puts less emphasis on the disability or diagnosis. For example:
+
+A person who uses a wheelchair
+A person who uses a walking cane
+
+Identity-first language places emphasis on the disability. Some individual and groups may prefer identity-first language since they view their disability as an important part of their identity. For example:
+
+Wheelchair user
+A blind person
+
+Always ask the person or group you are writing to identify their preference. This will ensure that you do not offend or alienate your audience.
+
+Disabled Person OR Person With a Disability?
+Watch this video to learn more about identity-first versus person-first language.
+
+Gender-inclusive language
+
+It has been commonly accepted for many years that the use of 'man' as a generic term excludes women and non-binary individuals. Words like 'mankind' and 'chairman' make people think 'male' rather than 'female' and render other genders invisible (QUT, 2010). The use of 'man' or 'men' and 'woman' or 'women' is an expression of binary language and doesn't allow for people who don't identify as male or female. Use inclusive words (review Table 3.2.1) that are non-binary and gender-neutral (QUT, 2010).
+
+Table 3.2.1 Using gender-neutral language
+
+Note. Always avoid phrases that may be gender-specific, stereotypical, or potentially exclusive. Instead, use non-binary pronouns so that misgendering doesn't occur. Reprinted from Andersen, 2022.
+
+Pronouns and Neopronouns
+
+Pronouns are linguistic tools that replace a person's name in conversation. While some languages have pronouns that denote gender, others do not. In the English language, 'he/his' and 'she/her' are frequently used gender-specific pronouns for third-person singular references. Using 'they' as a gender-neutral or general pronoun can make your writing more inclusive. In fact, the pronoun 'they' has been utilized as a gender-neutral term for centuries.
+
+Because pronouns can reflect a person's gender identity, it's crucial to use the correct ones for respectful and inclusive communication. To prevent incorrect gender identification, it's always recommended that you ask your audience.
+
+People who identify as non-binary often use 'neopronous' in place of gender-specific pronouns (review Table 3.2.2). If you are not sure how to use a person's neopronouns, always ask.
+
+Table 3.2.2 Neopronouns
+
+Subjective: ze; ey; per
+Objective: zir, hir; em; per
+Possessive: zirs, hirs; eirs; pers
+
+Note. Examples of common neopronouns. Reprinted from Seneca's Inclusive Writing Guide, 2023.
+
+Exercise: Pronouns
+Complete this online interactive pronoun exercise.
+
+Gender and Sexuality Diverse Terms
+
+It is also important to know the meanings of words people use about gender and sexual diversity. This includes sexual orientation, gender identity and expression, and sex characteristics.
+
+Titles of address
+
+Titles of address are now considered redundant when not linked to professional positions such as Professor, Doctor, or Senator. Titles such as 'Mr' and 'Ms' are no longer necessarily linked to a marital status like 'Mrs' and 'Miss' and in professional arenas marital status is irrelevant. 'Ms' is widely used for women regardless of marital status but, rather than misgendering a person, it is better to be consistent and not use gendered titles. 'Mx' is a gender-neutral non-profession/qualification-related title that is also used. Where possible confirm with the individual their preferred title of address.
+
+
+Indigenous Peoples
+
+Deciding what terminology to use to identify Indigenous people is important, especially considering the historical and present context in which terminology is used to marginalize and oppress the original inhabitants of this land.
+
+The word Indigenous is itself a good place to start. Those who are considered Indigenous today, are descendants of people who were living on this land prior to colonization by Europeans. You will still find the term 'Aboriginal,' rather than Indigenous, used in some contexts, including official Canadian Government documents, but the term Indigenous is becoming the preferred overall term to use.
+
+In what is now known as Canada, there are three distinct groups of Indigenous people — First Nations, Métis, and Inuit. According to their own traditions and teachings, the Inuit and First Nations people have been on this land since time immemorial (forever). People who identify as Métis are descendants of First Nations and European parentage.
+
+Indigenous people identify themselves in many different ways. A term that one person embraces could offend another (review Table 3.2.4). Therefore, it is important to be respectful of how Indigenous people themselves want or choose to be identified.
+
+To get started, watch the short video, How to Talk About Indigenous People, that clearly explains use of the terms Indigenous, Aboriginal, First Nations, Métis, and Inuit.
+
+
+How to talk about Indigenous people
+
+Note: In Canada, Aboriginal (adjective) may still be used although Indigenous is the more preferred term.
+
+Note. Do not use these outdated terms that are no longer acceptable. Reprinted from Seneca's Inclusive Writing Guide, 2023.
+
+Racialized communities or groups
+
+Before you write about or mention an individual's identity, always confirm how they identify first. A person's race should only be mentioned if it is relevant. For example, 'this week will discuss civil rights activist Dr Martin Luther King Jr. who is remembered as one of the most influential and inspirational African-American leaders in history.'
+
+Terms such as 'visible minority' and 'person of colour' are outdated terms (review Table 3.2.5). Instead, consider using the following, depending on the context:
+
+racialized person
+racialized group
+member of a racialized community
+equity-deserving group
+
+The Ontario Human Rights Commission uses the term members of racialized communities. This expression may also be used to for members of marginalized religious groups.
+
+Table 3.2.5 Insensitive Language and Suggested Alternatives
+
+Notes: In reality, there is no biological "race". The term Caucasian was created as a way to make white supremacy scientifically justifiable. For more information, see Is the Word Caucasian Racist?
+
+
+Notes: The word Black (as an adjective) is generally acceptable. Never use Black as a noun, either singular or plural. Some people may use terms such as Black Canadian, African Canadian, or African American. Note that not all Black people may identify with these terms. Learn more.
+
+
+Notes: The word "minority" creates the false impression that non-white racial groups form a smaller percentage of the population than the white "majority".
+
+
+Notes: The term "Oriental" is outdated and is associated with a period in U.S. history when people from East Asia had subordinate status in society.
+
+Notes: Avoid dehumanizing or othering language.
+
+Notes: While terms such as POC and BIPOC have become popular over the past years, some writers and activists believe grouping different populations together erases the experiences of each group.
+
+Notes: The term "slave" reduces a person to a position they never chose to be in. It can also strip the person from their human identity. Continuing to use terms such as slave, slavery and slave master normalizes the enslavement as a state of being.
+
+Notes: Human beings cannot be "owned". The verb "enslave" helps bring attention to the horrific acts involved in enslavement
+
+Note. Never use language that might marginalize, offend, or inaccurately represent people based on their race, ethnicity, or other aspects of their identity. Reprinted from Seneca's Inclusive Writing Guide, 2023.
+
+Asking a LLM to Improve Inclusivity
+
+You can ask an LLM to review your document to ensure that it contains an inclusive approach. Here's how you can do this:
+
+1. Upload your document to the LLM
+2. Input the following prompt into the context window: Please read the document I've uploaded. This document is going to be read by [state your audience and any characteristics that are relevant]. Review the language and personal referents and show me how I can improve in the area of inclusive language and inclusivity overall. I want to ensure that the document is respectful of all groups and cultures. Be specific as to where the changes would be needed.
+
+Always remember that words matter. They reflect the values and knowledge of people using them and can reinforce both negative and positive perceptions about others. Language is not neutral. Inclusive language acknowledges the unique values, skills, viewpoints, experiences, culture, abilities and experiences of individuals or groups (QUT, 2010). Your use of inclusive language — how you speak, write and visually represent others — is an important part of workplace communication.
+
+Knowledge Check
+
+The term "visible minority" is still considered acceptable and current when referring to racialized communities.
+True / False
+

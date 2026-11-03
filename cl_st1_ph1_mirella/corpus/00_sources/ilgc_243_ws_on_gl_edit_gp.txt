@@ -1,0 +1,74 @@
+Racial and Ethnic Identity
+
+When you are writing, you need to follow general principles to ensure that your language is free of bias. Here we provide guidelines for talking about racial and ethnic identity with inclusivity and respect.
+
+Terms used to refer to racial and ethnic groups continue to change over time. One reason for this is simply personal preference; preferred designations are as varied as the people they name. Another reason is that designations can become dated over time and may hold negative connotations. When describing racial and ethnic groups, be appropriately specific and sensitive to issues of labeling as described in general principles for reducing bias.
+
+Race refers to physical differences that groups and cultures consider socially significant. For example, people might identify their race as Aboriginal, African American or Black, Asian, European American or White, Native American, Native Hawaiian or Pacific Islander, Māori, or some other race. Ethnicity refers to shared cultural characteristics such as language, ancestry, practices, and beliefs. For example, people might identify as Latino or another ethnicity. Be clear about whether you are referring to a racial group or to an ethnic group. Race is a social construct that is not universal, so one must be careful not to impose racial labels on ethnic groups.
+
+Whenever possible, use the racial and/or ethnic terms that your participants themselves use. Be sure that the racial and ethnic categories you use are as clear and specific as possible. For example, instead of categorizing participants as Asian American or Hispanic American, you could use more specific labels that identify their nation or region of origin, such as Japanese American or Cuban American. Use commonly accepted designations (e.g., census categories) while being sensitive to participants’ preferred designation.
+
+Spelling and capitalization of racial and ethnic terms
+
+Racial and ethnic groups are designated by proper nouns and are capitalized. Therefore, use “Black” and “White” instead of “black” and “white” (do not use colors to refer to other human groups; doing so is considered pejorative). Likewise, capitalize terms such as “Native American,” “Hispanic,” and so on. Capitalize “Indigenous” and “Aboriginal” whenever they are used. Capitalize “Indigenous People” or “Aboriginal People” when referring to a specific group (e.g., the Indigenous Peoples of Canada), but use lowercase for “people” when describing persons who are Indigenous or Aboriginal (e.g., “the authors were all Indigenous people but belonged to different nations”).
+
+Do not use hyphens in multiword names, even if the names act as unit modifiers (e.g., write “Asian American participants,” not “Asian-American participants”). If people belong to multiple racial or ethnic groups, the names of the specific groups are capitalized, but the terms “multiracial,” “biracial,” “multi-ethnic,” and so on are lowercase.
+
+Terms for specific groups
+
+Designations for specific ethnic and racial groups are described next. These groups frequently are included in studies published in APA journals; the examples provided are far from exhaustive but illustrate some of the complexities of labeling.
+
+People of African origin
+
+When writing about people of African ancestry, several factors inform the appropriate terms to use. People of African descent have widely varied cultural backgrounds, family histories, and family experiences. Some will be from Caribbean islands, Latin America, various regions in the United States, countries in Africa, or elsewhere. Some American people of African ancestry prefer “Black,” and others prefer “African American”; both terms are acceptable. However, “African American” should not be used as an umbrella term for people of African ancestry worldwide because it obscures other ethnicities or national origins, such as Nigerian, Kenyan, Jamaican, or Bahamian; in these cases use “Black.” The terms “Negro” and “Afro-American” are outdated; therefore, their use is generally inappropriate.
+
+People of Asian origin
+
+When writing about people of Asian ancestry from Asia, the term “Asian” is appropriate; for people of Asian descent from the United States or Canada, the appropriate term is “Asian American” or “Asian Canadian,” respectively. It is problematic to group “Asian” and “Asian American” as if they are synonymous. This usage reinforces the idea that Asian Americans are perpetual foreigners. “Asian” refers to Asians in Asia, not in the United States, and should not be used to refer to Asian Americans. The older term “Oriental” is primarily used to refer to cultural objects such as carpets and is pejorative when used to refer to people. To provide more specificity, “Asian origin” may be divided regionally, for example, into South Asia (including most of India and countries such as Afghanistan, Pakistan, Bangladesh, and Nepal), Southeast Asia (including the eastern parts of India and countries such as Vietnam, Cambodia, Thailand, Indonesia, and the Philippines), and East Asia (including countries such as China, Vietnam, Japan, South Korea and North Korea, and Taiwan). The corresponding terms (e.g., East Asian) can be used; however, refer to the specific nation or region of origin when possible.
+
+People of European origin
+
+When writing about people of European ancestry, the terms “White” and “European American” are acceptable. Adjust the latter term as needed for location, for example, “European,” “European American,” and “European Australian” for people of European descent living in Europe, the United States, and Australia, respectively. The use of the term “Caucasian” as an alternative to “White” or “European” is discouraged because it originated as a way of classifying White people as a race to be favorably compared with other races. As with all discussions of race and ethnicity, it is preferable to be more specific about regional (e.g., Southern European, Scandinavian) or national (e.g., Italian, Irish, Swedish, French, Polish) origin when possible.
+
+Indigenous Peoples around the world
+
+When writing about Indigenous Peoples, use the names that they call themselves. In general, refer to an Indigenous group as a “people” or “nation” rather than as a “tribe.”
+
+In North America, the collective terms “Native American” and “Native North American” are acceptable (and may be preferred to “American Indian”). “Indian” usually refers to people from India. Specify the nation or people if possible (e.g., Cherokee, Navajo, Sioux).
+
+Hawaiian Natives may identify as “Native American,” “Hawaiian Native,” “Indigenous Peoples of the Hawaiian Islands,” and/or “Pacific Islander.”
+
+In Canada, refer to the Indigenous Peoples collectively as “Indigenous Peoples” or “Aboriginal Peoples” (International Journal of Indigenous Health, n.d.); specify the nation or people if possible (e.g., People of the First Nations of Canada, People of the First Nations, or First Nations People; Métis; Inuit).
+
+In Alaska, the Indigenous People may identify as “Alaska Natives.” The Indigenous Peoples in Alaska, Canada, Siberia, and Greenland may identify as a specific nation (e.g., Inuit, Iñupiat). Avoid the term “Eskimo” because it may be considered pejorative.
+
+In Latin America and the Caribbean, refer to the Indigenous Peoples collectively as “Indigenous Peoples” and by name if possible (e.g., Quechua, Aymara, Taíno, Nahuatl).
+
+In Australia, the Indigenous Peoples may identify as “Aboriginal People” or “Aboriginal Australians” and “Torres Strait Islander People” or “Torres Strait Island Australians.” Refer to specific groups when people use these terms to refer to themselves (e.g., Anangu Pitjantjatjara, Arrernte).
+
+In New Zealand, the Indigenous People may identify as “Māori” or the “Māori people” (the proper spelling includes the diacritical macron over the “a”).
+
+For information on citing the Traditional Knowledge or Oral Traditions of Indigenous Peoples as well as the capitalization of terms related to Indigenous Peoples, see Section 8.9 of the Publication Manual.
+
+People of Middle Eastern origin
+
+When writing about people of Middle Eastern and North African (MENA) descent, state the nation of origin (e.g., Iran, Iraq, Egypt, Lebanon, Israel) when possible. In some cases, people of MENA descent who claim Arab ancestry and reside in the United States may be referred to as “Arab Americans.” In all cases, it is best to allow individuals to self-identify.
+
+People of Hispanic or Latinx ethnicity
+
+When writing about people who identify as Hispanic, Latino (or Latinx, etc.), Chicano, or another related designation, authors should consult with their participants to determine the appropriate choice. Note that “Hispanic” is not necessarily an all-encompassing term, and the labels “Hispanic” and “Latino” have different connotations. The term “Latino” (and its related forms) might be preferred by those originating from Latin America, including Brazil. Some use the word “Hispanic” to refer to those who speak Spanish; however, not every group in Latin America speaks Spanish (e.g., in Brazil, the official language is Portuguese). The word “Latino” is gendered (i.e., “Latino” is masculine and “Latina” is feminine); the use of the word “Latin@” to mean both Latino and Latina is now widely accepted. “Latinx” can also be used as a gender-neutral or nonbinary term inclusive of all genders. There are compelling reasons to use any of the terms “Latino,” “Latina,” “Latino/a,” “Latin@,” and/or “Latinx” (see de Onís, 2017), and various groups advocate for the use of different forms. Use the term(s) your participants or population uses; if you are not working directly with this population but it is a focus of your research, it may be helpful to explain why you chose the term you used or to choose a more inclusive term like “Latinx.” In general, naming a nation or region of origin is preferred (e.g., Bolivian, Salvadoran, or Costa Rican is more specific than Latino, Latinx, Latin American, or Hispanic).
+
+Parallel comparisons among groups
+
+Nonparallel designations (e.g., “African Americans and Whites,” “Asian Americans and Black Americans”) should be avoided because one group is described by color, whereas the other group is not. Instead, use “Blacks and Whites” or “African Americans and European Americans” for the former example and “Asian Americans and African Americans” for the latter example. Do not use the phrase “White Americans and racial minorities”; the rich diversity within racial minorities is minimized when it is compared with the term “White Americans.”
+
+Avoiding essentialism
+
+Language that essentializes or reifies race is strongly discouraged and is generally considered inappropriate. For example, phrases such as “the Black race” and “the White race” are essentialist in nature, portray human groups monolithically, and often perpetuate stereotypes.
+
+Writing about “minorities”
+
+To refer to non-White racial and ethnic groups collectively, use terms such as “people of color” or “underrepresented groups” rather than “minorities.” The use of “minority” may be viewed pejoratively because it is usually equated with being less than, oppressed, or deficient in comparison with the majority (i.e., White people). Rather, a minority group is a population subgroup with ethnic, racial, social, religious, or other characteristics different from those of the majority of the population, though the relevance of this term is changing as the demographics of the population change (APA, 2015). If a distinction is needed between the dominant racial group and nondominant racial groups, use a modifier (e.g., “ethnic,” “racial”) when using the word “minority” (e.g., ethnic minority, racial minority, racial-ethnic minority). When possible, use the specific name of the group or groups to which you are referring.
+
+Do not assume that members of minority groups are underprivileged; underprivileged means having less money, education, resources, and so forth than the other people in a society and may refer to individuals or subgroups in any racial or ethnic group. Terms such as “economically marginalized” and “economically exploited” may also be used rather than “underprivileged.” Whenever possible, use more specific terms (e.g., schools with majority Black populations that are underfunded) or refer to discrimination or systematic oppression as a whole.
+

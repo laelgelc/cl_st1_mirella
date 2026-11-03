@@ -1,0 +1,117 @@
+Using equitable language
+Language is powerful. It’s how we tell our own stories and learn about others’ lives. It’s how we connect, inspire and build bridges. At the University of Washington, we’re devoted to broadening horizons, learning and teaching about the vast array of cultures in the world, and making connections among the diversity of people’s experiences and wisdom.
+
+We reach those goals with inclusive language: communication that respects and reflects people’s lived experience, using the words they find most accurate and centering their point of view. Inclusive language helps us understand and be understood; it shows that we’re listening and that we care; it helps us build trust with our readers.
+
+Language evolves along with culture. It will never be possible to list all the “right” ways of using language for diversity, inclusivity and equity, because language and culture are fluid. As communicators, it’s our responsibility to stay current on the language of identity and inclusion. Using a term that might once have been the norm but is now out of use can be insulting or disrespectful; even if you didn’t intend to cause hurt, it’s the impact that matters. Continuing to learn and observe how people and groups describe themselves will help you be as accurate and culturally aware as possible, forging connections and understanding rather than reinforcing power imbalances.
+
+Equitable language means not only using (and avoiding) particular words but paying attention to whom you write about, how you tell their stories, whose points of view are included and whose are absent — whose voices are amplified and whose perspective is assumed. Representation matters in the words you use and the stories you tell.
+
+Ask yourself:
+
+Whose point of view is central? If the communication focuses on a particular group or culture, are people from within that group the main actors, rather than an outsider coming in as the “hero”?
+Who is left out of the story?
+What unexamined stereotypes might be included?
+As the storyteller, what’s your position and relationship to the subject(s)?
+What does the communication assume about the reader? (For instance, does it assume that the reader is or isn’t part of the group being described?)
+Please consult the resources in this guide, and always listen to how people and groups want to be named and represented. Trust that each person and group is the expert on their own experience. And if you make a mistake, remember that everyone makes mistakes sometimes; you can show that you care about getting it right by owning up to the mistake, apologizing, and working to do the research and improve next time. Learning is a lifelong journey.
+
+Race, ethnicity, nationality & religion
+As with all writing, in writing about race, ethnicity, nationality or religion it’s important to notice and interrupt your own assumptions. Ask your subject how they prefer to identify themselves. Be aware of complexities and nuance; for instance, many nationalities include multiple ethnicities, and a person may be multiracial and/or multiethnic. Learn and help educate your readers. (Ex.: Not all from the Middle East are Arabs or Muslim. Residents of Hong Kong may not see the region as part of China.) Avoid treating cultural customs or ways of life as “exotic” or different. (They’re different only to an outsider’s POV.)
+
+Use racial and ethnic identification when it is pertinent to a story, fairly (across all racial categories, including identifying persons as “white”) and appropriately (without relying on stereotypes).
+
+— Race Forward’s Race Reporting Guide
+
+Avoid using words, images, or situations that reinforce racial, ethnic, or religious stereotypes (even stereotypes that may appear to be positive). Avoid the term non-white, or other terms that treat whiteness as a default.
+
+— 18F Content Guide
+
+In identifying race or ethnicity, opt for adjectives over nouns: “A Hispanic person” rather than “A Hispanic.”
+Do not hyphenate compound nationalities like “African American,” “Asian American,” etc. (See “Drop the Hyphen”)
+Be aware of and avoid coded imagery and stereotypes that implicitly suggest and/or demonize racial groups. (For instance, the use of words like “urban,” “thug,” “savage,” etc.)
+Avoid using “diverse” as a synonym for “nonwhite”; it means “containing a variety of unlike qualities.” A group can be diverse; an individual can’t.
+We recommend capitalizing “Black” in discussing the culture or race, while leaving “white” lowercase, as it doesn’t describe a particular culture. (See the New York Times’ “Why We’re Capitalizing Black” and Seattle Times’ “Capital-B ‘Black’ Becomes Standard Usage” for more explanation.)
+While AP has not adopted “Latinx” at this point, use if it’s a person’s preferred descriptor. However, many people within the community prefer “Latino,” “Latina,” or “Latino/a.” Some also use “Latine.”
+Currently “API” (Asian Pacific Islander) and “AAPI” (Asian American and Pacific Islander) are in common use, but there are many other names that people may prefer for their own identity, including Pasifika, APA (Asian Pacific American), APIDA (Asian Pacific Islander Desi American) and APIMEDA (Asian, Pacific Islander, Middle Eastern and Desi American). Each of these has its own nuance and includes or distinguishes from particular cultures. Ask the people you’re writing or speaking about how they
+prefer to identify.
+Use “white” rather than “Caucasian.” The latter term comes from an outdated and inaccurate understanding of race
+Citizenship
+Avoid using “citizens” to describe residents of the U.S., Washington state or any other state, unless citizenship is the specific focus. Those who are not legally citizens may be “immigrants” or, if it’s relevant to the written piece, “undocumented” (not “illegal” or “alien”). Use “refugee” if that’s relevant to the story (e.g., if it focuses on someone having fled violence in their home country). Avoid “Americans” unless you specifically mean those with American citizenship; “U.S residents” may be more accurate. Note that American” is also used to mean “Latin American” or to refer to “the Americas”; again, “U.S.” is more accurate when referring to this country.
+
+Racism
+Do not use “racially charged,” “racially divisive,” “racially tinged” or similar terms as euphemisms for “racist” or “racism” when the latter terms are truly applicable.
+
+— AP on race-related coverage
+
+ 
+
+Terms like “racially tinged” and “racially charged” are usually euphemisms. They suggest that race can possess both positive and negative valences. This masks that, as history tells us, phrases described as “racially tinged” always involve assertions of race hierarchy, power, and privilege.
+
+— Lawrence B. Glickman in The Boston Review
+
+It’s appropriate to name something as racist when it objectively is racist. Example of accurate and appropriate use of “racist” rather than a euphemism like “racially tinged”:
+“In the first half of the 20th century, African Americans and Native Americans were often prevented from voting by the racist use of poll taxes and literacy tests at the polls.”
+
+Native/Indigenous identity
+Ask the subject how they prefer to be identified. For instance, some from Indigenous groups prefer “Indian” or “American Indian” while others prefer “Native” or “Native American.” Others may prefer to use only their specific tribal/nation identity (“Puyallup”). In some contexts it’s important to name “Alaska Native” as a separate identity. And, of course, people from Indigenous groups outside the U.S. may use different terms — in Canada, “First Nations” is commonly used.
+
+Use the person’s specific affiliation, not a catch-all like “Native group” or “Indian tribe”: “member of the Duwamish Tribe.”
+Capitalize “Native” and “Indigenous” when they refer to a specific person or group’s identity (but leave lowercase in other and more generic uses, like “she is native to the region” or “indigenous plants”).
+In general writing that’s not focused on Native experiences, avoid using metaphors like “tribe,” “totem pole,” “spirit animal”; these have specific significance to Indigenous groups and should not be used casually to describe non-Native experience.
+
+Gender
+First, it’s important to understand the difference between sex and gender: Sex is the set of biological markers present at birth, including genitals, reproductive organs and chromosomes. Gender is the cultural expression of being masculine, feminine, or any combination or absence of those concepts. (Note that neither sex nor gender is an indicator of sexual orientation.)
+
+Always respect a person’s gender identity as they report it. It might not be relevant to the story, just as with any other nonrelevant trait like eye color or religion. If it is relevant to the story, be sure to ask the subject rather than making assumptions. If the person is transgender, be consistent in identifying them with the name, gender and pronouns they provide you. Never use a “deadname” — any birthname or other prior name that a transgender person no longer uses — unless the subject gives explicit permission to use it and there’s a good reason to do so.
+
+Pronouns
+Ask and use the subject’s pronouns. If necessary, it’s OK to include a brief parenthetical for clarity: Jones (whose pronouns are “they/them”) expects to graduate next year. Or: Jones (they/them) expects to graduate next year.
+
+Singular “they”: It’s perfectly fine to use “they” as a personal pronoun. It’s also useful when writing about a hypothetical person or one whose gender you don’t know. (Ex.: If a student arrives late, they may need to find a space in the back of the room. Or: One professor objected, but they were overruled.) It has been in use for centuries, and AP and most other modern style guides and dictionaries endorse this usage.
+Avoid using “he” or “him” as a universal pronoun that includes people of any gender. Use “they” and “them,” or alternate between male and female pronouns.
+In identifying a person’s gender identity, when in doubt, opt for adjectives over nouns: “a transgender man,” “a cisgender woman,” “identifies as gender-fluid,” etc.
+Avoid language that assumes the reader’s gender perspective. When possible, opt for gender-neutral language and avoid irrelevant descriptions of appearance.
+Avoid using “the opposite sex,” which ignores the reality of a gender spectrum and range of gender experiences. In places, “of a different gender” can be used instead.
+Avoid “guys” to refer to a mixed-gender group of people.
+Avoid assumptions about gender within relationship roles: “Partner” and “spouse” are more inclusive than “husband/wife,” and parents” more inclusive than “mother/father.” Remember that biological roles do not necessarily indicate gender experience (Ex.: “pregnant person” is more inclusive than “pregnant woman” or “mother”).
+
+Sexual orientation
+“Sexual orientation” refers to which genders a person is physically, emotionally or romantically attracted to. In many cases, sexual orientation is not relevant to the story. If it is relevant, ask the person how they want to be identified, and confirm their permission to identify their orientation; don’t “out” someone without their explicit permission.
+
+In general, opt for adjectives over nouns (“is bisexual” over “a bisexual”).
+Avoid using the term “sexual preference,” which suggests that orientation is a choice or otherwise not inherent.
+Inclusive acronyms for the range of sexual orientations include LGBTQ+ and LGBTQIA+. It’s OK to use either; in quotes and organization names, keep usage accurate to the source.
+“Queer” was historically used as a slur and is being reclaimed from within the LGBTQ+ community. It’s fine to use by request, if that’s how a person or organization prefers to be identified. Be cautious in using it as a general descriptor, because it can still carry offensive connotations out of context or from outside the community it’s describing.
+
+Disability
+Every person is a whole person — no matter how they interact with the world.
+
+— 18F style guide
+
+Disability is not always obvious or visible — and a person’s disability is not always relevant to a story. If it is relevant, be as specific as possible and focus on the facts; avoid using language that judges or pities a person’s experience. (Ex.: “has muscular dystrophy,” not “suffers from” or “is afflicted with.” “Uses a wheelchair” rather than “is confined to a wheelchair” — wheelchairs provide mobility and autonomy, not confinement.)
+
+Many people prefer “person-first” language: “has epilepsy” rather than “is an epileptic.” But, as with most inclusive language, it’s best to ask the person if possible. Some people find “condition-first” language more accurate to their experience. When in doubt, however, opt for person-first.
+
+When possible, avoid metaphors of disability as a shortcoming — “fell on deaf ears,” “lame,” “blind to the truth,” etc. Many in the disability community find metaphors of mental illness to be stigmatizing — terms like “crazy” and “insane” in casual use; consider finding other descriptors instead.
+
+Visual communications & photography
+Thinking about the visual imagery we use to communicate our ideas and stories is about more than just who we are representing. It goes way beyond “looking diverse” and delves into the people who own the stories you are telling. A good place to start is asking yourself these questions based on the Six Lenses of Equity
+
+Are we recognizing diversity in our images and stories?
+Who is able to participate in the process from inception to debrief (internal review)?
+Who has access to our process (subject reviews)?
+What effects will this story have on a subject or community if a mistake is made?
+Is our organization changing to include equity internally? Is our organization working on racial equity?
+How is our practice affecting marginalized communities? (Do we hire diverse freelancers
+and/or work with underrepresented vendors?)
+Photography considerations
+In addition to the six lens of equity, there are specific considerations in photography and image making**:
+
+How do you approach people to set up a photo/video shoot? Was everyone given clear
+communication for how to prepare? Is there appropriate hair, make-up, clothing resources? Are there cultural considerations/requests?
+Who is the active agent in your photos? Who is depicted in positions of authority and leadership? Is the portrayal accurate? Does it tell the whole story?
+Who is being placed in the foreground versus the background? At the center versus to the side? What message does that send?
+When taking photos or lighting videos, have you considered lighting and make-up for subjects across the spectrum of skin tones.
+
+

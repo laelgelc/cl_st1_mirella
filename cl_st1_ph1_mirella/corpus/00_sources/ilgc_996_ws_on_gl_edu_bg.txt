@@ -1,0 +1,12 @@
+Stanford University
+Elimination of Harmful Language Initiative
+
+The Elimination of Harmful Language Initiative (EHLI) is a multi-phase, multi-year project to address harmful language in IT at Stanford. EHLI is one of the actions prioritized in the Statement of Solidarity and Commitment to Action, which was published by the Stanford CIO Council (CIOC) and People of Color in Technology (POC-IT) affinity group in December 2020.
+
+The goal of the Elimination of Harmful Language Initiative is to eliminate* many forms of harmful language, including racist, violent, and biased (e.g., disability bias, ethnic bias, ethnic slurs, gender bias, implicit bias, sexual bias) language in Stanford websites and code.
+
+The purpose of this website is to educate people about the possible impact of the words we use. Language affects different people in different ways. We are not attempting to assign levels of harm to the terms on this site. We also are not attempting to address all informal uses of language.
+
+This website focuses on potentially harmful terms used in the United States, starting with a list of everyday language and terminology.** Our "suggested alternatives" are in line with those used by peer institutions and within the technology community.***
+
+Content Warning: This website contains language that is offensive or harmful. Please engage with this website at your own pace.

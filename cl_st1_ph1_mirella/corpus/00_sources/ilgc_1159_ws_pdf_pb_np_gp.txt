@@ -1,0 +1,384 @@
+Basic Principles to Follow
+
+- Language, and what is considered appropriate, is constantly evolving. As much as possible, use the terms that people use to self-identify. Keep in mind that identity groups are not homogenous. Consult recommended style guides for accepted language.
+- Collaborate and consult with relevant community members when planning and curating exhibitions. Initiate these relationships as early as possible in your process in order to be respectful of your partners' time and to allow for thoughtful feedback.
+- Be careful not to stereotype.
+- Explain the use of historical terms (placed in quotation marks or used when quoting a historical figure) and language choices through a "Note on Language."
+- Consider carefully when it is necessary to identify race, gender, disabilities, religion, socioeconomic status. Is identity an important part of the story?
+- Usually, person-first language is best.
+- Inform visitors about material that could be considered offensive or harmful by including a content warning at the entrance to the exhibition and sometimes next to individual exhibits as well.
+
+Gender Identity and Sexual Orientation
+
+When writing for an exhibit audience, use both gender-inclusive and gender-neutral language. These have some overlap but are not the same thing.
+
+For some people, the relationship between gender, biology, and identity is certain—even to the point that they're equivalent; for other people, these relationships are fluid. This difference can produce bias in language around gender. To a cisgender person who identifies their gender with the sex assigned to them at birth, biology and identity may seem to be the same, inseparable thing. To a transgender or nonbinary person whose gender identity differs from the sex assigned to them at birth, language that treats cisgender as normative may be seen as biased because it marginalizes or outright rejects the idea of a difference between biological or birth sex and gender identity. Gender-inclusive language is a writer's objective here.
+
+The second kind of gender bias in language has to do with sexism inherent in usage. This includes now-outdated conventions (referring to a woman through a husband's name: "Mrs. John Powell"), male-centric words and terms (mankind and salesman), or the usage of male-default pronouns as in a sentence like, "When a doctor arrives at surgery, he scrubs his hands thoroughly." Gender-neutral language is a writer's objective here.
+
+While gender-inclusive language and gender-neutral language are not the same, they share the same ultimate objective: to treat all people with respect and equity in writing.
+
+Gender-Inclusive Language
+
+We must avoid the assumption that everyone is heterosexual and cisgender and that these identities are more normal or superior compared with other sexualities and gender identities. Gender-exclusive bias marginalizes LGBTQ individuals and communities. The basic idea in writing without bias is to use the terminology that an individual or community prefers writers to use for them. Different individuals, communities, and organizations have different standards about terminology. Words can be repurposed and reinterpreted by some to be used in a positive light, whereas others still see these words as harmful and pejorative. Make your best effort to know the preferences of the people you are writing about, which may include slang and colloquial terms, and be open and willing to make changes if you are corrected later. Also, be sensitive to insulting subtleties in language that imply that gender identity is a mere preference or lifestyle.
+
+Discrimination led, and still leads, LGBTQ people to self-censor and hide their sexual orientation and gender identity. Many histories and life experiences of LGBTQ people have been erased or are hidden within the historical record as a result. To make more accurate determinations about the gender identity or sexual orientation of people in historical records, we must thoroughly research all the contextual details. There are clues in the language used in the past that can help us to unearth LGBTQ histories, such as the euphemistic terms lifelong companion or friend used in place of labels such as gay or lesbian partner. When writing about the gender identity and sexual orientation of people who belonged to other time periods and cultures, we must be careful not to impose contemporary cultural norms and understandings. Equally, when using historical terms in exhibition text, it is important to identify them as such and to provide historical context.
+
+LGBTQ Glossary of Terms
+
+There are numerous LGBTQ glossaries online, but the GLAAD Media Reference Guide appears to be the most definitive. Some of the definitions contain usage guidelines, and GLADD provides a devoted transgender glossary as well. It's important to remember that the meanings and cultural values of some of these terms are in flux or may vary across generations and different communities. If you are uncertain about a specific term's usage, it is advisable to consult with someone who would be knowledgeable enough to give you guidance, including instructors and researchers in gender studies and centers/offices on your campus with staff who are paid to field these questions.
+
+Some of the GLAAD glossary entries that you might find most useful are sex, gender identity, gender expression, sexual orientation, gay, lesbian, bi/bisexual, trans, transgender, transsexual, cisgender, gender nonconforming, nonbinary and/or genderqueer, queer, LGBTQ, intersex, asexual.
+
+Gender-Inclusive Pronouns
+
+Although it seems like a recent issue, gender-inclusive and gender-neutral pronouns in English have been debated and sought after since at least the 1700s (ref). Here are some examples of contemporary, gender-inclusive pronouns (adapted from University of Wisconsin-Milwaukee guide):
+- They/Them/Theirs. "Shea ate their food because they were hungry." This is a common gender-neutral pronoun, and it can be used in the singular. In fact, "they" was voted as the Word of the Year in 2015.
+- Ze/Hir/Hir. "Tyler ate hir food because ze was hungry." Ze is pronounced like zee and can also be spelled "zie" or "xe." Ze replaces "she/he/they." Hir is pronounced like here and replaces "her/hers/him/his/they/theirs."
+- Just My Name Please! "Ash ate Ash's food because Ash was hungry." Some people prefer not to use pronouns at all, using their name as a pronoun instead.
+
+Pronoun Usage for Specific People
+
+If you are writing about a specific living person whom you can be in contact with, ask them what their preferred pronouns are. It is important not to assume someone's pronouns based on how they look, dress, or act.
+
+If you are writing about a specific dead person or a living person you are not able to contact, then look at other writing about them to see what pronouns have been previously used, making sure to not simply perpetuate misgendering someone. If such references are unavailable, then draw upon other cues, such as a photograph or their name to see if you can make a reasonably confident presumption about their pronouns. Lacking this confidence, default to they/them.
+
+Gender-Neutrality and Pronouns
+
+The practice of using masculine pronouns (he, his, him) as the default is outdated and biased. There are a variety of ways to neutralize them depending on their situation in your prose. Some of these ways overlap with gender-inclusive pronoun practices.
+
+Make Nouns/Pronouns Plural. If it works for your prose, pluralize your noun forms. 
+Use They as a Singular Pronoun. Usually the word they refers to a plural antecedent. But using they as singular has become common. "Look for the driver at baggage claim; they will be holding a sign with your name on it" is preferable to "he or she will be holding a sign."
+
+Avoid Using a Pronoun. Often, pronouns are used in prose to avoid repeating a noun.
+
+Usage of Other Gendered Nouns
+
+Some trans communities object to the terms man and woman (especially when they are unmodified by identifiers like cisgender or transgender) because they find them bimodally normative and exclusionary of a wider range of gender identities. Use general language like man and woman when writing about general topics and more specific language like cisgender woman or transgender man where relevant to the subject at hand.
+
+Gender-Neutral Language
+
+Sexist constructions that default to the masculine are common in English. Man and words ending in -man are easy to spot and replace with neutral language, even in contexts where many readers strongly expect the gendered noun. When quoting material with masculine constructions, an explanation or disclaimer is not necessary but may be relevant depending on the subject, context, or egregiousness of the language.
+
+Another example of gendered language is the way the titles Mr., Miss, and Mrs. are used. Mr. can refer to any man, regardless of whether he is single or married, but Miss and Mrs. define women by whether they are married, which until quite recently meant defining them by their relationships with men. A simple alternative when addressing or referring to a woman is Ms. (which doesn't indicate marital status). In addition, some are in the habit of addressing most women older than them, particularly teachers, as Mrs., regardless of whether the woman in question is married. A simple alternative when addressing or referring to a woman is Ms. (which doesn't indicate marital status). Individuals have varying and personal preferences when it comes to their titles; don't make assumptions. If the term applies, Professor or Dr. should be used. If a title cannot be verified, Ms. is a good general default.
+
+The North Carolina Digital Heritage Center (DigitalNC.com) provides image description guidance for reducing subjective decision-making and implicit bias when identifying gender in photographs when there is no information about the self-identification or preferred labels of the people represented. They recommend the use of gender-neutral terms, such as using adults instead of man or woman and child(ren) over boy or girl. Other alternatives are people or individuals, or gender-neutral terms based on context, like diners, workers, or students.
+
+
+Checklist for Gender-Related Revisions
+
+As you review your writing, consider the following questions:
+1. Have you used man or men or words containing them to refer to people who may not be men?
+2. Have you used he, him, his, or himself to refer to people who may not be men?
+3. If you have mentioned someone's sex or gender, was it necessary to do so?
+4. Do you use any occupational (or other) stereotypes?
+5. Do you provide the same kinds of information and descriptions when writing about people of different genders?
+
+Perhaps the best test for gender-inclusive language is to imagine a diverse group of people reading your paper. Would each reader feel respected? Envisioning your audience is a critical skill in every writing context, and revising with a focus on gendered language is a perfect opportunity to practice.
+
+
+Disability
+
+Some agencies define issues related to disability and might require specific terms—for example, legal, medical, or governmental. If you curate an exhibition that includes people with disabilities, the context might determine the language used but please consider the viewpoint and desires of the subjects. At the core of writing language that respects people with disabilities is an understanding of ableism: "The discrimination of and social prejudice against people with disabilities based on the belief that typical abilities are superior" [ref]. Negative descriptors such as victim, suffers from, and damaged are common and can be easily changed to share a neutral or positive image of people with disabilities.
+
+Accessibility
+
+Before discussing recommendations about language, it is important to also point out that accessibility and inclusion in your exhibit include more than just proper terminology [ref]. Have you considered whether your space is accessible to all? Does the design of your posters help all properly read your text? Is the height of your cases and graphics appropriate? Resources are available with advice on how to make your exhibits accessible to all [ref].
+
+Notes About People-First Language
+
+The debate over person-first versus identity-first language began over 40 years ago, and much of the current published literature shows a preference for people-first language, but this is not universally true for all people nor for all disabilities. Here are some of the viewpoints:
+- "People with disabilities are, first and foremost, people. Labeling a person equates the person with a condition and can be disrespectful and dehumanizing. A person isn't a disability, condition or diagnosis; a person has a disability, condition or diagnosis. This is called Person-First Language" [ref].
+- "Identity-first language emphasizes that the disability plays a role in who the person is, and reinforces disability as a positive cultural identifier. Identity-first language is often preferred by self-advocates in the autistic, deaf, and blind communities" [ref].
+  - "Deaf and hard of hearing people have the right to choose what they wish to be called, either as a group or on an individual basis. Overwhelmingly, deaf and hard of hearing people prefer to be called 'deaf' or 'hard of hearing.… The alternative terms are often seen in print, heard on radio and television, and picked up in casual conversations all over. These terms include 'deaf and dumb,' 'deaf-mute,' and 'hearing-impaired.' The majority of deaf and hard of hearing people feel that these terms are outdated or offensive" [ref].
+  - The American Foundation for the Blind uses person-first language on their website [ref], whereas the National Federation of the Blind has multiple articles about the preference for identity-first language, such as the blind, blind person, or blind child [ref].
+
+General Recommendations
+
+The following recommendations have been paraphrased from the Americans with Disabilities Act National Network.
+
+Think about whether the label needs information about the disability. Is it a necessary part of the story? For example, a label for a photo of a group of people at a party might not need to include information that one of them is blind, but if that same group picture was about climbing Mount Everest, the story might be enhanced with knowledge of different abilities in the group.
+
+If possible, ask the person in the picture or the story of the exhibit if they would like to disclose their disability, and if so, ask them their preference for language and specificity. This is not always possible (or practical); if you choose to include this information, emphasize abilities, not limitations.
+
+Use neutral language wherever possible, avoid words with negative or passive connotations, such as victim, invalid, defective, afflicted, damaged.
+
+While it is acceptable to use the term developmental disabilities, it is preferable to use the name of the specific disability whenever possible. 
+
+Use language that emphasizes the need for accessibility rather than the presence of disability (example: accessible parking not handicapped parking).
+
+Reclaiming Language
+
+Like with other diversity groups, terms are always changing, and there is a difference between how a person with a disability might describe themselves and how others describe them. For example, some people with disabilities are using the term crip in the process of reclaiming the word for their own power (examples: #cripthevote, https://www.facebook.com/GrumpyCripple, Crip Camp). It is not currently considered appropriate to use this word except when quoting people from the community using it.
+
+Preferred Terminology
+
+There are too many terms that fall under the umbrella term disability to cover all of them in this guide, but there are sources that cover more specific individual conditions, such as the Disability Language Style Guide, which includes topics such as addiction, depression, wheelchairs, blindness, alcoholism, cerebral palsy, and neurodiversity, with specific references for each. Understand this is just one source, and there is no universally right answer, but it is good to have a source that you can share if questioned on your decision to use specific language. Here are a few examples edited from multiple sources, especially the National Disability Authority Guidelines on Consultation.
+Checklist for Revisions
+
+As you review your writing, consider the following questions:
+1. If you have mentioned someone's disability, was it necessary to do so? Is a person's disability pertinent or relevant to telling this story?
+2. Do you use any negative stereotypes of people with disabilities?
+3. Do you provide the same kinds of information and descriptions when writing about people with disabilities as for people without?
+4. Have you taken care to use either people-first language or identity-first language based on the preferences of the people or group of people being described?
+5. Have you emphasized abilities and not limitations?
+6. Have you emphasized accessibility and not the presence of disability?
+7. Have you been specific about a person's disability when known? If unknown, have you used the umbrella term person with a disability and not made assumptions?
+
+
+Social Class and Socioeconomic Status
+
+Social class, also called class, is defined as "a group of people within a society who possess the same socioeconomic status. Besides being important in social theory, the concept of class as a collection of individuals sharing similar economic circumstances has been widely used in censuses and in studies of social mobility" (from Social Class | Definition, Theories, & Facts | Britannica).
+
+Journalists, historians, sociologists, politicians, and others use the term class and related words to describe groups of people and their positions in a hierarchical society. Terms such as lower class and working class are most often used to describe people with fewer financial resources and often correlate with racial groups who have historically not had equitable access to resources. Low socioeconomic status has myriad consequences, including a lack of access to political power, prestigious neighborhoods, educational opportunities, and geographical proximity to sources of healthy food. 
+
+They may also have difficulty obtaining legal citizenship. People in the upper class are the wealthiest members of society, hold the highest status, and wield the most political power. The middle-class category is more ambiguous and typically includes everyone in between. What makes these terms even harder to define is that socioeconomic status is subjective, and most Americans self-identify as middle class. In addition, they may use other factors to gauge their status, such as educational attainment. Socioeconomic class is also fluid for families and individuals over time. A family experiencing poverty one year may be considered middle class the next.
+
+Writing About Socioeconomic Categories
+
+Referring to individuals or communities as lower class or low income can be hurtful because of the negative associations connected to these terms. Before discussing someone's socioeconomic status in an exhibit label, first, consider the necessity for doing so. Does it add essential information that allows visitors to better understand the content of the exhibit narrative? If it is relevant to include such descriptors, use positive empowering alternatives to potentially harmful words. Conversely, people who are wealthy are often described as prominent or important. Consider the necessity of including such adjectives to describe individuals.
+
+It is best to avoid categorizing individuals and communities using broad, all-encompassing language. People considered working class are not a homogeneous group any more than people in the so-called middle or upper classes. While people may be in the same economic bracket, they do not necessarily share the same background, culture, and worldview. People experience poverty in many ways, ranging from an elderly person living on social security in a rural area to a young college graduate struggling to get by on a low-paying job in the city. Likewise, it does not necessarily follow that all rural people are more conservative or less educated than city dwellers.
+
+
+Checklist for Revisions
+
+As you review your writing, consider the following questions:
+1. If you have mentioned an individual or group of individuals' rank or position in society, wealth, educational attainment, or citizenship status, was it relevant or necessary to do so?
+2. Do you use any socioeconomic, occupational, educational, political, cultural (or other) stereotypes?
+3. Have you made any sweeping generalizations based on class and socioeconomic status?
+4. Do you provide the same kinds of information and descriptions when writing about people of differing economic and social status and backgrounds?
+5. Have you depicted people and their community accurately? Have you made any omissions that might render members of a community invisible?
+6. Have you used direct, clear language as opposed to euphemisms?
+
+
+Race, Ethnicity, and Nationality
+
+Racial categorization schemes were invented to support worldviews that some groups of people are superior and some are inferior. There are three important concepts linked to this fact: (1) Race is a made-up social construct and not an actual biological fact. (2) Race designations have changed over time. Some groups that are considered white in the United States today were considered nonwhite in previous eras, in U.S. Census data, and in mass media and popular culture (for example, Irish, Italian, and Jewish people). (3) The way in which racial categorizations are enforced (the shape of racism) has also changed over time. For example, the racial designation of Asian American and Pacific Islander changed four times in the 19th century. That is, they were defined at times as white and at other times as not white. Asian Americans and Pacific Islanders, as designated groups, have been used by white people at different times in history to compete with African American labor.
+
+As these designations have evolved over time, so too has the language used to write about them. For example, given the changing demographic trends in the United States, the word minority no longer accurately reflects the four primary racial/ethnic groups. The terms emerging majority and people of color have become popular substitutes, and to indicate inequitable treatment, marginalized and minoritized are also used. In addition, the terms used to refer to members of each community of color have changed over time. Whether to use the terms African American or Black; Hispanic American, Latinx, or Latino; Native American or American Indian; and Pacific Islander or Asian American depends on a variety of conditions, including your intended audiences' geographic location, age, generation, and, sometimes, political orientation.
+
+Writing About Race, Ethnicity, and Nationality
+
+Writing about issues involving race calls for thoughtful consideration, precise language, and an openness to discussions with others of diverse backgrounds about how to frame what language is most appropriate, accurate, and fair. Avoid broad generalizations and labels; race and ethnicity are one part of a person's identity. Identifying people by race and reporting on actions that have to do with race often go beyond simple style questions, thus challenging journalists to think broadly about racial issues before having to make decisions on specific situations and stories.
+
+In all writing—not just race-, ethnicity-, or nationality-related writing—strive to accurately represent the world, or a particular community, and its diversity through the people you feature, quote, and depict in all formats. Omissions and lack of inclusion can render people invisible and cause anguish.
+
+Consider carefully when deciding whether to identify people by race, ethnicity, or nationality. Often, it is an irrelevant factor, and drawing unnecessary attention to this can be interpreted as bigotry. There are, however, occasions when it is pertinent:
+
+In stories that involve significant, groundbreaking, or historic events, such as being elected United States president, being named to the United States Supreme Court, or other notable occurrences. was the first Black United States president. is the first Hispanic justice of the United States Supreme Court. is the first American-born NBA player of Chinese or Taiwanese descent.
+
+In other situations when race, ethnicity, or nationality is an issue, use judgment. Include these details only when they are clearly relevant and that relevance is explicit in the story. To be equitable and to address the norm of whiteness, this applies to both white and BIPOC people.
+
+Deciding whether a specific statement, action, policy, etc., should be termed racist, or characterized in a different way, often is not clear-cut. Such decisions should include discussion with colleagues and/or others from diverse backgrounds and perspectives. Begin by assessing the facts: Does the statement or action meet the definition of racism? That assessment need not involve examining the motivation of the person who spoke or acted, which is a separate issue that may not be related to how the statement or action itself can be characterized.
+
+In general, avoid using racist or any other label as a noun for a person; it's far harder to match the complexity of a person to a definition or label than it is a statement or action. Instead, be specific in describing the person's words or actions. Again, discuss with collaborators, colleagues, and others from diverse backgrounds when the description may be appropriate for a person.
+
+Cases in which the term racist might be used include identifying as racist support for avowed racist organizations, statements calling another race or ethnic group inferior, or employing negative stereotypes for different racial or ethnic groups. The video shows the candidate wearing blackface and making racist statements including, "You're not white so you can't be right."
+
+Always provide specifics to describe the words or actions in question; using a broad and descriptive term such as racist requires supporting details and context. In doing so, avoid repeating derogatory terms, except in the rare circumstances when it is crucial to the story or the understanding of a news event. Provide context and historical perspective when appropriate to help convey the impact or implications of the words or actions.
+
+Avoid using vague phrases to describe situations in which race is, or is alleged, or is perceived to be a central issue but that do not meet the definition of racist or racism. As alternatives, terms including xenophobic, bigoted, biased, nativist, or racially divisive may be clearer, depending on the context. In some cases, the term racial is appropriate: racial arguments, racial tensions, racial injustice. Avoid racially charged, racially motivated, or racially tinged, euphemisms that convey little meaning. Always give specifics about what was done, said, or alleged.
+
+Do not use euphemisms for racist or racism when the latter terms are truly applicable. Mississippi has a history of racist lynchings, not a history of racially motivated lynchings. He is charged for the racist massacre of nine people at a Black church, not the racially motivated massacre of nine people at a Black church.
+
+Do not use Black or white as a singular noun. For plurals, phrasing such as Black people, white people, Black teachers, white students is often preferable when clearly relevant. White officers account for 64% of the police force, Black officers 21%, and Latino and Latina officers 15%. The gunman targeted Black churchgoers. The plural nouns Blacks and whites are generally acceptable when clearly relevant and needed for reasons of space or sentence construction. He helped integrate dance halls among Blacks, whites, Latinos/Latinas, and Asian Americans. Black and white are acceptable as adjectives when relevant.
+
+Avoid Caucasian as a synonym for white, unless in a quotation.
+
+The terms people of color and racial minority/minorities are generally acceptable terms for describing people of races other than white in the United States. The term BIPOC is often used when acknowledging that not all people of color face equal levels of injustice, although some people of color see it as not inclusive or equitable enough. When talking about just one group, be specific: Chinese Americans or members of the Seminole Indian Tribe of Florida, for example. Be mindful that some Native Americans say the terms people of color and racial minority fall short by not encompassing their sovereign status. Avoid referring to an individual as a minority unless in a quotation.
+
+Biracial or multiracial is acceptable, when clearly relevant, to describe people with more than one racial heritage. These terms are usually more useful when describing large, diverse groups of people than individuals. Avoid mixed-race, which can carry negative connotations, unless a story subject prefers the term. Be specific if possible, and then use biracial for people of two heritages or multiracial for those of two or more on subsequent references if needed.
+
+Use the capitalized term Black as an adjective in a racial, ethnic, or cultural sense: Black people, Black culture, Black literature, Black studies, Black colleges. APA states that all racial and ethnic labels should be capitalized. However, AP says that Black should be capitalized, as it reflects a shared sense of identity and therefore can be regarded as an ethnic label, such as Asian or Hispanic, but as white people don't share history and culture in the same way, white should not be capitalized.
+
+African American is also acceptable for those in the United States. The terms are not necessarily interchangeable. Americans of Caribbean heritage, for example, generally refer to themselves as Caribbean American. Follow an individual's preference if known, and be specific when possible and relevant. Minneapolis has a large Somali American population because of refugee resettlement. The author is Senegalese American.
+
+The use of the capitalized Black recognizes that language has evolved, along with the common understanding that, especially in the United States, the term reflects a shared identity and culture rather than a skin color alone.
+
+Also use Black in racial, ethnic, and cultural differences outside the United States to avoid equating a person with a skin color.
+
+Use Negro or colored only in names of organizations or in rare quotations when essential.
+
+Boy or girl is generally acceptable to describe males or females younger than 18. While it is always inaccurate to call people under 18 men or women and people 18 and older boys or girls, be aware of nuances and unintentional implications. Referring to Black males as boys, for instance, can be perceived as demeaning and call to mind historical language used by some to address Black men. Be specific about ages if possible, or refer to Black youths, child, teen, or similar.
+
+Asian American is acceptable for an American of Asian descent. When possible, refer to a person's country of origin or follow the person's preference—for example, Filipino American or Indian American.
+
+The acronym is widely used by people within these communities but is not as well-known outside of them. Spell out the full term; use AAPI only in direct quotations and explain the term.
+
+Avoid the euphemism anti-Asian sentiment, which conveys little meaning. Alternatives may include anti-Asian bias, anti-Asian harassment, anti-Asian comments, anti-Asian racism, or anti-Asian violence, depending on the situation. Be specific and give details about what happened or what someone says happened.
+
+Avoid using Asian as shorthand for Asian American when possible. Be as specific as possible, using East Asian, South Asian, or Southeast Asian if it is known which region the person/people being written about are from. Using specific countries of origin, when known, is always the best option.
+
+Do not use orient or oriental when referring to East Asian nations and their peoples. Asian is the acceptable term for an inhabitant of those regions.
+
+Pacific Islander is used to describe the Indigenous people of the Pacific Islands, including Hawaii, Guam, and Samoa. The term should be used for people who are ethnically Pacific Islander, not for those who happen to live in the Pacific Islands region. Be specific about which communities you are referring to whenever possible. Do not use Asian Pacific Islander unless referring to Pacific Islanders of Asian descent. Do not describe Pacific Islanders as Asian Americans, Asians, or of Asian descent.
+
+Chicano is a term that Mexican Americans in the U.S. southwest sometimes use to describe their heritage. Use only if it is a person's preference.
+
+Latino is often the preferred noun or adjective for a person from, or whose ancestors were from, a Spanish-speaking land or culture or from Latin America. Latina is the feminine form. While some prefer the gender-neutral term Latinx, for others this term is a colonial way of making Latinos/Latinas gender-neutral. Research has shown that a relatively small minority of Latino and Latina people have heard of the term and even fewer use it. When possible, ask the people you are depicting which they prefer. For groups of females, use the plural Latinas; for groups of males or of mixed gender, use the plural Latinos. Hispanic is also generally acceptable for those in the United States. Use a more specific identification when possible, such as Cuban, Puerto Rican, Brazilian, or Mexican American.
+
+American Indians and Native Americans are both acceptable terms in general references for those in the United States when referring to two or more people of different tribal affiliations. For individuals, use the name of the tribe; if that information is not immediately available, try to obtain it. He is a Navajo commissioner. She is a member of the Nisqually Indian Tribe. He is a citizen of the Cherokee Nation of Oklahoma. Some tribes and tribal nations use member; others use citizen. If in doubt, use citizen. Avoid words such as wampum, warpath, powwow, teepee, brave, squaw, which can be disparaging and offensive. In Alaska, the Indigenous groups are collectively known as Alaska Natives.
+
+First Nations is a preferred term for Native tribes in Canada.
+
+Capitalize the word tribe when part of a formal name of sovereign political entities or communities sharing a common ancestry, culture, or language. Identify tribes by the political identity specified by the tribe, nation, or community: the Apache Tribe of Oklahoma, the Cherokee Nation. The term ethnic group is preferred when referring to ethnicity or ethnic violence.
+
+Capitalize Indigenous when used to refer to original inhabitants of a place. Bolivia's Indigenous peoples represent some 62% of the population.
+
+Except in direct quotes essential to the story, use illegal only to refer to an action, not a person: illegal immigration but not illegal immigrant. Acceptable variations include living in or entering a country illegally or without legal permission.
+
+Except in direct quotations, do not use the terms illegal alien, an illegal, or illegals. The often-used term undocumented for some is an inoffensive and accurate term, while for others it is inhumane.
+
+Do not describe people as violating immigration laws without attribution.
+
+Specify wherever possible how someone entered the country illegally and from where—crossed the border, overstayed a visa, what nationality, etc.
+
+People who were brought into the country as children should not be described as having immigrated illegally. For people granted a temporary right to remain in the United States under the Deferred Action for Childhood Arrivals (DACA) program, use temporary resident status with details on the program lower in the story.
+
+P
+Checklist for Revisions
+
+As you review your writing, consider the following questions:
+1. Have you used broad generalizations or labels? Could you have been more specific about a person's or group of people's identity?
+2. Have you depicted people and their community accurately? Have you made any omissions that might render members of a community invisible?
+3. Is identifying race, ethnicity, or nationality pertinent to telling this story? Have you drawn unnecessary attention to this?
+4. Have you discussed with colleagues and collaborators to confirm that a particular event or interaction was racist, xenophobic, bigoted, nativist, biased, etc.? Have you provided sufficient context for that event or interaction?
+5. Have you used direct, clear language as opposed to euphemisms?
+
+Perhaps the best test for race-, ethnicity-, or nationality-related language is to imagine a diverse group of people reading your paper. Would each reader feel respected? Envisioning your audience is a critical skill in every writing context, and revising with a focus on race-, ethnicity-, or nationality-related language is a perfect opportunity to practice.
+
+- What It Means to Curate for My Native American Community
+
+Religion and Spirituality
+
+Religious beliefs are widespread and diverse in the United States. With this in mind, it is critical to consider the potential implications of the religious or spiritual background of the audience you are writing to and about and to learn, connect, and engage with these communities. This is important not only when the subject of your writing focuses on topics of faith but also when writing on topics not specifically about a particular faith experience but that touch on matters of faith.
+
+Biases Affect Our Language
+
+As in other topics surrounding equity and inclusion, our own perspectives can create a cycle of biases and language choices, as well as customs that reinforce them. One's writing for an exhibit may default to one's own default perspective. In thinking about your own biases, it is important to guard against making assumptions based on the dominant cultural religion's interpretation, as the institutional archives one is drawing upon may also default to the dominant culture—in America, that default has been a white, Protestant culture. These are the cultural beliefs, values, and traditions that are dominant, or centered, in a society. Dominant cultural practices are thought of as normal, while other practices are undervalued or marginalized. And our language often supports and reinforces these inequities. Consideration should also be given to those with no religious affiliation, or those who are agnostic or atheist.
+
+Examples of dominant cultural biases will come up in language in many ways. A common example is how the terms A.D. and B.C. in reference to eras of time refer to a Christian-centered idea. C.E. and B.C.E., meaning common era and before common era, respectively, are recommended now. Other examples might be a bit less obvious. Faith traditions common in Asia, including Buddhism and Hinduism, can differ sharply from that of Jewish, Christian, or Islamic traditions. Temples, for instance, are typically not used for worship but for meditation; meditation is not necessarily prayer; to most, but not all Buddhists, Buddha is not a god. Confucianism and Taoism, much practiced in East Asia, are ways of and guides to living. They are informal combinations of practical philosophies, values, and folk beliefs. Without an understanding of these faith traditions, or direct and open communication with these communities, many incorrect assumptions can find their way into your language.
+
+In a multicultural society, we should strive for various cultures to be celebrated and reflected equally. The University of Southern California Center for Religion and Civic Culture recommends the following six principles for engaging faith communities.
+- Be aware and understanding of the ideals and values of those you are writing about.
+- Be cognizant of your own possible biases and blind spots.
+- Engage the communities you are writing about.
+- When in doubt, ask: How do you identify? What is your faith tradition, for example?
+- Show respect and cultivate trust.
+- Remember that the people you are writing about, as well as the writer, are all human beings and have different experiences, perspectives, and abilities.
+
+These ideas reflect a mindset that shows respect, sensitivity, and thoughtfulness to those you are writing about. In the same way that we must show care in our language choices when describing religious practices and beliefs, we must also show awareness of appropriate handling, placement, and juxtaposition of religious artifacts in display cases. Muslims follow strict washing practices before handling the Qur'an (or Quran or Koran). The Qur'an is often placed on the highest shelf, for instance, to show respect and should not be handled by non-Muslims when printed in Arabic.
+
+Checklist for Revisions
+
+As you review your writing, consider the following questions:
+- Is identifying a person's religion pertinent or relevant to telling this story? Or are you drawing unnecessary attention to a person's religion because it is different from your own or the predominant culture's religious expression?
+- Have you asked the people you are writing about what their personal religious expression is? Could you have been more thoughtful about a person's or group of people's identity?
+- Have you depicted people and their community accurately? Have you made any omissions that might render members of a community invisible?
+- Have you discussed with colleagues and collaborators to understand as best you can the historical or recent realities and events that may surround a religious group's experience in our culture?
+- Have you checked to be certain that your language shows respect to the person or people's faith experience and used direct, clear language as opposed to euphemisms?
+
+As in race-related writing, it is best to imagine a diverse group of people reading your writing. Would each reader feel respected? Would anyone feel othered or marginalized? Keeping in mind your audience is the key.
+
+
+Ageism
+
+
+Ideas about aging are learned beginning in childhood and are shaped by the images and stereotypes prevalent in American popular culture. Stereotypes about older people include that they are incompetent with technology, cognitively challenged (who hasn't used the term senior moment to describe a temporary mental lapse?), stubborn, sexless, unattractive, dependent, poor drivers, and more. These ideas, and the words we use to perpetuate them, influence our thoughts about ourselves as we age, which can be harmful to our health. Studies have shown that internalized ageism is associated with lower life expectancy, high blood pressure, and reduced self-esteem. Consequently, organizations such as the American Medical Association, the American Psychological Association, and Associated Press have been revamping the language they use to discuss age.
+
+Although we most frequently hear about age discrimination against older people, younger adults may experience reverse ageism. For example, younger adults often feel that their ideas are not being taken seriously. In recent years, young millennial adults (born between 1980 and 1995) have sometimes been categorized as lazy and self-absorbed.
+
+Writing About Age
+
+Consider how we might label a photo of three unidentified men who appear to be in their 70s. Our impulse to be as descriptive as possible may lead us to describe the photo as being of "three old/older men." The adjective older is now preferred to the word old. But is the inclusion of older even relevant?
+
+Newspapers have traditionally included the age of their subjects as a way of distinguishing between people of the same name. (Up until the 1960s, newspaper articles often identified people by race and home address.) Nevertheless, when writing exhibit labels, it is not necessary or even desirable to identify a subject's chronological age unless it adds information that increases understanding of the topic.
+
+First, the definition of older is subjective. To a teenager, anyone over 40 may be seen as old. To a 40-year-old, older may only pertain to someone over 65. Someone in their 60s may consider themselves middle-aged. While the word retiree may seem like a safe choice, many consider it inappropriate because it insinuates retirement from life. And people who have never worked cannot legitimately be called retirees.
+
+Furthermore, we tend to other people of different age groups, which makes us feel that we have nothing in common with them. Different characteristics have been attributed to different generations. Avoid identifying people as being a member of an age group, such as millennials, Gen Xers, or boomers, unless you are discussing topics about generations. When identifying individuals by their age or discussing age in an exhibit, use language that is respectful and inclusive. When in doubt, use the following chart for guidance.
+
+
+Checklist for Revisions
+
+The following checklist is adapted from the checklist in the writing guide on gender-inclusive language provided by UNC-Chapel Hill's Writing Center.
+
+As you review your writing, consider the following questions:
+1. Have you included the age of an individual or group of individuals when it was unnecessary to do so?
+2. Have you used broad generalizations or labels?
+3. Do you use any ageist stereotypes?
+4. Have you emphasized abilities and not limitations?
+5. Have you provided the same kinds of information and descriptions when writing about people of different age groups?
+
+
+Appendix A: Content Notes and Warnings
+
+Information is never inert. An exhibit contains many kinds of information, including text, media, objects, and special effects. Part of an organizer's responsibility in considering the exhibit experience is anticipating content that needs informational support or could be found offensive or harmful. In the case of the former, a content note may be helpful, and a content warning may be necessary for the latter.
+
+If a note or warning is deemed necessary, always be informative, not obtrusive. A note or warning is there to support and enhance the viewer's experience, not to send them running away. Be as transparent as possible in brief, clear prose.
+
+Content Notes
+
+A content note is language within the exhibit space that gives a viewer background information and context that helps them get the most out of the exhibit. Technically, the introductory text at the very beginning of an exhibit is a content note. A more specific content note may be necessary to explain your curatorial or informational decisions in crafting the exhibit or to unpack a particularly interesting or significant detail in more depth, like how a footnote adds secondary information to the primary text of a book.
+
+Note Placement
+
+Content notes that apply to the entire exhibit are placed at the beginning of an exhibit. Notes about specific points in the exhibit may be placed at those points.
+
+Example Notes
+
+A content note for the Beyond Supply & Demand exhibit at Duke University Libraries, which honors 100 years of women's suffrage, opens with the following text about the font used throughout the exhibit:
+
+If you are able to visit the physical rendition of the library exhibition Beyond Supply & Demand, you might notice that some of the L's look quite distinctive. The font used for the titles is called Carrie and was created by Tre' Seals, founder of Vocal Type Co. He was inspired by design used in the Women's Suffrage movement (note the L's in this photograph from 1915). The font's name honors suffragist Carrie Chapman Catt (under the banner and leading the parade).
+
+Other content notes may overlap with content warnings in their acknowledgment of content or in providing information about how organizers made decisions about what to include in the exhibit and why. This content note recognizes specific communities of people who might find exhibit content problematic. It also contains some general language and an organizational disclaimer:
+
+Cultural Advice
+
+Aboriginal and Torres Strait Islander people should be aware that this web site contains names, images, and voices of deceased persons. In addition, some articles contain terms or views that were acceptable within mainstream Australian culture in the period in which they were written, but may no longer be considered appropriate. These articles do not necessarily reflect the views of The Australian National University. Older articles are being reviewed with a view to bringing them into line with contemporary values, but the original text will remain available for historical context.
+
+Content Warnings
+
+A content warning is language within the exhibit space that lets viewers know of possibly controversial, offensive, or harmful content in the exhibit so that they can make an informed decision about whether or not they want to see the exhibit. Content warnings can also offer protection to people featured in the exhibition and to exhibit curators or their institution. Content warnings are also sometimes referred to as trigger warnings.
+
+What qualifies as "possibly controversial, offensive, or harmful content" can range widely and is, ultimately, a judgment call by the exhibit organizers. It's impossible to write an objective, clear guideline about when to use a content warning and how specific that content warning should be; the organizers must use their knowledge about their institution and their exhibit audience, their expertise in the subject matter of the exhibit and the materials used in it, and an informed sense of the campus and social context of the exhibit, to craft a content warning.
+
+Neither are all content warnings the same. An exhibit might contain a quote that uses outdated language or an epithet now considered offensive, or a photograph of a protestor carrying an offensive sign. An exhibit might be about war or sexual politics and necessarily depict violent or explicit content that some viewers may find upsetting. Subjects that may require warnings are certainly not limited to those mentioned as examples here.
+
+In many cases, a brief, general, catch-all content warning is appropriate—something along the lines of the following: "Historical materials may contain offensive content." In other cases, particular exhibit content may need a more specific statement.
+
+Warning Placement
+
+Content warnings are generally placed at the beginning of an exhibit before any of the content can be encountered by a viewer. Warnings about specific points in the exhibit may also be placed at those points. Consider the way visitors enter and move through your exhibit space when making decisions about the placement of content warnings. Try not to dominate the content with too many content warnings as well.
+
+Categories of Content Warnings or Disclaimers
+
+Content warnings may include one or more of the following statements:
+- Statement about content being a product of its time and place
+- Statement about the incompatibility of past content with the values of the library/university today
+- Statement saying that the library does not endorse any beliefs, attitudes, prejudices, or behaviors depicted in their archives
+- Statement about the value of preserving and making the historical record available, even when harmful
+- Explanation of principles of equity and reconciliation by better identifying topics of interest to marginalized and equity-seeking communities
+- Explanation of policy regarding the use of content warnings
+- Invitation to contact the library to ask for remediation
+- Invitation to contact the library if distressed by content
+- Warning that special effects may be harmful to people with health concerns
+
+General Warnings
+
+A brief, generic warning is often appropriate. NC State University Libraries frequently place a single sentence at the opening to exhibits and on their Special Collections Research Center web pages: "Please note that some historical materials may contain offensive content." UNC-Chapel Hill Libraries, in their "Organized Womanhood" exhibit, used a comparable warning with a bit more elaboration: "This site includes historical materials that may contain language or negative stereotypes reflecting the culture or language of a particular period or place. These items are presented as part of the historical record."
+
+General warnings may also need a slight specificity. For example, "This exhibit contains depictions of nudity. Visitor discretion is advised."
+
+Specific Warnings
+
+Specific warnings may cover an entire exhibit or just a specific point in the exhibit. They may also include a justification for having included the content that they're warning viewers about.
+- Example of a specific warning that covers an entire exhibit: "This exhibit contains photographs that depict wartime violence and its aftermath that some viewers may find disturbing."
+- Example of a specific warning that covers images and special effects from the North Carolina Museum of History: "A simulated battlefield environment—including bright lights, flashing lights, and loud noises—in this exhibit may be disturbing to children or visitors with health concerns. In addition, some images may not be suitable for some visitors."
+- Example of a specific warning that covers a specific point in an exhibit: "The final section of this exhibit contains narratives from survivors of sexual assault and abuse."
+- Example of a specific warning that includes a justification for the content: "Photographs in this exhibit contain offensive language and racial epithets. These images have been included in order to accurately present historical events."
+
+Even specific warnings need not go into detail; you don't want the warning itself to be a trigger.
+
+

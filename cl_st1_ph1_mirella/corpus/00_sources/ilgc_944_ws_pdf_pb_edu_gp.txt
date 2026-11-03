@@ -1,0 +1,93 @@
+#1 - Identity
+
+Use relevant references. MLA encourages writers to consider the necessity of including the age, gender, religion, ethnicity, disability, sexual orientation, and economic or social status of a subject. When referencing an expert or source, consider whether or not it is necessary to include these descriptors when discussing their qualifications.
+
+Stating their gender is likely unnecessary or irrelevant.
+
+Noting their status in any of these areas may make the characteristic of this person appear out of the "norm," or it may not add to a reference's credibility. Overall, avoid using these references if they are not critical for your context.
+
+Always consider the context of your paper; sometimes you might determine that the identity reference is necessary, but your phrasing and word choice are important.
+
+You might be writing about medical issues in the Syrian Civil War; simply mentioning one of your experts is from the Middle East would not be accurate or relevant. If your expert grew up specifically in Syria and actively lives there, those details can be included for credibility.
+
+Additionally, use gender-neutral terms wherever possible.
+
+#2 - Precision
+
+Be specific. There is a significant difference between writing phrases such as "the Muslim community," "Japanese people worship," or "some Native American languages" and using more detailed terminology such as "Sunni Muslims in India," "in the Shintō religion," or "Chinookan languages." Writers should use specific and preferred terms when referring to a population.
+
+Instead of saying someone is "Christian," one could be more specific and say they are "Catholic." Instead of "Muslims," one could be more specific and say "Sunni Muslims." These examples are not universal for all cases. Always check with your source material because you want to avoid making any assumptions.
+
+Avoid perpetuating stereotypes or conflating traditions. In reference to culture, conflation is when two or more people groups are merged into one, often in error. The conflation of many different African cultures being presented as one hybrid country in various media pieces, from movies to books, is an unfortunate example.
+
+Avoid using generalizations. To generalize is to make a general or broad statement by inferring from specific cases. People are not hive minds; taking the opinions or actions of one person and thinking it is a reflection of the whole group's mentality is demeaning.
+
+In this newest edition, MLA recommends that writers avoid religious generalizations by always clarifying what religion or beliefs you are referring to.
+
+"Some Christians believe…" is too broad and overgeneralizing. Using this principle, we can be specific and say, for example, "Lutherans believe," which would be more appropriate.
+
+#3 - Respectful Terms
+
+Use person-first or identity-first language. Person-first language emphasizes the person rather than their characteristics.
+
+"a youth with epilepsy" or "a person with autism"
+
+Identity-first language emphasizes the characteristic as a descriptor.
+
+"an epileptic youth" or "an autistic person"
+
+That said, it's most important to respect the preferences of the group or individual you are writing about. Ask them whether they prefer person-first or identity-first terms. If you don't know, person-first language is generally considered more respectful.
+
+#4 - Capitalization and Styling
+
+Be consistent and thoughtful. When it comes to the capitalization of identities, there is no right or wrong. Be sure to use the preference of the community you are writing about, and you must be consistent. Choose one form and remain consistent if there is an instance where the identity could be either capitalized or lowercase.
+
+"deaf" vs. "Deaf"
+
+Both are technically correct, but you must remain consistent.
+
+Avoid using 'quotations' or italics when using an individual's pronouns or identity. Single quotes signify unfamiliar words or phrases to your vocabulary, the same as if you were to use air quotes while speaking; when used to refer to a person's identity, they could be interpreted as being out of the "norm."
+
+#5 - Pronouns
+
+Minimize pronoun exclusion. When sex and gender are not relevant, recast subjects as plural. The word "they" is incredibly useful, being both a plural and a gender-neutral pronoun. Rather than using both feminine and masculine pronouns to remain inclusive, make your subjects plural to avoid gendered pronouns.
+
+Of course, use "he," "she," or other preferred pronouns when referring to someone, but when discussing groups of people, avoid defaulting to one of the gendered pronouns. It can leave people out and attempt to normalize the profession or group associated with a specific gender.
+
+MLA allows writers to use the singular "they" when preferred by an individual or to help avoid exclusionary language. It is entirely correct to use within the format's guidelines.
+
+#6 - Judging Experiences
+
+Avoid making negative judgments. Steer clear of adjectives that may suggest negativity concerning a person or group's experience. Avoid descriptions that may evoke emotions or imagery that could be inaccurate. "Suffers from," "victim of," or similar phrases may make assumptions about a person or group's experiences that could be inaccurate. This wording only adds bias to your writing.
+
+
+#7 - Check with a Dictionary
+
+Update your dictionary! Terms that were in common usage in the past may have an offensive connotation today or an unknown offensive connotation that continues to be harmful to certain groups of people. Language changes over the years and words take on new meanings. If you are uncertain, use an up-to-date dictionary (such as the Oxford English Dictionary) to look up a word's connotations and whether it is questionable.
+
+When using an offensive term within a work quoted or reviewed, you should never repeat it in your own words. If quoting an offensive term, it is permissible in MLA format to just use the first letter and add a dash instead of the rest of the word. (i.e., "x—.") Use quotations to show that the offensive terminology is not your own words.
+
+Activity
+
+A key aspect of introducing inclusive language into the classroom or workplace is that we make sure to have civil conversations. We shouldn't assume that people intend to be harmful with their writing; they might be ignorant about the actual meanings of words or phrases that have remained prevalent in everyday speech for a long time. Instead, it's preferrable to impart knowledge so people can know better and do better.
+
+The example below contains words or phrases that could be harmful to others. The message is accompanied by a professional response from a knowledgeable coworker, referring to the principles the sender should read about.
+
+Hello guys,
+
+As you all know, our original date to get this website done was by the end of November. We obviously haven't done that, so the boss is on a warpath. Completing this site is important for our project. How can the consumer know about our work if he or she can't find us online? We're moving our deadline to the end of the year, but it shouldn't be put on the back burner.
+
+Best,
+X.
+
+Hi, X,
+
+I wanted to talk to you about some of the language you used in this email. As you know, we're trying to improve our culture with inclusive language so that everyone can feel welcomed and included. I'd highly recommend you take a look at the MLA Handbook's seven principles, especially "#5 Pronouns" and "#7 Check with a Dictionary." For #5, addressing the group as 'guys' can make the awesome members of our team who aren't male feel left out. Also, when referring to the consumer, you can simply use the pronoun "they." It saves space and appeals to everyone. For #7, while saying someone is on a "warpath" is a popular phrase, when I look it up in the dictionary, it's actually a misused word associated with Native American culture.
+
+I hope this helps,
+Z.
+
+Now, you can try it! This is the first half of an introduction you are peer reviewing. One of the requirements of this assignment is to follow the MLA Handbook's guidelines. What mistakes do you notice regarding inclusive language, and which principles do you think apply here?
+
+The Great Depression was a turbulent time in America. The stock market crash crippled the United States' economy, and lots of people were affected by the crisis, especially the Black community. The economic policies carrying over from the 1920s only made the situation worse. Rich people did not help the poor because they believed in trickle-down economics. However, not all of the conflicts here were black and white—rich versus poor. This paper will focus on the suffering of the black community and Christians.
+

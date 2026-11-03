@@ -1,0 +1,117 @@
+2. Guiding Principles	
+
+There is no universal standard terminology for describing individual and population-level social identities such as racial or ethnic identity or for communicating about health disparities. Here we highlight common guiding principles for reducing bias and stigmatizing language that should be prioritized in making decisions about terminology and communication approach.
+
+01. Adopt terminology that does not exclude certain groups.
+Use gender-inclusive language if not referring to a specific individual or group by either avoiding the use of pronouns or using they or he/she/they.
+
+02. Avoid language or communication that implies biological significance of race, ethnicity or cultural/population background. Self-reported race, ethnicity and cultural/heritage background are social constructs with no biological meaning or basis. Crucially, they cannot be conflated with genetic ancestry.
+
+03. Health disparities are distinct from population differences and should be contextualized within frameworks of socially linked inequities and related exposures such as the social determinants of health. Avoid framing questions or findings in a way that implies an individual, a community or a population is responsible for health risks or outcomes.
+A common example of poorly contextualized framing of health disparities is failing to recognize that some groups that are disproportionately affected by AD/ADRD may have systematically limited access to resources that would have enabled them to follow certain health guidelines or recommendations.
+Another common example of poorly contextualized framing of disparities is suggesting that addressing individual behavior can overcome challenges with structural determinants.
+Do not use language that posits a social identity as a risk factor. An example of this common problem is this statement: "Risk factors for poor sleep included older age, higher BMI and Black race." Correlations of identity and outcome should be framed in ways that center on personhood, such as, "Black participants were at greater risk for poor sleep." In addition, such correlations should be contextualized with empirically supported reasons why the identity factor is associated with risk or confers heightened risk.
+
+
+04. Carefully review language for use of blame, stigmatizing language or stereotypes.
+An example of language that may be stigmatizing is the term "uneducated Black population" when referring to older adults who were unable to complete schooling because of segregation. The following is an example of language that contextualizes the effects of social inequities and does not blame individuals: "Individuals who did not have access to education because of segregation." Consider using the term "culturally and linguistically diverse communities/populations" when describing individuals who are immigrants to a particular setting/environment.
+
+05. Use language in a manner that acknowledges and respects different identities and groups. Populations with shared social identities are not monolithic or homogenous in their lived experiences, preferences or other characteristics, and this should be explicitly stated.
+Be cautious in generalizing about a community.
+
+06. Use language that is preferred by the group to which one is referring. For example, some groups have published guidance regarding their own preferences for how they are referred to, and not all groups prefer person-first language, especially in referring to people living with dementia. Person-first (i.e., person with disabilities) and identity-first (i.e., disabled person) language preferences vary across communities and individuals. Examples of these preferences include the following: people with disabilities, person living with dementia, autistic person, and deaf people (although some may prefer person-first language). Avoid use of terms such as "demented" or "impaired" when describing people living with dementia. Word count concerns do not outweigh the need to use preferred language.07. Recognize that there is likely not universal consensus for terminology, that preferences likely vary by region and context, and that language is always evolving. Seek continual learning about the meaning of words, and how groups self-identify and would like to be identified by researchers.08. Describe a person or group at the appropriate level of specificity. To avoid objectification, identify a group or an individual as a member of a group only when it is relevant to your message.09. Avoid dehumanizing language. Avoid use of the term "subjects" when referring to research participants and "sufferers" and/or "victims" when referring to people living with dementia as these words often have stigmatizing, demeaning and/or derogatory connotations. Use adjectival forms (e.g., older adults) or nouns with descriptive phrases (e.g., individuals experiencing/affected by poverty, justice system-involved persons, people experiencing homelessness) rather than labels (the elderly, the poor, the homeless, the Blacks).10. When possible, avoid the use of abbreviations such as PWD, PLWD (person with dementia, person living with dementia) as multiple advocacy groups composed of people living with dementia have released statements requesting these abbreviations not be used. An exception is situations where the abbreviation is broadly accepted and in use by the population to which it refers. For example, the abbreviation LGBTQIA, which stands for "lesbian, gay, bisexual, transgender, queer and/or questioning, intersex, asexual/aromantic/agender," is commonly used by members who identify within this community.11. As needed, consult additional guidance for use of inclusive language for people with disabilities because those living with dementia may have or acquire disabilities. Important principles to remember are that not all disabilities are visible, and not all individuals are comfortable disclosing disabilities. Use descriptors that emphasize abilities rather than limitations (e.g., "person who uses a wheelchair" instead of "confined to a wheelchair"). Use language that emphasizes accessibility needs rather than limitations (e.g., "accessible walkway" instead of "disabled walkway").
+
+
+3. Communicating About Race and Ethnicity 
+
+Whether AD/ADRD scientists are communicating with research participants through data collection, with communities through outreach events or news media, or with other scientists through dissemination, training activities or daily discourses, several common foundational tenets that should shape language can be identified.
+
+Understanding Uniform Classification Systems for Collecting Race and Ethnicity Data
+Systems of racial and ethnic classification are used globally, and in many cases they are driven by efforts to count and categorize a region or nation's population. According to data from the United Nations derived from global census questionnaires, 65% of countries classify their population by identity-based factors such as nationality or ethnic group identity (United Nations Statistical Division, 2003). The specific language used in these classification systems varies considerably. The meaning of terms used in classification systems is often inconsistent or vague. For example, terms may be used interchangeably or a characteristic that is referred to as an "ethnic" identity in one country may be labeled as "nationality" or "race" in another. These classification systems may be derived from historical or sociopolitical understandings and motivations that may or may not be sufficiently specific, accurate or inclusive for the purposes of a given research study.
+
+For example, the contemporary classification of Indigenous citizens and descendants of sovereign First Nations as "American Indian/Alaska Natives" in the United States is derived from the racialization of these people and not the politicization of these identities as legal entities. For these reasons, it is important for researchers to become familiar with policies or practices that have informed data collection practices relevant to their region and population(s), including the format of questions and response options about racial, ethnic, nationality or other cultural identities.
+
+Broad Categorizations of Race and Ethnicity: Limitations and Considerations for AD/ADRD Research. In the United States, common minimum standards remain in use by federal agencies including the National Institutes of Health and the U.S. Census?; such guidelines include as few as five race categories (Black or African American, American Indian or Alaska Native, Asian, Native Hawaiian or Pacific Islander, White) and two ethnicity categories (Hispanic or Latino, Not Hispanic or Latino). It is important to acknowledge that administrative data can be limited as a result of requirements within these classification systems. Likewise, research data collection protocols that mimic and rely solely on such data structures are bound by substantial constraints. First, participants may not recognize themselves in or accept the categories provided; for example, several studies have documented the hesitation of Dominican Americans to define themselves racially, as Black or White, as opposed to by nationality.π∞-π≤ Second, such broad categorizations do not allow scientists to communicate clearly regarding the characteristics of their samples or the validity and generalizability of their study results. For example, in 2011 the U.S. Department of Health and Human Services modified the broad category of "Asian" to include seven additional categories in data collection guidance to document and track health disparities in more granularity, reflecting the diversity of experiences and contexts that exist within this racial group (https://aspe.hhs.gov/reports/hhs-implementation-guidance-data-collection-standards-race- ethnicity-sex-primary-language-disability-0). The translational implications of ignoring granular origin data are empirically clear: In a large, population-based and nationally representative survey of U.S. adults pertaining to their health care experiences, nationality and origin were major sources of heterogeneity within racial and ethnic groups, not only in socioeconomic status but also in healthcare access and quality of care. Mexican Americans and South/Central Americans, as well as Korean Americans, Chinese Americans and Vietnamese Americans, reported worse experiences than their Hispanic/Latino and Asian peers, whose self-reported experiences did not differ from those of White Americans in this cohort.π≥ It is acknowledged that aggregation during data analysis is often required to achieve adequately powered analytic samples and harmonize datasets. However, the initial collection of granular ethnicity and origin data, tailored to the source population, provides researchers with the opportunity to describe the subgroups represented within larger aggregated groups and facilitates future within-group research endeavors.
+
+Principles for Research to Inform Communication Practices	
+Because what is most appropriate varies considerably by context, including national, regional and local differences in language preferences, our guidance for terminology on race and ethnicity focuses first on how to approach communication and decision-making for specific terminology. We then provide specific guidance on avoiding use of noninclusive or discriminatory terminology and minimal standards for reporting.
+
+1. Know the community(ies) in your studies.
+Where feasible, investigators should consider identifying terminology preferred and used by individuals within their studies. In some situations, investigators may decide to use multiple terms such as "African American/Black", "Latina/Latino/Latinx/Latine", or "American Indian/Alaska Native/Native/Indigenous/Aboriginal/First Nations".
+
+2. Recognize that racial/ethnic identity is not dichotomous.
+Individuals may identify with multiple racial, ethnic and/or cultural identities. It is important to maximize flexibility in self-classification options for participants, meaning that they can be provided with options to identify in more than one category. For example, a participant could select African American and Asian.
+
+3. Consider generational differences in terminology.
+Examples of differences in preference might be the use of "Negro vs. Black," "Chicano/a vs. Latinx" or "Eskimo vs. Inuit." Note there may be generational differences in how some terminology is viewed; for example, some older African Americans may embrace the term "negro", whereas younger generations may find the term offensive. In the event that certain terminology is preferred by participants from a specific generation of interest, as is often the case with AD/ADRD cohorts, investigators can explain in publications that their terminology use is informed by the preferences of study participants.
+
+4. Prioritize flexibility and adaptability.
+What is "right" or preferred often changes over time. Investigators from outside the community being studied will find that nuanced information about identity is likely to emerge as a function of continuing engagement with community members.
+
+5. Participants should have the opportunity to self-identify their race and ethnicity with as much flexibility as possible.
+Researchers should acknowledge that self-identified race represents a confluence of how participants perceive themselves (racial identity) and the impacts of racialization by others. During data dissemination, researchers are obligated to transparently describe and justify any aggregation that occurred for analytic purposes (i.e., sample size) and note how preaggregation nuances might limit inference or shape future directions.
+
+6. Do not conflate self-reported race with ancestry.
+Genetic risk and resilience, and parsing heritable from modifiable contributors to cognitive aging, is a major area of work within AD/ADRD research. As described earlier, however, racial and ethnic identities are not surrogates for genetic ancestry, with which they often are only weakly correlated.8 The reverse is also true: Ancestry should never be used to "confirm" or infer race or to assign individuals to racial categories.
+
+The following communication standards should be adhered to in all descriptors of and communication regarding race and ethnicity.
+
+
+4. Communicating About Geographic, Social, and Economic Contextual Factors
+Recommendations
+Consistently specify the geospatial region/level of contextual and geographically based measures used. For example, do not substitute "neighborhood-level disadvantage" with a broader or vaguer term such as "area disadvantage." Avoid the use of shorthand descriptors such as "disadvantage" (without the contextual adjective) that risk conflation with individual-level factors.
+Detail the dimensions measured or included in descriptions of applied contextual or geographically based measures to improve transparency and rigor. For example, a composite measure such as a Multidimensional Poverty Index has multiple indicators (years of schooling, attendance) that are weighted to constitute a single dimension (education) out of the global composite.
+
+Consistently specify the geographic scale for contextual-level descriptors that are congruent with measurements/metrics applied. For example, if the measurement of geographic disadvantage is operationalized at a neighborhood level, this should be anchored to established discrete and validated geographic and/or social science constructs. Metrics should be specified with consistent terminology, accompanied by descriptors of how the neighborhood-or any other geographic/social area of measure-was defined and operationalized in analyses.
+Use language that respects and is sensitive to the unequal distribution of historically excluded and minoritized populations within regions characterized as having higher levels of deprivation or disadvantage. Such language attributes descriptors of geographic region to the context and not to individuals or communities. For example, "persons with exposure to neighborhood-level disadvantage" is preferred to "people from disadvantaged neighborhoods."
+Describe the methods for collecting, defining, and analyzing/coding geographic and contextually based data of socioeconomic status and any limitations associated with those methods.
+
+
+5. Communicating About Sex, Gender,
+Gender Identity and Sexual Orientation
+Terms used to denote an individual's gender or gender identity include man/boy, woman/girl, transgender man/boy, transgender woman/girl, nonbinary person, gender nonconforming person. Individuals may use multiple terms when describing their gender or gender identity.
+
+Individuals may identify as heterosexual (straight), gay, lesbian, queer, asexual, bisexual and/or another sexual orientation.π7 One's sexual orientation and their attraction and behavior do not need to align for their sexual orientation/identity to be valid.π6 Like gender identity, one's sexual orientation can change and evolve across their lifespan.
+
+Intersectional Identities
+Sex, gender, gender identity and sexual orientation are identities. While gender/gender identity and sexual orientation are often conceived of as being defined by an individual according to their self- concept, sex can both reflect society's expectations of an individual's social identity, such as sex assigned at birth, and/or an individual's self-concept. The existence and operation of these identities are often actualized via conceptual models related to gendered behaviors, gender roles, sexual identity development, gender-as-performance and other factors.
+
+Sex, gender, gender identity and sexual orientation identities are intersectional, meaning they can inform each other. Sexual orientation, for example, relies on sex to inform its categorization. These identities can also compound systemic oppression within social systems. A woman, for example, who is in a spousal relationship with another woman may experience effects of the systemic oppression of women directly and via her wife's experiences. In addition, aspects of identity related to sex, gender, gender identity and sexual orientation intersect with other identities. A Black trans woman, for example, can experience transphobia and sexism in combination with systemic racial oppression. These identities and their social consequences are context dependent. The effects of these experiences on social, psychological and biological outcomes are not well understood.
+
+Here, we offer considerations and recommendations for addressing these constructs in peer-reviewed, scientific publications.
+
+Recommendations
+Use language that respects that sex, gender, gender identity, and sexual orientation may have biological and social underpinnings and correlates.
+
+Use language that respects that self-reported sex, gender, gender identity and/or sexual orientation are (1) aspects of identity, (2) can exist along a continuum and be nonbinary and (3) are appropriately measured by one's self-report of their identity.
+
+Recognize that sexual orientation and gender identity are not binary and can evolve and change across the lifespan.
+
+Describe the methods for collecting, defining and analyzing/coding sex, gender identity and sexual orientation variables and any limitations associated with those methods.
+Include the reasons justifying exclusion/inclusion of individuals based on sex, gender, gender identity and/or sexual orientation.
+
+If results are reported that statistically adjust for sex, gender identity and/or sexual orientation, results of stratified analyses also should be reported when statistically appropriate/sample size allows.
+
+Report on representation of sex, gender, gender identity and sexual orientation identities in research samples and/or state explicitly the unrepresented (or unmeasured/uncounted) groups that may be relevant to the study focus.
+
+When reporting on and/or interpreting the meaning of scientific results that are based on identity data related to sex and/or gender, particularly in scenarios such as secondary analysis of archival data where it may be unclear which construct was assessed, "sex/gender" may often be the most appropriate term of art.
+
+Avoid making biological inferences when reporting on and/or interpreting the meaning of scientific results that are based on identity data related to sex, gender, gender identity and/or sexual orientation. These groupings reflect sociocultural classifications. While they may have biological correlates and most likely correspond to complex pathways between lived experience and biological mechanisms, biological inference in the absence of biological data risks invoking ideas of biological essentialism and social prejudices.
+
+As scientists report and interpret findings based on identity data, it is essential that variabilities in lived experience that are due to these groupings be considered, minimally, as potential confounders and, more productively, as active agents in investigative pathways.
+
+Consult and apply the most current guidelines and resources
+
+Consider the relevance of sex, gender, gender identity and sexual orientation to AD/ADRD research, clinical outcomes, translation and implementation:
+
+How might findings related to sex, gender, gender identity and/or sexual orientation be indicative of AD/ADRD disparities and diversity that warrant further investigation?, or
+
+How might representation of sex, gender, gender identity and/or sexual orientation of individuals help inform understanding of or address a gap in the phenomenon under study?, or
+
+How might sex, gender, gender identity and/or sexual orientation be interacting with the mechanisms of the study?, or
+
+How might sex, gender, gender identity and/or sexual orientation impact theory efficacy or effectiveness of interventions under study?
+
+
+
+

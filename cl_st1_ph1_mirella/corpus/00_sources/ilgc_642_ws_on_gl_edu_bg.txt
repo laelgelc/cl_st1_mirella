@@ -1,0 +1,30 @@
+IT INCLUSIVE LANGUAGE GUIDE
+A UW-IT reference for software and other information technology content
+Last updated: May 29, 2024
+
+
+INTRODUCTION
+
+
+Words matter. Words that reflect racial or other discriminatory bias are contrary to the values of diversity, equity and inclusion (DEI) in UW Information Technology (UW-IT) and at the University of Washington. They undermine the inclusive environment we aim to create in UW-IT and in serving a diverse University community.
+
+UW-IT has joined IT organizations at universities around the country that are involved in activities to replace racist, sexist, ageist, ableist, homophobic or otherwise non-inclusive language scattered throughout materials and resources in the software and information technology fields.
+
+The resources provided in this document are mostly focused on language surrounding technology tools, resources and services, or language that is more likely to be used on web properties or documentation platforms.
+
+
+HOW WE ARRIVED AT THIS GUIDE
+
+This guide was created with the input of dozens of people, from leadership to service owners and service managers in UW-IT, and was guided by an advisory committee made up of people representing units across the UW and from UW Medicine and UW-IT's DEI Community of Practice.
+
+As an educational institution, it's imperative that we remain committed to diversity, equity and inclusion, and one place to start is how we communicate to those who visit our websites. This guide shows our commitment to ensuring our organization, and our websites, continually show respect for everyone.
+
+ROLES AND RESPONSIBILITIES
+
+Web content creators and editors
+
+As creators and editors of website content, we have a responsibility to carefully consider the language we use in our documentation and its impact on the diverse community we serve at the University and beyond.
+
+Therefore, we are accountable for ensuring racist, sexist, ageist, ableist, homophobic, or otherwise non-inclusive language are not within the materials and resources online.
+
+This resource is especially for those who manage and update content related to software and information technology at the University of Washington.

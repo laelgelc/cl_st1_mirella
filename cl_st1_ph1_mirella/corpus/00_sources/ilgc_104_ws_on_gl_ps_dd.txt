@@ -1,0 +1,446 @@
+Note: Some of the terms used below, such as those under “Race”, follow standards set by the US government, not Visa. Always confirm the most up-to-date language before collecting identity characteristics, and ensure they reflect the best practices established by your product’s region or locale.
+
+Terms for gender identity characteristics
+Use	Instead of
+Gender identity (with option to check multiple items):
+
+Non-binary
+Transgender woman
+Transgender man
+Cisgender woman
+Cisgender man
+Prefer to self-describe (with form) OR Not listed
+Prefer not to disclose
+Sex:
+
+Male
+Female
+Intersex
+Other
+Pronouns (with option to check multiple items):
+
+He/him/his
+She/her/hers
+They/them/theirs
+Prefer to self-describe (with form) or Not listed
+Prefer not to disclose
+Pronouns:
+
+She/her/hers
+He/him/his
+Other
+Sexual orientation (with option to check multiple items):
+
+Gay
+Lesbian
+Bisexual
+Queer
+Asexual
+Straight/heterosexual
+Prefer to self-describe (with form) OR Not listed
+Prefer not to disclose
+Sexual orientation:
+
+Straight/heterosexual
+Gay
+Other
+Race (with option to check multiple items):
+
+White or caucasion (Not Latinx or Hispanic)
+Latinx or Hispanic
+East Asian (Not Latinx or Hispanic)
+Black or African American (Not Latinx or Hispanic)
+Native Hawaiian or Pacific Islander (Not Latinx or Hispanic)
+Asian – Not listed (Not Latinx or Hispanic)
+Southeast Asian (Not Latinx or Hispanic)
+Middle Eastern or North African (Not Latinx or Hispanic)
+American Indian or Alaska Native (Not Latinx or Hispanic)
+Prefer not to disclose
+Race
+
+Asian
+Black
+Indigenous
+White
+Other
+Relationship status (with option to check multiple items):
+
+Single
+Married
+Unmarried partner
+Registered domestic partner
+Widowed
+Divorced
+Separated
+Prefer to self-describe
+Relationship status:
+
+Single
+Married
+Widowed
+Separated
+Divorced
+People-first language
+People-first language refers to terms and phrases that emphasize someone’s humanity before their condition or group membership. In contrast, deficit-based language focuses on what people lack rather than what they possess. In general, avoid deficit-based language and reframe your language to focus on achievements instead. If you must mention a deficit or lack, do so with sensitive language.
+
+Describe the attribute(s) of a person or group as a secondary feature or characteristic, rather than using the attribute as the primary descriptor.
+People-first language is not universal
+
+While we generally align to people-first language when writing content in product interfaces, not all people prefer people-first language. Identity-first language is an alternative that places the descriptor first and is most common in specific communities. Ask individuals how they want to be referred to.
+
+Example usage of people-first terms
+Use	Instead of
+Completed x years of high school	High school dropouts
+People without a high school diploma
+
+People without formal education
+
+Poorly educated
+
+Having little education
+
+Neighborhoods/communities with high poverty rates	
+Inner-city
+
+Disadvantaged
+
+Opportunity gap	Achievement gap
+A person with disabilities.
+
+
+Financial training for people without formal education.
+
+Do
+
+Use people-first language, emphasizing an individual’s humanity before mentioning their condition or disability.
+
+A disabled person.
+
+
+Financial training for uneducated people.
+
+Don't
+
+Use deficit-based language, as this can imply that’s the most important or notable thing about them.
+
+Enable this feature for users who are visually impaired.
+
+Do
+
+Use respectful language that avoids projecting pity or assumptions upon people with disabilities.
+
+Enable this feature for those suffering from visual impairment.
+
+Don't
+
+Use victimizing language, as many people with disabilities lead full lives rich in experiences.
+
+Universal language
+Universal language means writing so everyone, everywhere can understand. As Visa connects businesses, banks, and governments in over 200 countries and territories, it’s crucial to ensure products and experiences are usable to everyone they reach.
+
+Note: While many Visa products reach global audiences, there are specific use cases for localization. If an experience is designed to target a specific audience or user in only one specific geographic region, the messaging can be localized to match their language, lexicon, culture, grammar, and UX/UI conventions.
+
+Please wait.
+
+
+Service will be restored soon.
+
+Do
+
+Use simple, standard phrasing whenever possible to ensure all users can understand the meaning.
+
+Hang tight!
+
+
+We’ll be back in a hot sec.
+
+Don't
+
+Use slang, as slang changes rapidly and can prevent some users from understanding and interpreting language.
+
+Ensure the three-digit security code on the back of your card is entered correctly.
+
+Do
+
+Assume your user is new to Visa’s products by using terms and phrases that are universally understood.
+
+Ensure the CVV is entered correctly.
+
+Don't
+
+Use jargon, technical terms, acronyms, or internal-only language without providing defintions first.
+
+Please describe your issue.
+
+
+Give a brief description of your request.
+
+Do
+
+Say exactly what you mean by writing clear, descriptive sentences.
+
+Spill the beans.
+
+
+Don’t beat around the bush.
+
+Don't
+
+Use idioms or metaphors as they’re not familiar to everyone and are hard to translate.
+
+Psychographics
+Psychographics are psychological attributes that describe people’s attitudes and aspirations, usually used in reference to market research. These include values, lifestyle, attitudes and opinions, spending habits, and interests. Inclusive writing about psychographics means no user feels excluded based on these traits.
+
+Represent a diverse variety of lifestyles in imagery and examples to help people visualize themselves in association with Visa products. Use the Visa Brand Identity Asset Library Photography Guidance (internal only) for help selecting imagery.
+Success! Your account setup is complete.
+
+Do
+
+Use phrases and metaphors that everyone can understand.
+
+Slam dunk! Your account setup is complete.
+
+Don't
+
+Use metaphors from interests that don’t apply to all users.
+
+Try investing with our quick-start guide.
+
+
+Set savings goals and start your journey!
+
+Do
+
+Use neutral language directly explains what you’re writing about.
+
+Take a stab investing with our quick-start guide.
+
+
+Set savings goals and pull the trigger!
+
+Don't
+
+Use phrases linked to violence as they can be uncomfortable for users based on their experiences or beliefs.
+
+Demographics
+Demographics refer to attributes like gender identity, orientation, relationship status, race, religion, age, and socioeconomic status. Inclusive language ensures that regardless of demographics, all users feel represented, welcome, and can understand and relate to content.
+
+Ability
+When writing about ability, it’s important to avoid ableist language. A more respectful and inclusive approach is to use people-first language. Ableist language, while often unintentional, can inadvertently devalue individuals with disabilities. It tends to undermine their individuality, equality, and dignity. For example, say “person with a disability” instead of “disabled person”. To learn more, visit People-first language.
+
+Non-sensory guidance
+Sensory guidance refers to instructions that use senses to describe actions or behaviors, such as “read” or “view”. Many metaphorical phrases contain insinuations that may not be inclusive of or are offensive to people with disabilities.
+
+Avoid using sensory language anywhere in product copy, especially for buttons, links, or calls to action.
+A button labeled Access file and a link labeled Learn more
+Do
+Use neutral terms that don't include references to ability or body parts.
+
+A button labeled See file and a link labeled Read more
+Don't
+Use sensory language which may unintentionally alienate users.
+
+Dear user,
+
+
+Dear customer,
+
+Do
+
+Refer to the user in neutral terms that apply to all methods of accessing content.
+
+Dear reader,
+
+
+Dear viewer,
+
+Don't
+
+Refer to the user in terms that assume they’re accessing content in a particular way.
+
+Press the “submit” button to submit your form.
+
+
+Visit the sidebar labeled “more information”.
+
+Do
+
+Describe instructions so users of all abilities can interpret them easily.
+
+Press the green button to submit your form.
+
+
+See the sidebar to the left of the diagram for more.
+
+Don't
+
+Use instructions requiring users to rely on their senses to interpret them.
+
+Othering and reductive terms
+Othering terms might insinuate there’s something wrong with anyone or anything that isn’t “typical”.
+
+
+Note: Disabled is a valid state for HTML elements, but isn’t appropriate for describing overall feature functionality.
+
+This feature is inactive. Try again later.
+
+Do
+
+Use neutral language when describing atypical or uncommon events, features, or requirements.
+
+This feature is impaired. Try again later.
+
+Don't
+
+Choose language that implies something outside what’s typical is inherently worse.
+
+Age
+Ageism is stereotyping or discriminating against individuals or groups based on age. Ageism can take many forms and is often unintentional or subtle.
+
+Be intentional with your language when talking about age to avoid ageist implications.
+Avoid language that “others” certain populations by segmenting them into one group.
+Enable extra protections for young family members.
+
+Do
+
+Use language that accurately describes an age group.
+
+Enable extra protections for kiddos.
+
+Don't
+
+Use slang or overly casual language to describe age.
+
+This feature is great for all users.
+
+Do
+
+Use language that’s inclusive of all ages.
+
+This feature is great for the old and young alike!
+
+Don't
+
+Reference age unnecessarily.
+
+Gender, gender identity, and orientation
+Any common phrases that are used to refer to everyone are gendered as masculine, like “man hours.” When discussing gender, pronouns, and orientation, use language that’s accurate, descriptive, and prioritizes neutrality wherever possible.
+
+Avoid using masculine-gendered phrases like “man hours”
+Omit pronouns unless they’re explicitly relevant to the use case.
+Use neutral phrasing like “they” when unsure of the correct pronouns.
+This takes a lot of energy.
+
+
+Dear customer,
+
+Do
+
+Use gender-neutral phrasing.
+
+This takes a lot of manpower.
+
+
+Dear ladies and gentlemen,
+
+Don't
+
+Use gendered terms when a neutral alternative exists.
+
+A warning banner labeled The app will be unavailable while we perform maintenance.
+Do
+Use phrases without gendered associations.
+
+A warning banner labeled The app will be unavailable while we perform housekeeping.
+Don't
+Use phrases rooted in gender-normative or sexist traditions.
+
+An input field labeled Partner phone number.
+Do
+Omit pronouns when unknown, or if they aren't relevant to the use case.
+
+An input field labele His/her phone number.
+Don't
+Include pronouns unnecessarily when a neutral alternative exists or it's not explicitly relevant.
+
+Race and ethnicity
+Race and ethnicity are not synonymous and refer to distinct characteristics. While race refers to physical differences that groups and cultures consider socially significant, ethnicity refers to cultural characteristics like language, ancestry, and beliefs. Only reference race and ethnicity if it’s immediately relevant.
+
+Be specific whenever possible to avoid grouping individuals who identify differently from each other.
+Use “Black, Indigenous, Hispanic, Asian, and other people of color” if you must broadly reference groups other than non-Hispanic white.
+Capitalize group titles such as “Asian” rather than “asian”.
+Avoid figurative language that equates white with positive and black or dark with negative, like “blacklisted”.
+Avoid phrases that reference race or race histories whenever possible, such as using “built-in feature” over “native feature”.
+African-American traditions.
+
+
+African American women.
+
+Do
+
+Hyphenate a term or phrase when combining words to form an adjective.
+
+African American traditions.
+
+
+Asian-American woman.
+
+Don't
+
+Hyphenate a term or phrase when using it as a noun to describe a person.
+
+Religion and culture
+Many common phrases have origins that are not religiously inclusive or inappropriately reference specific cultures.
+
+Avoid references to religion whenever possible and opt for neutral phrases to ensure all users are represented.
+An input field labeled Full name
+Do
+Use neutral phrasing.
+
+An input field labeled Christian name
+Don't
+Use phrases, or metaphors with religious or cultural origins.
+
+Firmographics: Writing about the industry
+Firmographics are descriptive attributes used by B2B organizations to identify their target market and ideal customers. These may include industry, location, size, status or structure, and performance. These attributes contribute to the full picture that product designers and partners can consider to ensure they’re mindful of stereotypes about business performance.
+
+Always use neutral language when describing businesses organizations, regardless of their size or performance.
+Use the table below to determine the appropriate phrasing and designation for organizations of various sizes.
+
+Note: The following table outlines how business are classified in the United States based on size and revenue. These classifications may not apply in all countries. Always consult local guidelines to ensure you reference businesses accurately.
+
+Neutral terms for company size, revenue, and industry
+Attribute	Definition
+Company size: Number of employees	
+Company size can vary within industry and country, but generally, there are three categorizations based on number of employees:
+
+Small business:
+1,500 employees or less
+Mid-size or mid-market enterprise:
+1,500 to 2,000 employees
+Large enterprise:
+Over 2,000 employees
+
+It’s easy to make assumptions about businesses of various sizes, which means it’s important to mitigate bias when it comes to companies of a specific size and the employees that work for them. One assumption that is often made about large enterprises is that they might be outmoded in their approach or might be slow-moving. Large businesses can be very innovative, take risks, and be disruptive! Companies of different sizes have varying needs, so there is no one-size-fits-all approach.
+
+Company size: Revenue	
+Company size can vary within industry and country, but generally, there are three categorizations based on revenue:
+
+Small business:
+$38.5 million in revenue
+Mid-size or mid-market enterprise:
+$38.5 million to $1 billion in revenue
+Large enterprise:
+Over $1 billion in revenue
+
+It’s easy to make assumptions about businesses of various sizes, which means it’s important to mitigate bias when it comes to companies of a specific size and the employees that work for them. For example, there is an assumption that small businesses are typically comprised of struggling individuals working in less than ideal conditions. Small businesses comprise the majority of the world’s businesses and can make a maximum of $38.5 million annually. Companies of different sizes have varying needs, so there is no one-size-fits-all approach.
+
+Industry	
+Our biases can affect our perspective on businesses of varying industries. For instance, the bias that the engineering industry is exclusively for men or that education is for women might promote an affinity bias that inhibits these industries from hiring more diverse candidates (of course, any gender of individual can belong to any one of these industries). Every business is unique and has individual needs and approaches.
+
+Visa is a financial services and technology company. We often target and work with these industry subtypes:
+
+Fintechs
+Merchants
+Inquirers
+Issuers

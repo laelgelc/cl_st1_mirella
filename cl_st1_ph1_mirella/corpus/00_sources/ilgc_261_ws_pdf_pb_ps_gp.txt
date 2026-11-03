@@ -1,0 +1,183 @@
+General guidelines
+Think inclusively.
+
+As you write, think about your potential audience, and try to imagine your content from
+their perspective. Will the words and phrases you use be understood by everyone" Do
+these words and phrases have any harmful or negative associations"
+Keep in mind that words can sometimes carry meanings you don’t intend. Be open to
+learning about the impact of language, and be respectful of those who may receive words
+differently from how you intended them.
+
+Research words.
+
+Investigating the history and usage of a word can help you decide whether to use it. For
+example, some common expressions (like grandfathered in) arose from oppressive or
+exclusionary contexts. If you’re unsure about a word or expression, be sure to research
+both how it originated and how it’s understood by people now.
+
+Consider the context.
+
+Even if a common word has one negative use that you should avoid, it may still be
+acceptable in other contexts. For example, although it’s inappropriate to use mute to refer
+to a person who is nonspeaking, it’s OK to use it to refer to silencing a device. Take context
+into account when making wording decisions.
+
+Avoid terms that are violent, oppressive, or ableist.
+
+Don’t describe technology using terms that are inherently violent—like kill or hang. Don’t
+use the terms master and slave, which describe an oppressive human relationship. Finally,
+don’t use terms like sanity check, which associates mental health with being functional.
+In general, it’s a good idea to avoid describing software or hardware using human or
+biological attributes; doing so can lead to unintended hurtful implications.
+
+Avoid idioms and colloquial expressions.
+
+Common sayings—like fall through the cracks, on the same page, or backseat driver—
+can add flavor to writing, but they can also be difficult to understand for people who are
+learning the language. If your content is localized, using phrases like these can also make it
+more difficult to translate.
+
+Don’t use color to convey positive or negative qualities.
+
+Avoid assigning good and bad values to colors (for example, blacklist, white hat hacker, or
+red team hacker) or using colors as metaphors to convey larger concepts. Use colors only
+to describe actual colors (for example, black text on a white background, the white point of
+a display).
+
+Err on the side of caution.
+
+If you’re not sure about a term, but you believe it might be questionable based on your
+research or feedback from others, then choose a different term. The beauty of language is
+that there’s usually a term that expresses the meaning you want to convey just as well—or
+even more clearly.
+Inclusive representation
+
+Remember that the people who use Apple products have a broad variety of life
+experiences, cultures, and backgrounds. When your content depicts people—real or
+fictional—make sure to represent the diversity of the world.
+
+Use diverse names as examples.
+
+Sometimes you may use names as examples. Include names that reflect a variety of ethnicities and genders.
+
+Given name examples: Blair, Étienne, Guillermo, Lee, Mayuri, Priyanka, Shannon, Yen
+
+Family name examples: Kawashima, Lai, McNeil, Melnykova, Salinas, Sears, Zhao
+
+Also keep in mind that some cultures don’t use a Western-style name structure (given
+name followed by a family name). In addition, some cultures may use multiple family
+names. Try to reflect this diversity in your examples.
+
+Avoid biases and stereotypes.
+
+Bias is a tendency to think and behave in ways that are favorable (or unfavorable) to certain
+people or communities. Be aware of ways your content may unintentionally reinforce
+biases, and consciously work to avoid doing so. For example:
+
+If your content uses text or imagery to depict people in certain occupations or settings,
+include a variety of ethnicities, genders, ages, body types, and abilities.
+
+If your content mentions examples of holidays, foods, or sports, don’t just give
+examples from Western culture.
+
+Avoid using examples that reflect primarily an affluent lifestyle.
+
+A stereotype is a fixed belief about people or groups based on identifying characteristics,
+like gender, race, physical capability, or age. Avoid stereotypes in how people are
+presented in your content. For example, don’t only represent a family as a woman, a man,
+and their biological children; remember to include a variety of family types.
+
+Use gender-neutral titles and honorifics when appropriate.
+
+Some people may choose to use a gender-neutral title (such as Mx.). If you’re writing
+content about (or addressed to) a real person, and your style requires you to include a title,
+ask the person what title they use. If you can’t ask them, consider adopting a style that
+refers to people using only their name.
+Writing about disability
+
+When you write about people with disabilities, focus on each individual’s accomplishments,
+personality, authentic story, or message. You may not even need to mention someone’s
+disability unless it’s essential to the content; if you do refer to someone’s disability, follow
+the guidelines below.
+
+Understand when to use identity-first or person-first language.
+
+People who consider a disability or neurodivergence to be part of their identity may prefer
+identity-first language, which places an emphasis on culture: A Deaf person, an autistic
+person.
+
+Others may prefer person-first language, which emphasizes the individual first, then their
+disability: A person who is deaf or hard of hearing, a person on the autism spectrum.
+
+Preferences for identity-first and person-first language vary; when writing about specific
+individuals or groups, always ask them how they prefer to be identified.
+
+For advice about specific terms, see A guide to terms about disability, below.
+
+Acknowledge a wide range of disability.
+
+It’s helpful to think about disability on a spectrum. For example, with blindness, there’s a
+wide range of vision differences—from people who are born blind, to those with low vision,
+to others with loss of vision in certain areas, such as peripheral vision. In addition, some
+people may have multiple disabilities.
+
+Avoid ableist language.
+
+Don’t use language that presents people without disabilities as the norm. For example,
+don’t describe nondisabled people as normal, healthy, regular, or able-bodied. Instead,
+you can use a person without a disability, a nondisabled person, a neurotypical person, a
+hearing person, and similar terms.
+
+Avoid treating disability as something to overcome, and don’t describe people with
+disabilities as brave, courageous, or inspiring, which can come across as condescending.
+
+Avoid language that refers to using specific senses.
+
+When writing instructions (such as in training manuals or user guides), avoid using phrases
+that refer to the use of specific senses, like you see a message, you see a flashing light,
+or you hear an alert sound. Instead, simply describe what happens: A message appears, a
+light flashes, an alert sound plays.
+
+Also avoid using idioms that send negative messages about disability—for example, that’s
+crazy, fell on deaf ears, or turned a blind eye to.
+Some phrases and idioms are OK.
+
+It’s OK to use commonly understood phrases such as the ones below:
+I see your point.
+You can watch your favorite movies on the Apple TV app.
+Hear about the latest news right when it happens.
+Don’t hesitate to speak your mind.
+
+Even if people in your audience can’t see, hear, or speak, they’ll typically understand the
+intent of the words.
+
+It’s also OK to use the common cross-reference See when linking to other material (for
+example, See the Apple Support article “Set up Family Sharing”).
+
+A guide to terms about disability
+
+Use the table below as a general guide when writing about disability.
+In most cases, use identity-first language for people who consider a disability to be part
+of their identity; otherwise, you can use person-first language. When you’re writing about
+specific people with disabilities, be sure to find out how they prefer to be identified.
+Identity first
+
+It’s OK to refer to specific genders if the context requires it.
+The percentage of women in the workforce has increased.
+Women should earn the same as men for comparable work.
+
+Avoid binary representations of gender when you can reword using gender-neutral
+language.
+
+You can also avoid gender-specific pronouns by rewriting a sentence—for example, using
+the plural form of the noun (subscribers can post their recipes), or simply omitting the
+pronoun (a subscriber can post recipes).
+
+If you refer to a specific person, don’t make assumptions about which pronouns to use
+based on the person’s name or appearance. If you’re unsure how to refer to someone, you
+can ask them. Individuals may go by he/him, she/her, they/them, other pronouns, or no
+pronouns.
+
+
+
+

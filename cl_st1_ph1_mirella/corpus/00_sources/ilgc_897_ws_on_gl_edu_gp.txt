@@ -1,0 +1,52 @@
+1. Ensure accessibility of your information
+
+People take in information in different ways, and text may not always be the best way to communicate. If possible, combine text with images, video, or speech. Try to make your message accessible to everyone, including persons with dyslexia, hearing impairments and visual impairments. You can add subtitles to videos (captions and translations), descriptions to images ('alt-text'), and transcripts to audio files. When using visuals, check whether the colours are sufficiently contrastive. This website on web accessibility contains more guidelines.
+
+2. Adjust the complexity of language to your audience
+
+It is always a good idea to write with your audience in mind. Adapt the complexity of your language to the language level and needs of your readers. We expect complex language in academic communication, but not in Instagram posts. If you want to reach a wider audience, it is best to avoid long, complex sentences with difficult words or specialist language. Language level B1 (CEFR) is a good guideline. Most people understand texts at this level and prefer it to reading an unnecessarily complex text. Writing at B1 level means using:
+
+clear titles and sub-headings
+short sentences
+linking words: The earth gets warmer. Therefore, we need to ...
+active sentences: They studied instead of A study was performed
+common words: clearly instead of unequivocally
+
+3. Do not mention irrelevant aspects of someone's identity
+
+If not relevant, don't emphasise someone's gender expression, colour, religion, sexual orientation, generation/age, mental or physical abilities, level of education, or socioeconomic status. In the sentence The Islamic candidate Humza Yousaf received more votes than Kate Forbes, the fact that the first candidate is Islamic is irrelevant. When you add information about someone's identity, you can check whether this is inclusive by turning it around: would you also write the Christian (or Calvinist) candidate Kate Forbes? If the answer is no, adding information about a person's religion is irrelevant.
+
+4. Focus on a person, not an aspect of their identity
+
+Avoid using nouns like autist, pensioner, or lesbian. Research shows that such nouns reinforce stereotypes and portray one aspect of someone's identity as their only defining characteristic. 
+
+When speaking about disability, avoid using phrases that suggest the person in question is a victim, such as afflicted by, victim of or confined to a wheelchair. It is also better to avoid euphemisms like differently abled, or specially abled, or the commonly used challenged. These terms may be irrelevant or unclear to your readers.
+
+5. Avoid asymmetrical language
+
+Asymmetrical language is language that labels the same information differently for different people. For example, when describing strongminded people, women are more likely to be described as bitchy and men as decisive. Terms like working mother and male nurse also maintain stereotypes associated with gender. When we turn these around (working father and female nurse) the asymmetry is usually more easily identified.
+
+6. Avoid 'othering'
+
+The sentence Employees from other cultures bring many benefits to an organisation is an example of 'othering'. A whole group of people is described as 'the other', and it is unclear who they are compared to (a culture other than what?). Instead, you could say A team with diverse cultural backgrounds brings many benefits to an organisation. 'Othering' usually implies certain norms. The phrase people with another sexual orientation to refer to homosexual people implies that heterosexuality is the norm, and non-Western countries implies that Western countries are the norm. Try to clarify the comparison or avoid it altogether. For example, instead of saying speakers of another language are invited to apply, you can say speakers of a language other than Dutch or English are invited to apply.
+
+7. Aim for gender-inclusive language
+
+Everyone likes to be addressed appropriately. However, we cannot always tell a person's gender from their name or appearance. If you don't know or can't check, you can use neutral forms of address such as Dear colleague or Dear reader. If you know the first name or initials.
+
+When making forms or questionnaires, ask yourself if it is necessary to include questions about gender details. In most cases, this information is not required or should be avoided for privacy reasons. If you do need to collect this information, it is recommended to include an open option and a prefer not to respond option.
+
+Some people indicate their preferred pronouns in their e-mail signature or LinkedIn profile, such as she/her, they/them, or he/him. When a person lists he/they or she/they, they use both pronouns and you can probably mix them up. We encourage you to list your preferred pronouns as well to promote their use.
+
+Consider the following sentence. We speak of too much work pressure when it affects a professor's functioning in his work or private situation. This sentence is meant to describe any professor. However, the pronoun his reinforces the stereotype that professors are male. Note that opting instead for he/she excludes non-binary and genderqueer people. You can use the plural pronouns they/them/their as neutral pronouns, even when you refer to a single person: We speak of too much work pressure when it affects a professor's functioning in their work or private situation. Another option is using plural nouns (professors in their work or private situation) instead of singular nouns.
+
+Many words in English are divided into masculine and feminine forms, like father, sister, guys, wife, or boyfriend. When you refer to people in general or to people whose gender you do not know, you can use neutral words such as parent, sibling, people, or partner.
+
+Jobs and professions
+
+In English, some job titles are gender neutral, such as writer and teacher, and many others now have a commonly used neutral term. In some cases, however, there is no truly neutral form. Two separate words for a job title or profession then exist: a neutral/male form and a female form, such as actor/actress and host/hostess. In English, it is recommended to use the first, neutral form. The more we use neutral forms to describe people of any gender, the less we will associate them with a certain gender. In time, this promotes gender-inclusive language.
+
+8. Use a variety of images
+
+Try to select neutral or diverse images, so that as many people as possible recognise themselves, feel welcome and are addressed. For example, do not always use a white, able-bodied family with a father, mother and two children.
+

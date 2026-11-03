@@ -1,0 +1,74 @@
+Avoid | Preferred
+
+able-bodied, healthy | without disabilities
+affected by, stricken with, suffers from, a victim of, an epileptic | has multiple sclerosis, cerebral palsy, a seizure disorder, or muscular dystrophy
+crippled, lame | has limited mobility, has a mobility or physical disability
+confined to a wheelchair | uses a wheelchair
+disabled, impaired | person with visual impairment, person who is blind (etc)
+dumb, mute | is unable to speak, uses synthetic speech
+hearing-impaired | deaf or hard-of-hearing
+maimed, missing a limb | person with a prosthetic limb, person without a limb
+mentally handicapped, differently abled, slow learner | cognitive disabilities, developmental disabilities
+sight-impaired, vision-impaired | blind, has low vision
+
+Avoid | Preferred
+
+abnormal | atypical
+blind to, deaf to | ignore
+cripple | hinder
+crippled | broken
+dumb | undesirable, uncool
+dummy value | placeholder value, sample value
+lame | undesirable, uncool
+normal | typical
+mute | gone silent
+sanity check | quick check, confidence check, coherence check
+tone deaf | inconsiderate, thoughtless, careless
+
+Avoid | Preferred
+
+digital native | person who grew up with readily available computer technology
+digital immigrant | person who did not grow up with readily available computer technology
+grandmother/grandfather test | non-subject matter expert test
+
+Avoid | Preferred
+
+black box | functional testing, acceptance testing
+black hat hacker | malicious actor, bad actor, unauthorized user, malicious hacker, miscreant, perpetrator
+blacklist | denylist, blocklist
+demilitarized zone (dmz) | perimeter network
+grandfathered | legacy status, preexisting
+first class citizen | core concept, top-level
+hacker, hack | Use malicious hacker to refer to an unauthorized user who accesses a system with the intent to cause harm. If the unauthorized user's intent isn't known or isn't malicious, use unauthorized user. Don't use hacker in content for a general audience. In general use, the term often has negative connotations. It's ok to use hack and hacker in content for developers or in contexts where positive outcomes are involved, such as hackathons. Don't use hacker to mean an amateur programmer. Don't use hack to mean improvising a solution to a programming problem unless the positive context is well understood.
+hang | stop responding
+housekeeping tasks | maintenance, upkeep
+kill (a process) | forcefully halt, stop
+kill two birds with one stone | feed two birds with one scone
+master/slave | primary/subordinate, primary/replica, leader/follower
+native feature | built-in feature
+nuke | delete
+off the reservation | against the grain, counterproductive
+open the kimono | reveal the details, show transparency
+owner | lead, manager, expert
+rule of thumb | unwritten rule, guideline, general guideline, general principle, standard
+white box | glass box testing, clear box testing
+white hat hacker | computer security expert
+whitelist | allowlist, safelist
+
+Avoid | Preferred
+
+he, she | they, them
+his, her | their
+guys, gals | folks, team, y'all
+chairman | chair, moderator, chairperson
+man, mankind | humanity, people, humankind
+sister organization | associated organization, partner organization
+right-hand man | counterpart, indispensable
+man hours, manpower | person hours, engineer hours, level of effort (hours)
+man-in-the-middle | person-in-the-middle, attacker-in-the-middle
+Female connector | socket
+Male connector | plug
+
+
+Avoid: Help desk scams tend to target the older technology user because he lacks technology skills.
+Preferred: Help desk scams tend to target the older technology user because they lack technology skills.

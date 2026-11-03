@@ -1,0 +1,14 @@
+pronouns.org
+Inclusive Language
+
+How do I use gender inclusive language?
+
+This reference is meant to provide you with very basic pointers and replacement language to help avoid gender assumptions in your language. Although you might not mean harm, using language that assumes another person's gender or pronouns (if that person has not shared the gender or pronouns to use) can cause harm, as can using language that erases some people's genders by implying there are only two genders (or that only a certain gender is qualified to do a particular job).
+
+Many people have already made the shift in their language to avoid "that's so gay" as a derogatory phrase or to avoid assumptions about sexual orientation (e.g. asking a woman if she has a boyfriend). Many people have stopped using "he" as a universal language to refer to all people, or to exclusive "he" language or "she" language to refer to all fire fighters, all flight attendants, all doctors, all nurses, all administrative assistants, all college students, etc.
+
+Similarly, we need to shift our language to avoid further assumptions that particularly harm transgender and gender nonconforming people. Small changes in language can make a big difference in peoples lives.
+
+It is fine to use singular pronoun "they" as a way to refer to a specific person who goes by the pronoun "they" or to colloquially refer to a single person of unspecified gender. However, it may not be the best choice of language for a policy or technical writing in which a reference to a single person must be absolutely clear. In this case, instead of writing "he or she" or "s/he" or even "he/she/they" or "they," it may be best to instead simply repeat the noun: the complainant, the representative, the member, the person, etc. That way, there is total policy clarity. There are also ways to edit sentences to avoid unnecessary repetition.
+
+This website also provides much more explanation, examples, and information about pronouns and gender inclusive language.

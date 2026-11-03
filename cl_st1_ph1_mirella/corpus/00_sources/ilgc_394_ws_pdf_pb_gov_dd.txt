@@ -1,0 +1,89 @@
+ EXCLUSIONARY: Men and women (e.g. "The men and women working at the City...")
+ INCLUSIVE: People, employees, etc. (e.g. "The people working at the City...", "The City employees...", "Employees of all genders...")
+
+ Both genders
+ All genders
+
+ Opposite gender, opposite sex
+ Different gender
+
+ Councilman, alderman, aldermanic district
+ Council member, alder, alder district
+
+ He or she, (s)he, s/he
+ They
+
+ Him or her
+ Them
+
+ His or her(s)
+ Their(s)
+
+ Mr., Ms., Mrs., Miss (honorifics)
+ Use the person's name, or a gender-neutral title. Use honorifics only if the person has indicated which they use. Note the gender-neutral honorific "Mx.".
+
+ Chairman
+ Chair, chairperson
+
+ Policeman
+ Police officer
+
+ Fireman
+ Firefighter
+
+ Landlord, landlady
+ Owner, landowner, property owner
+
+ Husband or wife
+ Spouse, partner
+
+ Father or mother, sister or brother
+ Parent, sibling
+
+ Layman
+ Layperson, average person
+
+ Manpower, man hours
+ Staffing, staff hours
+
+ Hello, ladies and gentlemen!
+ Hello, everyone! Hello, all!
+
+ Dear Sir or Madam
+ Greetings, To Whom it May Concern, Dear [name]
+
+OFFENSIVE/OUTDATED: Transgendered
+CORRECT: Transgender
+
+ _____ is a transgender.
+ _____ is transgender. (Transgender is an adjective, not a noun.)
+
+Transman, transwoman, trans male, trans female
+Man, woman, transgender man, transgender woman, trans man, trans woman (include space)
+
+Males, females
+Men, women
+
+Sex reassignment surgery, sex change operation
+Gender confirmation surgery
+
+Sex change
+Transition
+
+Biologically male / female, born a man / woman
+Assigned male / female at birth (it is very rarely appropriate to talk about a person's sex)
+
+Real name, birth name
+Deadname (do not use a person's deadname; always refer to the person by their chosen name)
+
+INVALIDATING: Preferred name and pronouns
+VALIDATING: Name and pronouns; chosen* name and pronouns (*use "chosen" only when distinguishing from deadname)
+
+ ______ identifies as ______ (e.g. Carl identifies as male.)
+ ______ is ______ (e.g. Carl is a man.)
+
+ People who identify as non-binary
+ Non-binary people
+
+ Women and transgender women
+ Women, or transgender and cisgender women

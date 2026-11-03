@@ -1,0 +1,92 @@
+Accurate Pronouns and Possessives (he, she, they; her, his, theirs)
+
+Rather than assuming someone's pronouns, wait for someone else to share their pronouns before using those pronouns in written or oral communication. Until you know someone's pronouns, use their name to identify them, and the singular "they" if needed. You can introduce yourself with your pronouns to encourage others to share theirs.
+
+In written communication, this also means avoiding gendered titles such as "Mr.", "Mrs.", or "Ms." until you are aware of the gender that the individual you are communicating with uses. You can instead use their first name or full name.
+
+Also, reconsider your use of "Mrs." and "miss" in general, as "Mrs." has been historically used when someone is married, while "Miss" has been used when someone is unmarried. Whether someone is or isn't married is (1) hard to determine, and (2) unnecessary information to communicate with them. Instead, using "Ms.", which can be applied whether someone is married or unmarried, is more appropriate.
+
+Singular They
+
+Historically, English did not have a neutral, singular, third-person pronoun. This required speakers and writers to either use a gendered pronoun like 'she' or 'he' or use an awkward phrase like "If a student is late to class, he or she will lose a mark". In recent years, the use of the singular 'they' has gained wider acceptance within English. It has even been adapted into the APA Style Guide. 'They' is a neutral pronoun and can refer to any person regardless of their gender.
+
+You likely use the singular 'they' without even realizing it. Common phrases might include, "Someone dropped their wallet on the floor", "That child almost slipped on the ice! They need to be more careful", or "They are a terrible driver." In these examples, the gender of the person is either unknown or irrelevant.
+
+When using the singular 'they' in a sentence, we still conjugate the verb as a plural even if referring to a singular person.
+
+"They are having a good time" instead of "They is having a good time"
+"The student missed their bus, so they were late for class" instead of "they was late for class"
+
+Relevance of Gendered Details
+
+When you are writing, think critically about the details you include about someone. In many sentences, the possible gender of a person is entirely irrelevant to understanding the meaning!
+
+Consider the example: "If a student is late to class, he or she will lose a mark".
+
+Ask yourself:
+
+Does the meaning of the sentence rely on knowing the gender?
+As a reader, do I gain any information about the class attendance policy by knowing the gender?
+
+The answer is no.
+
+Considering the question, "Is this information relevant?" can help to uncover your own bias, to think critically about your own writing and communication, to promote inclusivity in your writing, and to help ensure you are not inadvertently "outing" a detail about someone that they do not want shared.
+
+Gender Inclusive Nouns
+
+There are some nouns that once ended in "-man", which now have gender inclusive equivalents. 
+
+Can you think of any gendered nouns from your field of study? What opportunities can you think of to reduce gendered nouns, and instead incorporate more gender-inclusive nouns?
+
+"Binary" Language
+
+When we greet people with the phrase "men and women", or "boys and girls", this reinforces a gender binary, which may not be inclusive to all individuals. This "binary" assumes everyone fits into these two categories, which is inaccurate and exclusionary. 
+In written communication, language that reinforces this binary includes phrases like "When a student begins his or her program at RRC Polytech, he or she must visit a Student Centre to create a student card and pay his or her student fees." Avoid this binary language by using the inclusive pronoun "they", eliminating the modifier, or continuing the use of the noun "student". For example, "When a student begins a program at RRC Polytech, they must visit a Student Centre to create a student card and pay student fees."
+
+Assuming Gender and Reinforcing Gender Stereotypes
+
+Some roles have been historically held by men, and these historical tendencies are often applied inaccurately in current conversations. On the flip side, some roles have been historically held by women. Don't assume a kindergarten teacher is a woman, for example.
+
+Consider how this stereotype is being perpetuated in the following situation:
+
+Person 1: I have a dentist appointment this afternoon, so I'll be away from the office.
+Person 2: Where is his office located?
+
+There is an assumption that the dentist is a man. Rather than using the gendered possessive pronoun his, continue to use the gender inclusive term "dentist", as in "Where is your dentist's office located?"
+
+Using Problematic Gender-Based Expressions
+
+There are some gender-based expressions that reinforce gender stereotypes. Discriminatory examples include:
+
+"She throws like a girl."
+"Man up."
+"In a manly way."
+"Oh, that's women's work."
+
+These expressions should be completely avoided.
+
+Additionally, referring to women as "girls" can be seen as condescending. Avoid this language.
+
+Finally, asking about someone's maiden name (or the surname they used prior to marriage) is also problematic. This assumes (1) that someone is married, and (2) that they would change their name if they got married. Additionally, it's typically an irrelevant detail.
+
+Reinforcing Gender Stereotypes through Language
+
+We tend to "gender language" by giving some nouns more stereotypically feminine or stereotypically masculine traits.
+
+For example, some words are more commonly attributed to women or men, or boys or girls.
+
+Female – pretty | Male – handsome
+Female – bossy | Male – assertive
+
+As you write, consider if your writing reinforces any of these gender stereotypes. If so, try to remove this by describing the behaviour or person in more neutral terms. For example, rather than "She was bossy, consider "She directed her team members' activities."
+
+Avoiding "Modifiers" that Selectively Reinforce Stereotypes
+
+Although some words might seem gender-inclusive, we might use modifiers selectively that reinforce a stereotype about what is the "norm" and what is outside of the "norm".
+
+For example, the word "couple" might be used unconsciously to imply "man and woman". The word is then modified to "same-sex couple" to imply "woman and woman", "man and man" or individuals who may not identify within this gender binary. In this way, the use of this modifier "same-sex" reinforces the stereotype that "couple" means "man and woman". You can change this by (1) using a modifier regardless of the situation (as in "opposite-sex couple"), or (2) not using a modifier in any of these situations.
+
+As another example, even when trying to be gender inclusive in our language, we may use phrases like "preferred pronouns" or "sexual preferences"; our pronouns and our sexual orientation is part of our identity and not a preference. We can demonstrate inclusivity and respect by substituting the expressions "pronouns/personal pronouns" and "sexual orientation/identity".
+
+Which of these strategies to foster more inclusive language can you commit to using in your communication?
+

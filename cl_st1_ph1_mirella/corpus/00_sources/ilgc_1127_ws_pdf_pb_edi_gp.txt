@@ -1,0 +1,166 @@
+Reducing unconscious bias in journalism: A thinking guide for working journalists
+
+What is my perspective?
+
+How do my values or life experiences affect how I approach a story (verbal or visual)?
+What steps have I taken to ensure those values or experiences don't unfairly influence my story?
+
+What are my motives?
+
+Do I have a self-interest in or strong opinions about a story, subject or source?
+What steps have I taken to disclose or detach from any personal motives or interests?
+
+What are my assumptions?
+
+Have I taken a mental inventory of my own knowledge about or reaction to a subject?
+What have I done to ensure that my assumptions don't unfairly limit or influence my story?
+
+Who are the stakeholders?
+
+How might various members of the public be affected by my story?
+What steps have I taken to discover and address their perspectives?
+Are we perpetuating or committing an injustice with this story? Am I following the SPJ code of ethics to minimize harm?
+
+How impartial is my story?
+
+How might my story be perceived by various members of the public?
+What have I done to ensure that my story is free of loaded language or unintended slants?
+What steps have I taken to exercise independent judgment, detached from any agenda?
+What have I done to ensure my actions and work are free of the appearance of bias?
+Will my work process, and story, stand up to professional and public scrutiny?
+
+How deep is my reporting?
+
+What steps have I taken to report beyond my comfort zone, and to develop sources with varying perspectives on an issue?
+Have I sought diverse sources for this story, or do I only feature voices from a dominant group (e.g. all white people, or all men)?
+As I seek diversity, am I furthering stereotypes or battling stereotypes?
+Am I employing "tokenism," allowing one person to represent a community, or am I seeking true diversity?
+Have I allowed preconceived ideas to limit my efforts to include diversity?
+Did I ask my subject what he, she or they wanted to be called, and what pronouns they may or may not prefer?
+
+The following list has been adapted and updated from one that was used in this newsroom in the 90s.
+
+Headlines and General Language
+
+Are racial identifiers used evenly? (If race is irrelevant, leave it out.)
+Does the headline include a word in quotes? What is the intended and implied meaning?
+Is it from a quote in the story?
+Does it come off as skeptical or dismissive, reading as "scare quotes"? (Quotes used in this way often put an unintended spin on the word.)
+
+Did I use an explanatory comma? Why?
+An example of an explanatory comma: Tupac Shakur, a popular African-American rap musician from the early 90s.
+Explanatory commas rely on an assumption of who the audience is and what they know, positioning some parts of culture or knowledge as "non-mainstream" (e.g. a comma for Tupac Shakur, but not for Marina Abramovic).
+Don't avoid explanatory language at all costs, but be aware of the perspective these clauses imply when used (or not, as the case may be).
+
+Is it free of coded language, for example, "inner city" or "urban" to refer to Black people, or "bossy" to refer to women who speak their minds?
+
+Have I avoided labels that can stereotype or give inaccurate impressions, e.g. "classy" or "sidekick"? If not, use more words to describe what you're trying to convey (e.g. instead of "pro-Trump," just explain their viewpoint).
+
+Is race relevant? Have I explained the relevance? (If it's not relevant, leave it out.)
+
+Am I using passive or active language? Who is the subject of that language?
+
+Does it rely on the police narrative (or other institutional narrative)? If so, is it clearly labeled as the police narrative? And have we questioned the police on how they know what they're asserting?
+
+Should I consult someone of another race/ethnicity?
+
+Will I be able to clearly and honestly explain, not rationalize, my decision to anyone who challenges it?
+
+What are the likely consequences of publication? Who will be hurt and who will be helped?
+
+How could the editorial decisions we make affect the people we cover?
+
+If an issue was not mentioned above, consult #sensitive-news-help in Slack and diversitystyleguide.com.
+
+Best practice is to refer to individual racial/ethnic groups, if you can, and avoid both terms.
+
+In general, ask your subject(s) how they would like to be identified.
+
+In general, ask your subject(s) how they would like to be identified.
+
+"Black" and "white"
+Avoid using the terms "whites" and "blacks", make every effort to use these words as adjectives, not as nouns.
+
+"angry"
+"Angry" is a harmful stereotype and makes us appear ignorant to the complexity of human emotion. Rather than focusing on anger, attempt to capture a range of sentiments.
+
+Do not use the term jokingly, i.e. "Soup Nazi," "Grammar Nazi."
+Do not use the term as a label describing hateful far-right ideology. Instead, describe those beliefs in the context of the story.
+
+Our approach to "alt-right"
+
+In the world of words, whether it be the big ones in headlines or the smaller ones in the heart of a story, our aim is to be as precise as possible and not to send unintended messages.
+
+Which brings us to "alt-right," a term that exploded in usage post-election. We quickly recognized the need to add clarity, what does "alt-right" really mean, and to determine when it should be used.
+
+Both internally and externally, there has been robust conversation about usage of the term in news stories, when and if it is appropriate, if there is a universal understanding of what "alt-right" means, and whether we were allowing a label to mask or sanitize core beliefs. We determined a path that was consistent with our mission to be as clear and direct as possible.
+
+Here is what we decided: As a matter of policy, The Times will avoid using the term "alt-right" except in quotes or in stories about the term or movement, and then explain / define it whenever we do use it. That led to a staff-produced story about the term and its origin. We plan to link to this story whenever the term is used.
+
+This approach was consistent with The Associated Press' existing guidance to news providers for handling similar labels, which says, in general, avoid such terms in favor of more precise descriptions of an individual's political philosophy.
+
+After we offered this direction to our own news staff, AP issued specific guidance on writing about the "alt-right." The direction and conclusions are the same.
+
+As new words and phrases emerge and familiar ones change in meaning, we will adjust along the way.
+
+More coded terms to avoid:
+
+"Urban" (in reference to a community or when describing a person)
+"Mixed" (referring to someone's race, unless they specifically describe themselves this way)
+"Foreign"/"foreign-born"
+"Exotic"
+"Ethnic"
+"Ninja," "guru," "shaman," "sherpa," "sensei," etc. when used to imply expertise in an area
+"Racially tinged," "racially motivated," "racially charged," "racial undercurrent," "derogatory" (describing a racist word), avoid these euphemisms
+
+For Reporters and Photographers
+
+How do I seek story ideas? In what ways can I expand the types of people, places and organizations from which I draw story ideas and angles?
+
+Where do my assignments come from? How connected are we to various demographic groups in our area? How receptive are we to story suggestions?
+
+Do I always report from the same neighborhoods and areas? Am I finding stories from areas throughout our coverage areas?
+
+When speaking to people on assignment, do I take the time to ask them what issues they care about and take the time to listen?
+
+Do I attempt to find out how the actions of the agency or organization I cover affect people in diverse populations in our community?
+
+Do I seek stories that originate with the members of the community affected by this agency or organization, rather than from the players within the organization?
+
+Am I considering how each of my stories affects diverse communities? Am I including their voices in my stories?
+
+How well do I make use of diverse sources? How do I attempt to expand the paper's ability to tap those sources?
+
+How do I expand my own lists of contacts and sources?
+
+Do I get out of the office enough in an effort to develop my own sources and contacts in diverse communities?
+
+Do I take the time to consider whether people throughout our coverage areas see themselves in the stories I write, the photographs I make and videos I produce?
+
+For Editors
+
+Am I making diversity a clear priority in the assignment and scheduling of stories?
+
+Am I giving reporters the time to pursue diverse sources and stories?
+
+Do I get out of the office in an effort to develop my own sources and contacts in diverse communities?
+
+Am I challenging my own and others' notions of what constitutes news, in the effort to avoid ethnocentrism?
+
+Do I seek input from a variety of people within the newsroom evaluating stories and story ideas?
+
+For Web Producers, Designers and Photo Editors
+
+Am I properly contextualizing sensitive stories on social media with the headline/chatter/summary? Am I omitting crucial information, changing the context of story? (Sometimes this is all users will see, many don't click through or will make assumptions about the story before they read it.)
+
+Am I thinking about sensitive stories' placement on our website in relation to other stories and advertisements?
+
+Does each section front, homepage and social media feed feature a range of stories and visuals depicting a diverse representation of people?
+
+In making critical decisions about headlines, photos and story selection, am I including a diverse group of fellow staffers in the conversation?
+
+When selecting photos from other countries and of at-risk populations, am I applying the same standards as I do for photos of my own community?
+
+In selecting photos and stories on diverse people and communities, am I depicting only stereotypical situations? For example, am I showing black males in circumstances beyond sporting events and breaking news? Am I showing ethnic groups in circumstances beyond cultural festivals? Am I showing international countries in situations beyond conflict and natural disasters?
+
+If concerns arise, raise the alarm ASAP to the story's editor and any others who may be able to provide insight, including #sensitive-news-help in Slack.

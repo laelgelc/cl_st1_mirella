@@ -1,0 +1,8 @@
+Examples include:
+
+    traditional, non-inclusive                inclusive
+    --------------------------                ---------
+    disabled person                           person with / living with a disability
+    in a wheelchair                           wheelchair user
+    disabled toilet / parking / facilities    accessible toilet / parking / facilities
+    able-bodied person                        person without a disability

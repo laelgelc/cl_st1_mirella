@@ -1,0 +1,38 @@
+We all should gather knowledge and not expect marginalized groups to teach us. That is not their job, we can do our homework, practice and learn, and expand our conscience. The language we use evolves with our empathy and words of choice. Below you can find a list of terms currently used in tech and suggestions for inclusive replacements:
+
+Gendered words
+Inclusive communications make everyone feel included because they allow space for everyone’s identities. Here are some expressions commonly used and how you can incorporate inclusive language:
+
+She/hers/her or he/his/him → They/them/their
+Guys → Folks, people, you all, y’all
+Wives, husbands, boyfriends, girlfriends → Spouses, partners
+Manpower, man hours → Labor, labor hours
+Mothering, fathering → Parenting
+Mom test, girlfriend test → User test
+Chairman, foreman → Chairperson, foreperson
+Girl/Girls → For anyone over 18 years old use woman/women
+Middleman → Middle person
+Note: Don’t assume the gender of anyone. If you need to reference their gender, just ask. You can also include your preferred pronoun in your business email signature, LinkedIn, and Twitter.
+
+Ableism
+Discrimination or prejudice against individuals with disabilities reflects the dominant attitudes in society that assume that some characteristics are better than others and excludes people with disabilities. Here are some examples of common expressions and suggested replacement language:
+
+“Normal” → Typical
+“Crazy” → Unexpected, unpredictable
+“OCD” → Organized, detail-oriented
+Sanity Check → Confidence check, quick check
+Handicapped → Person with disabilities
+Dominant practices
+Dominant practices are those seen by many as the way things are supposed to be and preferred. Beliefs centered on dominant culture and values. With this, marginalized people and groups are left behind, feeling they aren’t included or don’t have a voice in the dominant culture. Some recommended replacements for non-inclusive tech expressions follow:
+
+Culture Fit → Values Fit, cultural contribution
+Master/Slave → Primary/replica, primary/standby
+Whitelist → Allowlist
+Blacklist → Denylist
+Minority → Marginalized groups, underrepresented groups
+Ageism
+Ageism is the belief and actions discriminating on the grounds of a person’s age or in the case of a group, the age of its members. Below are some expressions used that reinforce ageism:
+
+Grandfathering/Grandfather → Legacy
+Using “old” as a negative
+Using “young” as a positive

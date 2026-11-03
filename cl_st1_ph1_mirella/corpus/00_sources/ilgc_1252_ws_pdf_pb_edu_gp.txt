@@ -1,0 +1,196 @@
+General guidelines
+
+The purpose of the guidelines on inclusive language is to provide instructions and practical procedures for the use of non-discriminatory, bias-free, neutral, and standardised language in the workplace, school and university, and in the delivery of services. Guidelines on inclusive language raise awareness, foster culturally sensitive terms and expressions, explain the origin and meaning of problematic terms, and suggest more up-to-date alternatives.
+Style guides for writers and communicators, unlike those produced by national or international organisations, are intended for the general use of oral and writing language where the users can find any information useful for their own purposes.
+Not all guides on inclusive language are accessible to a wide audience and are often aimed at specific types of professional users, mainly researchers and research institutes in specific fields. Since these guidelines tend to be very specialised they may not stand scrutiny out of context. In some cases, the recommended or advisable language may be at odds with the specific needs of the individuals or groups on main grounds for discrimination, or may even risk in turn to label certain individuals for whom, the perception of belonging do not match with the criteria of the guide.
+The guidelines on inclusive language provide instructions on six macro-areas based on the main grounds for discrimination: Age, Disability, Ethnic/Racial Identity, Gender, Sexual Orientation, and Socio-Cultural Status. Few guidelines identify other more specific and targeted forms of discrimination that can be included (as subsections) in these macro-areas, particularly those concerning Ethnic/Racial Identity and Socio-Cultural Status.
+For each of these macro-areas, the guidelines on inclusive language usually (a) identify terms to be avoided, (b) suggest alternative terms or expressions, (c) explain the origin and meaning of specific terms or expressions, (d) provide short vocabularies or glossaries, (e) include practical examples or tests, and (f) conclude with a bibliography or list of resources.
+
+The macro-area are as follows.
+
+Age
+
+The guidelines explain how to avoid terms or expressions that could be perceived as manifestations of ageism, i.e. the application of age-based group characteristics to an individual, regardless of their actual personal characteristics. More specifically, the guidelines indicate how to avoid connotations that refer to age; how to avoid terms, phrases or expressions that may stereotype individuals or groups or convey negative connotations based on age; how to avoid the use of stereotypical language implying that a particular age group is more or less capable than another.
+
+Disability
+
+The guidelines recommend using language that focuses on the individual and not on their physical or mental disabilities and to avoid defining an individual or group by their status. Recent empirical studies show that there is no consensus on the preferred terminology. More specifically, the instructions focus on two aspects of language: (a) "person-oriented language", a guiding principle that places the person first in the sentence structure, before the status of the group or individual (this is widely used to refer to health conditions, but it is also considered good practice for other descriptors); (b) "identity-oriented language", which, on the other hand, places status before the person in the sentence structure and is preferred by some groups, such as the deaf and deaf-mute community and persons with autism.
+
+
+Ethnic/Racial Identity
+
+The guidelines provide instructions on how to write about cultural minorities and different ethnic groups (words, phrases and expressions to use and avoid), define the concepts of race and ethnicity and the commonly used terms associated with them, often provide a list of ethnic groups and recommend avoiding the use of terms that mask inequalities between different ethnic groups and may create misleading interpretations, the use of capitalisation (the circumstances in which it may or may not be appropriate to use capital letters) and abbreviations, and avoiding microaggressions, exclusionary expressions and indirect discriminations by using culturally appropriate language that is not pejorative or violent. They also provide instructions and examples on how to indicate geographical origin.
+The guidelines on inclusive language for journalists, publishers and law enforcement often focus in more detail on the following subsections.
+
+Culture and Ancestry: the guidelines indicate how to avoid cultural appropriation of language (decontextualising or depriving some words of their local or native cultural meaning). Cultural appropriation refers to the misuse of cultural knowledge, terminology, and practices by those who do not belong to that cultural group and to the ways in which cultural terms and expressions are used against specific groups by those who do not belong to that cultural group and who profess to hold expertise and authority over their use. It includes sacred and exclusive terminology. Ancestry refers to a cultural identification based on a person's place-based and socio-cultural origin in respect of their belonging and how they prefer to be identified. It is based on cultural attachments, family belonging, linguistic heritage, religious affiliations, claimed kinship, or physical traits. The guidelines also indicate how to use cultural labels, names and expressions to avoid describing some groups as inferior or superior to others and to respect a group's or individual's preferences on how they wish to be recognised.
+
+Indigenous peoples: the guidelines suggest the use of language that includes and accurately represents different groups of Indigenous peoples, in order to develop forms of reconciliation. However, reconciliation per se may not be always the primary target. Depending on the context and time, the request of Indigenous people might be rather be for the white people's acknowledgement of wrong-doing and acceptance of responsibility.
+
+In-Group terms: the guidelines indicate how to appropriately, non-offensively and respectfully use in-group terms, i.e. those terms (often formed as an act of resilience and re-appropriation) accepted and used by members of the same group but inappropriately used by people outside the group.
+
+Gender
+
+The guidelines focus on the use of gender-neutral language and terms, going beyond the male/female binomial, recognising the differences between gender, gender identity, and sexual orientation, and suggesting alternatives to avoid the use of gender-specific language. This is the macro-area that has received most attention and consideration: there are specific and targeted toolkits on gender-sensitive communication, provided in particular by the European Union and other international organisations, for the use of gender-neutral language in all official communications and materials. The instructions focus on the use of pronouns (especially third person pronouns and the plural/neutral gender pronoun "they") and provide a set of terms and expressions (and related explanations and definitions) emphasising the complexity of gender and some practical techniques for gender inclusion on the use of gender exemplifications, job/professional titles, courtesy titles, naming conventions, the use of word hierarchy and patronising language.
+
+Sexual Orientation
+
+The guidelines provide a set of terms (and corresponding explanations and definitions) that aim to recognise differences between sexual orientation and gender identity, avoiding expressions that unnecessarily differentiate between women and men or that exclude, trivialise, or devalue either gender.
+
+Socio-Cultural Status
+
+The guidelines provide instructions on how to avoid reinforcing or conveying prejudices and stereotypes based on informal language commonly used to talk about people of low social, economic or cultural status, and discriminating on the basis of social identity due to place of origin, citizenship status, marital status, religion, etc.
+Some guidelines on inclusive language focus in more detail on the following subsections.
+
+Immigration status: the guidelines provide instructions on how to avoid focusing on immigrant status by dehumanising, criminalising, or defaming non-citizens. They usually include a glossary or a list of terms related to immigration and immigrant status. Press and media guidelines, which may include the subsection on immigration status, are motivated by the need to create a correct narrative of immigration controversies and therefore provide detailed instructions on how to describe actions and not people and how to avoid inaccurate terminology related to the migrant and their illegal status. Similarly, the press and media guidelines provide appropriate terminology to identify and describe persons involved in crime and violence, as they have a responsibility to provide appropriate context to events and to explain the criminal justice system to the public in accessible language.
+
+Marital or Family status: the guidelines concern the linguistic use of a range of formal and informal family forms, marital status titles, and how a person is identified by the type of family and social relationships they have.
+
+Political beliefs: the guidelines provide instructions for the use of language that prevents persons' political beliefs from determining the way they are viewed and described by others.
+
+Religion: the guidelines provide instructions for the use of language that prevents a person's religion and beliefs from determining the way they are seen and described by others.
+
+APA - American Psychological Association. 2020. Bias-Free Language Guidelines for Writing About Socioeconomic Status.
+NAHJ - National Association of Hispanic Journalists. 2020. Cultural Competence Handbook.
+
+Inclusive language guidelines in the legal field
+
+The guides that provide specific instructions on legal writing include gender-neutral legal writing, guides for interpreters and translators, and guides on accessible language in court.
+
+Gender-neutral legal writing
+
+These guides indicate in particular how to recognise and use personal pronouns, how to grammatically structure sentences, how to use the passive voice, how to avoid gender-specific pronouns, adjective and nouns that may appear to imply that a person of a certain gender performs a certain job or role, and the use of alternative words or phrases in legal writing.
+
+Guides for interpreters and translators
+
+These guides indicate how the interpreter should mediate between individual and the court, how the interpreter should use direct speech in translation and corresponding examples, how the interpreter should translate and interpret the individual's message, how to reduce errors during the interpretation process, and when it is appropriate to use third person.
+
+Guides on accessible language in court
+
+These guides provide instructions on the use of plain language in court forms, signs, websites, and other court materials, indicating how to make courts information understandable, how to use comprehensible expressions, how to translate into non-English languages, and how to eliminate legalese.
+
+
+3. CULTEXP practical examples
+
+3.1 General instructions
+
+do not include information that is not strictly necessary, remove personal and sensitive information as not to emphasise irrelevant differences;
+avoid identifying a person's country of origin, ethnic group, skin colour or religion unless absolutely necessary;
+prefer the terms and expressions that people use to describe themselves;
+use appropriate, clear, and non-discriminatory terms and expressions, free of prejudicial connotations and stereotypes;
+treat culture-specific issues in a respectful and appropriate manner, avoiding pejorative or discriminatory labels;
+use adjectival forms or descriptive phrases to define personal characteristics, avoiding the use of adjectives as nouns that label people in a discriminatory manner or labels that equate people with their status or condition;
+do not use italics, capitalisation, or commas unless specified;
+if the identification of belonging to a certain social group is necessary to the case, ask people what are the terms that they prefer to use for self-identification;
+if the identification of belonging to a certain social group is necessary to the case, refer to the affected persons in priority and appoint a cultural expert to explain the challenges of identification and belonging to a particular social group. Cultural experts should try as much as possible to use non-binary terms and explain that the perception of age is an important factor that often in combination with other factors, such as class, education, finances, and so on have an impact on access to basic services and rights;
+preferred terminology should be dependent on the self-identification of the affected persons. However, languages and their social usage evolve and in this aspect the evolution has been very constant and fast in the last years. The effort to use terms that reflect self-identification must be balanced with the need to ensure that legal language has a stable, precise and widely accepted meaning.
+
+3.2 Thematic categories
+
+3.2.1 Age
+
+Use appropriate and non-discriminatory terms and expressions to describe the age of a person and avoid suggesting exclusion or belonging to a separate group.
+Be specific by using an age group or average age to avoid descriptive terms that isolate specific age groups or persons from the general population or that suggest prejudices or stereotypes about age-related abilities.
+Avoid generic terms that do not recognise the individuality of people and imply that people of specific age groups or generations are a homogeneous group.
+Avoid age cut-off points that exclude population groups and are relative because, depending on the social environment and culture, people can be considered adults at different ages.
+Prefer young person, young adult, older adults, older people, persons 65 years and over, and the older population or aged/aging population. The use of the term "old" is considered derogatory.
+
+PLEASE NOTE: the notion of younger and older are impacted by the context and in some context is preferable to use specific age groups than to apply an age category. For example, individuals who are perceived as adults in a context may be perceived as children in other contexts. If perception of belonging to a certain age group is relevant for the case, please ask the affected persons about self-identification and appoint a cultural expert to explain the challenges and criteria of belonging in that specific context.
+
+3.2.2 Cultures and Cultural Concepts
+
+Be aware of the meaning people attach to local terms and cultural expressions and practices. Research on the origin of the term is recommended if this is relevant for the assessment of facts.
+Avoid labels, names and cultural expressions that can be used to describe some groups as inferior or superior to others.
+Use italics for local terms or cultural practices in the original language. If possible, include a brief explanation.
+Check with the affected persons for using recognised and accepted terminology that is culturally sensitive and for expressions that are perceived as a standard form to convey respect to all cultural groups.
+
+3.2.4 Gender and Sexual Orientation
+
+Use gender-neutral language to avoid stereotyping, trivialising, and subordinating people according to their gender.
+Use gender-neutral terms instead of terms identifying a specific gender as representative of all types, as a neutral term or to refer to people in general.
+Avoid irrelevant and inappropriate gender descriptions and assigning gender to describe inanimate objects or events.
+Avoid using expressions that assume that a person's sexual orientation is a choice.
+Avoid gender pronouns, terms, and expressions that assign all persons to the masculine or binary gender male/female.
+Try to structure the sentence to omit the gender pronoun altogether without compromising clarity.
+Prefer humanity, human beings, people, individual, person, human fellowship, huma kinship.
+The following terms are examples of the need to engage in some reflection whenever gender and sexuality are relevant to the facts and are likely to generate rights and/or responsibilities. Social perceptions as well as legal provisions concerning gender, sex and sexuality are significantly diverse at a global level and greatly impact the lives of persons. The voice of the affected persons should be always considered in priority. Additionally whenever, rights and responsibilities are connected with considerations about gender, sex, and sexuality, the appointment of an expert will facilitate the use and the explanation of adequate terminology.
+
+
+3.2.5 Health and disabilities
+
+Do not include health information that is not strictly necessary. If it is necessary to describe facts, focus on what a person has, not on what a person is.
+Choose appropriately one of the following two approaches to describe a person with health problems or disability, avoiding using negative or prejudiced terms and expressions:
+Person-First Language that focuses on the person rather than their disability;
+Identity-First Language that focuses on the person's disability.
+Both approaches are considered appropriate, unless it is known that a group clearly prefers one approach, in which case the preferred approach should be used.
+Choose the term or expression with the understanding that the preferences expressed by persons with disabilities regarding identification take precedence over matters of style.
+Use correct terms for the impairment or disability, avoiding terms that could be considered offensive, condescending or patronising.
+Use adjectives, rather than nouns, when it is necessary to identify the disability of a person.
+Avoid the use of medical labels reinforcing stereotypes of victimisation or suffering as part of any disease, disorder, or disability.
+Avoid the use of pictorial metaphors, negativistic terms, and slurs that insult or discriminate a particular group.
+Avoid terms and expressions that may victimise people.
+Prefer person with a disability, person who has a disability, disabled person, people with intellectual disabilities, person with a physical disability, person with a mental disorder, person with a mental illness, person diagnosed with a psychiatric disability, person with depression, person with AIDS, person with alcohol use disorder, person with substance use disorder.
+
+
+3.2.6 Institutions and Titles
+
+Capitalise on institutional office titles, offices and institutional bodies.
+Whenever possible use gender-neutral job titles, which can be used regardless of gender.
+Do not use italics for job titles, offices, and bodies.
+Prefer Judge, Lawyer, President, Prime Minister, Public Prosecutor, Court, Ministry, Municipality. Capitalise Chief or Elder when is a part of person's title.
+
+3.2.7 Legal citations
+
+To respect the privacy and personal information, anonymise personal names in legal citations in open access court and legal documents when needed.
+Prefer initials in the legal citation instead of full names (for example, A.L. and P.G. v. Italy), but well-known cases may be cited with full name, as for example Lautsi v. Italy.
+
+3.2.8 Names
+
+Do not use people's personal names, date, or place of birth in open access court and legal documents. If strictly necessary, indicate initials only.
+Do not enter the name of streets or places identifying a person.
+Do not include the personal names of famous or popular persons if they are still alive and replace them with their profession or role.
+Include the full name of historical figures and do not use italics.
+Cite in original language the names of monuments or streets entitled to historical or illustrious persons, avoiding the use of italics or quotation marks.
+Capitalise formal titles and keep consistent, use local names if necessary or justified but always balance with the need to protect the privacy of the affected persons.
+Prefer the following formulations: the President of [name of country/organisation/etc.], and a street or monument called [name in original language].
+
+3.2.9 Persons
+
+Do not use people's personal names, date, or place of birth.
+Avoid the masculine version of functions and professions by using gender-neutral terminology. If the language is gendered (provides different forms for female and male professions), use both forms.
+Use standardised terms for parties involved in legal proceedings. Do not capitalise or italicise unless it depends on the local legal tradition or a specific grammatical rule.
+Prefer chair, chairperson, ombudsperson, police officer.
+
+
+3.2.11 Race, Ethnicity and Belonging
+
+Race, ethnicity and citizenship are social constructs that imply modes of belonging that change meaning over time, i.e. relational, dynamic and modifiable categories. Indicate belonging or origin in the way a person prefers to self-identify.
+Language that essentialises or reifies race is inappropriate.
+In general, avoid referring to a person's race, ethnicity, or country of origin unless it is relevant to the description.
+Avoid using citizen as a generic term for people living in a particular country. Capitalise the proper names of nationalities.
+Use adjectives, rather than nouns, when it is necessary to indicate the race or ethnicity of a person according to circumstances and context.
+In general, the use of skin colour as a classificatory label is generally equally appropriate and controversial, as well as pejorative and discriminatory in certain contexts. Even the use of specific origin should not replace ethnicity, if this is relevant, because it perpetuates the idea of the correlation between country and ethnicity and leads to discrimination against minorities.
+If the race, ethnicity, and country of origin are relevant, be as specific as possible and choose the terms or expressions that people use to describe themselves avoiding obsolete or pejorative terms and labels.
+Social groups are indicated by their recognised and accepted names in capital letters.
+Avoid terms and expressions derived from derogatory names or stereotypes of a certain group.
+
+3.2.12 Religions and beliefs
+
+Use the capital letter to indicate both the name of the religion or religious group and the corresponding adjective.
+Avoid using terms that may offend people's religious sensibilities carefully choosing terms and expressions that recognise and respect people with different religions and beliefs.
+Use italics if you are mentioning the name of Gods, Saints, Prophets, and people or entities that have a spiritual significance a deity or spirit in the original language and, if in doubt, inquiry on any corresponding courtesy formulas, epithets, or abbreviations.
+Use capital letters for objects considered sacred or religious. If using the original language, use italics and include a brief explanation of the term or object.
+Cite the names of sacred or religious texts, if they can be named, without specifying editions or formats, in regular style, avoiding translations, italics and quotation marks.
+
+3.2.13 Status
+
+Accurately describe a person's socio-economic status to avoid stereotyping or prejudice, as it includes numerous factors such as education, employment, social class, income, family situation, etc.
+Uses appropriate technical expressions to indicate the condition of people.
+Avoid negative, discriminatory, or pejorative terms or expressions that focus on what people lack.
+Use gender-neutral terms to identify a person as married, in a relationship, registered civil union or partnership, or in a kinship relationship.
+Use neutral terminology to indicate the status of a legal relationship, avoiding titles (Mr., Mrs and Ms.).
+Avoid terms or expressions that diminish a family member by implying that a parent or a family is unnatural or not real.
+Use phrases or expressions that highlight what a person does and not what a person is.
+Prefer people who have not graduated primary/middle school, people whose incomes are below, people whose self-reported incomes, people who are homeless to indicate the condition of people.
+Prefer spouse, partner, sibling, parent, birth parent, birth mother, birth father, biological parent, person/individual who was adopted, to indicate a person in a relationship or in a kinship relationship.
+Prefer single, married or civil partner, divorced or dissolved civil partnership, widow/widower or surviving civil partner, same-sex marital couple, opposite-sex cohabiting partner, same-sex cohabitating partner to indicate the status of a legal relationship.
+

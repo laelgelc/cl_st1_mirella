@@ -1,0 +1,16 @@
+HOW THIS GUIDE CAN BE USED
+
+We have divided our language guide into two tables. The first table is focused on words that are IT-specific. The second table is a more general list of problematic words.
+
+These reflect the principles of inclusive language: use gender-neutral terms; avoid ableist language; focus on people not disabilities or circumstances; avoid generalizations about people, regions, cultures and countries; and avoid slang, idioms, metaphors and other words with layers of meaning and a negative history. This second list isn't exhaustive, and isn't intended to be exhaustive, but to illustrate the kinds of words to be mindful of.
+
+We expect this guide to be used as a reference to audit the language used on websites, web pages, wikis, online documentation, software and system applications, and documentation about these applications.
+
+Together, the two tables are intended to complement other high-quality references for inclusive language, such as UW Marketing & Communications' Communicating with an Equity Lens resource.
+
+UW-IT Service Offering Owner
+
+As part of our service management practice, UW Information Technology clearly defines roles and responsibilities related to each of our service offerings.
+
+Toward integrating diversity, equity and inclusion best practices with this service management practice, the role of the service offering owner is best suited to implementing and training service team staff. Consider using the UW-IT inclusive language guide in materials for end users and front-line support teams, including request submission forms and workflow, support knowledge articles, documentation and self-help aids.
+

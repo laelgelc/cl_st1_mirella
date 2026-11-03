@@ -1,0 +1,67 @@
+1. Focus
+
+1.1 Structure
+
+The guide is structured into three sections: Focus, Sources, and Concepts. Each section serves a specific purpose and contributes to the overall understanding and implementation of inclusive language in court and legal documents.
+
+The first section, Focus, outlines the objectives of the guide and the specific gap it addresses. It clarifies the target audience and explains what the guide offers and how to utilize it effectively.
+
+Moving on to the second section, Sources, this part provides a comprehensive and accessible overview of the key concepts related to inclusive language. It explores topics such as racial or ethnic profiling and examines the legal relevance of race, ethnicity, and belonging as social constructs. Additionally, this section organizes the main sources on inclusive language based on their use and intended audience. To facilitate easy access, boxed bibliographic references are provided.
+
+The third section of the guide, Concepts, serves as a knowledge-generative component. This section focuses on presenting various concepts and examples related to inclusive language in court and legal documents. Within the Concepts section, readers will find thematically organized examples that illustrate the reasoning deployed for inclusive language which can be effectively employed in different scenarios and concerning a variety of terms within the legal context. By studying these examples, readers can gain a deeper understanding of the principles and nuances of inclusive language and its generative process. 
+
+By following this structured approach, the guide aims to provide comprehensive support, guidance, and resources for promoting inclusive language in court and legal documents.
+
+1.4 CULTEXP's contribution
+
+Based on European conventions and recommendations against racial or ethnic profiling, the CULTEXP guide for inclusive language in court and legal documents strongly emphasizes racial or ethnic profiling as a discriminatory and illegal practice. The guide aims to raise awareness and develop skills for legal professionals to use appropriate terminology that avoids reinforcing stereotypes, prejudices, or excluding certain individuals or groups.
+
+By drawing information and good practices from existing sources against racial or ethnic profiling and promoting inclusive language, the CULTEXP guide addresses specific issues and concepts within the court and judicial context. The CULTEXP guide offers specific guidelines for establishing case-law summaries, expert reports, treating data for legal databases, and creating court and legal documents in an anti-discriminatory manner.
+
+Unlike existing guides that focus on comparing discriminatory and non-discriminatory terms, the CULTEXP guide takes a contextual awareness approach. It encourages users to identify the most appropriate terminology based on the specific circumstances and respect for their audience, promoting a more inclusive justice. This approach acknowledges the evolving nature of languages and societies and avoids rigid instructions that may quickly become outdated or be perceived as mere commands.
+
+The CULTEXP guide is not proposed as mandatory, even for sections suggesting standardization of terms, capitalization, italics, and citation of case-law for neutral and inclusive language. The guide's suggestions for inclusive language serve as examples that readers can adapt, monitor, and update to find similar or improved solutions based on their specific contexts and circumstances. The guidelines provided are comprehensive but not exhaustive, and they rely on regular updates and users' feedback to ensure ongoing monitoring and expansion.
+
+1.5 Target audience
+
+The CULTEXP guide for inclusive language in court and legal documents is designed for a wide range of individuals who have an interest in promoting inclusive language practices. While it is intended for everyone, its primary audience includes legal professionals, experts, mediators, translators, NGO actors, and socio-legal scholars. These individuals play significant roles in the legal field and have the opportunity to directly impact the use of language in court and legal documents.
+
+In addition to the aforementioned audience, the CULTEXP guide also extends its reach to policy makers, professional organizations, curriculum developers, training providers, professional schools, and organizations involved in granting quality labels in the education sectors. These stakeholders have the potential to influence and shape the adoption of inclusive language practices through their policies, guidelines, and training programs.
+
+Moreover, the CULTEXP guide recognizes the importance of soliciting feedback and input from the affected individuals and social groups. It acknowledges that their perspectives and voices should serve as the primary reference for anyone seeking to use inclusive language in court and legal documents. By actively involving and incorporating the experiences and insights of those directly impacted, the guide aims to create a more inclusive and representative approach to language use in the legal context.
+
+Overall, the guide welcomes a diverse range of stakeholders and seeks to empower them with the knowledge and tools necessary to implement inclusive language practices. By engaging with legal professionals, experts, policy makers, educators, and the affected individuals and social groups themselves, the guide strives to foster a collaborative and inclusive approach to language use in court and legal documents.
+
+1.6 Limitations
+
+The language used for the guide is English due to it being the primary language of CULTEXP (ERC funded Proof of Concept grant 966614). However, the guide is envisioned as a pioneering resource that can inspire and facilitate discussions on inclusive language in courts and legal documents in other languages too. It is hoped that the guide serves as a catalyst for expanding awareness, promoting sensitivity and education, and stimulating debates on inclusive language in diverse legal contexts.
+
+Recognizing the dynamic nature of language and the evolving needs of different communities, the guide is intended to be a living document that requires constant scrutiny and updates. Users and commentators are strongly encouraged to engage with the guide and provide suggestions, advice, and feedback to enhance its relevance and effectiveness.
+
+If you have any suggestions or advice, or if you would like to contribute to the guide, please do not hesitate to contact us at culturalexpertise@culturalexpertise.net. We value your input and appreciate your participation in the ongoing development and improvement of the guide for inclusive language in court and legal documents.
+
+1.7 Use
+
+The CULTEXP guide for an inclusive language in court and legal documents is structured into various macro-areas, presented in alphabetical order, to provide comprehensive coverage. These macro-areas include:
+
+Age: Addresses issues related to age discrimination and provides guidance on using respectful and inclusive language when referring to different age groups.
+Cultures and Cultural Concepts: Focuses on promoting cultural sensitivity and awareness, providing instructions on chosing inclusive language when discussing cultures and cultural concepts.
+
+Gender and Sexual Orientation: Covers terminology and expressions related to gender and sexual orientation, aiming to promote inclusivity and avoid stereotypes or discrimination.
+Health and Disabilities: Offers guidance on using respectful and person-centered language when discussing health, disabilities, and related topics.
+
+Institutions and Titles: Addresses the use of inclusive language when referring to institutions, organizations, and titles, emphasizing the importance of non-discrimination.
+Legal citations: Provides instructions and examples for using inclusive language in legal citations, ensuring neutrality and respect for diversity.
+
+Names: Highlights the importance of respecting individuals' preferred names and provides guidelines for handling diverse naming practices and conventions.
+Persons: Focuses on inclusive language when referring to individuals, promoting respectful and non-discriminatory terminology.
+
+Political Parties and Movements: Offers guidance on using inclusive language when discussing political parties and movements, emphasizing the importance of neutrality and respect.
+Race, Ethnicity, and Belonging: Addresses the challenges of inclusive language regarding race, ethnicity, and belonging, as social constructs and promoting sensitivity and respect for diverse identities.
+
+Religions and Beliefs: Provides guidance on respectful and inclusive language when discussing religions, beliefs, and spirituality, promoting understanding and tolerance.
+Status: Covers the use of inclusive language when referring to social or legal status, encouraging non-discrimination and neutrality.
+
+Each macro-area begins with an introduction that outlines common challenges and offers instructions on using non-discriminatory language. It includes examples of preferable terms and explanations of culturally relevant terms and concepts. By providing this contextual information, the CULTEXP guide enables users to understand the challenges involved in using inclusive language and offers concrete leads for respectful terminology.
+
+The aim of the CULTEXP guide is to foster cultural awareness and encourage users to choose culturally sensitive terms and expressions. It suggests considering self-identification clues and, when appropriate, seeking the assistance of cultural experts. Users are also encouraged to contribute updates and amendments to the guide through the provided email, ensuring its continuous improvement and relevance.

@@ -1,0 +1,88 @@
+KEY PRINCIPLES FOR EQUITY-CENTERED COMMUNICATION
+
+PRINCIPLE 1: Use person-centered language
+
+Person-centered language avoids dehumanization and demonstrates respect for every person's humanity. Using person-centered language often means using person-first or identity-first language:
+
+Person-first language: Places the person before a disability, disease, condition, or circumstance. This emphasizes that a person is not their condition or circumstance, they are an individual who has a condition or is experiencing a circumstance (e.g., person who is deaf).
+
+Identity-first language: Refers to individuals in a way that emphasizes what they consider to be a core part of their identity, dispelling the notion that a certain identity is an unfortunate affliction or negative characteristic (e.g., Deaf person).
+
+Person-centered language includes deferring to the terminology expressed by individuals with lived experience.
+
+Avoid dehumanizing terms, demonstrate respect for every person's humanity, and defer to the terminology preferred by individuals with lived experience.
+
+
+PRINCIPLE 2: Use strengths-based language
+
+Stigmatizing language assigns negative labels, stereotypes, judgement, and/or blame to certain people or groups. Whether intentional or not, stigmatizing language implies that a condition, situation, or status is inherent to the person or group rather than caused by systems. Instead, use strengths-based language, which highlights inherent strengths and assets rather than weaknesses or vulnerabilities. If we must reference deficits in our communications, we should use language that focuses on causal factors and counterbalances with references to strengths. For example, instead of "disadvantaged groups" say "groups who are not equitably served by [system]" or "groups experiencing disadvantage because of [cause]."
+
+Avoid stigmatizing language that assigns negative labels, stereotypes, judgement, and blame. Highlight inherent strengths. Avoid terms with violent connotation.
+
+PRINCIPLE 3: Be specific
+
+When describing groups of people, be as specific as possible. Avoid terms that lump multiple communities together, erase important differences between groups, or center whiteness as the norm.
+
+Some terms to avoid include:
+
+Non-white: This term is not favorable. It is white-centric and exclusionary (i.e., it makes white people the norm and everyone else a deviation from that norm).
+
+Minority: This term is not favorable. It minimizes people of color and connotates that they are minor, less than, or inferior.
+
+BIPOC (Black, Indigenous, People of Color): This term is not favorable. While it acknowledges that Black and Indigenous peoples are more severely impacted by racism than other people of color, BIPOC always centers Black and Indigenous people, even when the issue does not pertain to them. If BIPOC is used, it should pertain to Black, Indigenous, and People of Color. For example, if referring to an issue specific to the Latino/a/x community, BIPOC would not be the appropriate term.
+
+No one categorization of people will ever be perfect, but when it is necessary to refer to people in broad groups, here are some terms to consider:
+
+People of Color/Communities of Color: A generally acceptable term. Note, people of color should not be used interchangeably when referring to a specific group. For example, do not say "police brutality against people of color," if you mean "police brutality against Black people."
+
+Historically Marginalized: A generally accepted term which acknowledges that certain communities have been pushed to the margins of society through systematic denial of access to services, resources, power, and participation in economic, political, and cultural activities.
+
+Minoritized: A generally accepted term that directs attention to the active power dynamics that devalue and marginalize certain groups and individuals.
+
+When discussing specific groups, keep in mind that even within a group, there are different ways to refer to that group and individuals within the group.
+
+HISPANIC/LATINO/LATINA/LATINX
+
+A variety of terms are used to describe people who come from, or whose heritage is from, Spanish-speaking countries and countries in Latin America. At the most basic and technical level, these terms include:
+
+Per these definitions, a person from Brazil is considered Latina/o/x and not Hispanic. A person from Spain is considered Hispanic and not Latino/a/x. A person from Mexico or Ecuador may be both - or neither if, for example, they are Indigenous and do not identify with a term that assumes a connection with Spain. Still others might identify with their country of origin, such as Colombian or Dominican.
+
+There is no "best" or "correct" term to use. Which terms individuals prefer can vary from person to person depending on where they grew up, which language(s) they speak, their family heritage, and other factors. In deciding which term to use, some things to consider:
+
+- Which term is more relevant to the topic at hand? If language is the more important factor, consider using Hispanic. If where they come from is more important, consider using Latino/a/x.
+- Would specific language be more accurate or provide more context? Consider including the country or region of the group or individual you are referring to. For example, rather than saying "African patients," say "Patients from Somalia," or "Patients from the region of Eastern African."
+- Are you describing an individual person? If so, what term do they prefer?
+- Err on the side of inclusivity. Consider using "Hispanic and Latino/a/x" or "Latino/a/x or Hispanic."
+- Is the term necessary to use at all? If not, leave it out.
+
+Avoid terms that lump multiple communities together or erase important differences between groups. Specify the sub-population or group title whenever possible.
+
+
+INDIGENOUS/NATIVE AMERICAN/AMERICAN INDIAN
+
+In the United States, many terms are used to describe peoples who are indigenous to the United States. American Indian, Indian, Native American, and Native are often used interchangeably. However, understanding the different connotations of each may help you choose the best term to use.
+
+Many Indigenous peoples identify with their specific tribal nation, for example Anishinaabe, Dakota, or Diné. Whenever possible, be specific, referring to an individual or group by their tribe. The best term is always what an individual person or tribal community uses to describe themselves. Replicate the terminology they use or ask what terms they prefer.
+
+BLACK/AFRICAN AMERICAN
+
+Both Black and African American are accepted terms so long as they are used correctly. These terms are often, incorrectly, used interchangeably.
+
+African American is not hyphenated, as the hyphen connotes otherness and centers Americanness. Removing it places both identities equally. Hyphenating recalls the derogatory term "hyphenated-Americans," an insult used to describe Americans of foreign birth or ancestry.
+
+Not all Black people in America identify as African or as American, and not all people with African heritage are Black. For example, people of African descent with roots in Latin American or the Caribbean (i.e., Afro Latino or Caribbean American), people who identify specifically as African or their nation of origin (i.e., Ghanaian, Kenyan), and white Africans of European ancestry.
+
+LGBTQ+
+
+People who identify as LGBTQ+ use a variety of terms to describe themselves. Just as with race and ethnicity, using the wrong terminology with regard to gender identity and sexual orientation can have a harmful impact on the individual and promote heteronormativity. Whenever possible, use the individual's preferred pronouns and gender identity. We recommend referring to the Glossary of Terms created by Rainbow Health in their LGBTQ+ Standards of Inclusion or the Human Rights Campaigns' Glossary of Terms.
+
+
+PRINCIPLE 4: Highlight causes, not outcomes
+
+Data are a powerful tool to provide evidence of health inequities. However, data descriptions can also trigger biases and perpetuate harmful narratives, depending on how data are presented. When presenting data, begin with structural causes rather than outcomes and consequences. Use data to back up your statement about root causes, not as the main point. In Figure 1 below, the first column leads with data and can perpetuate the myth that poorer health outcomes are caused by poor choices. The second column leads with known structural determinants of health and highlights the need to fix systems, not people.
+
+Use data strategically. Share data points that emphasize the need to fix systems, not people.
+
+
+
+

@@ -1,0 +1,18 @@
+Instead of...: "The child's mother or father..."
+Try....: "The child's parent or guardian..."
+
+Instead of...: "Sexual preferences," "preferred pronouns"
+Try....: "Sexual orientation," "pronouns"
+
+Instead of...: "We'll need more manpower..."
+Try....: "We'll need more staff..."
+
+Instead of...: "Welcome, ladies and gentlemen!"
+Try....: "Welcome, everyone!"
+
+Instead of...: "Women sometimes experience cramps before or during their period..."
+Try....: "People who menstruate sometimes experience cramps before or during their period…"
+
+For example:
+Say "wheelchair user" rather than "wheelchair-bound person"
+

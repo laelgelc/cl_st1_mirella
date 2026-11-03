@@ -1,0 +1,411 @@
+General guidelines to follow are:
+
+Avoid/ Preferred
+
+Descriptions of age that suggest ability or a deficit, such as describing someone as a teenager, elderly, aged, senior, senior citizen, dependent, etc.
+A specific age if known, otherwise a general description if required, such as early career or primary school age
+
+Geriatric
+Geriatrics is the field of study of the health of older people; do not use to refer to a person
+
+Senile, senility
+Dementia, person with dementia, a person with dementia due to Alzheimer's disease
+
+Social security recipient, social security beneficiary
+People who are receiving social security and specify why (e.g., older than age 62, due to a disability)
+
+Medicare recipient, Medicare beneficiary
+People who receive Medicare and specify why (e.g., older than age 62, due to a disability)
+
+Age
+Identify age only if relevant and necessary for the text in context to the overall paper
+
+Elderly, elders, the aged, aging dependents, senior citizens
+Older adults, older people, persons aged 65 and older, an older population
+
+Inferring inflamed or moralistic adjectives. "A Tunisian irregular immigrant sexually abused a 15-year-old girl."
+"An undocumented man sexually abused a 15-year-old girl." (Context would be needed to determine if his nationality is relevant to the narrative.)
+
+Using aggravating/attenuating adjectives if it shows an inherited or implicit bias. Example of aggravating language: "The Muslim immigrant from Somalia did not accept the Western lifestyle of his daughter." Example of attenuating language: "An uncensored employee was pressured by the police and finally confessed."
+Use more factual, neutral language. Can the statement be supported by empirical evidence or is it biased? In other contexts, you would need to assess if more information is needed to impart accurate and constructive information. You need to question if the author is "censoring" themselves and for what purposes?
+
+Passive tense where responsibility of the crime is placed on the victim. "Yesterday morning the victim was cleaning the call center offices when she got assaulted."
+Use active tense and, where possible, place the alleged perpetrator as subject. "While cleaning the call center offices yesterday morning, a man (or an unidentified assailant) assaulted a woman."
+
+Abuse; misuse
+(Heavy) substance use; substance use disorder (per DSM-5); dependence syndrome (per ICD-10)
+
+Correctional, offender, penitentiary, or prison health services
+Health services in detention settings; healthcare in prison
+
+Crazy; mental; insane; psycho; mentally ill; emotionally disturbed; demented
+Person with a mental health condition; person with dementia
+
+Dungeon; hole
+Solitary confinement
+
+Drug user; abuser; addict; junkie; dependent
+Person with a substance use disorder; person with dependence syndrome; person who uses psychoactive substances
+
+Ex-prisoner; ex-offender; ex-inmate; ex-felon; ex-con; criminal; thug; post-carceral
+Person who was in contact with, involved in, interacted with or experienced the criminal justice system; person with convictions; person who was formerly incarcerated
+
+Illegal immigrant; illegal; unlawful non-citizen; visa overstayer; undocumented alien
+Person who lacks resident documentation; undocumented immigrant; irregular immigrant
+
+juvenile delinquent
+young person with justice system involvement
+
+Murderer; rapist; drug dealer
+Person convicted of murder; person charged with rape; person arrested for selling drugs
+
+Prisoner; inmate; felon; offender; convict
+Person who is incarcerated; person who experienced incarceration; person in detention/jail/prison; person living in detention/jail/prison; person involved in, or experiencing the criminal justice system
+
+Prostitute or prostitution
+Person involved in sex work, or in sale or trade of sexual services; sex worker
+
+Probationer; parolee
+Person on probation; person on parole
+
+Please have your parent sign this.
+Please have your guardian sign this.
+
+The open house is for moms and dads to learn about the school.
+The open house is for caregivers to learn about the school.
+
+He doesn't know his real mother.
+He doesn't know his birth mother.
+
+He has been her caretaker for three years.
+He has been her caregiver for three years.
+
+Gordon Moore and his wife, Betty, founded the Gordon and Betty Moore Foundation.
+The couple Gordon Moore and Betty Moore founded the Gordon and Betty Moore Foundation.
+
+Jeffrey Tok, the director of the Uytengsu Teaching Laboratory at Stanford University, and his wife, Zhenan Bao, attended the meeting.
+Zhenan Bao, the K. K. Lee Professor of Chemical Engineering at Stanford University, and Jeffrey Tok, the director of the Uytengsu Teaching Laboratory at Stanford, attended the meeting.
+
+Employees and their wives are welcome to attend.
+Employees and their significant others are welcome to attend.
+
+Dr. Joshua Smith and Anna are both attending the luncheon.
+Dr. Joshua Smith and Dr. Anna Jones are both attending the luncheon.
+
+You throw like a girl.
+That was a weak throw.
+
+man; mankind
+humanity; humankind; human race
+
+ladies and gentlemen; you guys
+folks; everyone; colleagues; friends; all
+
+manpower
+staffing; human resources
+
+man-made
+artificial; human-caused; synthetic
+
+female doctor; male nurse
+doctor; nurse
+
+fireman; mailman; housewife; stewardess; waitress; freshman
+fire fighter; mail carrier; homemaker; flight attendant; server; first-year student
+
+biologically male; biologically female; born male; born female
+sex assigned, designated, or assumed at birth
+
+Gender Identity Disorder
+Gender Dysphoria (per DSM-5); gender incongruence (per ICD-11)
+
+hermaphrodite
+intersex
+
+sex change; pre-op; post-op; pre-operative; post-operative
+transition; transitioning
+
+sex change; sex change operation; Sexual Reassignment Surgery; top surgery; bottom surgery
+Gender Confirmation Surgery
+
+transvestite
+cross-dresser [if the person self-identifies as such; not a synonym for transgender]
+
+gender non-conforming
+gender expansive
+
+opposite sex
+another sex; different sex
+
+women's health; pregnant women; maternity care; women who menstruate
+reproductive health; pregnant people; perinatal care; people who menstruate
+
+preferred pronouns
+pronouns
+
+transsexual; transgendered; transgender(s) (n.)
+transgender (adj.)
+
+practicing; avowed; admitted; confessed; acknowledged [gay person]
+out [gay person]
+
+homosexual [in the US]; queer
+gay; lesbian; bisexual
+
+LGBT; gay community
+LGBT+, LGBTQ, LGBTQ+, LGBTQIA, LGBTQIA+
+
+sexual preference; sexual identity; sexuality
+sexual orientation
+
+distressed neighborhoods; disadvantaged; in need; less fortunate; inner city; ghetto; slum; the projects
+neighborhoods that are under-resourced/underserved; with high poverty rates; with access to fewer opportunities
+
+disinvested
+low opportunity
+
+homeless people; the homeless; homelessness
+people experiencing homelessness; people experiencing unstable housing; housing insecurity
+
+food desert; food stamps; the hungry
+food insecurity; food poverty; SNAP (in the US); people experiencing hunger
+
+poverty-ridden; poverty-stricken; poor; the poor; low-class
+people experiencing poverty; people with incomes below the federal poverty level; economically insecure; without economic advantages
+
+uneducated; less educated; undereducated; well educated
+state the specific level of education (e.g., high school diploma)
+
+blue collar; working class
+lower income
+
+birth defect, defect
+describe the specific disability or anomaly without the use of the word "defect"
+
+body shape, stature, or size; weight, obese, overweight
+avoid describing body size, stature, height, breadth, or shape unless relevant or essential to the context or information
+
+placing blame on an individual
+acknowledge systemic root causes of obesity
+
+medical jargon outside the medical profession
+use accurate plain language
+
+idealizing or pathologizing specific weights or body shapes; praising or criticizing changes in weight; characterizing foods as bad or good; commentary on clothing choice or body shape
+body acceptance-oriented language; body acceptance- or positivity-oriented language as preferred by the community referred to. Also, consider additional factors (socioeconomic status, race, gender, sexual orientation, age, culture, etc.) that may bias your perception or impact the conversation about weight
+
+weight stigma; weight bias
+fatphobia
+
+obese; extremely obese; morbidly obese; overweight; fat*
+higher weight; unhealthy weight; larger. "Person with obesity" may be acceptable in medical contexts.
+
+midget; dwarf*
+little person; person with dwarfism (if accurate); person of short stature; person of restricted growth
+
+The student, who has muscular dystrophy, requested extended office hours.
+The student requested extended office hours. / The student, who has muscular dystrophy, has written a petition requesting university officials make dorm rooms more accessible for people with disabilities. [The context is relevant]
+
+The disabled
+People with disabilities, disabled people
+
+An epileptic
+A person with epilepsy
+
+An addict
+A person with substance use disorder
+
+Confined to a wheelchair
+Uses a wheelchair
+
+The person failed chemotherapy.
+Chemotherapy was not successful.
+
+He's been clean for two months.
+He has been in recovery for two months.
+
+The trial included 100 people with bipolar disorder and 95 healthy controls.
+The trial included 100 people with bipolar disorder and 95 people without bipolar disorder.
+
+They are a high-functioning autistic person.
+They are an autistic person who requires support in managing sensory overload but little support in expressive communication.
+
+The speech was tone deaf.
+The speech didn't acknowledge people's frustrations with the process.
+
+Your presentation is schizophrenic.
+Your presentation lacks transitions between ideas.
+
+That policy crippled the economy.
+That policy damaged the economy.
+
+The new requirement is moronic.
+This new requirement is pointless.
+
+A double-blind study
+A double-anonymized study
+
+alien; noncitizen (these terms were previously used by the US government but have been phased out in favor of the terms in the "preferred" column)
+immigrant; person; individual
+
+illegal
+undocumented; irregular
+
+anchor baby
+child of undocumented immigrant
+
+chain migration
+family-based migration (if relevant)
+
+ethnic; exotic; foreign
+do not use to describe people; name the country of origin instead
+
+natural; naturalization
+avoid except in reference to US immigration law
+
+host country
+country of destination; destination country
+
+home country; sending country
+country of origin
+
+Terms to avoid or use with caution:
+
+black, Asian, and minority ethnic (BAME); black and minority ethnic (BME)
+Name the specific groups instead. Previously used in the UK until 2021.
+
+Black, Indigenous, and People of Color (BIPOC)
+Being specific is preferred. "People of color" may be acceptable; do not use POC.
+
+POC
+Being specific is preferred. "People of color" may be acceptable; do not use POC.
+
+model minority
+Do not use as this is a stereotype and is considered offensive.
+
+minority
+Avoid using to describe people. Be specific whenever possible. Not synonymous with people of color.
+
+Colored
+Pejorative. Do not use. Note: In some African countries, "colored" denotes those of mixed racial ancestry and is acceptable.
+
+skin-colored; nude
+Avoid or be specific as to its meaning. Often exclusionary as it usually refers to white skin.
+
+Mulatto
+Outdated term for a person with one white parent and one black parent. Avoid as it is considered insensitive. Biracial or multiracial may be appropriate.
+
+native
+Should only be used as an adjective, not a noun.
+
+nonwhite
+Avoid. Be specific instead.
+
+Oriental
+Pejorative; do not use to refer to people. May be acceptable in certain uses (e.g., oriental rugs).
+
+master/slave
+main/secondary; primary/secondary; leading/alternative; source/replica.
+
+whitelist/blacklist
+blocklist/allowlist; exclude list/include list; avoid list/prefer list
+
+Caucasian
+Do not use to mean white.
+
+Powwow
+Acceptable only if referring to the title of a specific American Indian event. Avoid if referring to a general gathering.
+
+ethnic; exotic
+Avoid. These terms can be seen as marginalizing and offensive as they are often used to denote things from countries outside North America and Western Europe. Name the specific country or culture the item being described comes from.
+
+Eskimo
+"A member of the Indigenous people who have traditionally inhabited Alaska and other Arctic regions, including eastern Siberia in Russia, Canada and Greenland." Some consider the term pejorative, and it should be used with caution.
+
+mixed
+Be specific. Multiracial is also acceptable.
+
+gypped
+Derogatory. Do not use.
+
+Untouchable
+Dalit
+
+Terms to avoid or use with caution include:
+
+Black Muslim
+member of the Nation of Islam. Note: Not the same as a Black person who is Muslim.
+
+born-again
+Avoid unless self-described
+
+before Christ (B.C.), anno Domini (A.D.)
+Before the common era (B.C.E.), common era (C.E.)
+
+Arab; Arab World
+When referring to a nation or people from an Arabic-speaking country, it is better to specify the nation/nationality instead (See Geopolitics). Not synonymous with Muslim.
+
+Mormon Church; Mormons
+The Church of Jesus Christ of Latter-day Saints; the Church; Church of Jesus Christ. LDS church is acceptable on second reference. People are Latter-day Saints.
+
+Koran; Quaran
+Quran
+
+fundamentalism; fundamentalist
+Avoid unless self-described. May be considered pejorative.
+
+unbeliever; nonbeliever
+nonreligious; spiritual but not religious (if applicable); religiously unaffiliated.
+
+Xmas; x-mas
+Christmas
+
+Voodoo
+Vodou. Do not use as a general reference to witchcraft or other practices.
+
+Non-Christians
+Be specific
+
+cult; sect
+Generally best to avoid as these terms have negative connotations.
+
+denomination
+Christian bodies.
+
+devout; serious; practicing; committed
+Subjective; better to be specific. May be acceptable if self-identified.
+
+faith-based (ex: faith-based group)
+faith (ex: faith group)
+
+idol
+Use with caution as this term may be considered pejorative in some religions (e.g., Judaism, Christianity, Islam).
+
+defrocking
+laicization
+
+Moslem
+Outdated. Use Muslim.
+
+proselytize
+evangelism (Protestant) or evangelization (Catholic or Orthodox)
+
+Islam (in reference to people)
+Islam is the religion. People are Muslim.
+
+religious left; religious right; progressive
+Avoid as these terms are vague; better to specify which groups are being referenced.
+
+unchurched
+Use with caution as it may be offensive; put in quotes.
+
+religions; religious
+religions and worldviews; religions and beliefs; religious and nonreligious
+
+Merry Christmas
+Happy holidays or season's greetings are preferred if the recipient's beliefs are unknown.
+
+Christian name
+First name, forename, given name
+
+

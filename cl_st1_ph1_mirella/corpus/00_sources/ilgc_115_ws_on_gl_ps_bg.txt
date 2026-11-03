@@ -1,0 +1,3 @@
+Microsoft, who have contributed to the paper, share how they're making their tech language more inclusive:
+
+"Microsoft is committed to designing products and services that are both inclusive and accessible to all that use them. But this isn’t just about the end result, inclusion needs to be imbedded at the very core. That’s why we ensure that our tech language is also inclusive. For example, we have worked with stakeholders to change our technical documents, changing references to master/slave terminology, replacing the word ‘slave’ to ‘secondary’ or other appropriate terms. Longer-term, we’re partnering with others to use the technology industry’s influence as a driving force to deliver positive, systematic change." Monica Rush, Senior Program Manager, Microsoft

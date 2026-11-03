@@ -1,0 +1,36 @@
+WRITING INCLUSIVE CONTENT
+
+SEX, GENDER AND SEXUALITY
+
+Do:
+- only refer to a person's sex or gender if relevant and there's a reason why you're collecting this data
+- allow for flexibility around this information, such as asking for both a person's sex and their gender, to ensure that the data captured accurately represents the individual and their needs
+- allow people to self-describe - use language that reflects how a person refers to themselves
+
+Sex
+
+Do:
+- ask for, or refer to, a person's sex only when it's relevant for biological data, not when concerning how a person identifies
+- refer to the sex someone was registered with at birth
+- provide options other than male and female where possible
+- allow people to disclose whether their sex registered at birth is different from their sex at present if you need to understand a persons' current needs
+
+The UK currently does not use an X marker for sex on identity documents, meaning that identity documents cannot have a sex other than male or female. Current policy states that for Biometric Residence Permit (BRPs) or identity documents, caseworkers will need to contact individuals to ask for a preference for their identity documentation. If relevant to your service, you should inform users of this when providing an 'other' option for questions about their sex.
+
+ETHNICITY, NATIONALITY AND RELIGION
+
+Do:
+- only refer to people's ethnicity or religion if it's relevant to the content
+- ask how people identify themselves, and be aware of complexities within ethnic and religious identities
+- recognise the negative impacts of using broad terminology to homogenise diverse communities
+
+POSTERS
+
+Use our quick reference inclusive language posters (https://github.com/UKHomeOffice/posters/tree/master/design/Inclusive%20language) as best practice guidelines while you design and research.
+
+Download the posters for your office space and help colleagues think about how to write inclusively.
+
+Follow our accessible design principles (https://ukhomeoffice.github.io/accessibility-posters/) and consider how your language is inclusive to people who face different barriers to accessing services.
+
+Find out more about how to ask users for their sex or gender in the sex and gender pattern (https://design.homeoffice.gov.uk/patterns/ask-sex-or-gender).
+

@@ -1,0 +1,11 @@
+Gender-specific suffixes
+
+Avoid the use of gender-specific suffixes such as -ess or -rix
+
+Examples:
+Aviator not aviatrix
+Nurse not male nurse
+Actor not actress
+Chair or chairperson, not chairman
+Manager not manageress
+Comedian not comedienne

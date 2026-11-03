@@ -1,0 +1,541 @@
+Inclusive Language Categories
+
+The following tables provide guidance on inclusive language alternatives to common terms and phrases. OMNI promotes the use of inclusive alternatives in our data collection as well as our internal and external communications. Inclusive terminology is ever-evolving, and OMNI constantly monitors new language practices and revises these tables to ensure that our communications remain equitable and approachable to all communities.
+
+Ableist Language
+Instead of/ Use this/ Notes
+
+Stand up for
+Support; Champion
+Ableist terms and phrases are pervasive in everyday language. Although the use of these ableist terms may be unintentional, be thoughtful about how to avoid language that denigrates disabilities.
+
+Turn a blind eye to
+Ignore; Refuse to notice
+
+Be myopic or shortsighted
+Ignore; Miss
+
+Have a blind spot for
+Show unconscious bias
+
+Blind review; Blind coding
+Anonymous review; Masked review; Masked coding
+
+Fall on deaf ears
+Be willfully ignorant; Deliberately ignore
+
+Tone deaf
+Insensitive; Out of context
+
+Midget
+Little person; Person of small stature; Dwarf (Having dwarfism)
+
+Lame
+Boring; Mundane; Uncool
+
+Lend your voice
+Support
+
+Everyone should have a voice [in this matter]
+Everyone should have input
+
+Make your voice heard
+Express your perspective/opinion
+
+Able-bodied
+Nondisabled
+
+Age
+Instead of/ Use this/ Notes
+
+The elderly; Elderly people; The aged; Aging dependents; Seniors; Senior citizens
+Older adults; Older people/adults; Persons 60 years and older; Older population; Older individuals/adults
+Avoid language that promotes stereotypes that "other" older adults. However, please note that in certain cultures, the term "Elder" is considered an honorific. Tribes, American Indian and Alaska Native urban communities, and federal agencies define AI/AN Elders aged ≥ 55 years.
+
+Geriatric pregnancy
+Pregnancy at age 35 or older
+
+Silver tsunami
+Age-related population changes; Age-related demographic changes
+Use affirmative language specific to demographic information.
+
+Body Size & Weight
+
+Ideal weight; Goal weight; "Your preferred weight is…"; "Your ideal weight is…"
+"Your weight is…"; "The health indicator(s) for you to be aware of is/are…"
+"Use neutral, nonjudgmental language based on facts, actions, or physiology/biology" (American Diabetes Association, n.d.). BMI is a population-based measure that is less helpful in individual clinical practice. Rather than focus on weight, focus exclusively on the health issue at hand, for example, cholesterol, blood pressure, or A1C levels. "Avoid referring to individuals by a label that implies that the person is defined by the diagnosis or symptoms that they experience" (Weissman et al., 2016, p. 350). Examples include "anorexic," "bulimic," "binge eater," and "obese person."
+
+Underweight; Fat; Obese; Morbidly obese
+Lower weight; Higher weight
+To avoid perpetuating weight stigma, use neutral terms that affirm and respect the dignity of all individuals regardless of their body size (Meadows & Daníelsdóttir, 2016). Please note that the term "fat" is being reclaimed by individuals who identify as part of the fat-acceptance community as a neutral descriptor to normalize the existence of fat bodies (Saguy & Ward, 2011).
+
+Community-First Language
+Instead of/ Use this/ Notes
+
+Marginalized communities
+Communities that have been marginalized; Communities who have experienced marginalization
+
+Grantee
+Organization; Community; Coalition; Group
+Paternal; organizations don't want to be identified solely through their relationship with funders, but as organizations, communities, groups, or coalitions that are doing, "the work."
+
+Corrections & Detentions
+Instead of/ Use this/ Notes
+
+Inmate; Prisoner; Convict/ex-convict
+People/persons who are incarcerated or detained (often used for shorter jail stays, for youth in detention facilities or for other persons awaiting immigration proceedings in detention facilities)
+Dehumanizing. Provides a limited view of someone's life experience.
+
+Offender; Criminal
+Person with a criminal conviction; Justice-involved; System impacted; Individual who committed a crime
+
+Parolee
+Persons on parole or probation; People who were formerly incarcerated
+
+Detainee
+Persons in pre-trial or with charge; Persons detained by or under the custody of (specific agency) (for example, U.S. Immigration and Customs Enforcement [ICE] or other agencies)
+
+Disability Status
+Instead of/ Use this/ Notes
+
+Disabled; Wheelchair-bound; Confined to a wheelchair
+People with disabilities/a disability; Person who uses a wheelchair; Wheelchair user
+Dehumanizing. Emphasizes a bias for ableism. Carries the stigma of something that should be fixed, rather than something that just is.
+
+Suffering from
+[A person] Living with
+Assumes that all people with a particular condition suffer.
+
+Special needs; Differently abled; Multi-abled; Physically challenged; Mentally challenged; Mentally retarded; Handi-capable; Handicapped; Handicapped parking
+Person with a disability; Person living with…; Person who has a disability; Disabled person; People with intellectual disabilities; Child with a congenital disability; Child with a birth impairment; Physically disabled person; Accessible parking
+Use person-first or identity-first language as is appropriate for the community or person being discussed. The language used should be selected with the understanding that disabled people's expressed preferences regarding identification supersede matters of style. There are some patterns—people with physical and intellectual disabilities often prefer person-first language, whereas the autistic community and people with sensory disabilities (e.g., blind people) often prefer identity-first language. Avoid terms that are condescending or patronizing.
+
+Brain damaged
+Person with a traumatic brain injury (TBI)
+
+Hearing-impaired person; Person who is hearing impaired
+Person who is hard-of-hearing; Person with hearing loss; Deaf
+Most deaf individuals culturally prefer to be called Deaf.
+
+Person with deafness and blindness
+Deaf-Blind person; A Deaf person with low vision; A person who is deaf with low vision
+Most individuals who belong to the Deaf or Deaf-Blind cultures prefer to be called Deaf or Deaf-Blind (capitalized) rather than "hearing-impaired." The word "deaf" with a lowercase "d" is used to refer to audiological status, whereas "Deaf" with an uppercase "D" "refers to a particular group of deaf people who share a language— [for example,] American Sign Language—and a culture" (National Association of the Deaf, n.d., "Deaf" and "deaf" section).
+
+Person with blindness; Visually challenged person; Visually impaired person; Vision-impaired person; Person who is visually impaired; Person who is vision impaired; Sight-challenged person
+Blind person; Person who is blind; Person with low vision
+People who have complete or almost complete loss of sight may be referred to as "blind." Other terms are acceptable for those with a vision-based disability. Some people may object to the term "visually impaired" because of the negative connotation of the word "impaired." The use of such terms is complex, often culturally bound, and deeply personal. If you are uncertain about how someone identifies, it is recommended that you ask what identity-first or person-first terms they prefer (e.g., "blind" or "blind person" vs. "a person with blindness"). (For further guidance on this topic, please consult the National Center on Disability and Journalism, 2021)
+
+Drug/Substance Use
+Instead of/ Use this/ Notes
+
+Street drugs; Illicit drugs
+Drugs (If clarification is needed, explain that this includes medications that are not used as prescribed, or other substances that do not have any medical purpose.)
+To be accurate, not all drugs used off prescription are street drugs or illicit; these drugs can include medications (see above) including pain pills, hormones, etc. To avoid stigmatizing language, "street" and "illicit" should be avoided and in any case do not add much substance to the description.
+
+Syringe exchange program; Needle exchange program
+Syringe access program/services; Syringe support services; Syringe service programs
+
+Drug user/abuser; Addict
+Person who uses drugs; Person who injects drugs; Person with substance use disorder
+
+Alcoholic; Alcohol abuser
+Person with alcohol use disorder; Person in recovery from substance use/alcohol disorder
+
+Person taking/prescribed medication-assisted treatment (MAT)
+Person taking/prescribed medications for opioid use disorder (MOUD)
+
+Person who relapsed
+Person who returned to use
+
+Smoker
+Person who smoked
+
+Gender Diversity
+Instead of/ Use this/ Notes
+
+Birth sex; Natal sex
+Assigned sex; Sex assigned at birth
+
+Born a girl, born female; Born a boy, born male
+Assigned female at birth (AFAB); Assigned male at birth (AMAB)
+
+Female to male; Male to female
+Assigned female at birth (AFAB); Assigned male at birth (AMAB)
+
+Hermaphrodite; She-male, he-male; Tranny; Transvestite; Transsexual
+Intersex; LGBTQ, LGBTQ+, LGBTQIA+, etc.; Transgender person; Transgender people; Trans and gender nonbinary folks or folx; Genderqueer; Queer
+Some people may use terms to describe themselves and others that may be perceived as pejorative but are empowering for those individuals and their communities. "Tranny" or "queer" are examples of such terms. Some members of the LGBTQ+ community have reclaimed them, whereas others may consider them offensive.
+
+Transgendered
+Transgender
+"Transgendered is a dated term that suggests a point in time when a person 'became' transgender, which diverges from the lived experiences of most transgender people" (National Institutes of Health, 2024, Transgender, trans definition).
+
+Homosexual (men); Gay *
+Men who have sex with men (MSM); Same gender loving; Gay *
+When addressing men having sex with men (MSM), it is advisable to first inquire about the most appropriate term in use in the given specific socio-cultural context. Some MSM do not identify themselves as homosexual/gay*, especially in regions where same-sex relationships are taboo.* Some men who have sex with men do not identify with the label of gay.** Some men have a reaction (though less and less to the behavioral categorization of gay as MSM, and believe reducing the identity to sexual behavior only is harmful, even when using the term for health/behavior related purposes.
+
+Sex reassignment
+Gender affirming/confirming surgery
+
+Sexual preference
+Sexual orientation
+
+Hermaphrodite; Intersexed
+Intersex person; Person who is intersex
+
+Sex change; The surgery; Transgendering; Pre/post-operative (pre-op)
+Medical transition
+
+Gendered Language
+Instead of/ Use this/ Notes
+
+Chairman
+Chairperson; Chair; Moderator; Discussion leader
+Not gender inclusive, male-centric
+
+Congressman; Congresswoman
+Congressional representative; Congressperson
+Overly gender-focused
+
+Freshman
+First-year student
+Not gender inclusive, male-centric
+
+Girls (when referring to adults)
+Women; Folks; People; Everyone; Y'all; Friends
+Demeaning in its implied immaturity, enforces a power differential
+
+Guys (when referring to women or people overall)
+Folks; People; Everyone; You all; Y'all; Teammates; Team; Friends
+Not gender inclusive, male-centric
+
+Manpower/man hours
+Work hours; Time
+Not gender inclusive, male-centric
+
+Mankind
+Humans; Humankind; People; Humanity
+Not gender inclusive, male-centric
+
+Husband/wife
+Spouse; Partner
+Emphasizes the gender binary
+
+HIV/AIDS
+Instead of/ Use this/ Notes
+
+AIDS victim; HIV patient
+Person with AIDS; Person with HIV; Person living with HIV; HIV-positive person
+For additional guidance on avoiding stigma when using language to describe people living with HIV, visit the Guide to Talking about HIV (CDC, 2022b), or Inclusive Language Guide.
+
+Patient
+Client
+Client is more people first, not all clients are patients. Patient infers illness and not all clients are sick.
+
+Compliant
+Adherent
+
+Socioeconomic Status (SES)
+Instead of/ Use this/ Notes
+
+The poor; Poor people; Low income/high income; Impoverished
+People with lower incomes; People with self-reported income in the lowest income bracket; People experiencing poverty; People whose incomes are below the federal poverty threshold; Under-resourced
+As always, there should be room for nuance and flexibility when using these terms. Many people find the terms "low-class" and "poor" pejorative. Conversely, class solidarity exists in "poor people's movements" and many individuals proudly identify as "working class." Define specific income brackets and levels if possible (e.g., "low income").
+
+Low-class people; Lower class people
+People who are of low SES/socioeconomic status
+
+Homeless people
+People without housing; People experiencing homelessness; People who are unhoused; People who are houseless; People experiencing housing insecurity or food insecurity
+
+Blue-collar worker
+Skilled trades worker; Manual laborer
+These terms are considered somewhat outdated as they originated in the early 20th century (Wilkie, 2019).
+
+White-collar worker
+Salaried professional
+
+Ghetto/the ghetto
+Historically under-resourced area; Low socioeconomic area
+A term that is often used to describe the intersectionality of socioeconomic status and race/ethnicity. Merriam-Webster (n.d.-b) defines the word ghetto as "a quarter of a city in which members of a [marginalized] group live especially because of social, legal, or economic pressure" (Definition 2). It also has roots in antisemitism. The colloquial use of the term "ghetto" to describe others is rooted in classism and racism.
+
+Disadvantaged; Vulnerable (except for homelessness); Struggling to make ends meet; Working poor; Poor/poorest independence; Supporting families; Gap (ex: income gap)
+Have to make ends meet on low wages; Working hard to make ends meet; Ensuring families have the tools/resources they need; Working hard to make ends meet; People facing barriers/multiple barriers; People with low incomes; Low-income; Low-wealth; People with incomes below the poverty line; Low-income families/residents; Financial stability/health; Economic opportunity; Reduce parents' stress; Toxic stress (only when talking about the clinical condition); Strengthening families; Economic mobility; Facing health/educational/etc. challenges due to poverty
+
+Inner city; Low-opportunity
+Under-resourced; Disinvested/disinvestment; Neighborhoods with high poverty rates
+
+High poverty; Disadvantaged; Distressed; Integration (as a solution to poverty)
+Neighborhood with access to fewer/more opportunities; Low-income neighborhoods/communities
+
+Famine; Food desert; Food stamps; Natural (labeling on food); The hungry
+A malnourished person; An undernourished person; Daily undernourishment; Farm to table; Food poverty; Food security; Food insecurity; Food and nutrition security; Food sovereignty; Hunger; Safety net program; Starvation
+
+Underserved people/communities/the underserved; Hard-to-reach populations; The uninsured
+People who are underserved by [specific service/resource]; People who are underserved by mental health/behavioral health resources; People who are medically underserved; People who are uninsured/people who are underinsured/people who do not have health insurance
+
+Mental/Behavioral Health
+Instead of/ Use this/ Notes
+
+Mentally ill; Crazy; Insane; Mental defect; Suffers from or is afflicted with [condition]; Bipolar (etc.) person
+Person living with a mental health condition; Person with a mental health condition; Person with a preexisting behavioral health condition; Person with a diagnosis of a mental health condition/behavioral health condition
+Mental illness is a general condition. Specific disorders are types of mental illness and should be used whenever possible (for example, when not referring to people with different mental health disorders collectively). For example, consider: Person with depression; People with obsessive-compulsive disorder. When referring to people who are experiencing symptoms (for example, depression, anxiety) but a condition has not been diagnosed or the symptoms may not reach a clinical threshold, consider: People experiencing mental distress; Persons experiencing crisis or trauma; Persons experiencing persistent high stress or anxiety
+
+Asylum
+Psychiatric hospital/facility
+
+Normal
+Typical; Common; Frequent
+Subjective. Conveys a specific system of values. Implies that deviating from that standard is undesirable or unsavory.
+
+Neurodiversity
+Instead of/ Use this/ Notes
+
+On the spectrum
+Neurodiverse
+
+Autistic (or other neurodiverse) person
+Person with autism (or other neurodiverse diagnosis)
+
+Non-U.S. Born Persons/Immigration Status
+Instead of/ Use this/ Notes
+
+Illegals
+People with undocumented status
+
+Illegal immigrants
+Mixed-status households
+Use accurate and clearly defined terms when referring to foreign-born persons. For example, do not use "refugee" if you mean "immigrant."
+
+Illegal aliens
+Immigrant; Migrant
+The term "alien" (person who is not a citizen of the United States) may be stigmatizing in some contexts and should only be used in technical documents and when referring to or using immigration law terminology. "Refugee" and "migrant" are often used interchangeably. Confusion in the use and understanding of these terms can impact the lives and safety of refugees and asylum-seekers. Refugees who leave their homes may be entitled to a range of legal protections and aid to which migrants are not entitled.
+
+Illegal migrants
+Asylum seeker; People who are seeking asylum
+Non-U.S.-born or foreign-born persons may also be used to refer to individuals born in a country other than the U.S., similar to the international migrant concept.
+
+Foreigners
+Refugee; Refugee populations
+
+The foreign born
+Non-U.S.-born person/foreign-born persons
+If combining subpopulations in writing, ensure American Indians and Alaska Natives from tribes located in what is now called the United States are not included in the "immigrant" category.
+
+Third-world country
+Low-income country
+Belittling in that it implies being at the bottom of a hierarchy.
+
+People who are at Increased/Higher Risk
+Instead of/ Use this/ Notes
+
+Risky sex
+Condomless sex (with Prep; without PrEP); Barrier free sex/experiences/activities
+Risk is subjective and what is risky among one population may not be so in another. For example: "bareback," the term, is not used to describe condomless sex among heterosexual (male/female) sex activities. This term carries more meaning and potentially judgment when used to describe sexual interaction between men having sex with other men. Additionally, risky sex is too often HIV informed. If two sex partners are HIV negative, there is not risk of acquiring HIV should they be monogamous. Providers may still label this pairing as "risky."
+
+Safe or unsafe sex; Unprotected sex
+Sex with/without (PrEP, testing, communication, condoms, disclosure, etc.)
+This too is also subjective. The same is true for protected vs. unprotected. The goal of the individual should also be taken into account. Some people believe the only safe sex is abstinence, while others believe testing or being on PrEP adds to safe sex.
+
+Promiscuous
+Having multiple partners; Having concurrent partners
+Judgmental, accusatory, and derogatory
+
+Sex addict/Sex addiction
+Be specific about what is problematic per the client. High libido is not necessarily a problem, but if the client feels this way, use this term instead of addicted to sex. Additionally, issues around impulse control can be labeled as "sex addiction."
+Despite popular headlines and self-promoting providers' proclamation to the contrary, sex addiction isn't real. Sexual health associations have stated it is traumatizing and unethical to use this language and provide treatment for such 'diagnosis'. Despite the DSM-V removal of sex addiction in its volume, many therapists and recovery programs still declare treatments and cures for sex addiction.
+
+Higher-risk group; Groups with high-risk behavior
+Individuals/groups engaging in high-risk behavior (Unprotected sex, use of contaminated needles, etc.); Highly affected communities; Key/priority populations; Key populations at higher risk/affected by HIV
+These terms should be used with caution as they can increase stigma and discrimination. They may also give a false sense of security to people who do not identify with such groups. These terms also may imply that membership of a particular group, rather than engaging in certain behaviors, can be the cause of HIV infection. This may give a false sense of security to people who do not identify with a high-risk group–even when they do engage in behaviors that can put them at risk. For example, a sex worker (member of a population at high risk of exposure to HIV) who practices safer sex is at a lower risk for HIV infection than a heterosexual male (member of a lower risk group) who practices unprotected sex with a sero-positive partner or with a number of different partners of unknown sero-status.
+
+Prostitute; Street walker
+(Commercial) Sex worker; Person who exchanges sex for something of value
+'Prostitute' is considered a disparaging term and does not reflect the fact that sex work is a form of employment for a sex worker and not a way of life. The same applies to the term 'street walker' which does not represent the employment aspect of sex work and is therefore derogatory and misleading.
+
+Survival sex
+Engaging in sexual exchanges for survival needs including food, housing, shelter, protection, substances, etc.
+
+Vulnerable groups
+Key populations/groups vulnerable to/affected by XXX; Key populations/groups; Priority populations
+Although the term is widely used, 'key populations' is preferred as it does not focus only on vulnerability. Instead, it looks at key populations as a sub-set of the general population who have the power to raise awareness and play an important and active role in the response to… (events) within their own community and communities-at-large.
+
+Pandemic vs. epidemic
+Epidemic or pandemic (according to the relevant context which they are used)
+Epidemic is a disease that spreads rapidly through a demographic segment of the human population, such as everyone in a given geographic area (e.g., a military base or similar population unit) or everyone of a certain age or sex (such as the children or women of a region). Epidemic diseases can be spread from person to person or from a contaminated source such as food or water. Pandemic is a disease prevalent throughout an entire country, continent or the whole world.
+
+Pregnancy-Related Health
+Instead of/ Use this/ Notes
+
+Women
+Pregnant people; Birthing bodies; Parenting people
+Use language that covers 'women and pregnant people' or 'Birthing bodies' instead of just 'women' (MacKinnon et al., 2021)
+
+Mothers/fathers
+Pregnant patients; Pregnant People; Birth Parents; Caregivers; Caregiving (people)
+Gender neutral terms like pregnant patients, pregnant people, birth parent, or other wording as applicable (e.g., pregnant teens), present an inclusive alternative. You can also use caregivers and caregiving to be inclusive of non-parents in caregiving roles.
+
+Breastfeeding
+Breastfeeding; Chestfeeding; Bodyfeeding
+Clinicians can avoid compounding the distress experienced by some trans people during pregnancy and birthing by routinely asking about gender identity and appropriate language of those in their care. Having conversations about gender identity and inquiring about the terminology people use to describe their own bodies as a baseline standard of care can help to attenuate pregnant and birthing trans people's healthcare inequities.
+
+Mothering
+Parenting; Caregiving
+Use parenting instead of mothering unless referring specifically to a mother-child relationship.
+
+Geriatric pregnancy
+Pregnancy at 35 or older
+
+Maternal health
+Perinatal health; Health during pregnancy
+For more information on gender-inclusive language in pregnancy-related health, see Rioux et al., 2021
+
+Race & Ethnicity
+Instead of/ Use this/ Notes
+
+Referring to people as their race/ethnicity (for example, Blacks, Hispanics, Latinos, Whites, American Indians, etc.)
+For inclusive communication, more detailed terms are encouraged as appropriate. Be as specific as possible about the group you are referring to (for example, Korean persons, Samoan persons).
+The racial and ethnic group terms provided in CDC's Health Equity Guiding Principles align with those in the Office of Management and Budget (OMB) Race and Ethnic Standards for Federal Statistics and Administrative Reporting and the OMB Revisions to the Standards for the Classification of Federal Data on Race and Ethnicity. It may help to know that the 1997 OMB standards are minimum standards required for federal data and are in the process of being updated.
+
+Referring to people as colored people, colored Indian (to refer to American Indian); Native American (for federal publications); Eskimo
+American Indian or Alaska Native persons/communities/populations
+American Indian and Alaska Natives are the only federally recognized political minority in the United States. Tribes hold a unique government to government relationship with the United States. "American Indian or Alaska Native" should only be used to describe persons with different tribal affiliations or when the tribal affiliations are not known or not known to be the same. Other terms, "tribal communities/populations" or "indigenous communities/populations," could also be used to refer to groups with multiple tribal affiliations. Otherwise, identify persons or groups by their specific tribal affiliation. The term "Indian Country" describes reservations, lands held within tribal jurisdictions, and areas with American Indian populations. "Indian Country" is generally used in context and is rarely used as a stand-alone – it typically is used in writing only after "American Indian or Alaska Native" (AI/AN) has already been used, and the writer wants to avoid continuing to repeat AI/AN or "tribes" and refer more broadly to the general wide community of AI/AN peoples and tribes. Within context, there shouldn't be any confusion about it referring to the Asian country, India.
+
+Asian or Pacific Islander
+Native Hawaiian persons; Pacific Islander persons
+These categories should be separated out of respect for the culture of the populations
+
+Minorities
+Marginalized groups; Underrepresented groups
+
+Referring to people as their race/ethnicity (for example, Blacks, Hispanics, Latinos, Whites, American Indians, etc.)
+Black people, Hispanic people, etc.
+"People/communities of color" is a frequently used term but should only be used if included groups are defined upon first use; be mindful to refer to a specific racial/ethnic group(s) instead of this collective term when the experience is different across groups. Some groups consider the term "people of color" as an unnecessary and binary option (people of color vs. White people), and some people do not identify with the term "people of color." If you describe one group, use the same type of description for all groups being compared. For example, a statement comparing parents with parents of color implies that White parents are the norm against which others (parents of color) are compared.
+
+Oriental
+Asian persons; Asian individuals
+
+Afro-American
+Black or African American people; Black people
+Capitalize Black, since this is how most Black people identify—when referring to cultures, ethnicities, and groups of people, names are often capitalized to reflect reality and respect.
+
+Caucasian
+white people
+Do not capitalize white, as "white" and whiteness are not an identity, but rather a social construct that serves to reinforce power structures.
+
+The [racial/ethnic] community (for example, "the Black community")
+People from the [racial/ethnic group] community
+Tends to other populations or make them seem lesser than white people.
+
+Multiracial people
+People who identify with more than one race; People of more than one race; Persons of multiple races
+
+Ethnic Groups
+Instead of/ Use this/ Notes
+
+Latino
+Latine; Of Spanish origin
+When writing about people who identify as Hispanic, Latino, Latina, Latin@, Latine, Latinx, Chicano, or another related designation, you should consult with the individuals with whom you are working to determine the appropriate terminology. Latinx has been proposed as a gender-neutral English term, but there is debate around its usage. Its use may be considered on an audience-specific basis. Latino (individual man, group of men, or group of people including men and women); Latina (individual woman or group of women)
+
+Mixed race
+When describing a combination of racial/ethnic groups (for example, 3 or more sub-groups) use "people from some racial and ethnic groups" or "people from racial and ethnic minority groups."
+
+Racist Language
+Instead of/ Use this/ Notes
+
+Stakeholder
+Allies; Collaborators; Vested partners; Implementing partners; Working partners; Contributors; Community; Key players
+Has its roots in colonialism (as in: acquiring land originally inhabited by indigenous peoples), and an implication of dominance, a power differential, and entitlement.
+
+Microaggression
+Exclusionary behaviors; Subtle acts of exclusion; Abuse
+The term "microaggression" doesn't fully capture the actions' emotional and material effects or how they impact women and people of color's career progressions. In fact, Jones et al., 2013 found that experiencing what we know as microaggressions can be just as harmful, if not more, than more overt forms of racism.
+
+Brown bag
+Lunch-n-learn; Information session; Seminar; Lunch talk
+It alludes to the Brown Paper Bag Test, a racist and colorist practice of comparing a person's skin color to the color of a brown paper lunch bag. Those whose skin was darker than the bag would be denied privileges afforded to White people.
+
+Blacklist; Black sheep; Black book; Black market
+Avoid using these terms
+Even though some terms like "blacklist" and "black book" originated in America during the start of slavery in the 1610s, using the color black to denote something bad is part of languages around the world. Avoid using "black" to denote something negative.
+
+Cakewalk
+Easy
+Oxford English Dictionary writes that a "cakewalk" was a dancing contest judged by plantation owners — with a cake as the prize.
+
+Rural
+Instead of/ Use this/ Notes
+
+Rural people; Frontier people
+People who live in rural/sparsely populated areas; Residents/populations of rural areas; Rural communities
+
+Sexual Orientation
+Instead of/ Use this/ Notes
+
+Homosexual
+LGBTQ (or LGBTQIA or LGBTQ+ or LGBTQIA2); Lesbian, gay, or bisexual (when referring to self-identified sexual orientation); MSM (men who have sex with men); Queer; Pansexual; Asexual; Transgender; Assigned male/female at birth; Designated male/female at birth; Gender non-conforming; Two-spirit; Non-binary; Genderqueer; Gender diverse; People/person with intersex traits; Pronouns: Singular they or their; He/she/they
+Use LGBTQ community (and not, for example, gay community) to reflect the diversity of the community unless a specific sub-group is meant to be referenced. Consider using the terms "sexual orientation," "gender identity", and "gender expression". Use gender-neutral language whenever possible (for example, avoid "actress" and consider "actor" instead for both male and female actors). Considering using terms that are inclusive of all gender identities (for example parents-to-be; expectant parents). Be aware that not every family is the same, and that some children are not being raised by their biological parents. Build flexibility into communications and surveys to allow full participation.
+
+Terms Related to Violent Acts
+Instead of/ Use this/ Notes
+
+Slave
+Person who was/is enslaved; Person who was/is human trafficked; Person who was/is in indentured servitude
+"Enslaved" describes someone's position in society rather than reducing them to that position.
+
+Victim(s)
+Survivor(s); Victim-Survivor; Victim-Survivor of [experience]
+One should be careful about using "survivors" as a blanket term. The legal system often requires the use of the term "victim" and does not recognize individuals as survivors of violence. To some, this is offensive and undermines their experiences. This is not the case for all though as some people always view themselves as victims of a crime and some always view themselves as survivors. It is important to model the language after what the individual uses. If presenting to a group using victim-survivor is an accepted term.
+
+Human trafficking; Labor trafficking; Sex trafficking; Human smuggling; Involuntary servitude; Debt bondage; Indentured servitude; Commercial sexual exploitation
+A crime involving the exploitation of someone for the purpose of compelled labor or a commercial sex act through the use of force, fraud, or coercion; where a person younger than age 18 is induced to perform a commercial sex act, it is a crime regardless of whether there is any force, fraud, or coercion (U.S. Equal Employment Opportunity Commission, n.d.).
+
+Date rape; Acquaintance rape
+Name the crime, followed by information about who perpetrated the crime; e.g., sexual assault by an intimate partner; Potential crimes include: Sexual assault; Intimate partner sexual assault; Child sexual abuse; Drug-facilitated sexual assault; Incest; Sexual harassment; Stalking; Multiple-perpetrator sexual assault; Sexual exploitation
+Physical violence, sexual violence, stalking, and psychological aggression (including coercive acts) by a current or former intimate partner (per Centers for Disease Control and Prevention)
+
+Domestic violence vs. Intimate partner violence
+Domestic violence refers to violence among anyone in a domestic situation (including parents, children, grandparents, aunts, uncles, cousins, siblings, etc.); Intimate partner violence refers to individuals who are in an intimate relationship with one another
+
+Battered woman syndrome; Battered person syndrome
+Post-traumatic stress disorder related to domestic violence/intimate partner violence
+Battered woman syndrome developed in the psychology of law sphere and is non-inclusive and offensive to many.
+
+Shell shock
+Post-traumatic stress disorder
+
+Rescue language: Rescue; Save; Set free; Voice for the voiceless
+Support; Assist; Help to recover; Rebuild and heal
+Adults in sex trafficking situations do not always see themselves as victims of a crime. Therefore, the use of "rescue language" can deter individuals from seeking help.
+
+Blame language (e.g., "He sold sex," "She sold sex")
+He was sold for sex; She was sold for sex; They were sold for sex
+For more information on discussing trafficking and blame language, see Polaris Project
+
+Committed suicide; Failed/successful suicide; Completed suicide; Killed themselves
+Death by suicide; Lost their life by suicide; Survived a suicide attempt
+"Commit" implies crime or sin. Do not describe suicide attempts as "successful," "unsuccessful," or "failed." Instead, say "survived a suicide attempt," similar to describing someone who has survived a medical event such as cancer or a heart attack (Greenstein, 2018; National Institutes of Health, 2024).
+
+Abused (person)
+Survivor of abuse; Victim-Survivor of abuse; Individual who experienced abuse
+
+Abuser
+individual who perpetrates abuse
+
+Violent Language
+Instead of/ Use this/ Notes
+
+Killing it; Nailing it
+Great job; Awesome
+Although these terms and idioms may seem innocuous ways to signal achievement, it is notable how pervasive violent or militaristic language is seen as positive when it should be the opposite (Karlin, 2019). Even when used in medicine, violent metaphors have been described as "ironic, unfortunate, and unnecessary" (Nie et al., 2016, p. W9).
+
+Take a shot at; Take your best shot; Pull the trigger; Take a stab at
+Give it a go; Try
+
+Target population
+Specific population; Group of focus
+"Target population" may be offensive because many communities are targeted for violence.
+
+Fight against HIV/AIDS; War against HIV/AIDS
+Response to HIV and AIDS
+Although this phrase is widely used, it is considered militaristic and stigmatizing vocabulary that may lead to the thinking that people living with HIV (PLHIV) have to be 'fought' or eliminated.

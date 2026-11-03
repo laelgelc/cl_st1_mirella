@@ -1,0 +1,26 @@
+Age
+
+When you are writing, you need to follow general principles to ensure that your language is free of bias. Here we provide guidelines for talking about age with inclusivity and respect.
+
+Age should be reported as part of the description of participants in the paper’s Method section. Be specific in providing age ranges, means, and medians. Avoid open-ended definitions such as “under 18 years” or “over 65 years,” unless referring, for instance, to broad research study eligibility criteria.
+
+Terms for different age groups
+
+Different terms are used for individuals of different ages, and these terms are often gendered. Use the terms individuals use to self-describe, whether these are binary gender categories of boy–girl or man–woman or descriptive and possibly nonbinary categories of transgender, genderqueer, agender, or gender-fluid.
+
+For an individual of any age, appropriate terms are “person,” “individual,” and so on. In general, avoid using “males” and “females” as nouns; instead use “men” and “women” or other age- and gender-appropriate words. “Males” and “females” are appropriate when groups include individuals with a broad age range, for example, “males” to describe a group that includes both boys and men.
+
+For an individual aged 12 years and younger, appropriate terms are “infant” for a very young child, “child,” “girl,” “boy,” “transgender girl,” “transgender boy,” “gender-fluid child,” and so on.
+
+For an individual aged 13 to 17 years, appropriate terms are “adolescent,” “young person,” “youth,” “young woman,” “young man,” “female adolescent,” “male adolescent,” “agender adolescent,” and so on.
+
+For an individual aged 18 years and older, appropriate terms are “adult,” “woman,” “man,” “transgender man,” “trans man,” “transgender woman,” “trans woman,” “genderqueer adult,” “cisgender adult,” and so on.
+
+Terms for older adults
+
+Older adults are a subgroup of adults, and the age groups of older adults may be described with adjectives. On first reference to a group of older people, be as specific as possible by including the age range, average age, and median age, when available. Terms such as “older persons,” “older people,” “older adults,” “older patients,” “older individuals,” “persons 65 years and older,” and “the older population” are preferred.
+
+Avoid using terms such as “seniors,” “elderly,” “the aged,” “aging dependents,” and similar “othering” terms because they connote a stereotype and suggest that members of the group are not part of society but rather a group apart. Do not use these stigmatizing terms in your research even if your participants use them to refer to themselves. Likewise, avoid negativistic and fatalistic attitudes toward aging, such as age as being an obstacle to overcome. Do not use “senile”; it is an outdated term with no agreed-upon meaning. Use “dementia” instead of “senility”; specify the type of dementia when known, for example, dementia due to Alzheimer’s disease. Be sure your language conveys that aging is a normal part of the human experience and is separate from disease and disorder.
+
+Gerontologists may use combination terms for older age groups, for example, “young-old,” “old-old,” “oldest old”; provide the specific ages of these groups when introducing them in your paper, and use the group names only as adjectives, not as nouns, that is, refer to “young-old individuals,” not to “the young-old”. When contrasting older adults with adults of other ages, describe that other age group specifically, for example, young adults vs. older adults, middle-aged adults vs. older adults. You can use decade-specific descriptors if desired, for example, octogenarian, centenarian. Generational descriptors such as “baby boomers,” “Gen X,” “millennials,” “centennials,” “Gen Z,” and so on should be used only when discussing studies related to the topic of generations. For more information on writing about age, see “Guidelines for the Evaluation of Dementia and Age-Related Cognitive Change” and “Guidelines for Psychological Practice With Older Adults.”
+

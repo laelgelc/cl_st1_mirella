@@ -1,0 +1,12 @@
+Inclusive Language Definition:
+
+Inclusion is the practice of fostering a sense of belonging, by including many perspectives, imagining a diverse audience, a multiplicity of ideals, values, and experiences. Inclusive language is how authors show that they recognise their readers, whoever they are, and that they are welcome. Inclusive language isn't just the description of appearance or using appropriate pronouns; it's also the use of language to portray power, interest, and direction. It directly addresses the violence of racism, sexism, ageism, ableism, transphobia, islamophobia, anti-semitism, homophobia, and heteronormativity. Use of inclusive language also avoids direct discrimination, implicit and unconscious biases, and other forms of prejudice.
+
+Letter    Refers to
+    --------  --------------------------------------
+    L, G, B   sexual orientation
+    T         transgender, and so to gender identity
+    Q         Questioning or Queer
+    I         Intersexual
+    A         Asexual
+

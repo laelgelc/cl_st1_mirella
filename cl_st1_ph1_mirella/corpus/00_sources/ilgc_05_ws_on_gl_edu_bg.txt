@@ -1,0 +1,95 @@
+Inclusive Language Guide: how we co-designed with our community as part of a human-centred Design System
+Human-centred Design System
+We are creating a human-centred, user-focused Design System for a community of over 50,000 people. Our challenge is to design and iterate upon a resource that helps our large, highly devolved estate to achieve coherence, for a population the size of a small town.
+
+A small piece of the design system, developed with the community
+We used our process developing our Inclusive Language Guide to inform how we put our understanding of messy, complex humans at the heart of our approach to developing the Design System, hand in hand with our communities.
+
+Start with values, and ask practical questions
+Our strategic goals for the Design System align with the University’s 2030 strategy, with values of ambition, accessibility, excellence, inclusion, principles, and relevance.
+
+This is reflected in our vision statement:
+
+“Our vision is to create exemplary digital experiences that enhance the University of Edinburgh on the local and global stage.”
+
+To fulfil these goals, we’ve asked practical questions:
+
+Who are we making the design system for?
+Why should our communities care about our Design System?
+How do we make a Design System that genuinely helps our communities?
+Ground-up, not top-down
+For our Design System to reach people, we must persuade them to care. We know our trusty super-users will see it for the beautiful, useful thing it is, but to truly mitigate the risks we see happening across the estate because of our lack of cohesion, our approach must be different.
+
+This is why we involve communities in making small parts of the design system collaboratively from the ground up.
+
+Editorial Style Guide
+It’s important to us to include language in the design system because a word, forensically deployed, is a component. So one of the things we did in late 2020 was to take our Editorial Style Guide – an inaccessible PDF document – and develop it into a functioning website, bringing digital and print guidance together in an accessible way for the first time. Then we turned our attention to inclusive language.
+
+A revolutionised Editorial Style Guide – creating a single source of truth
+
+Intersectional, global, messy, human
+Traditionally, we have tended to interact with our users as stakeholders, designers, marketers, and service owners. Until we began working on the inclusive language guide, we hadn’t explored our troubles navigating our physical and digital worlds as a person of colour, a disabled person, an LGBT+ person: or truly understood the implications for our digital environments.
+
+We were reminded that our humans are intersecting, global, messy, and complex.
+
+Research process
+We spoke to our Disabled Staff Network, Edinburgh Race Equality Network, and Staff Pride Network members to approach three topics:
+
+Disability
+Race
+LGBT+
+Our approach was to begin with one question:
+
+What language do you hear every day that harms you?
+
+That’s an upsetting question. Workshops and discussions were safe spaces, introduced with trigger warnings.
+
+Three things were becoming rapidly apparent as people told their stories:
+
+We have problems with culture
+We have service design issues
+We have problems with language
+Impact: culture change
+Can a language guide deal with problems of culture?
+
+Tangentially, yes. Culture change begins with language.
+
+Space is opening for us to feed what we have learned to the people with power to respond. We are learning more and more about how our Design System fits in with the systems we already have. Properly developed with the community, our Design System can be part of a larger organism which can solve huge, seemingly unsolvable problems. By working with our users, we expose problems to the light, and break them down into small pieces. They are not impossible, but manageable. It is not naïve to imagine we can solve problems together.
+
+Impact: service design
+Can a language guide deal with service design issues?
+
+In the context of good content design, absolutely yes.
+
+We are now working with colleagues to develop our design system patterns, our training, and our platforms.
+
+Impact: language and editorial coherence
+Can a language guide deal with problems of language?
+
+Not as obviously as you may think.
+
+Telling people what not to say is a political and cultural minefield, one that universities are understandably apprehensive about.
+
+When considering examples from other design systems, we observed the Atlassian approach, which was simple, binary: don’t say this – say this instead.
+
+This radically shifted as our research progressed. A University community is global and contextual, there are multiple interpretations and understandings of language, and there is no single right way to express an idea or identity. To help editors to write with accuracy, we must instead emphasise context, nuance, and connection.
+
+Inclusive language principles
+Each community told us about the assumptions implicit in harmful language, and the fact that there is no such thing as full consensus within any community about how language is used. Three principles surfaced:
+
+Always ask, never assume
+Write for context
+Write with care and respect
+Our guide does not have lists of words to avoid. Instead, we explain an area of language, with suggestions for how we might approach it. This helps create the right tone and avoids leaving triggering words lying around.
+
+Small piece of the Design System, big implications
+The Inclusive Language Guide is an example of what we can do when we take a small part of the design system and develop it with our community.
+
+The outcomes:
+
+richly detailed, user-focused evidence
+a community that cares about what happens to future iterations of the thing they helped make
+organisations in the University working with our data to enact meaningful change
+new ways of thinking about our guidance, training and patterns
+insights that help us develop our platform to be more inclusive
+This process has also helped us to see that our Design System is part of an immensely large, old organism. The University of Edinburgh is a constellation of systems, and part of our understanding of our users is about creating a Design System that benefits the needs of our messy humans.

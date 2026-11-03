@@ -1,0 +1,38 @@
+NZ Digital government
+Gender-inclusive language
+
+Gender-inclusive language is more welcoming to your users and promotes gender equality. Do not reference gender unless absolutely necessary.
+
+About gender identity
+
+Gender identity refers to a sense of self, regardless of what sex a person was assigned at birth. Not everyone falls neatly into binary male or female categories.
+
+Non-binary is an umbrella term for gender identities that are neither male or female.
+
+Language influences how we think
+
+When using gender pronouns and referring to gender identity consider that:
+
+your users are a diverse group of people from across the gender spectrum
+labelling people as male or female can reinforce outdated stereotypes and influence how men and women are perceived.
+gender-exclusive language — for example 'man-made', can alienate people who do not identify as men.
+
+Tips
+
+Use gender-neutral pronouns (they, them) by default — especially if you're writing about a hypothetical person or do not know a person's pronoun.
+Respect a person's pronouns when referring to them.
+Do not ask your users for their title or gender unless absolutely necessary.
+If you do require users to indicate their title or gender, make provision for multiple options, including gender-neutral options. Allow users to select more than 1 option.
+Avoid words that are gender exclusive — for example use 'firefighter' not 'fireman'.
+
+Examples of gender-neutral language
+
+they, them or their — not he, she
+spouse or partner — not husband, wife
+parent — not mother, father
+different sex — not opposite sex
+businessperson — not businessman, businesswoman
+police officer — not policeman, policewoman
+chair — not chairman, chairwoman
+machine-made, artificial, synthetic — not man-made
+

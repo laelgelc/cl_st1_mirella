@@ -1,0 +1,159 @@
+Gender
+
+Defining gender-neutral language is important for achieving inclusive language and should be designed to be responsive to all users. 
+
+English has very few gender markers (he, she, her, and his); and some nouns and forms of address. Most English nouns do not have grammatical gender forms (supervisor, president), whereas a few nouns are specifically masculine or feminine (actor/actress, waiter/waitress). Some nouns that once ended in "man" now have neutral equivalents that are used to include both genders (police officer vs policeman/policewoman, spokesperson vs spokesman, chair/chairperson vs chairman). Inclusive language recognizes that language should be perceived as neutral by everyone regardless of their gender, biological sex, race, religion, national origin, age, or generation.
+
+
+Translations
+
+These standards are developed in the English language; however, when DOI products are translated into other languages the concerns of inclusivity carry forward. DOI staff should encourage the application of inclusivity guidance to those translations.
+
+Inclusive Language
+
+The following guidance is recommended for DOI staff to use inclusive language in DOI products and material. Department staff should determine the applicability of this guidance for their specific circumstances.
+
+General Principles for Reducing Bias
+
+The following are general principles for writing about all people and their personal characteristics without bias.
+
+- Consider "good usage" of words versus "common usage." Ask yourself if the term or phrase is central to the meaning of the work or if it can be conveyed using more inclusive language.
+- Consider monitoring your industry for ongoing discussions about acceptable language and share with the Department new or preferred terminology, as it may change over time.
+- Consider comprehension, as the introduction of new terms to avoid bias may introduce comprehension issues. Consult with Department subject matter experts if you are unsure about language or terminology.
+- Consider the order in which you present groups of people, as it can imply that first mentioned dominates the later mentioned.
+- Avoid terms that use 'black' to mean something bad or negative and 'white' to mean positive or less harmful.
+- Avoid terms that perpetuate negative stereotypes or unequal power relationships.
+- Avoid terms that assign gender or sex to inanimate objects.
+- Avoid colloquialisms (popular expressions), metaphors, similes, idioms, and other unnecessary jargon or slang. Plain language is always preferable.
+- Avoid identification of gender or sex unless necessary for comprehension, or when referring to a specific individual or group.
+- Avoid solutions that reduce readability of a text, such as combined forms (s/he or him/her).
+- Avoid alternating masculine and feminine use of pronouns in the same document.
+- Use people-first language when describing a specific individual or group, unless that individual or group clearly prefers identity-first language. The goal is to avoid terms that are condescending or reductive.
+
+General Questions for Equity Evaluation
+
+The questions below are intended to guide your quality control and review process. When developing Agency materials, think about how the style of writing may affect members of the Lesbian, Gay, Bisexual, Transgender, Queer, Intersex, and Asexual (LGBTQIA+) community. These questions are designed for authors or those performing quality reviews to ensure the materials produced promote equality and equity.
+
+- How might this document affect a member of the LGBTQIA+ community?
+- How might this document affect a member of the LGBTQIA+ community differently from other persons?
+- How might this action be less accessible to an LGBTQIA+ person?
+- Were people with diverse gender identities or sexual orientations involved in the development or review of this document?
+- Does the language used recognize the full range of gender identity and sexual orientation (i.e., use of plural pronouns and gender-neutral language)?
+- Does this document use person-first and identity-first language?
+- Is there an internal organization that should be consulted before publication?
+- Does this document's publication have a cascading impact or dependency on another document?
+- What additional resources are needed to address inequities in the policy or program?
+
+While these are but a few questions to consider when reviewing your document, it is critical to ensure compliance for inclusive language that the author or quality control reviewer consider these perspectives. The Department of Interior is committed to removing barriers to equal opportunity and delivering resources and benefits equitably to all. An important part of fulfilling these commitments and providing fully accessible government services is using inclusive language in Department documentation.
+
+Guideline 1: Use Non-Discriminatory Language
+
+Be sensitive to Labels
+
+Respect the language people use to describe themselves by asking them how they'd like to be referred and then referring to them in the manner preferred. Accept that language changes with time and that individuals within groups sometimes disagree about designations, but all efforts should be made to use appropriate terminology.
+
+Avoid False Hierarchies
+
+Be mindful when comparing groups. Bias occurs when we use one group as the standard against another group. Be aware that the order of social group presentation may imply that the first mentioned group is the norm or standard and the later-mentioned group is abnormal or deviant. Do not put groups in order of social dominance; instead, consider options such as alphabetical order or sample size order.
+
+Use Person-first and Identity-first Language
+
+The discussion of person-first versus identity-first language was first applied to issues regarding people with disabilities; however, the language has broadened to refer to other identity groups. Department staff are encouraged to use terms and descriptions that both honor and explain person-first and identity-first perspectives and understand that an individual's preference supersedes matters of style.
+
+Person-first language
+
+In person-first language, the person is emphasized – not the person's disabling or chronic condition.
+
+Identity-first language
+
+In identity-first language, the person's identity is emphasized, which allows the individual to claim their identity as opposed to name it or select terms that may have negative implications. Identity-first language is often used as an expression of cultural pride, whereas in the past it may have had negative connotation.
+
+It is permissible to use either approach or mix person-first and identity-first language unless or until you know that a group clearly prefers one approach, in which case, you should default 
+
+Guideline 2: Use of Inclusive Language for Gender
+
+Using gender-fair and inclusive language also helps to reduce gender stereotyping, promotes social change, and contributes to achieving gender equality.
+
+Gender versus sex
+
+Gender refers to the attitudes, feelings, and behaviors that a given culture associates with a person's biological sex; however, gender is a social construct and a social identity. Sex refers to biological assignment (e.g., sex assigned at birth). Using "gender" instead of "sex" also avoids ambiguity over whether "sex" means sexual orientation – attraction to sex, gender, or some combination of both.
+
+Sex Assignment
+
+The terms "birth sex," "natal sex," "tranny," and "transvestite" are considered disparaging for many individuals that identify as transgender, gender-nonconforming, or nonbinary. These terms should be avoided.
+
+Additionally, it is more appropriate to use "assigned sex" or "sex assigned at birth," as they functionally describe the assignment of a sex term predicated on observation of genitalia, chromosomes, or other anatomical structures of the body at birth.
+
+Gender Identity
+
+Avoid words and phrases that indicate gender bias of others such as irrelevant descriptions of appearance.
+
+Gender and Noun Usage
+
+Refer to all people the way they refer to themselves or request to be referred, which may be different than from their legal name, and keep in mind to respect privacy. To reduce the possibility of stereotypic bias and avoid ambiguity, use specific nouns to identify people or groups of people (e.g., women, men, transgender men, trans men, transgender women, trans women, etc.) Use "male" and "female" as adjectives when appropriate and relevant. Use "male" and "female" as nouns only when the age range is broad or ambiguous or to identify a transgender person's sex assignment at birth .
+
+
+Use of Pronouns
+
+Pronoun use requires specificity and care on the user's part, and staff should always use the person's identified pronouns. Staff should refrain from the term "preferred pronouns" because it implies a choice about one's gender. Use "pronouns" or "identified pronouns" instead.
+
+Use of They
+
+When referring to individuals whose identified pronouns are not known or when the gender of a generic or hypothetical person is irrelevant within the context, use their name or a singular "they" to avoid making assumptions about an individual's gender. It is recommended to use "they," "them," "their", for example. In informal writing, such as emails, plural pronouns may be used as a shortcut to ensure gender inclusiveness. Such strategies are not recommended for formal writing.
+
+Caution should be used when it comes to reflexive/emphatic form of use. For example, if someone were to say, 'someone may unintentionally cause harm to themselves,' and in the group of people being referenced there is a person that uses the pronouns "they", "them," and "their", it may suggest to the layperson that something hasn't happened to the group that may evolve when the intent was to use the individual's identified pronoun.
+
+Avoid using combinations such as "he or she," "she or he," he/she," and "(s)he," as alternatives to the singular "they" because such constructions imply an exclusively binary nature of gender and exclude individuals who do not use these pronouns like gender non-conforming people. These forms can appear awkward and distracting. Combinations "he or she" or "she or he" (but not the combinations with slashes or parentheses) can be used sparingly only if all people being referred to by the pronouns use these terms.
+
+Terms that Imply Binaries
+
+The word opposite implies strong differences between two things and as noted above, some individuals do not identify with either gender or these phrases would then ignore the existence of those individuals. To describe members of a relationship, use the terms "mixed gender" or "mixed sex" when the partners have different genders or sexes. Another way of describing them would be to use the phrases "same gender" or "same sex" when partners have the same gender or sex.
+
+Generic Use of the Masculine Gender
+
+The traditional grammatical convention in most grammatical gender languages is that for groups combining both sexes, the masculine gender is used as the 'inclusive' or 'generic' form, whereas the feminine is 'exclusive,' referring to women only. This generic or neutralizing use of the masculine gender can be perceived as discriminating against women or other genders and Department staff should consider rephrasing using gender-neutral terms.
+
+Forms of Address
+
+When referring to or addressing specific individuals, use forms of address and pronouns that are consistent with their gender identity. For Department staff, you may check their pronouns on Microsoft Teams or, as the situation permits, you may ask the person which pronouns or form of address to use.
+
+For the most part, gender neutral titles without qualifications or career connotations are not widely used by the public or in business, yet the use of titles in business (or other formal situations) can make it difficult to know what to do if gender identity and preference isn't known. Remember, it is always fair to ask someone how they prefer to be addressed. Department staff may consider referencing websites such as Human Rights Campaign or Gender Neutral and Nonbinary Titles to learn more about the titles and their use.
+
+There should also be consistency in the way individuals are referenced, meaning if one individual is addressed by their first/last name, courtesy title, or profession, others should be as well.
+
+
+Mr., Ms., Miss, or Mrs.?
+
+Care should be taken to use the form of address identified by the individual. When the pronoun is not known, precedence is given to Mx. over Mr., Ms., Miss, or Mrs., as the former is more inclusive and can refer to anyone. Remember, it is always a safe decision to use the individual's first and last name as a form of address.
+
+Gender-biased Expressions
+
+Avoid language that uses pictorial metaphors, negativistic terms that imply restriction, and slurs that insult or belittle a particular group.
+
+Discriminatory Metaphors
+- They throw/run/fight like a girl.
+- In a manly way.
+- Boys will be boys.
+- Oh, that's women's work.
+- Thank you to the ladies for making the room more beautiful.
+
+Guideline 3: Use of Inclusive Language for Sexual Orientation
+
+Sexual Orientation
+Defining sexual orientation language is also important for achieving inclusive language. 
+
+Terms for Sexual Orientation
+
+Some examples of sexual orientation are lesbian, gay, heterosexual, straight, asexual, bisexual, queer, polysexual, and pansexual. These definitions and terminology are ever evolving, so it is best to defer to, and be mindful of, the way in which individuals self-identify.
+
+Use the umbrella term "sexual and gender minorities" to refer to multiple sexual and/or gender minority groups or write about "sexual orientation and gender diversity." Abbreviations such as LGBTQ, LGBTQ+, LGBTQIA, and LGBTQIA+ may also be used to refer to multiple groups.
+
+When using specific terms for orientation, clarify the usage to avoid ambiguity.
+
+Inaccurate, Pejorative [Derogatory] Terms
+
+Avoid the terms "homosexual" and "homosexuality," and, instead, use specific identity-first terms to describe people's sexual orientation (e.g., bisexual people, queer people). These specific terms refer primarily to identities and to the culture and communities that have developed among people who share those identities. It is inaccurate to collapse these communities into the term "homosexual." Furthermore, the term "homosexuality" has been and continues to be associated with negative stereotypes, pathology, and the reduction of people's identity to their sexual behavior.
+
+Currently, the terms "straight" and "heterosexual" are both acceptable to use when referring to people who are attracted to an individual of another gender.
+
+

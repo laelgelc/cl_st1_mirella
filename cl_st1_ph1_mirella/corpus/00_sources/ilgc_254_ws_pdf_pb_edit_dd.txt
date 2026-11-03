@@ -1,0 +1,23 @@
+Topic: Age
+Preferred examples: older adults, adults aged 65 and older
+Problematic examples: senior citizens, the elderly
+
+Topic: Disability
+Preferred examples: disabled person or person with a disability, autistic person, blind person, Deaf or hard-of-hearing person, wheelchair user, person with Down syndrome
+Problematic examples: “special needs,” wheelchair-bound, stroke victim, hearing-impaired person
+
+Topic: Gender
+Preferred examples: singular “they” for a generic person, gender-neutral occupational terms
+Problematic examples: “he or she” for a generic person, gendered occupational terms
+
+Topic: Race and ethnicity
+Preferred examples: Asian, people of color, Black, White, Hispanic, Latino/Latina/Latinx/Latine, MENA, Native American
+Problematic examples: Caucasian (racist origins; use “White” or “European American” instead)
+
+Topic: Sexual orientation
+Preferred examples: LGBTQ, gay, straight, bisexual, pansexual, lesbian, queer (and other identities)
+Problematic examples: homosexual (perpetuates stereotypes; use “gay” instead)
+
+Topic: Socioeconomic status
+Preferred examples: people experiencing homelessness, people whose income is [define]
+Problematic examples: the homeless, the poor

@@ -1,0 +1,523 @@
+OVERALL RECOMMENDATIONS
+
+Use People-First Language
+
+The concept of people-first language arises from the disability justice movement. Practicing people-first language means recognizing that everyone is first and foremost a person, not their disability or other identity. This also applies to common socially stigmatized identities. People-first language is a useful approach to take with many identity issues throughout this guide.
+
+Sometimes individuals prefer "identity-first" language. For example, some people prefer to identify as "an autistic person" rather than someone "with autism" because their autism is foundational to their sense of self.
+
+In all cases, ask people how they want to be identified, and remember that no community speaks with one voice.
+
+Check out point 444 "Avoiding other biased language" and point 445 "Unnecessary focus on personal characteristics" in the Chicago Guide for further reading on people-first language.
+
+"Othering" Language
+
+It should go without saying that communicators should never use language and terms commonly understood to be derogatory. But we can do better than that. In all our communications, we should strive to avoid "othering" language which assumes that we, the Sierra Club, are speaking from the perspective of a cisgender, white, heterosexual person with economic privilege. When we say "Sierra Club stands with LGBTQI communities," for example, it implies that Sierra Club is not made up of LGBTQI people, which is incorrect. Instead you could say, "Sierra Club supports civil rights and human dignity for our LGBTQI staff, members and supporters."
+
+Similarly, avoid the use of the term "empower" which carries a condescending implication that the Sierra Club or the environmental movement has the ability to bestow basic rights as a benevolent gesture, rather than communities taking and owning what is rightfully theirs.
+
+Become Culturally Competent
+
+If there is a particular group of people that you work with closely, it's important to develop a deep understanding of their culture, norms, and history. When you write about a group whose identity (e.g., racial or ethnic) you do not share or are not familiar with, we encourage you to explore language guides relevant to that culture. For example, if you are writing a piece for a Black community newspaper, take a look through the National Association of Black Journalists Style Guide. The Unity Journalists for Diversity Guides contain a wealth of resources developed by and for journalists, offering insight from the Asian American Journalists Association Coverage Guide, the Native American Journalists Association Guide, and others. We also encourage you to explore writings and news outlets run by people with identities relevant to your work, and to curate your social media feeds to familiarize yourself with the multiplicity of concerns and viewpoints of people within a particular community. Do not, however, ask or expect someone with a marginalized identity to educate you about their life experiences, or curate educational content for you.
+
+When writing, use the plural "communities" rather than singular "the Asian American community" to avoid implying a monolith. Similarly, use "experiences" rather than "the experience."
+
+Sometimes it is unavoidable to cite language that is problematic but which is officially sanctioned by an institutional body like the US government; for example, if one is referencing action taken by the Bureau of Indian Affairs, or land referred to by the EPA as "Indian country." Where possible, try to find language that circumvents the problematic phrasing, or acknowledge its harmful history. For example: "...this includes land sacred to the Indigenous people, referred to by EPA as 'Indian Country'."
+
+Ask Before Naming Someone's Identity
+
+It's a best practice to ask media interview subjects or spokespeople how they would like their identities to be described. That includes asking what pronoun they prefer, how they would like their racial or ethnic identity to be described, if at all, and clarifying any other identity categories you might want to use to describe them — for example, their age or sexuality. There are as many ways to talk about identity as there are identities, so it's best to just ask.
+
+If you are writing about or referring to a person or group with whom you are not in direct contact, make an effort to find their own writings or interviews online to gather information about how they refer to themselves. It might be worth considering why you are writing about someone you are not in contact with — for instance, if they are a public figure, it's understood that many people write about them. However, there may be times when we must consider whether it is appropriate for the Sierra Club to be telling someone's story without their consent or invitation.
+
+Asking someone how they want to be identified is also critically important because people who share an identity do not always identify the same way. For example, some people might prefer "Latinx" while others may prefer Hispanic, Latino/Latina or another descriptor altogether. While Sierra Club communicators should always strive to use the phrase that conveys the most respect, asking people how they identify before writing or publishing is crucial.
+
+Self-Identified
+
+The descriptor "self-identified" can be a useful tool for writing about complex identities. If someone identifies as "queer" — an identity that has been reclaimed by LGBTQI communities to elevate it from its previous status as a slur — referring to them as a "self-identified queer activist" would make it clear that this person chooses to be identified this way.
+
+Collaboration Without Tokenization
+
+Throughout this guide, we encourage people to work in collaboration with their teams to put these recommendations into practice. You're learning how to communicate more thoughtfully, so peer review of content can be an important tool to help you see your writing from a new perspective. If you're unsure about how to phrase something tricky, try checking in with a colleague.
+
+It is also important to note, however, that people with marginalized identities often receive requests for peer review or editing much more frequently than others. No one likes to be asked to speak on behalf of all people who share their identity. At the same time, it is appropriate to ask a colleague to offer a recommendation on the basis of their personal knowledge of a particular community. We simply ask that you be thoughtful and intentional about your requests for support and reflect on whether the person you are asking for support may feel tokenized by your request. You can also demonstrate respect for a colleague's time and expertise by doing your own research first, requesting (not demanding) your colleague's input on specific questions that remain after you've put genuine effort into your own learning, thanking them, crediting them where appropriate, and making a note for the next time.
+
+On Our Opposition
+
+Often as communicators we are called to discuss our political opposition, including people who don't share Sierra Club viewpoints or values. If you are struggling to find a respectful framing for conservatives or opponents of the Sierra Club, you could refer to them as holding "anti-environment" views. However, as we note later in this guide, try to avoid euphemisms. Instead of saying "racially tinged" or "racially charged," for example, it is important to be clear when a policy is "racist" if appropriate.
+
+Lead with Empathy
+
+Our work often relates to unnatural disasters exacerbated by climate chaos. When communicating about disasters, take time to recognize the immediate needs of your audience and adjust your message accordingly. Concerns about basic needs such as food, water, shelter, and safety must be acknowledged and placed ahead of policy or campaign communication goals. That might mean pausing communications during an emergency, shifting communications to focus solely on amplifying urgent local needs, or including an acknowledgement and link in the messaging.
+
+Be cautious in the use of superlatives about the issues we work on. For example, the climate crisis is urgent, but it may not be "the most" pressing crisis for someone who is facing utility shutoffs. Also be cautious not to exploit urgent needs to push unrelated or only distantly related asks. At best, failing to recognize the big picture can make the Sierra Club seem out of touch — at worst it can cause lasting harm.
+
+Tolerance
+
+Avoid the frame of "tolerance" of differences. This applies to every section of this guide — we should not be aiming to "tolerate" one another, but rather to celebrate our differences.
+
+
+ABLEISM
+
+We don't always realize the ways that our speech reflects an unconscious bias against people living with disabilities. The most common example is the pervasive use of the word "crazy" or "insane" as a pejorative. For people struggling with mental health challenges, it can be exhausting to hear a medical issue be used as shorthand for every piece of bad news. When we characterize as "crazy" something nasty that a politician has said, what are we implying about people struggling with mental health challenges? Another example of pervasive ableism in everyday language is the common use of a term like "lame" to describe something unfavorable or as part of the political term "lame duck."
+
+Tips on How to Refer to People Living With Disabilities
+
+When writing about a person or persons with a disability, refer to the National Center on Disability and Journalism's Disability Language Style Guide for specifics on how to respectfully describe particular disabilities.
+
+It is also important to consider the scope of what the term disability covers. Short-term illness can a disability; however, be mindful that a disability is not necessarily an illness. See the ADA National Network's Guidelines for Writing About People With Disabilities for more information.
+
+Recognizing and Celebrating Neurodiversity
+
+When writing about disability, bear in mind the concept of neurodiversity, which advocates that neurological differences like autism or ADHD be treated as just that — differences, not disabilities. Neurodiversity advocates argue that people with neurological differences are not broken or in need of fixing; rather, a society that fails to meet the basic needs of all people and accommodate differences is broken.
+
+Common Phrases to Avoid
+
+- Legislators are "blind" (and/or "deaf") to climate change.
+  Instead of saying someone is "blind" to reality or "deaf" to the demands of their constituents, just say what's really happening — they're refusing to see or to listen.
+
+- "Stand" in solidarity.
+  Whenever possible, we should use language that is inclusive of all people. Not everyone can stand, or speak out, or make themselves heard. Many people with disabilities casually use terms tied to ability — a blind person might say "see you later!" for example — but if you can massage a sentence to avoid this issue, it's best to do so. "Stand" is the most common example of this challenge.
+
+- The amount of carbon produced is "dwarfed" by the amount saved.
+  It's important to think about where the words we use come from. The word "dwarfed" — meaning, in this case, made to seem small by comparison — comes from the word "dwarf," which is not how most people with the medical condition dwarfism prefer to be described. Instead, choose a different way to express scale that isn't tied to identity and medical issues. Exceptions are proper names and scientific terms that include "dwarf," as in "dwarf reindeer."
+
+- The rhetoric coming out of the White House today is just "crazy" or "insane." The House is "going nuts" (or "mad") trying to stop this bill.
+  Instead of saying something is "crazy," just be more specific! Is it bizarre, unprecedented, or extremist? We should never use "crazy" or other terms about mental health to pejoratively refer to a specific person. Use of "crazy" or "nuts" to describe actions or events should also be avoided whenever possible.
+    - Similarly, we should avoid making light of things like PTSD, anxiety or OCD, by using real medical diagnoses as a metaphor for everyday emotional experiences.
+
+- When he signed up for the marathon, he put forth a "heroic" effort.
+  Avoid the tendency to portray people with disabilities who achieve success as heroic or superhuman, rather than in a more balanced way.
+    - Try not to make broad assumptions that a person with a disability is heroic or inspiring for living their lives. Such rhetoric can perpetuate stereotypes and create false expectations that everyone with a disability should be extraordinary or inspirational.
+    - Similarly, try to avoid over-reliance on war or military metaphor for individuals experiencing or overcoming illness or disability.
+    - For additional resources on metaphor and illness, please see these articles from the American Association of Health Care Journalists and advocacy organization Breast Cancer Now.
+
+
+AGEISM
+
+On the other hand, young people experience ageism when they are treated as less than full members of a community because of their youth and perceived inexperience. In both cases, generational differences can keep people from feeling included in communities, making it essential that we speak respectfully about age in all of our communications.
+
+Tips for Writing About Age
+
+For more on the complexities of ageism, see the Sum of Us Style Guide, which addresses both ends of the ageism spectrum in greater detail.
+
+- Consider whether there is a need to mention someone's age at all. There are often good reasons to mention someone's age — if they identify as a youth activist or an elder in a particular community, for example.
+
+- Always ask interview subjects or spokespeople how they would like to be described — some folks prefer "senior" to "elder" or "student" to "youth." With something so personal, it's best just to ask.
+
+- Avoid age-based comparisons that rely on negative or stereotypical depictions of people in certain age categories.
+
+- Don't assume that every member of a generation — for example, Millennials, or Gen Z — shares similar characteristics.
+
+- When talking about the Sierra Club's future and acknowledging the reality of our current age demographic, let's consider how we are both striving to be a welcoming place for younger people to foster their involvement while also celebrating the contributions of our elders. We can talk about building an intergenerational organization rather than saying, "we need more young people," which can be tokenizing and devalues the contributions of our older members.
+
+- Remember that identities intersect, and ageism impacts people differently on the basis of their gender. Women tend to face harsher social penalties for aging visibly; when writing about an older woman's identity, ask yourself if you would mention her age if she were male.
+
+
+CLASSISM AND WEALTH
+
+Classism entails differential treatment of people based on social class or perceived social class, and oppression of members of certain social classes to the advantage of other class groups.
+
+Classism goes hand-in-hand with the commonly-held myth that the U.S. is a meritocracy, and that people are successful because they have worked hard, and those who are not successful are lazy or haven't worked hard enough. In other words, classism assumes personal responsibility and ignores historical and systemic inequity. Wherever possible, avoid framing and phrasing that ties a person's worth to their economic contributions or accomplishments. Classism also ignores the reality of generational wealth accumulation, and structural barriers in our society that keep people in their stratified social "class".
+
+Tips for Writing About Class
+
+For more on writing in an anti-classist framework, see the Sum of Us Style Guide.
+
+- Using academic jargon is a form of linguistic capital that can exclude people from the conversation and create in-groups and out-groups. Where possible, use universal and accessible language — write out acronyms and be clear and concise.
+
+- Consider whether it's relevant to the story to include titles, credentials, and positions, as well as how these descriptors can serve to underline how that person's value is tied to their accomplishments, education, or privilege.
+
+Understand the difference between "income inequality," "pay inequality," and "wealth inequality," (see below) and use these phrases precisely.
+
+- Do not use descriptors or phrases including:
+    - Upper-class or lower-class
+    - Classy or classless
+    - Trashy
+    - Low life
+    - Good neighborhood/Bad neighborhood
+    - At-risk
+    - The poor
+    - In need, the needy
+    - Wrong side of the tracks
+    - Welfare queen/king
+    - Disadvantaged
+    - Underprivileged
+
+
+POPULATION AND REPRODUCTIVE RIGHTS
+
+Messaging around sexual and reproductive rights is a particularly sensitive issue because environmental groups, including many members and leaders of the Sierra Club, have used concern about "overpopulation" as a pseudo-scientific justification for racist and xenophobic policies to limit both immigration and reproductive freedom.
+
+The Sierra Club has made an intentional shift away from this legacy with our current focus on gender equity and rights. Our word choice can help signal our thoughtful commitment to this change, or it can undermine our efforts, which are still under legitimate scrutiny from communities that have been negatively impacted by state and nonprofit policies on reproductive health and rights, particularly women of color.
+
+The Sierra Club's work continues to evolve away from this viewpoint, aiming to be more just, equitable, and inclusive. Today, we focus on gender equity issues, not population issues. Women, transgender, and gender-nonconforming people are at a greater risk of environmental injustice, whether from climate disruption or from violence and pollution attributable to the dirty fuel industry.
+
+For talking points on our Gender, Equity, and Environment program, see the Gender Program Style Guide.
+
+
+GENDER AND SEXUALITY
+
+Attentiveness to gender and sexuality is critical to our work in fostering a just and equitable community at the Sierra Club and with our partners. It's important to demonstrate the Sierra Club's solidarity with and respect for our LGBTQI members, staff and supporters. The key is to ask people how they identify and what pronouns they use.
+
+Tips for Writing About Gender and Sexuality
+
+- The Sierra Club uses "LGBTQI" as a default term for people who identify as gay, transgender, bi, intersex, or queer. "Gay" and "queer" are also available to people as a self-description of their own community. Ask the person you are referring to how they would like to be described. Terms like bisexual, pansexual, and asexual (an umbrella term for people who do not experience sexual attraction) are appropriate if requested or used by the person you are referring to.
+
+- Never reduce queer identity to a punchline. Homophobia of this type is unfortunately common — for example, jokes about male politicians that rely on the implication that they have a sexual relationship.
+
+- There are regional and cultural differences for using the terms "trans" versus "transgender." It is always best to check with the person you are referring to before using either. The term "transgendered" should be avoided. "Transsexual" is generally considered dated, and may be considered a slur, and should never be used by the Sierra Club unless specifically requested as a self-description by someone we are writing about.
+
+- When writing about a specific individual, ask what pronouns they use (she, her, hers; he, him, his; they, them, their; or different pronouns of their choice). Don't assume someone's gender on the basis of their appearance. They/them/their and other gender neutral pronouns are a legitimate and vital identification for people whose identities are not encompassed by the gender binary.
+
+- When you do not know someone's gender, and have no way of asking them, follow AP style by defaulting to a gender-neutral "they" pronoun.
+    - For example: "Blair Fletcher, a climate activist, shook their fist in the air at the climate rally."
+
+- Use the term "cisgender" (rather than "non-trans" or "non-transgender") to refer to a person who is not transgender, if there is a need to refer to their gender. Cisgender means you identify with the gender you were assigned at birth.
+
+- Use gender-neutral terms whenever possible.
+   
+
+Common Phrases to Avoid
+
+- Avoid patriarchal language such as "not the right man for the job," "manpower," "man up," "you guys," or "manmade."
+
+
+- Avoid emphasizing the importance of work through women's relationship to men.
+
+- Sexualization: Avoid language that is sexualizing of people's bodies, particularly women's bodies. We should particularly avoid sexualized descriptions of interview subjects.
+    - For example: "The curve of the river echoed the shape of a woman's body, drawing us all in."
+
+- Rather than saying "both genders," refer to "all genders" to be inclusive of people who do not identify as men or women.
+
+- Empower: As noted in the "othering language" section, the word "empower" carries the condescending implication that we are giving women, transgender, and gender-nonconforming people their basic right to equality as a gift or magnanimous gesture, rather than those communities taking and owning what is rightfully theirs. This is applicable to all sections of this guide.
+    - Instead of saying the Sierra Club wants to "empower" certain people or communities, be more specific about what you mean. Are we trying to elevate voices? Offer financial resources so folks can do their own organizing?
+
+- "Rule of thumb" historically originates in a reference to intimate partner violence and should be avoided. Use instead: general guideline, approximation, rough measure, standard.
+
+
+IMMIGRANTS AND REFUGEES
+
+The Sierra Club has a complex history with immigration issues. Today, the Sierra Club supports immigration reform policies that create a path to citizenship for all residents of the United States.
+
+But as recently as the 1990s, people organized within the Sierra Club to push the organization to take explicitly anti-immigrant positions. For this reason, Sierra Club communicators must hold themselves to a very high standard when communicating about immigration, immigrants, and refugees, as well as issues facing those communities. By doing so, we can demonstrate the progress we've made as an organization and as a community. To review the Sierra Club's current Board of Directors policy on immigration, see here.
+
+Tips for Writing About Immigrants and Refugees
+
+- Never use the term "illegal" to describe a person. If a person lacks legal permission to live or work in the U.S., you can refer to them as an "undocumented" immigrant or someone with a complex immigration status.
+
+- Avoid referring to "citizens" when possible — every community in the U.S. includes people who are not U.S. citizens. Referring to "residents" or "members" of a community is a more inclusive approach. The term "citizen" is acceptable when discussing "citizen comment periods" or other legal terms that do specifically refer to citizens of the United States.
+
+- Avoid using the term "Americans" generically for a group (because it limits the group to those who have citizenship status as Americans). There may be moments when it is appropriate to utilize this word; for example, if someone is referring to their own ethnic or racial identity, as in "African Americans" or "Chinese Americans."
+    - Before using "Americans" to refer to all people living in the U.S., consider that in Latin America, the identifier "American" is typically used to refer to everyone who hails from the continent.
+    - Alternatives to "Americans" include: U.S. residents, people in the U.S.
+
+Be aware of the ways in which terms like "migrant" and "ex-pat" are selectively applied to describe different groups and avoid similar bias in your choice of terms.
+
+
+LABOR AND WORKERS
+
+The Sierra Club has a history of solidarity with the labor and economic justice movements and is itself a union workplace. But our work to shut down fossil fuel infrastructure often puts us at odds with some sectors of the labor movement.
+
+As one of the founding organizations of the BlueGreen Alliance, the Sierra Club has a responsibility to help bridge that divide by demonstrating with our words and actions that we support a transition to a clean energy economy that creates good, family-supporting union jobs without leaving workers behind. It is critical to our success, and to our humanity, that we show sensitivity to the very real challenges of fossil fuel workers and do everything we can to support a fair and just transition.
+
+Tips for Writing About Labor and Workers
+
+- "Retirement" of coal plants: For workers, hearing about how their plant is "retiring" when their own retirement is probably in jeopardy because of the closure can be painful. This is a euphemism that unhelpfully avoids the reality: The plant is closing. Instead, simply say that the plant will stop burning coal (or gas) on a certain date.
+    - For example: "Today the Sierra Club announced that the San Juan Generating Station will stop burning coal and cease operations in 2022."
+
+- Just transition: The use of this term depends on context. In some parts of the country, environmental justice groups are organizing around the "Just Transition framework" put forth by Movement Generation. Other allies, from Labor Network for Sustainability to the International Trade Union Confederation to the International Labor Organization, have been organizing and advocating for a "just transition," with different understandings of the meaning and application of the term. It may be important to these allies that the term be used authentically, and that those of us using the word know what it means and have been showing up for just transition work.
+    - But for everyday workers, particularly in coal mining areas like Appalachia and the Powder River Basin, reality has failed to live up to the rhetoric they hear about a "just transition," so many workers hear the term as "just a fancy funeral" for their jobs. It's best to avoid "just transition" when fossil fuel workers are in your audience — instead talk about prioritizing economic justice. For many fossil fuel industry workers, the very idea of a transition is itself threatening.
+    - For example: "As our economy shifts away from fossil fuels and toward clean energy, we need to ensure economic justice for all workers, including access to good, family-sustaining union jobs for fossil fuel workers."
+
+- Worker retraining: Similar to "just transition," "worker retraining" is an idea that many workers have been hearing about for years without seeing results. Imagine going through unpaid worker retraining and then finding that there aren't any relevant jobs in the region where you and your family live. Worker training is an important piece of the policy puzzle that will make economic justice possible in a clean energy economy, but it's only one piece — if you want to mention worker retraining, be sure to mention other types of investments and policies as well.
+    - For example: "As our state's economy shifts from fossil fuels to clean energy, we need meaningful public sector investments in creating jobs, a commitment to good, family-sustaining union jobs from the clean energy industry, and resources for fossil fuel workers to gain new skills that are sought after in growing industries."
+
+- Celebrating clean energy jobs: If we are truly committed to building a clean energy economy that works for everyone, we must acknowledge that clean energy jobs are, on average, lower paid and less likely to be unionized than fossil fuel industry jobs. When we celebrate the growth of clean energy jobs without acknowledging that reality, workers just hear hypocrisy. We can lift up the successes of the growing clean energy economy while at the same time putting pressure on clean energy industries to allow unionization and to provide good, family-sustaining jobs to their workers.
+    - For example: "Utah currently has more than five times as many jobs in the clean energy and energy efficiency sectors than the entire fossil fuel industry. That's great news for our state, but we also need to ensure that coal miners and other workers whose jobs are disappearing have access to good, family-supporting jobs. That means doubling down on creating clean energy jobs and putting pressure on clean energy companies to make sure they're providing good jobs at fair wages."
+
+- "Good jobs" vs. living wage union jobs: We should, whenever possible, specify that we are calling on policymakers and job creators to support union jobs, not just ill-defined "good jobs."
+    - For example: "Our state-elected leaders must work to create good, family-sustaining union jobs for workers in our state."
+
+
+POPULATION AND REPRODUCTIVE RIGHTS
+
+Messaging around population growth is a particularly sensitive issue. In the past, many members and leaders of the Sierra Club have used concern about "overpopulation" as a pseudo-scientific justification for racist and xenophobic policies to limit both immigration and reproductive freedom.
+
+The Sierra Club has made an intentional shift away from this legacy with our current focus on gender equity and reproductive rights. Our word choice can help signal our thoughtful commitment to this change, or it can undermine our efforts, which are still under legitimate scrutiny from communities that have been negatively impacted by state and nonprofit policies on reproductive health and rights, particularly women of color.
+
+The Sierra Club continues to evolve, aiming to be more just, equitable, and inclusive. We no longer believe that a focus on population size is appropriate for assessing environmental problems and their solutions. Population rhetoric scapegoats communities of color, in particular the reproductive decisions of women of color in developing countries, as being the root cause of environmental damage and climate change. The Sierra Club's Gender program actively works to counter misleading and racist rhetoric around population control.
+
+We work on gender equity issues, not population, because women, trans, and gender-nonconforming people are at a greater risk of environmental injustice, whether from climate disruption or from violence and pollution attributable to the dirty fuel industry. Women and non-binary leaders are too often excluded from planning and decision-making processes, which leads to less effective and just solutions to environmental problems.
+
+Guidance on Writing About Population and Reproductive Rights:
+
+- Avoid equating peoples' decisions about whether to have or not to have children to carbon emissions, carbon footprint, and climate mitigation.
+
+- Avoid language such as "population stabilization", "overpopulation", "carrying capacity" as it refers to human populations.
+
+- Avoid talking about family planning exclusively in relation to climate change or environmental work. Speak to the importance of comprehensive health care and reproductive rights/health/justice.
+
+Phrases to Avoid:
+- "Overpopulation" or "overpopulated"
+- "Carrying capacity"
+- Tragedy of the commons
+- Population control
+- Degrowth
+- Population stabilization
+- Zero growth
+
+For talking points on our Gender, Equity, and Environment program, see the Gender Program Style Guide.
+
+
+RACIAL AND ETHNIC IDENTITY
+
+Establishing respectful, mutually accountable practices around race in our communications is one of the most important ways we can put our values into practice when communicating on behalf of the Sierra Club.
+
+The key to this work is to, whenever possible, communicate directly and honestly with the people we are writing about. Whether we're ghost-writing an op-ed or drafting a tweet lifting up the voices of community partners, we should always ask, "How does this person want to be identified and described? Am I naming this person's racial identity because they prefer to be identified that way, because their identity is a crucial part of the story being told, or because I wish to tokenize their racial identity in order to showcase the Sierra Club's 'diversity'?" For more information on how to avoid tokenizing people based on their identity, see the Media Justice Toolkit.
+
+Tips for Writing About Race From Race Forward
+
+The folks at Race Forward, which advances racial justice through research, media, and practice, have published an invaluable guide called the Race Forward Reporting Guide. We have collected some of their most relevant recommendations below, but we highly recommend that you read the whole thing. Their influence can be seen throughout this guide, and we offer our thanks to Race Forward for publishing this invaluable resource.
+
+- "Be explicit about race when it is pertinent to a story, fairly (across all racial categories, including identifying persons as "white" when relevant) and appropriately (without relying on stereotypes).
+
+- Familiarize yourself with the key terms and concepts of race and ethnicity, and how categories that describe these can intersect ("white Argentine," "a person of mixed Choctaw and African American descent," Latinos who identify as "some other race").
+
+Preferred Terms for Racial Identity
+
+Whenever possible, ask the person or group you are writing about how they identify, or refer to their website or other self-published content to identify the language they use to describe themselves. In the absence of that information, these are the terms that the Sierra Club uses to refer to some racial and ethnic identities. The Sierra Club capitalizes terms referring to racial and ethnic identities out of respect; this includes "Black," which should always be capitalized. See the AP Style guide release on this here.
+
+- Native or Indigenous (Tribal when referring to governments, Tribal or Native when referring to communities within U.S. borders, Indigenous in international contexts)
+    - Whenever possible, use the specific name referring to the relevant Tribe or Band. See the section on "Tribal Sovereignty and Public Lands" for more information. When referring collectively to more than one Tribe, use the term "Tribal Nations."
+    - Be sure to capitalize "Tribe" or "Tribal" as well as "Native" and "Indigenous." Common use and preference on this varies wildly, and we should prioritize the preferences of the people we are referring to. But unless there is reason not to, we should capitalize these terms in order to default to a position that expresses respect.
+
+- Asian American/Pacific Islander, AAPI
+    - Ideally refer to a more specific identity when that information is available
+
+- Black and/or African American
+    - Be sure to ask interview subjects and spokespeople how they prefer to be referred to, and note that these terms are not interchangeable, particularly for recent immigrants from African countries living in the U.S.
+    - The Sierra Club always capitalizes Black when referring to race or ethnicity.
+
+- white
+    - Do not capitalize the word "white." Doing so risks the perception that Sierra Club is aligned with organized white supremacy. Some argue that by not capitalizing white, whiteness is designated as the default. This is a good conversation to have, but at this time the Sierra Club does not capitalize white to avoid the appearance of allying with organized white supremacy.
+
+- Latino
+As when discussing anyone's racial identity, however, you should use the language people use to describe themselves — some people do self-identify as Hispanic, in which case that is the word that should be used for them.
+        - Please also note that the terms "Latino/a/x" and "Hispanic" are not simply interchangeable. Though there are different nuances and viewpoints, in general, "Hispanic" refers to people who speak Spanish and/or are descended from Spanish-speaking populations, while "Latino/a/x" refers to people who are from or descended from people from Latin America. As with many matters, perspectives vary and it is best to be as specific as possible and consult with people as to how they wish to be identified.
+    -  e.g. "GreenLatino is an organization that works with a broad coalition of Latino leaders." e.g., "Vanessa is a Latina organizer," or groups of Latina women, e.g., the headline "Black and Latina moms are the most concerned about climate change."
+   
+    - While the Sierra Club defaults to using "Latino" or "Latina," you should use "Latinx" if someone self-identifies as Latinx, if an involved community member or partner organizations use Latinx in their published material, or if you've otherwise had conversations that indicate Latinx is the appropriate choice for your specific project.
+
+- BIPOC
+   
+- Either term, PoC or BIPOC, is acceptable for use at the Sierra Club, but be sure to explain the meaning of BIPOC the first time you use it in each piece of content.
+    - Overall, we should strive to be more specific whenever possible. If you really mean to refer to Black communities, or Indigenous communities, then do so. Using BIPOC as a catch-all for all racial identities aside from white risks erasing the very real differences in lived experience among people of different races, undermining the original purpose of the term.
+
+- Hawai'ian Native: People native to Hawai'i may identify as Native American, Hawaiian Native, Indigenous Peoples of the Hawaiian Islands, Pacific Islanders, or some other title. In all cases, ask people how they want to be identified and follow their lead.
+    - Hawaiian language: Refer to places and people in Hawai'i with Native Hawaiian names wherever possible. Check out this guide for information on Hawaiian spelling and pronunciation.
+
+For more resources on specific terms to describe racial identity, see the Diversity Style Guide from the Center for Integration and Improvement of Journalism.
+
+Common Phrases to Avoid
+
+- Never use slurs or phrasing that is commonly understood to be derogatory.
+
+- Minority: According to Race Forward, "Defining people of color as 'minorities' is not recommended because of changing demographics and the ways in which it reinforces ideas of inferiority and marginalization of a group of people." In some areas, it is also simply becoming inaccurate as population demographics shift.
+    - When considering a term to use other than "minority," consider which specific communities you actually mean. BIPOC communities? Working class communities? Be more specific and you can easily avoid this term.
+
+- Use caution with terms that may subtly evoke and reinforce racial stereotypes, such as "urban," "vibrant," and "hardworking."
+    - Instead, just say what you actually mean — and consider whether what you meant to say has embedded stereotypes that should be removed.
+
+- Don't use geographic descriptors interchangeably with religious or other terms to describe specific groups of people. For example, "Muslim" is not synonymous with Arab; African American Muslims are the largest Muslim population in the United States.
+
+- Empower: The word "empower" carries the condescending implication that we are giving people their basic right to equality as a gift or magnanimous gesture, rather than those communities taking and owning what is rightfully theirs. This is applicable to all sections of this guide.
+
+Racism and White Supremacy
+
+Organized White Supremacy
+
+We are living in a historical moment wherein it is crucial to resist attempts by far-right extremists to rebrand their hatred as a legitimate political viewpoint. At the Sierra Club, we refer to white supremacy as white supremacy, rather than playing into the attempt by extremist conservatives to reframe their movement as the "alt-right." NPR affiliate KUOW goes into depth about its choice to avoid the term "alt-right" and the importance of saying what we really mean.
+
+It is also important to call racism out explicitly. As the Associated Press recommended in 2019, don't use euphemisms for racist such as "racially charged" or "racially tinged" when "racism" or "racist" are truly applicable to the situation — call the racism out for what it is.
+
+The Associated Press offers the following definitions of white nationalism and white supremacy:
+
+- White nationalists say that white people are a distinct nation deserving of protection, and therefore they demand special political, legal, and territorial guarantees for whites.
+
+- White supremacists believe that whites are superior and therefore should dominate other races.
+
+The Sierra Club defaults to using the term "white supremacy" to refer to organized white supremacy and nationalism unless there is a specific reason not to. Though many also use the term "white supremacy" to refer to institutional racism and unconscious bias — distinct from overt, organized white supremacy — many in the public do not understand or react to the term "white nationalism." White supremacy is the most commonly used and understood term for organized bigotry and violence, so in order to be clear, that's the term we prefer to use. It can be useful to introduce the qualifiers "organized," "open," or "overt" to make yourself clear when referring to groups and individuals who espouse white supremacist ideas in the public sphere.
+
+The term "white supremacist terrorism" is the most accurate way to describe acts of violence by white nationalists.
+
+Systemic Racism and White Supremacy Culture
+
+The term "white supremacy" or "white supremacy culture" is also increasingly used to describe the systemic racism that underpins every element of society. Sierra Club communicators should feel free to use either term, but be sure to fully explain the distinction between organized white supremacy and societal white supremacy, also known as systemic racism. Otherwise many in our audience are likely to mistake our reference to systemic racism for a reference to organized white supremacy, e.g., the KKK.
+
+It can be strategic to begin by using the term systemic racism with a particular audience and eventually transition to using the term white supremacy once the concept is better understood. It is desirable when possible to use "white supremacy" rather than "systemic racism" because "white supremacy" captures the nuance that white people benefit from systems of racial oppression.
+
+RELIGION AND CULTURE
+
+One way to demonstrate respect for cultural diversity is to recognize religious and cultural traditions other than those of the white Christian culture that dominates the U.S. media landscape. The Sierra Club's Human Resources Department has created this helpful overview of holidays celebrated by people of all different faiths and cultures.
+
+It's a good idea when scheduling an event like a press conference to check that list to avoid major holidays you might not be aware of. In Judaism, for example, Rosh Hashanah and Yom Kippur are the Jewish High Holidays, but because Hanukkah falls near Christmas, that is the holiday that many people of non-Jewish faith and backgrounds recognize and acknowledge. Further examples of important holidays from other faiths and religions include Ramadan, Eid al-Fitr, and Eid al-Adha in Islamic faiths; Diwali and Holi in Hindu, Sikh, Jain, and Buddhist faiths; and the solstices and equinoxes in many Wiccan or Pagan faiths. In addition, be aware and mindful of holidays of cultural importance to various groups in the U.S. (which may or may not be explicitly religious), including but not limited to Lunar New Year, Día de los Muertos, and more.
+
+It is important to double-check the holiday dates, especially as the Islamic calendar and Hebrew calendar are both lunar calendars — based on the moon — meaning they 'move' from year to year when looking at the Gregorian calendar that is used in the United States and most of the world.
+
+Finally, we should also be cautious about messaging around holidays like Thanksgiving and Columbus Day. The Sierra Club does not celebrate Columbus Day because of its association with and celebration of Christopher Columbus and his legacy of colonialism and genocide of Native peoples. Since 2018, the Sierra Club has instead observed Indigenous Peoples' Day.
+
+Some people believe that the first official declaration of a holiday called "Thanksgiving" was a celebration of the massacre of the Pequot people. Millions of other people celebrate the holiday every year. A good practice around this prominent holiday with a violent history is to create multiple pieces of content. For example, in 2020, Sierra Club made multiple posts on social media for Thanksgiving, including one acknowledging the day as a day of mourning.
+
+If you are going to write about or use Thanksgiving as a press hook, be sure to avoid any mention of Pilgrims, the "first Thanksgiving" or other imagery that could come across as insensitive to the violence of colonialism and genocide. Themes of fall harvest and gratitude resonate with our audiences without causing harm.
+
+
+POLITICAL REPRESENTATION
+
+When calling on people to take action, it is important to note that not all people can do so if they lack political representation.
+
+Formerly incarcerated people in most states are denied their right to vote, and millions of people who live in U.S. territories, including the District of Columbia, Puerto Rico, Guam, American Samoa, and the U.S. Virgin Islands, are residents who are subject to U.S. laws but denied meaningful representation. These injustices serve to disenfranchise a vast number of people, and therefore we must be sensitive to how we message when calling for political action.
+
+Here Are Some Tips on How to Be Sensitive to Lack of Political Representation:
+
+- Avoid referring to "citizens" when possible — every community in the U.S. includes people who are not U.S. citizens. Referring to "residents" or "members" of a community is a more inclusive approach. The term "citizen" is acceptable when discussing "citizen comment periods" or other legal terms that do specifically refer to citizens of the United States.
+
+- Avoid using the term "Americans" generically for a group (because it limits the group to those who have citizenship status as Americans). There may be instances in which it is appropriate to use this word. For example when referring to "Black Americans" if the author identifies that way. Also consider that in Latin America, the identifier "American" is typically used to refer to everyone who hails from all of South and Central America.
+
+
+TRIBAL SOVEREIGNTY AND PUBLIC LANDS
+
+There are more than 500 distinct Tribal nations within the borders of the United States, each with a unique culture, history, and identity. In order to build true partnerships, we must consider these distinct identities and strive always to respect cultural sensitivities.
+
+There are general rules to observe when engaging with Tribal nations, but it is especially important to be attentive to the specific lived experience of each Tribal nation and individual.
+
+Tips on Writing About Tribal Nations
+
+- Capitalize "Tribe" or "Tribal" as well as "Native" and "Indigenous." Common use and preference on this varies wildly, and we should prioritize the preferences of the people we are referring to. But unless there is reason not to do so, we should capitalize these terms in order to default to a position that expresses respect.
+
+- When referring to a Tribal nation, we should refer to the specific nation (Dine, Cheyenne, Nooksack, etc.), not "Tribes" generally. Though Native nations are often generalized in collective terminology (Native, Indigenous nations, Indigenous peoples, Native American, American Indian), it is best to refer specifically to the nation.
+
+- Generally speaking, the Sierra Club uses "Tribal" to refer to Native peoples in a U.S. context and "Indigenous" in an international context. "Native" can be used in either context but should always be qualified by "nations," "people" or "peoples."
+
+- Avoid framing that implies that Tribal rights are "given" to Tribes. The federal government does not "give" Tribal nations anything. Through treaties, Tribes ceded their traditional homelands and other properties and rights. The land Tribes reserved for themselves to continue living upon are called "reservations" for a reason. Any benefits Tribal members receive come from treaty rights in exchange for non-Native people to make their homes on Tribal lands and use their resources.
+
+Understanding and Respecting Tribal Sovereignty
+
+It is critical that we demonstrate an understanding of Tribal sovereignty and treaty rights in our messaging. Tribes are sovereign nations, and Tribal sovereignty reflects a nation's ability to self-determine, which is a fundamental right. The nation-to-nation relationship between Tribal nations and the federal government is codified into law, including the highest law of the land.
+
+Treaties are compacts between two nations, typically foreign nations. Article 6, Section 2 of the U.S. Constitution defines treaties as "the supreme law of the land," on a par with the Constitution of the United States itself. Thus, Tribal treaties take precedence over any conflicting state law. This is often misunderstood, and we should do our part to spread this important message.
+
+Tribal nations with different histories and geographies have different political relationships with the U.S. government. There are hundreds of federally recognized Tribes, but it should be noted that other Tribal communities are not federally recognized — either because they have chosen not to be, or, like the Samish Indian Nation, have pursued such recognition but had it denied. Others, such as the Lumbee Nation (whose traditional lands are within the borders of North Carolina), are recognized by the state government but not the federal. It is important to be aware of these situations and address the specific realities each Tribal nation faces.
+
+The Problematic History of Conservation and "Public Lands"
+
+Best practices for dealing respectfully with Tribal nations begin with listening, humility, and understanding. Understand that Tribal nations are not a monolith — different nations have different interests. Additionally, as with any nation, differences of opinion exist within Tribal nations, and individual members should not be taken as speaking for everyone within their communities. We must listen, respect differences as well as similarities, and start where the community is when working in collaboration. We must authentically listen to Tribal interests to find points of collaboration, and refrain from speaking for Tribal partners.
+
+In building relationships, time and care must be taken. We have to understand the economic realities faced by Tribal nations, many of which have historic dependence on extraction industries. It also is important to understand that the conservation movement has engaged in activities harmful to the interests of Native people. This has extended to elements within the Sierra Club as well.
+
+One relevant example: The national Sierra Club, along with Friends of the Earth and other environmental organizations, opposed a land-transfer deal in the early 1970s that would have changed the configuration of the Havasupai Reservation, which is within the boundaries of Grand Canyon National Park. The concern was based on studies that suggested the Havasupai wanted to use the land to build a tramway from the rim to the base of the canyon.
+
+The Arizona chapter of the Sierra Club was uncomfortable opposing the Havasupai, and so arranged to meet with them directly. It turned out that the Havasupai had no intention of building a tramway, or anything else, and were happy to enter into an agreement stating so. Subsequently, the Sierra Club's Board of Directors voted to support the transfer, and the deal ultimately went through. Episodes like this, where elements of the conservation movement can be perceived as opposing Native interests, may have left lasting impressions in certain communities.
+
+To move forward, we have to acknowledge past missteps — and the consequences of these missteps. Some Tribal members and Tribal nations are skeptical of "public lands" rhetoric. Given the history of land theft from Tribes, government misdeeds toward Tribal nations, and broken promises, this is understandable. This does not mean that we should refrain from trying to protect public lands, especially in conjunction with Tribal partners. It does mean we should listen to the concerns of Tribal nations and be prepared for and not defensive about these critiques.
+
+Cultural Appropriation
+
+
+An example of cultural appropriation from the Sierra Club context might be travel writing focusing on Tribal heritage sites from a writer who is not Native. There is an unequal exchange and exploitation of culture in cultural appropriation, which is a continuing legacy of overt colonialism.
+
+Common Phrases to Avoid
+
+
+
+- Other slang terms referring to Native history should also not be used in order to avoid trivializing the violent taking of Native lands or appropriating Native culture. Examples include "low on the totem pole," "let's powwow," and "circle the wagons."
+
+- "Indian" or "Indian Country": Similarly, though many Tribal peoples may use "Indian" to refer to themselves, the Sierra Club is not a Tribal organization and should default to using a more formal, respectful term like "Tribal" or "Native." If someone wishes to be identified as "Indian," we should refer to them as "self-identified" (e.g., self-identified Indian activist).
+
+- References to "spirit animals." This is a form of cultural appropriation that is belittling and disrespectful to culturally significant Native spiritual practices.
+
+- The term "Eskimo" except if it is how a Tribe specifically self-identifies.
+
+
+Further Resources
+
+If you are writing about and working with Tribal nations, spend some time learning about the history and culture of those peoples by doing your own research. Also watch this Sierra Club webinar, "Working With Tribal Nations.
+
+VIOLENCE AND GUNS
+
+For communicators trying to show the excitement of certain Sierra Club actions or the threat of actions we oppose, one might find it easiest to use words and phrases related to gun violence or other forms of violence. Yet despite the common usage of these terms, we must be aware of who can be affected by them — the survivors of that violence.
+
+Gun violence and domestic violence affect millions of people. Let's be aware of how our words impact them. See below for some common examples.
+
+
+WAR AND MILITARY SERVICE
+
+Another common practice communicators fall into is using violent war metaphors that sound commonplace but mean something very different to people who have experienced war.
+
+Almost all of us have talked about legislative "battles" or said we were "in the trenches" on a particular issue, but only a few have ever experienced such things firsthand.
+
+The sacrifice of generations of military service members and their loved ones is immense, and utilizing this language in reference to our work is disrespectful to those who have lived this sacrifice. It also risks making our work seem illegitimate to many readers, viewers, and listeners — especially those who have served in uniform and to civilians who are survivors of war and conflict.
+
+Some terms included here may be acceptable when referring to actual events, rather than when used figuratively. For example, "Under the Gun" is an appropriate title for a story about Berta Caceres's assassination because the violence referred to is real and literal, so referring to it does not serve to minimize actual violence.
+
+
+VISUAL IMAGERY
+
+Just like we're thoughtful and intentional with our words, we need to put intention and care into the images we're using.
+
+It can be challenging to avoid tokenizing people with imagery while at the same time representing the full diversity of communities in which we work and live. We can do this by prioritizing authenticity and pushing ourselves to collect and use real images of people doing work that they care about. For more on how to represent diverse identities without tokenizing people, see the Media Justice Toolkit on page NUMBER.
+
+Peer Review
+
+Any image that will be viewed by a large number of people (for example, the Sierra Club's social media audience) ideally should be reviewed by at least two people total, ideally with different identities, before posting or publishing to ensure that the image fits within the following guidelines. If peer review is not possible, check with your manager. Peer review will help ensure:
+
+- A diversity of people with a range of identities (see Photo Choice and Tokenization below)
+
+- Natural landscapes are accurate (e.g., an article on the Blue Ridge Mountains doesn't have a photo from the Pacific Northwest)
+
+- Infrastructure and buildings are accurate (e.g., a blog post about the Line 3 pipeline doesn't use a photo from DAPL)
+
+- Historic photos are from the correct time period
+
+Also, be mindful of when and how we ask for peer review of photos, so as not to overburden any one person.
+
+Photo Choice and Tokenization
+
+Sierra Club imagery should accurately represent the diversity within the environmental movement. When choosing photos, consider different ethnic backgrounds, sexual orientations, genders and gender expressions, ages (but note that anyone under 18 requires a minor release), religions, and disabilities in the context of everyday life. For an article about a national monument action, could the image be of a person in a wheelchair enjoying the scenery? When we showcase images of families, are we representing all kinds of families, or reproducing dated expectations of what a family looks like? Avoid perpetuating stereotypes.
+
+Be sensitive to people's immigration status by communicating directly with folks who are depicted in imagery concerning immigration. Just because someone was photographed at a pro-immigration event doesn't mean they are ready to be identified as an undocumented immigrant in a prominent public forum like Sierra magazine or our Twitter account.
+
+Photographers
+
+To ensure an accurate portrayal, whenever possible hire photographers who are familiar with the subject (e.g., hire a Navajo photographer to photograph a Navajo celebration).
+
+When hiring photographers, think about the Club's equity and diversity values. Consider working with photographers who are part of the community, or from the area your piece is about. For example, Women Photograph is an example of a consortium of photographers dedicated to equity in the field of photography.
+
+Photo Alteration/Manipulation
+
+Strive to show people as they are. Many mainstream publications photoshop people's faces, bodies and/or skin color to make them adhere to narrowly defined, biased and largely Eurocentric tastes. For example, Kenyan-Mexican actress Lupita Nyong'o's skin was clearly lightened in this 2014 photoshoot for Vanity Fair magazine:
+
+Photos should receive minimal editing e.g., basic color enhancements, cropping, minor lightening/darkening). Avoid altering a person's skin color or physical appearance. This is both to ensure accuracy and to avoid playing into prejudicial stereotypes.
+
+
+WHITEWASHING HISTORY
+
+It is not always easy to confront or address the bigoted, violent parts of history. Nevertheless, when we attempt to whitewash or paper over historical (or current) injustice, we do a disservice to the truth and risk perpetuating that violence by pretending it never happened in the first place.
+
+Like our nation, the Sierra Club also has a complex history. The Sierra Club has made many mistakes on our ongoing journey to solidarity and partnership with communities of color, including supporting harmful external policies, as well as harming our own staff and volunteers who hold marginalized identities.
+
+When writing or speaking about our organization's history, we should be mindful of how we present our own founding members, including John Muir. John Muir sparked a movement to preserve millions of acres of land from logging and mining. Muir also used derogatory language about Black Americans and Indigenous people that perpetuated racism. Those harms continue to afflict and impact the environmental movement today, where people of color are too often marginalized and excluded.
+
+As the most iconic figure in Sierra Club history, Muir's words and actions carry an especially heavy weight. Therefore, when invoking Muir or quoting from his writings, keep these complex histories in mind and consider the context in which you're making use of them. We should always be explicit that the Sierra Club has an ongoing commitment to challenging words, ideology and actions that perpetuate racism, now and in the future.
+
+Overall, we should try to strike a balance between acknowledging noteworthy accomplishments, individuals, and moments in history without ignoring or downplaying when we have failed to live up to our current values and ideals.
+
+Tips for Writing About U.S. History
+
+- Founding Fathers: U.S. residents often refer to the "Founding Fathers" and their values around justice and equality, or religious freedom, without also acknowledging the reality that many of the founders of the United States enslaved human beings. We should avoid messaging that celebrates early U.S. history without also acknowledging the violence inherent in enslavement.
+
+- "Our" Public Lands: Though some Native groups and communities themselves use rhetoric like "protect our public lands," we should be aware of how fraught ownership language is for many Native people. For someone whose family was forcibly removed from the Tribal lands that are now known as Yosemite National Park, for example, the claim that public lands "are the birthright of every American," or that "national parks are America's greatest idea" could be deeply upsetting. Simply acknowledging specific Native peoples as the original stewards of lands we are writing about can help us to avoid whitewashing history.
+
+- Slavery: When referring to a person who was enslaved, we should say "enslaved person" rather than "slave." Slavery doesn't just happen; it's not a natural condition of human beings. Referring to someone as a "slave" diminishes their humanity and fails to place the agency for their enslavement where it belongs: with the people who enslaved them.
+
+

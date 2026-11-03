@@ -1,0 +1,150 @@
+Terminology
+
+The following table shows you how you can use gender-based terms in English. However, it is important to remember that every individual has their own preferences. Therefore, it is always best to ask people how they would like to be referred to.
+
+Examples of how to use these terms in inclusive ways | Example of wording that may exclude people
+
+He is transgender; trans man, trans woman
+"He is a transgender, he is transgendered"; "transman", "transwoman"
+
+She is cisgender; cis woman, cis man
+"biological woman", "biological man", "normal/ordinary/regular woman/man"
+
+He transitioned a few years ago; When he presented as female/as a woman; When he was read as female/as a woman; He was assigned female at birth
+"He changed genders/he transgendered"; "Sex change"; "Before he became a boy"/"when he was a girl"; "When 'she' was a 'girl'"; "He was born a girl"
+
+"They are non-binary/gender non-conforming"
+Referring to people by the wrong pronouns
+
+He or she or they is or are intersex; an intersex person
+"Hermaphrodite" (outdated, now considered a slur)
+
+Dear Mr/Ms/Mx
+"Miss" or "Mrs" (refers to the woman's marital status)
+
+Dear Mr/Ms/Mx (all options provided)
+"Dear Mr or Ms" (only binary options provided)
+
+"All colleagues may invite their partners or spouses"; "Do you have a partner?"
+"All colleagues may invite their husbands or wives"; "Do you have a boyfriend/girlfriend?"
+
+"All parents and guardians"
+"All mothers and fathers", only using "Mothers and fathers", or "mothering"
+
+
+Examples of gendered noun forms and their alternatives:
+
+Noun | Alternative(s)
+
+Man | Human, person, individual
+Mankind | Humankind, people, humanity, human beings
+Freshman | First-year student
+Man-made | Manufactured, synthetic, artificial
+Chairman | Chairperson, chair
+Postman | Postal worker
+Policeman | Police officer
+Steward/stewardess | Attendant (e.g. flight/theatre)
+Actor/actress | Actor
+Congressman | Legislator, congressional representative
+
+Key terms
+
+The following table outlines some key terms and how to use them inclusively. However, it is important to remember that every individual has their own preferences. Therefore, it is always best to ask people how they would like to be referred to.
+
+Examples of how to use these terms in inclusive ways | Example of wording that may exclude people
+
+Students with a functional impairment
+See below terms
+
+See "functional impairment"
+See below terms
+
+'Neurotypical' and 'neuroatypical' may be considered offensive by some, especially when used by people who are not neurodivergent. Similarly, it is offensive to refer to a non-neurodivergent person as 'ordinary' or 'normal.'
+
+Our student population is neurodiverse.
+See "neurodivergent"
+
+Autistic students can request special provisions. Here are the provisions for autistic students. He is autistic.
+An autistic person; A person with autism; He has autism.; He is 'an' autistic.
+
+Disabled staff members can use the accessible parking spaces.
+Staff with a disability; 'The disabled'; 'Handicapped'; 'Special needs'
+
+She is not disabled, she is able-bodied.
+'Normal', 'ordinary'
+
+Wheelchair users can use the lift.
+'Wheelchair bound'
+
+He is partially sighted.
+Some may consider the term "impaired" offensive, but others identify with this term
+
+They are deaf.
+Some may consider the term "impaired" offensive, but others identify with this term
+
+She has a congenital disability.
+'Birth defect'
+
+The new buildings have been created with accessibility in mind.
+N/A
+
+There are accessible parking spaces available outside the front entrance.
+N/A
+
+
+Terminology
+
+The following table outlines some key terms and how to use them inclusively. However, it is important to remember that every individual has their own preferences. Therefore, it is always best to ask people how they would like to be referred to.
+
+Examples of how to use these terms in inclusive ways | Example of wording that may exclude people
+
+People with a migration background often encounter unique barriers to education.
+'Autochtoon' and 'allochtoon', 'ethnic'
+
+The social gathering is intended to build support among Black students.
+'Blacks', 'black' written with a lowercase b
+
+Asian people have been living in the Netherlands for centuries.
+'Asians'
+
+The conference is focused on the achievement of academics of colour
+'Coloured people' (this is now a slur)
+
+The impacts of historic injustice have continually pushed BIPOC communities further from opportunity, creating barriers to their success, safety, and well-being.
+'non-white' (positions white as the default)
+
+Racialized people in experience living in the Netherlands differently.
+'non-white' (positions white as the default)
+
+We collaborate with our partners in the Majority World.
+Non-western and Western, Undeveloped and developed, Third World and First World, Global South and Global North, 'civilized' world
+
+She is biracial
+'Mixed race'
+
+People of all races are welcome
+(none listed)
+
+Please select the ethnicity / ethnicities you identify with
+(none listed)
+
+A number of examples are included below; why not research inclusive language use in your own discipline too?
+
+Discipline | Examples | Alternatives
+
+Literary studies
+Use of offensive language, e.g. the N-word, in old texts.
+Using 'quotation marks' around the offensive language, or replacing it with a filler such as 'the N-word'. Not speaking the word out loud during class.
+
+Political science and international studies
+'Developing World', 'Global South', and 'Third World' are often used to refer to diverse countries. These terms are perceived as creating hierarchies and centring Europe and North America, while putting most countries in the box of 'other' and 'lesser.'
+'Majority World' can be used to describe countries in Africa, Asia, South and Central America, and the Caribbean. 'Minority World' countries refer to Europe and North America. Furthermore, we can clarify specifically what countries, regions, or qualities we are trying to reference. (for example, 'countries in Africa' or 'countries with a high GDP')
+
+Medicine and social sciences
+Offensive language referring to the historical categorization of races
+Only discussing these terms within their original context, clarifying that we do not use these words nowadays.
+
+STEM
+Master-slave dichotomy to indicate unidirectional control of one device over another. Blacklist/whitelist, 'black is bad' effect
+Primary-secondary, primary-replica, active-standby, writer-reader, coordinator-worker, parent-helper. Allowlist/blocklist
+

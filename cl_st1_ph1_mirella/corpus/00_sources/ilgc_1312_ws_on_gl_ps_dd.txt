@@ -1,0 +1,10 @@
+
+      Preferred: "Lives with mental illness"
+      Avoid:     "Struggles with mental illness"
+
+
+
+      Preferred: "Persistent"          Avoid: "Chronic"
+      Preferred: "After the operation" Avoid: "Post-op"
+
+

@@ -1,0 +1,36 @@
+Example outdated terms and suggested alternatives
+
+
+Outdated Terms	Suggested substitutes
+Whitelist/blacklist
+
+Allow, trust or approved list / deny, untrusted or blocked list
+
+Master/slave
+
+Primary/secondary
+
+White hat/black hat
+
+Ethical, authorised or non-malicious / Unethical, unauthorised or malicious
+
+Penetration testing
+
+Ethical hacking, red or blue testing, security assessment
+
+Man-in-the-middle
+
+Intercept-attack or network interception
+
+Sanity check
+
+Functional test, confidence check or spot check 
+
+Dummy
+
+Beginner, test or draft
+
+Grandfather-father-son
+
+Legacy or primary, secondary, tertiary
+

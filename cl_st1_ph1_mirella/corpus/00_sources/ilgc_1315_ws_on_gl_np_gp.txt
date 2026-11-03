@@ -1,0 +1,147 @@
+Guiding Principles for Inclusive and Accurate Communication
+
+Avoid:
+    Catchall terms to refer to people and population groups. Be specific and intentional.
+
+Using broad terms like priority, marginalized, vulnerable or at risk to describe groups affected by inequities can be misleading. These vague labels allow readers to make assumptions about who is included, which may perpetuate stereotypes or exclude people or groups. Instead, be precise and data-driven in your language. Clearly identify the groups you are referring to and explain how and why they are affected.
+
+For example, instead of saying, “Vulnerable populations are affected by lead poisoning,” say, “Children are particularly vulnerable to lead poisoning because…” Similarly, rather than using general terms like “marginalized communities” state, for example, “Black women are more likely to die from pregnancy-related complications than white women.” Whenever possible, support your claims with credible data. This approach promotes respectful, informed dialogue, deters stigmatization, and highlights the true scope of health inequities.
+
+Avoid:
+    Overgeneralizing groups of people by using the term “community” too broadly.
+
+While “community” refers to a group of people who share mutual care and a sense of belonging, it should not be used to describe entire racial or ethnic groups. This can oversimplify and overlook the diverse identities, experiences and cultural backgrounds within those groups. For instance, the phrase “the Black community” can be misleading, as it implies all Black people share the same experiences and perspectives, which is not the case.
+
+Instead, use more precise language that acknowledges this diversity.
+
+Avoid:
+    Using “diversity,” “inclusion,” and “belonging” as interchangeable terms, as each carries a distinct meaning.
+
+Diversity refers to the presence and representation of different identities, backgrounds and perspectives across all dimensions of human difference.
+
+Inclusion means ensuring that all individuals are not only present but also valued, heard and actively engaged.
+
+Belonging goes a step further, focusing on creating an environment where everyone feels accepted, respected and empowered to thrive as full members of the larger community.
+
+Using these terms thoughtfully and intentionally helps foster meaningful and effective efforts in equity and justice.
+
+Avoid:
+    Using terms with violent or militaristic connotations when referring to people, groups or communities.
+
+Words like target, tackle and combat can unintentionally reinforce harmful or aggressive imagery, especially in public health communication. Instead, opt for language that fosters collaboration and respect.
+
+Avoid:
+    Framing discussions from the perspective of the dominant group as the default.
+
+Certain terms can reinforce inequitable power structures by either lumping together distinct racial and ethnic groups or positioning them as “other.” When referencing countries or groups other than your own, or other than the dominant group, use neutral, context-specific language without assumptions or judgment, particularly regarding income or status.
+
+Key guidelines:
+
+    Only mention race, gender or other identities when they are relevant to the issue at hand. If a specific group is disproportionately affected, highlight this to bring attention to inequities, but always support the claim with evidence. For example, when discussing COVID-19 in the U.S., you might note that Black and Latinx people in the U.S. have been disproportionately affected due to structural discrimination leading to poorer health outcomes.
+
+    Avoid using overly broad terms like community or minorities to describe groups, as these terms can be inaccurate and can obscure the diversity within groups,
+
+This approach promotes clarity and respects the complexity of different groups and experiences, avoiding assumptions that uphold dominant perspectives.
+
+Avoid:
+    Using the phrase “low- and middle-income countries” (LMIC) unless you are specifically referencing the World Bank’s classifications, such as in a study that analyzes data based on these categories.
+
+This term, like others such as developing countries or Third World, is often used as a catch-all label and can perpetuate problematic assumptions.
+
+Instead of defaulting to this broad categorization, ask yourself: Can you specify the country or region you’re referring to? Can you be more precise based on the context or topic? Is per capita income really relevant to the topic you are discussing? Rather than seeking a generic replacement that could also become an automatic label, focus on what you truly want to express. In many cases, there’s no need to mention income level at all, and the term can be omitted without losing meaning.
+
+You can also use the term “global majority” to refer to the majority of the global population that live in what is often referred to as developing countries or Third World. “Global minority” refers to the smaller global population that live in wealthier nations, often referred to as the West or Global North.
+
+If it’s relevant to the context, be clear and specific. For instance, instead of saying “low- and middle-income countries,” you might say “countries with a high burden of tobacco use” or “countries with limited health care infrastructure,” depending on the topic at hand. This approach provides more accuracy and avoids reinforcing inequitable or oversimplified labels.
+
+Avoid:
+    Victim blaming.
+
+Victim blaming occurs when survivors of trauma or crimes, or people living with certain diseases or injuries, are unfairly held responsible for their experiences or reactions. In public health, this can manifest as attributing a person’s illness or injury to their behavior or lifestyle choices, when in reality, many health outcomes are shaped by factors beyond individual control, such as economic, cultural or societal circumstances. This not only stigmatizes people but can also isolate them, discouraging them from seeking help or speaking out about their experiences.
+
+One common example of victim blaming is in discussions of road crashes. Research on media coverage shows that when pedestrians or cyclists are harmed or killed in crashes, the responsibility is often shifted onto the victims rather than the drivers or broader systemic failures. By focusing on the victims’ actions, we divert attention from the role of governments and drivers in maintaining road safety, such as setting, enforcing and following speed limits and other critical regulations. This skewed narrative downplays the accountability that policymakers and drivers have in preventing harm.
+
+Understand:
+    The use of “Native American,” “Native,” “American Indian,” “Indigenous” and related terms.
+
+Each of these terms may be appropriate when referring to people who are Indigenous to the lands currently known as the United States, but it’s essential to respect regional and personal preferences and consider context when selecting which term to use. When possible, refer to specific Native nations or Tribal affiliations. If such preferences are unknown, follow these general guidelines:
+
+    “Native” (capitalized, without “American”) is often the preferred term when referring to Native people broadly, particularly because it avoids defining Native individuals in relation to the settler-colonial state. However, using Native American on first mention is acceptable and can provide helpful context, especially if the audience may be unfamiliar with the topic.
+
+    “American Indian” also defines Native people in relation to a settler-colonial power and is generally less preferred than “Native” or “Native American.” However, it may still be used in certain contexts, such as data collection categories (e.g., census data) where “American Indian and Alaska Native” may be an official term. In some regions, “American Indian” may be the preferred term, and some Native individuals may have a personal preference for the term—in these cases, defer to regional and personal preferences.
+
+    “Indigenous” (capitalized) is a broader term that can refer to Indigenous peoples globally. While it is an acceptable adjective, further clarification is often necessary to specify if you are referring to Indigenous people(s) from what is currently known as the United States, or another country or region.
+
+    When known, refer to people’s specific Tribal affiliation(s). Note that individuals may be “members,” “citizens,” “descendants,” etc. of specific Native nations (e.g., “a citizen of the Chickasaw Nation”). Always use the terminology preferred by the individual or Tribal government.
+
+    As language evolves, it’s preferable to avoid using racial descriptors as nouns. Instead of saying “Natives,” “Native Americans,” or “American Indians” as standalone nouns, use terms like “Native people,” “Native communities,” or “Native individuals.” Note that the term “Native peoples” refers to a group of distinct Native nations, whereas “Native people” refers to individuals. Never use “Indian(s)” as a noun to refer to Native people.
+
+Terms to avoid:
+
+    “Esk*mo”: This is considered a slur and should never be used.
+
+    Avoid using “Indian” on its own unless it’s part of a formal term (e.g., “Indian Health Service,” “Indian Country,” “federal Indian law,” “Indian Child Welfare Act”), or if quoting a Native individual who uses this term.
+
+These guidelines focus on those who are Indigenous to the lands currently known as the United States. When referring to Indigenous people(s) from a different geography, check the preferred terminology from that area or for the specific Indigenous nation/group, or use “Indigenous peoples of [place]” if appropriate (e.g., “Indigenous peoples of Peru”). If you are not sure what term to use, ask an appropriate contact.
+
+Understand:
+    When to use “Native nations” vs. “Tribes.”
+
+Both “Native nations” and “Tribes” are commonly used when referring to Indigenous sovereign nations within the borders of the United States, but it’s important to prioritize regional, governmental or personal preferences when referring to Native nations. If such preferences are unknown, using “Native nations” is generally recommended as it better acknowledges Tribal sovereignty, which is the inherent authority of Native nations to govern themselves.
+
+When referencing a specific Native nation, use the name it prefers, which may differ from the federally recognized name. For example, while the U.S. government officially refers to the Red Lake Nation as the Red Lake Band of Chippewa Indians, the nation itself uses the name Red Lake Nation.
+
+The term “Tribal” (capitalized) is appropriate when discussing structures or programs managed by Native governments, such as Tribal government, Tribal programs, or Tribal clinics.
+
+In New Mexico, “Pueblos” refers to certain specific Native nations, but it’s important to note that not all Native nations in New Mexico are Pueblos, such as the Navajo Nation.
+
+When talking about communities rather than governments, “Native communities” may be more appropriate. For example, you could refer to “the Bad River community,” “the Albuquerque urban Native community,” or “the Native community in Gallup.” Just be sure the term “community” is accurate and acceptable to the people involved; as noted above, using the term “community” too broadly can obscure diversity within a group.
+
+When referring to Native nations within a state or other geography, phrases like “Native nations that share geography with [state]” are preferred. “Native nations in [state]” can also be used, but some may find this term less ideal, as it may suggest that the nations are subordinate to the state, which does not accurately reflect their unique legal and political status as sovereign nations. Avoid possessive phrasing such as “[state]’s Native nations” or “the U.S.’s Native nations” because Native nations are sovereign and not owned or governed by states or the U.S.
+
+
+Key Terms for Effective and Equitable Global Health Communication
+
+
+While “empowerment” traditionally suggests giving someone the power or authority to act, it often carries a paternalistic tone. This language implies that one party is bestowing power upon another, suggesting that the recipient lacks the capability to make decisions independently. Such a perspective can reinforce existing power imbalances and perpetuate systems of oppression.
+
+In contrast, autonomy emphasizes self-determination and individual agency. By prioritizing autonomy, organizations can support individuals and communities in taking ownership of their lives and making decisions that align with their best interests.
+
+Instead of framing efforts as “empowerment,” consider using more specific terms like “equip” or “inform” to illustrate how you are facilitating individuals’ ability to make informed choices. This approach fosters more sustainable, long-lasting change while avoiding the reinforcement of harmful power dynamics.
+
+The term “disadvantaged” is often used interchangeably with “under-resourced” and “under-served,” but it should be approached with caution. Historically, “disadvantaged” has supported a deficit-based model that emphasizes what communities lack rather than their strengths and assets. Many people view this term as pejorative, as it has frequently been applied to minoritized and historically marginalized groups. While “under-resourced” and “under-served” are more descriptive of the historical disinvestment some communities face, they too have limitations; some areas may be perceived as “over-served” yet still lack effective coordination or meaningful resources. Ultimately, terms like “historically and intentionally excluded” or “disinvested” more accurately capture the complexities of exclusion and disinvestment without reinforcing negative stereotypes or deficit models.
+
+
+“Minorities” can have both a numerical and symbolic connotation. It is sometimes used to describe non-white people, for example, Black and Latinx people within a geographic area in which they are not necessarily less represented in numbers.
+
+It is a term that implies inferiority and less access to power than the dominant group.
+
+Avoid using similar coded terms of this nature. Instead, use terms such as historically marginalized, minoritized, or BIPOC (Black, Indigenous and People of Color). If you use BIPOC, write it out on first or second reference, since all readers may not be familiar with it, especially globally.
+
+The term “vulnerable populations” is often used in public health as a broad label to describe groups assumed to have a status that negatively affects their well-being, suggesting they require protection because they cannot adequately safeguard themselves. However, this term can be problematic and should be replaced with more precise, evidence-based language such as “increased risk” or “more likely” where appropriate.
+
+For instance, it is more accurate to say “Children are at increased risk for lead poisoning because…” rather than labeling them as inherently vulnerable.
+
+Avoid using “vulnerable” because:
+
+    It can be disempowering, implying that individuals or groups lack agency and are unable to care for themselves.
+
+    It distracts from the multiple layers of marginalization that affect certain groups, preventing a nuanced understanding of who may benefit most from targeted policies or services.
+
+    It oversimplifies the issue by ignoring how individuals may experience marginalization in overlapping ways, focusing instead on single group identities.
+
+    It leaves room for the audience to fill in the blanks based on personal assumptions, which can reinforce stereotypes.
+
+    No group is inherently vulnerable. Vulnerability is caused by external factors, not intrinsic characteristics of the group.
+
+By focusing on specific risks or conditions, you avoid reinforcing power imbalances while maintaining clarity and accountability.
+
+
+It’s important to use person-first language to communicate with respect and understanding, prioritizing the individual rather than reducing them to a label or a specific behavior. This approach acknowledges the person’s humanity first, helping to foster a more compassionate and informed dialogue. By framing it this way, we can combat stigma, acknowledge that people have many identities and characteristics, and promote a greater understanding of the challenges people face.
+
+
+The term “citizen” refers to people who belong to a specific country, granting them certain rights based on their birth or legal status. In contrast, “resident” or “people living in [location]” encompasses anyone who resides in a particular area, regardless of their citizenship status. Using “citizen” can inadvertently exclude those who live in a location but do not have citizenship, making “resident” a more inclusive choice. By opting for these terms, we acknowledge the diverse populations that contribute to our communities. In addition, be intentional and accurate when referring to a group of people who live in a particular country: For example, “Black Americans” is not the same as “Black people who live in the United States.”
+
+
+
+

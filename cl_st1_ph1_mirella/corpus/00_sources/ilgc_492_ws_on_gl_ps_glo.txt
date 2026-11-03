@@ -1,0 +1,9 @@
+This includes terms like:
+* Gyp/gypped (Common Meaning: Duped or tricked): Gyp/gypped is a negative term that derived from the word 'gypsy' and originally applied to the Romani people.
+* Brown Bag Lunch (Common Meaning: Food taken to work to eat at lunch): Brown bag lunch derives from a form of racial discrimination that involved comparing a Black person's skin color to a brown paper bag.
+* Grandfathered (Common Meaning: Excepted): "Grandfathered" derives from a statute enacted by seven Southern states to deny suffrage to Black Americans.
+* Master/Slave Program (Common Meaning: Software engineering terms for primary and secondary computing programs): Any terms rooted in slavery should be avoided and replaced at all costs.
+
+* Hispanic (Misuse: Used to refer to all people from Central or South America): "Hispanic" refers to people descended from countries where the primary language is Spanish. A person from Brazil might not identify as Hispanic because they speak Portuguese.
+* African-American (Misuse: Used to refer to anyone whose ancestors originated in Africa): Not all black people in the US identify as African-American. For example, a black person from Jamaica may identify as a Jamaican-American. A black person from Brazil may identify as Latine.
+* Asian (Misuse: Used to refer to American citizens whose ancestors originated in Asia): "Asian" refers to Asians in Asia. Asian Americans are citizens of the United States - so It would not be correct to refer to an Asian-American woman by saying "She's Asian".

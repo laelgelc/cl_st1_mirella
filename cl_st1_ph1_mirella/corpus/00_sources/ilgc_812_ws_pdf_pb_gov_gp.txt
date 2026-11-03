@@ -1,0 +1,64 @@
+AVOIDING GENDER-SPECIFIC PRONOUNS
+
+A range of techniques are available for avoiding gender-specific pronouns. Which of them works best will depend on each specific context. The techniques available fall into three main categories:
+
+(1) Repeat the noun;
+(2) Change the pronoun;
+(3) Rephrase to avoid the need for a noun or pronoun.
+
+(1) Repeat the noun
+
+You can repeat the noun each time rather than using a pronoun.
+
+EXAMPLE
+... earnings, in relation to a person, means sums payable to the person in connection with the person's employment ...
+
+This works well in a simple case, but in some cases constant repetition may lead to long or inelegant drafts, in which case one of the other techniques discussed below may be preferable.
+
+One way to minimise the awkwardness of repeating a long compound noun is to use a defined term.
+
+EXAMPLES
+... may give a youth conditional caution to a child or young person ("the offender") if the offender ...
+
+1. Definitions … "D" means a director or other officer of the company.
+2. Powers … may give D benefits under this contract where the following conditions are met ...
+
+(2) Change the pronoun
+
+They (singular). In everyday speech, "they" is often used in relation to a singular antecedent which could refer to a person regardless of gender. Whether this popular usage is correct is sometimes disputed. OED (2nd ed, 1989) records the usage without comment; SOED (5th ed, 2002) notes "considered erron. by some". It is certainly well-precedented in respectable literature over several centuries (e.g., Shakespeare, Dickens, Sir Walter Scott, CS Lewis … ).
+
+"They" as a singular pronoun may seem more natural in some contexts (for example, where the antecedent is "any person" or "a person") than in others.
+
+EXAMPLE
+It is a defence for a person charged with an offence under this section to prove that they had a reasonable excuse for their action.
+
+They (plural). It may be possible to turn the noun into a plural noun and then to use "they", but care needs to be taken to ensure that use of the plural does not lead to ambiguity.
+
+EXAMPLE
+Participants may only carry on [particular activities] ... if they hold a permit …
+
+(3) Rephrase to avoid the need for a noun or pronoun
+
+Use the passive
+
+If using the passive voice particular care needs to be taken to ensure that it is clear who has to do what.
+
+A potential disadvantage of the approach in this example is that it postpones the operative words to the end. That can detract from readability, especially if the relative clause (introduced by "who") is long.
+
+Impersonal constructions. Other impersonal constructions are possible. Again, care needs to be taken not to produce an unnatural dislocation between the person and the thing, event or action being spoken of.
+
+On occasion this approach may risk losing the link between the noun and the person being spoken of and thereby lose clarity, or at least may give the reader an unexpected jolt.
+
+Omit the pronoun. Sometimes it is not necessary to use a pronoun at all.
+
+
+This technique relies on the reader using the context to supply the word omitted. Care is needed to avoid uncertainty.
+
+Omit the phrase with the pronoun. It might be worth asking whether the phrase requiring the personal pronoun adds anything worthwhile in the particular context.
+
+
+AVOIDING GENDER-SPECIFIC NOUNS
+
+
+Some English words denoting a particular occupation, role or activity exist in a form with a feminine suffix, the obvious example being -ess (manager/manageress, actor/actress, author/authoress). In many cases the feminine form has fallen or is falling out of use and the suffixless form is or can be used for any person regardless of gender ("they are a marvellous actor"). Where that is the case, the suffixless form is preferable.
+

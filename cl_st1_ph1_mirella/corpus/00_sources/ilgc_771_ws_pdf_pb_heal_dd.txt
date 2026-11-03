@@ -1,0 +1,226 @@
+Some examples:
+
+Instead of this...
+
+Cancer patients
+Metastatic patients
+HIV-positive patients
+High-risk/low-risk/average-risk patients
+Cases (when referring to people)
+Subjects (eg, in a clinical trial)
+
+Use this...
+
+Person or individuals with cancer
+Person or individuals with metastatic disease
+People with HIV
+Patients or individuals at high-risk/low-risk/average-risk for...
+People or patients
+Participants
+
+Some examples:
+
+Instead of this...
+
+Patients who respond to treatment
+Patients who fail treatment
+Treatment failure
+Salvage treatment or rescue therapy
+Manage patients
+Treat patients
+Non-compliance with treatment
+Patient complains of...(symptom)
+
+Use this...
+
+Patients whose disease responds to treatment
+Or
+Patients with responsive disease
+
+Patients with progressive disease [Note that if the term refractory is used, it should be to a specific treatment]
+
+Disease progression [Note that if the term refractory is used, it should be to a specific treatment]
+
+Treatment of progressive disease/recurrence [Note that if the term refractory is used, it should be to a specific treatment]
+Or
+Secondary therapy/second-line therapy
+
+Care for patients or comprehensive care of patients
+Or
+[Note that disease can be managed or treated, with word choice depending on the situation]
+
+Best to use something like incomplete or abandoned treatment plans; when appropriate, discuss barriers to treatment completion and solutions.
+If no other options: Use non-adherence to treatment
+
+Patient reports...(symptom)
+
+
+Some examples:
+
+Body weight
+
+Instead of this...
+
+Overweight or obese patients
+Or
+Patients who are overweight/obese
+
+Underweight patients
+OR
+Patients who are underweight
+
+
+Use this...
+
+Patients affected by (or use with or who have) overweight
+Or
+Patients affected by (or use with or who have) obesity
+Or
+Patients with BMI of >=25 or 25-29.9 or >=30 kg/m2 (provide appropriate range)
+Or
+Patients with higher [or excess] weight/higher BMI (only if appropriate - if a source uses the terms overweight or obesity, then these terms or BMI ranges should be used)
+
+Patients or people who have or with or affected by underweight
+Or
+Patients with BMI <18 kg/m2
+
+Age
+
+Instead of this...
+
+Patients older than 65 y
+Patients who are elderly
+Or
+The elderly
+Or
+Seniors
+
+
+Use this...
+
+Patients over 65 y or Patients >65 y [Note that the Patient GLs use over and the Professional GLs use symbols]
+Or
+Patients aged 65-75 years (give a specific age range when possible/appropriate)
+Older patients [only use this term if it cannot be avoided. It is best to use specific age ranges when possible.]
+
+
+Candidacy for Treatment
+
+Instead of this...
+
+Unfit for chemotherapy
+
+
+Use this...
+
+Not a candidate for chemotherapy
+
+
+Substance Use
+
+Instead of this...
+
+Smoker
+
+Drug or substance abuse/dependence/misuse
+Or
+Drug habit
+
+Street drugs
+Or
+Illegal drugs
+Or
+Drugs of abuse
+
+Substance/drug abuser
+Or
+Substance/drug user
+Or
+Substance/drug addict
+
+Alcoholic, alcohol abuser
+Or
+Drinker
+
+Alcohol abuse, alcohol misuse, alcohol dependence, alcoholism
+
+
+Use this...
+
+Person who smokes
+
+Substance use
+Or
+Substance use disorder or substance use disorders
+Or
+Used other than prescribed [for prescription medications]
+
+Illicit drugs/substances
+
+Person with a substance use disorder or person with substance use disorders
+Or
+Person who uses ...
+
+Person with alcohol use disorder
+When diagnostic criteria aren't necessarily met but manner, situation, amount, or frequency can harm the person:
+Person who uses excessive alcohol
+Or
+Person who engages in excessive (or unhealthy or hazardous) alcohol use
+
+Alcohol use disorder
+When diagnostic criteria aren't necessarily met but manner, situation, amount, or frequency can harm the person:
+Excessive (or inappropriate) alcohol use
+
+
+Mental health
+
+Instead of this...
+
+Mental health problems
+or
+Mental health issues
+
+
+Use this...
+
+Depending on context:
+Mental health concerns
+Or
+Mental health diagnoses
+
+
+HIV and other viruses
+
+Instead of this...
+
+HIV-positive person
+Or
+HIV-infected person
+Or
+Patient with HIV
+Or
+HIV carrier
+
+HIV-negative person
+
+HPV-positive person
+Or
+HPV carrier
+
+Catch or pass on HIV, HPV
+Acquire or transmit HIV, HPV
+Or
+
+
+Use this...
+
+Person with HIV (PWH)
+
+Person without HIV
+
+Person with HPV
+
+Be diagnosed with HIV, HPV
+
+
+

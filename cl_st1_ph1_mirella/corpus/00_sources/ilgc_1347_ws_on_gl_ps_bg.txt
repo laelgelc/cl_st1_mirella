@@ -1,0 +1,50 @@
+
+Witty Works
+
+Examples of Inclusive Language
+
+Understanding Witty's checks
+
+Witty helps you write inclusively.
+
+It checks your text for non-inclusive language in many diversity dimensions, such as gender-inclusive language.
+
+What exactly does Witty highlight? It's based on a framework, developed together with specialized interest groups, that determines inclusive and non-inclusive language.
+
+By the way, Witty also helps you with spelling and grammar.
+
+Cultural Diversity
+
+Our world is full of people from all walks of life and backgrounds. They have different ancestries, languages, traditions, and ways of life. Their biographies and ethnic and cultural identities transcend national borders. Witty flags cultural stereotyping, discriminatory language related to migration, Yiddish pejoratives, and the vocabulary of Nazi Germany. We point out racist slurs and language with racist undertones and connotations. You can mitigate risks related to language barriers by avoiding abbreviations, acronyms, fillers, and empty words that contribute to misunderstandings in multilingual environments.
+
+
+Acquired Diversity
+
+Think of the many experiences, past and present, that shape a life: We age, adapt to changes in socioeconomic status, get an education, form life partnerships or marry, find and make families, experience loss, separation, and trauma. We are veterans, live with difficulties others can't see, have accidents, and manage changes in our faculties and capabilities. We are survivors of conflict, violence, and incarceration. The sum of our experiences and perspectives constitute the acquired diversity we bring to the table. Witty alerts you to language that:
+
+    excludes or marginalizes people based on acquired characteristics.
+    trivializes the impact of difficult experiences and traumatizing life events.
+    reinforces social stigma and biases surrounding acquired diversity, such as age, class, or veteran status.
+    is used in microaggression against people of different experiences.
+
+Social Motive
+
+Language that puts I over we or perpetuates success strategies traditionally associated with masculinity and male leadership are more likely to resonate with men. At the same time, this language tends to put off marginalized genders, women, people with a collaborative mindset, and younger audiences. Studies suggest these groups tend to prefer words and phrases from the communal and inclusive end of the language spectrum.
+
+With green highlighting, Witty raises awareness for language that communicates an appreciation for connection, collaboration, community, belonging, and emotional safety.
+
+Gender + Orientation
+
+Biases and stereotypes about gender, gender identities, and sexual orientation are deeply ingrained in how we think and speak. Witty detects binarist and heteronormative language. It alerts you to language that perpetuates patriarchal concepts of leadership. Witty flags gender stereotyping that limits people to traditional ideas about gender roles, gender identities, gender expressions, and sexual orientation. And, Witty highlights the generic masculine that undercuts the representation of marginalized genders and gender non-conforming people.
+
+
+Ability + Physicality
+
+Most of us are taught to believe that having a disability, an illness, or physical attributes different from aesthetic fashions, suggests otherness. In fact, 15% of the world's population experiences some form of disability, and almost three in five US Americans feel beauty brands have a responsibility to destigmatize flaws. Flagging language that misrepresents natural human diversity, Witty offers inclusive and respectful alternatives. It detects ableist slurs, disability-related hate speech, and biases in eleven dimensions, from vision, hearing, and speech to learning, mental well-being, and physicality.
+
+
+Religion
+
+By using stories and pictures in our heads to share ideas, religions have played a vital role in forming and cultivating stereotypes. Even people who don't believe or are intensely private about their faith use language shaped by the religions that dominate the culture they live in.
+
+

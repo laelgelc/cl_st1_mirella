@@ -1,0 +1,245 @@
+CROSS-DOMAIN CONSIDERATIONS
+
+General: Consider whether you should use person-first or identity-first language based on the preferences of your patient population (ensure you obtain feedback from participants and/or their caregivers/families), as well as published guidelines if available (e.g., Association of Diabetes Care and Education
+ Specialists, 2023). You may also wish to include a rationale for the terms selected (e.g., "In this paper, we will switch between person-first and identity-first language due to the different preferences of self-advocates").
+
+General: Review current language-related guidelines as preferred language changes over time (see APA's inclusive language guide and recommendations in the APA Style bias-free language guidelines; American Psychological Association.
+
+General: Do not identify any population as being "at risk" or "high risk" based on a diversity dimension, and instead, describe the unique barriers and social contexts faced by individuals with specific identities that may make participation in research or other social settings more challenging.
+
+General: Do not use language that places blame on individuals or groups of people (e.g., hard to reach). Instead use terms that acknowledge the structural, systemic, and historical factors that contribute to disparities (e.g., underserved, communities or individuals who have been marginalized). 
+
+General: As definitions of diversity dimensions are not universal and may differ around the world, detail the context of the research study.
+
+Title and keywords: Include diversity dimensions relevant to the research question. Refrain from using verbiage that implies that White participants are the normative population.
+
+Authorship: Acknowledge community partners and provide an author contribution statement. Include community partners in the writing process and author list when possible .
+
+Authorship: Include an author positionality statement, see equity, diversity, and inclusion toolkit for journal editors.
+
+Abstract: Report on diversity dimensions of relevance to the study question to the extent that space allows.
+
+Introduction: Discuss the strengths and limitations of the theoretical framework (e.g., theoretical framework was developed with a group whose diversity dimensions differ from those of the sample) and relevant literature (e.g., lack of research including populations with specific diversity dimensions.
+
+Methods: Detail how diversity dimensions informed the research design (e.g., recruitment methods tailored to meet the needs of different populations) and who was involved in the research design (e.g., patient partners).
+
+Methods: Describe the population from which participants were recruited, inclusion/exclusion criteria, and recruitment procedures (i.e., efforts to recruit a sample whose diversity dimensions reflect those of the larger population; recruitment materials/procedures tailored to specific groups; oversampling procedures;).
+
+Methods: State the categories used to collect diversity dimension data, with the ability to choose all that apply and the inclusion of a "prefer not to answer" option. Alternatively, make sure participants have the option to skip questions or select "don't know."
+
+Methods: Indicate which diversity dimension variables were collected for a specific study. Include the reason the diversity dimension(s) was collected for the study.
+
+Methods: Include an explanation of who identified the diversity dimension and the source of the classifications used (e.g., self-report, caregiver report, and electronic health record).
+
+Methods: Consider and report on the implications and limitations of using measures across different populations (e.g., measures which may have limited applicability across various samples).
+
+Results: Report data transparently. For example, if you provided participants with multiple response options, report those response options rather than just a subset of the options provided. Note: this does not dictate how categories are used in analyses - authors may conduct statistical analyses with response options combined as appropriate to their study goals and methods, with appropriate rationale.
+
+Discussion: When describing racism, identify the form (interpersonal, institutional, and systemic), the mechanism by which it may be operating, and other intersecting forms of oppression (such as based on sex, gender, sexual orientation, age, regionality, nationality, religion, or income) that may compound its effects. For further details, see Boyd et al., 2020.
+
+Text and tables: List demographic information in alphabetical order (e.g., Asian, Black, and White) in text and tables.
+
+DOMAIN: AGE AND GENERATIONAL INFLUENCES
+
+General: Age denotes two important characteristics about an individual. First, place in the life cycle (e.g., child, adolescent, young adult, middle-aged, and older adult). The developmental stage study participants are in should be clear, ideally in the manuscript title and abstract. This may be very specific (e.g., toddler) or broad (e.g., young person) depending on the focus of the study. Report and justify the age range or other criteria used by the investigator to define a developmental stage (e.g., adolescence as the second decade of life; Petersen, 1988). Second, membership in a cohort of individuals who were born at a similar time. If age is used in this manner, clarify the conceptualization of generational influence (e.g., Millennials, Generation X, baby boomers, the silent generation, and the greatest generation; Pew Research Center, 2015) and report birth year ranges for cohorts.
+
+DOMAIN: DISABILITY STATUS
+
+Nota: esta seção também é relevante para indivíduos com transtornos de saúde mental e/ou do neurodesenvolvimento mas que não se identificam como tendo uma deficiência segundo o framework ADDRESSING. A terminologia evolui ao longo do tempo, mas o framework ADDRESSING é usado como guia atual. Termos como "diversabilities" etc. também podem ser usados conforme apropriado.
+
+General: Be sensitive when using terms like "disorder," "impairment," "abnormality," and "special" to refer to disability. The word "condition" is often an appropriate substitute, but these terms do not have universal agreement in the field.
+
+General: Consider how to best reference and define the severity or nature of a condition. For example, high and low functioning may not be acceptable. Words like "severe" imply judgment. Instead, use neutral, objective terms, including the definition and assessment of terms used.
+
+General: Avoid language that implies restriction (e.g., wheelchair bound).
+
+General: Avoid slurs, euphemisms (e.g., special needs and differently-abled) and excessive/negative labels (e.g., brain damaged, and AIDS victim) when referring to individuals or groups of people. Of note, it is possible that some terms are used to reflect data sources, names of policies, or identification in administrative data. For example, although the term "special needs" is generally discouraged, the term "children with special health care needs" is used in the medical literature.
+
+General: Avoid overdramatized words (e.g., threat, risk, and danger) when discussing constructs associated with disability. Consider using "increased likelihood" instead of "increased risk."
+
+General: Refrain from solely using a medical model of disability. Instead, acknowledge the unique barriers and social contexts faced by individuals that may make participation in research or other social settings more challenging.
+
+Methods: Prioritize self-report over proxy or surrogate report when appropriate depending on the participant's level of functioning and/or developmental level.
+
+Methods: Consider conflicting classifications of disability (e.g., how federal policies may determine eligibility for or define a disability vs. how an individual or another research study defined disability).
+
+Methods: Design the measure to be able to assess multiple disabilities and multiple types of disabilities for the same participant.
+
+Discussion: Integrate social implications of disability.
+
+DOMAIN: RELIGION AND SPIRITUAL ORIENTATION
+
+General: Be sensitive when using terms and classifying participants based on their religion and spiritual orientation. Measures are intended only for the purpose of describing the population participating in the study, and not as a proxy for other phenomena (e.g., political views).
+
+Discussion: Consider the culture and cultural implications of an individual's religion, and how an individual's spiritual orientation may differ from a larger religious group's social norms.
+
+DOMAIN: ETHNICITY AND RACE
+
+General: Name specific groups when comparing racial/ethnic groups, rather than using a collective reference like "non-White."
+
+General: Only use "multiracial" and "multiethnic" if the specific categories these terms comprise are defined (e.g., more than one race), or if the terms were predefined in a study or database to which participants self-selected. For example, if participants were allowed to choose multiple races on a demographic form which led to them being placed in a "multiracial" or "multiethnic" category, specify this.
+
+General: Capitalize the names of races, ethnicities, and tribes (e.g., African American, Asian, Black, Cherokee Nation, Hispanic, Jewish, and White). Use lowercase for the terms "multiracial," "biracial," and "multiethnic."
+
+General: Do not use hyphens in multiword names, even if the names act as unit modifiers (e.g., write "Asian American participants" without hyphen).
+
+General: Do not use racial and ethnic terms in noun form (e.g., Asians, Blacks) but in adjective form (e.g., Asian participants, participants who are Black).
+
+General: If the term African American or Black is used to describe participants in studies involving populations in the United States, do not use the two terms interchangeably unless both terms were formally used in the study (e.g., data collection form).
+
+General: Refer to an Indigenous group as a "people" or "nation" rather than as a "tribe" unless the people group has identified tribe as their preferred term - in which case this should be specifically stated in the methods section. There are specific designations for people from specific locations, such as Native Hawaiian and Pacific Islanders, which are used when appropriate. The nation or peoples are specified, when possible (e.g., Inuit, Iroquois, Mayan, Navajo, Nez Perce, and Samoan). For example, in reference to persons indigenous to North America (and their descendants), aboriginal, indigenous, and native have been used and there is no consensus on the optimal term.
+
+General: Use Hispanic, Latino or Latina, Latinx, and Latine for people of Spanish-speaking or Latin American descent or heritage. As with other terms, these terms can include people from other geographic locations. Note that there may be age group and geographic location preferences related to these terms and these terms have different connotations.
+
+General: Use the term Asian American when describing those who identify with Asian descent among the U.S. population. However, individuals' self-identified countries of origin should be included when known. Describe persons of Asian ancestry according to their country or regional area of origin (e.g., Cambodian, Chinese, Indian, Japanese, Korean, Sri Lankan, East Asian, and Southeast Asian) when possible. Although the United States Census Bureau categorizes individuals from the MENA (Middle East and Northern Africa) as White (United States Census Bureau, 2022), describe study participants from the Middle East and North African regions using their nation of origin (e.g., Egyptian, Iranian, Iraqi, Israeli, and Lebanese) whenever possible.
+
+General: Avoid abbreviations of categories for race and ethnicity unless there are space constraints (e.g., in tables and figures) or to avoid long, repetitive strings of descriptors.
+
+General: Treat culture as a separate construct from race and ethnicity. For additional guidance specific to cultural considerations.
+
+Methods: Describe race and ethnicity variables collected. If any race and ethnicity characteristics that were collected are not reported, state the reason. If collection was required for a funding agency (i.e., NIH), note it. For example, "Reporting race and ethnicity in this study was mandated by the National Institutes of Health, consistent with the inclusion of women, minorities, and children policy."
+
+Methods: When race and/or ethnicity are included as primary predictors or covariates, provide a scientific rationale and report the variance accounted for instead of describing race/ethnicity as being "controlled for".
+
+Results: Use racial and ethnic categories instead of collective terms (e.g., people of color) when possible. When possible, use specific categories, recognizing these categories will differ based on (a) the databases or surveys used, (b) the requirements of funders, and (c) the geographic location of data collection or study participants. Avoid the category "other." Terms related to groups of people (e.g., minority, minoritized, marginalized, and racialized) should be used based on the specific population or research focus at time of publication, noting that there is not current consensus and terminology can change rapidly. Note that this reporting guidance does not dictate how race and ethnicity categories are used in analyses - authors may conduct statistical analyses with race and ethnicity variables combined as appropriate to their study goals and methods, with appropriate rationale.
+
+Discussion: Avoid assumptions and conclusions that whiteness is the norm or that White participants are the reference group. If differences in racial or ethnic groups are present, discuss these differences in the context of historical policies and structural challenges and/or if such differences reflect differences in other contextual variables.
+
+Discussion: Avoid conclusions that may be interpreted as placing blame on racialized or minoritized populations. Name systems of oppression.
+
+Discussion: Consider whether the racial and ethnic representation of the sample presents limitations and, if so, clearly acknowledge implications (e.g., limited generalizability due to homogeneity of the sample). If data on racism or discrimination were not collected and race and ethnicity are being used as a proxy for racism or discrimination, authors should acknowledge this limitation in the interpretation of their findings. For further information on available scales of discrimination.
+
+DOMAIN: SES (SOCIOECONOMIC STATUS)
+
+General: Avoid terms that ascribe conditions to groups of people (e.g., the poor) and instead use person-first language and define income levels (e.g., people whose self-reported annual income was below the federal poverty level or World Bank guidelines). 
+
+Methods: Be thoughtful about what information you are/are not collecting. For example, consider what information is/is not needed to report back to funders or research sponsors, or what SES questions are needed to situate your research within the broader field (e.g., use validated measures or categories consistent with federal guidelines to ensure generalizability/comparability across study populations).
+
+Methods: If SES is not the focus of your research, ask only what you need to know to characterize the sample. If SES is the focus, select items/measures that are culturally appropriate to your population. Be prepared to explain to participants why you are asking for sensitive information. If asking about things like food insecurity, homelessness, etc., include information about available resources or social services when possible (e.g., food pantries and shelters).
+
+Results: If you provided participants with ranges for annual income or education, or multiple options for insurance status, present the percentage in each category in your demographics table, rather than just the majority (e.g., 96% public insurance, 3% private insurance, 1% self-pay, rather than only reporting 96% had public insurance). Note: As with ethnicity and race, this does not dictate how categories are used in analyses - authors may conduct statistical analyses with SES variables combined consistent with their study goals and methods, with appropriate rationale.
+
+Discussion: Situate the discussion in the broader sociocultural context of your study population, especially if you are examining SES as a predictor or outcome, are working with a historically marginalized population, and/or examined SES as a covariate.
+
+DOMAIN: SEXUAL ORIENTATION
+
+General: Language related to sexual orientation has evolved rapidly. Use the terms people use to identify themselves.
+
+General: Use the umbrella term "sexual and gender minorities" to refer to multiple sexual and/or gender minority groups or write about "sexual orientation and gender diversity."
+
+General: Abbreviations such as LGBTQ, LGBTQ+, LGBTQIA, TSLGBTQIA+, and 2SLGBTQIA+ may be used to refer to multiple groups. The form "LGBT" is considered outdated, but there is no consensus about alternative abbreviations including or beyond LGBTQ to use. If you use the abbreviation LGBTQ (or a related one), define it and ensure that it is representative of the groups about which you are writing. However, if in doubt, use one of the umbrella terms rather than a potentially inaccurate abbreviation.
+
+General: When using specific terms for orientations, define them if there is ambiguity. For example, the adjective "gay" can be interpreted broadly, to include all genders, or narrowly, to include only men, so define "gay" or use the phrase "gay men" to clarify the usage. By convention, the term "lesbians" is appropriate to use interchangeably with "lesbian women," but "gay men" or "gay people" should be used, not "gays."
+
+General: Avoid the terms "homosexual" and "homosexuality." Instead, use specific, identity-first terms to describe people's sexual orientation (e.g., bisexual people, queer people). The terms "straight" and "heterosexual" are both acceptable to use when referring to people who are attracted to individuals of another gender.
+
+Methods: Use self-report or collection of administrative data that originates from self-report instead of proxy report or other indicators. For example, adolescent self-report is preferred to caregiver report, and self-identification is preferred over behavior classification (e.g., a young person may self-identify as straight even with sexual behaviors that involve a partner of the same sex or gender as the young person).
+
+Discussion: Situate the discussion in the broader sociocultural context of your study population, especially if you are examining sexual orientation as a predictor or covariate.
+
+DOMAIN: INDIGENOUS GROUP AND MARGINALIZED ETHNIC GROUPS
+
+Methods: Indigenous refers to those peoples with preexisting sovereignty who were living together as a community prior to contact with settler populations, most often - though not exclusively - Europeans. Indigenous is the most inclusive term, as there are Indigenous peoples on every continent throughout the world, such as the Sami in Sweden, the First Nations, Métis, and Inuit in Canada, Mayas in Mexico and Guatemala, and the Ainu in Japan - fighting to remain culturally intact on their land bases. Consistent with this definition, "indigenous" is often included as a racial category. For communities where the term "indigenous" does not resonate with participants and other terms for marginalized ethnic groups are more appropriate (e.g., "Gypsies"), those terms should also be included as a category. Avoid using colonial language and treat ethnicity as separate from culture.
+
+Discussion: Avoid conclusions that may be interpreted as placing blame on Indigenous populations. Name the forms of oppression (e.g., impact of colonialism) related to the interpretation of study findings.
+
+DOMAIN: NATIONAL ORIGIN
+
+General: National origin is defined as where a person (or their family) is from and includes individual attributes such as: a person's birthplace, ethnicity, ancestry, culture, and preferred language. Remember that all these concepts, including ethnicity, are different from an individual's race as people can share the same nationality but be of different ethnic groups and people who share an ethnic identity can be of different nationalities.
+
+Methods: Collect and report information on national origin only when appropriate, ideally with the rationale specified and a "prefer not to answer" option provided.
+
+DOMAIN: GENDER IDENTITY
+
+General: Language related to gender identity has evolved rapidly. Use the terms people use to define or identify themselves.
+
+General: As "sex" and "gender" are often inappropriately used interchangeably, clearly state which term you are using and the operational definition you are applying. Use the term "gender" when referring to people as social groups, or an individual's identity or expression of gender, and clearly define which facet of gender is being measured (e.g., gender identity, role orientation, and expression). Use "sex" when referring to designed or assigned sex at birth (generally based on visualization of external genitalia as part of a medical exam or with a birth certificate and rarely biologically confirmed).
+
+General: Explicitly designate information about the gender identities of the participants making up their samples (e.g., whether participants are transgender, cisgender, or other gender identities) rather than assuming cisgender identities. If assessing both sex assigned at birth and gender identity, use two questions rather than inferring sex assigned at birth from gender. If in doubt, use the umbrella term "sexual and gender minorities" to refer to multiple sexual and/or gender minority groups, or write about "sexual orientation and gender diversity."
+
+General: Diverse terms are used by transgender and gender diverse people, and gender diverse is a generally agreed-upon umbrella term when defining and describing a person's identity. These terms are generally used in an identity-first way (e.g., "transgender people" and "gender diverse people"). However, there is some variation in the field. Use identity labels that are in accordance with the stated identities of the people you are describing, and clearly describe how you are using such identity labels within your writing.
+
+General: To reduce the possibility of stereotypic bias and avoid ambiguity, use specific nouns to identify people or groups of people (e.g., women/girls, men/boys, transgender men/boys, trans men/boys, transgender women/girls, trans women/girls, cisgender women/girls, cisgender men/boys, and gender-fluid people).
+
+General: Do not refer to the pronouns that transgender and gender-nonconforming people use as "preferred pronouns" because this implies a choice about one's gender. Rather, use "pronouns" or "identified pronouns," and when writing about an individual use that person's pronouns.
+
+General: Avoid using combinations such as "he or she," "he/she," or "(s)he" as alternatives to the singular "they" because such constructions imply an exclusively binary nature of gender and exclude individuals who do not use these pronouns.
+
+General: Avoid gendered endings such as "man" in occupational titles (e.g., use "police officer" instead of "policeman"; also "homemaker" instead of "housewife"). Use terms for conditions or experiences that are gender inclusive when possible (e.g., "menstruating and pregnant people," "people who breastfeed," and "endometriosis affects menstruating people").
+
+Methods: When reporting the genders of participants in the Methods section, reflect each of the categories offered and endorsed by the study participants.
+
+Methods: Use self-report or administrative data that originates from self-report instead of proxy report or other indicators. For example, adolescent self-report is preferred to caregiver report.
+
+Discussion: Situate the discussion in the broader sociocultural context of your study population, especially if you are examining gender as a predictor or covariate.
+
+
+Include diverse perspectives when formulating research questions and developing study design and procedures; engage members of the group or population of interest (e.g., participatory action research). Be intentional about addressing diversity dimensions: build into study aims; choose relevant outcome measures that were validated with a diverse sample within the population of interest; define inclusion/exclusion criteria a priori to ensure enrollment/recruitment of a representative sample; evaluate metrics of study flow (e.g., recruitment, enrollment, and retention rates) and rates of assessment completion to understand potential biases in study participation that may influence interpretation of findings. Use appropriate translation/interpretation resources at every phase of the study (i.e., recruitment, data analysis, and interpretation of findings).
+
+Follow American Psychological Association (APA) Style Guidelines on bias-free language and journal article reporting standards for race, ethnicity and culture throughout the manuscript. Clearly state the categories used to collect race and ethnicity data and the source of the data. Diversity dimensions, including race and ethnicity of the study population, should be reported in full in the Results section and/or in a participant characteristics table; all race and ethnicity categories represented in the sample should be reported individually rather than collapsing data across categories. Clearly acknowledge limitations of the sample due to lack of racial or ethnic representation and the implications thereof. When interpreting race and ethnicity findings and recognizing limitations, avoid making assumptions that whiteness is the norm and forming conclusions that could be interpreted as placing blame on an underrepresented population.
+
+Be intentional about measuring diversity dimensions: identify enrollment targets a priori and build these targets into recruitment plan and Institutional Review Board; examine feasibility and acceptability data separately according to dimensions of diversity; determine criteria for advancing to the next step of intervention evaluation (i.e., "go/no go" decisions). In exit interviews or acceptability measures, query relevance of intervention goals and alignment with participants' needs and values.
+
+
+Track feasibility metrics separately according to dimensions of diversity (e.g., is it feasible to enroll Spanish-speaking participants using these recruitment approaches and to deliver the intervention via an interpreter?). Describe how the intervention was culturally tailored to the group of interest; include validation data when available. Specify and consider the positionality/identities of those individuals (e.g., therapists) delivering the intervention.
+
+QUALITATIVE ANALYSES
+
+Qualitative research is discovery driven (as opposed to hypothesis driven) and iterative in nature. Thus, transparency in describing group selection/inclusion is imperative in applying diversity dimensions. Engage members of the group or population of interest in study development. Craft qualitative research questions with awareness of diversity dimensions and cultural differences (for example, if interviewing groups of mothers, consider how motherhood is defined). Use appropriate translation/interpretation resources at every phase of the study; when possible, analyze data in its original language. Reduce potential for implicit and explicit biases in study design and implementation, coding and categorization of data, and interpretation of findings; engage the research team in reflexivity processes.
+
+Describe methods of sample selection and include descriptive characteristics about the sample. Clearly describe recruitment and sampling strategies. Acknowledge limited generalizability of small and selective samples. Discuss how findings inform future research and how iterations of the work can be inclusive of more diverse samples (e.g., when qualitative work directs future mixed-methods or quantitative studies). Consider including a positionality statement to describe the identities of the research team.
+
+QUALITY IMPROVEMENT
+
+Consider strategies to incorporate principles of health equity and racial equity. Consider strategies to center the needs and preferences of historically underserved groups. Incorporate frameworks that use a health-equity lens and center the needs of patients and families by involving them at every stage of the project (e.g., community-based participatory research). When available, make use of high-quality REAL (race, ethnicity, and language) data collected in the electronic health record.
+
+Select outcomes that measure improvements in clinical outcomes and improvements in equity across dimensions of diversity. Explicitly acknowledge gaps in health outcomes across dimensions of diversity; discuss how these originate and are perpetuated by systematic oppression based on relevant dimensions of diversity such as race, ethnicity, sexual orientation, or language.
+
+ECONOMIC EVALUATION
+
+Select interventions that were developed with attention to dimensions of diversity (e.g., sample characteristics and appropriate measures). Select outcomes that reflect equity and are relevant across dimensions of diversity. Evaluate the differential costs and benefits of interventions according to dimensions of diversity. When using modeling as the basis for economic evaluations, ensure that the source of information (e.g., previous studies, national databases) and assumptions of the model incorporate dimensions of diversity. Conduct economic evaluations separately for groups that vary on dimensions of diversity and use these findings to guide decision-making.
+
+Consider reporting nonhealth benefits (i.e., spillover effects) that highlight diversity dimensions. Discuss possible equity concerns inherent in common economic evaluation paradigms and outcomes (e.g., QALY, quality-adjusted life years) and identify ways to account for variability among participants and their circumstances. Carefully consider equity when making decisions based on economic evaluations and account for differential impacts across dimensions of diversity.
+
+SINGLE SUBJECT STUDIES (N-OF-1 STUDIES; CASE STUDIES)
+
+Consider single subject studies an opportunity to: demonstrate efficacy of interventions in members of understudied populations; examine efficacy of cultural adaptations and modifications; optimize implementation of diversity dimensions within clinical settings; provide guidance in areas where best practices are not yet established. Collect relevant participant- and practice-based data. Select clinically meaningful outcome measures with attention to DEI principles.
+
+Consider ethical implications of reporting potentially identifying demographic information in case presentation. Highlight individual variability in outcome measures. Discuss generalization of findings to other populations. Describe steps taken to address bias. Make recommendations to address systemic issues uncovered in the study. Describe modifications to standardized protocols based on patient characteristics, including dimensions of diversity and cultural background. Discuss potential areas for further empirical study.
+
+REVIEW ARTICLES (SCOPING REVIEWS; SYSTEMATIC REVIEWS/META-ANALYSES; TOPICAL REVIEWS)
+
+Consider diversity dimensions in the search and inclusion criteria for the review (e.g., what might be lost by excluding non-English language articles?). Include DEI keywords in search strategy. Extract data related to diversity dimensions for included studies (including inclusion/exclusion criteria and study demographics) and comment on what this means for the generalizability of findings. Review the equity chapter in the Cochrane Handbook.
+
+Report composition of the review team and the positionality/background of those conducting the review and extracting the evidence. Consider reporting outcomes separately in relation to different diversity dimensions to highlight both divergences in findings, as well as gaps in the literature. Discuss the ways in which biases (e.g., in what is funded, published) in the reviewed literature may contribute to the findings of the review.
+
+
+PROCESS IN DEVELOPING THE DIVERSITY DIMENSIONS CHECKLIST
+
+A subset of coauthors created this checklist to guide pediatric psychology science and writing. The ADDRESSING framework is a model that recognizes the complexities of individual identity. This framework guided the concepts and areas of foci for the checklist (i.e., age and generation, developmental disability/acquired disability, religion, ethnicity/race, socioeconomic status, sexual orientation, indigenous group, national origin/language, and gender). Two individuals conducted literature searches and contacted experts in the field to identify best practices for assessment and reporting on each aspect of the ADDRESSING framework. The JPP/CPPP editorial teams provided further feedback and modifications on the initial checklist. The modified checklist was then shared on the American Psychological Association (APA) Society of Pediatric Psychology (Division 54) listserv for open feedback from members. Membership feedback included questions about how the exhaustive checklist would be used by the journals, the need to incorporate international perspectives, the need to consider checklist items when developing science and not solely during the dissemination phase and the need for additional categories beyond the ADDRESSING framework in the future. We incorporated feedback from membership and sent the revised diversity dimensions checklist to an international SPP member (i.e., European-Spain) for further feedback with a lens toward ensuring the checklist was not U.S.-centric. From this additional feedback, the diversity dimensions checklist was finalized for this editorial .
+
+Figure 1 - ADDRESSING Framework
+A = Age and Generation
+D = Disability (Acquired)
+D = Developmental Disability
+R = Religion
+E = Ethnicity and Race
+S = Socioeconomic Status
+S = Sexual Orientation
+I = Indigenous Group
+N = National Origin
+G = Gender
+
+
+SUGGESTIONS FOR HOW THE DIVERSITY DIMENSIONS CHECKLIST CAN INFORM RESEARCH BEST PRACTICES
+
+The Diversity Dimensions Checklist is applicable along the continuum or stages of research - for example, research planning, data collection (in research, routine clinical practice, and electronic medical records), analysis and interpretation, dissemination, and critiquing or peer review, as well as for training and mentorship practices. In terms of planning or preparing for research, the checklist could encourage new directions that incorporate one or more DEI elements described in the checklist and thereby influence the selection of populations to enroll. For example, an author whose field has historically focused on families with high incomes may commit to making active efforts to recruit children and families from a wide range of socioeconomic levels and consider ways to reduce the impact of socioeconomic disparities, such as access to medical care, on recruitment and, ultimately, generalizability of findings (i.e., external validity). By increasing the diversity of the study sample, the research will better represent a broader range of experiences that a particular (health) population may have. In addition, participatory action research is a framework of enquiry that improves science through the structured collaboration between researchers and those having lived experience with the physical and/or mental health condition(s) of interest. Finally, being more inclusive in our participants for devising or adapting interventions and testing their feasibility, acceptability, and efficacy should ultimately improve our clinical practice. Overall, these efforts may enhance our field's ability to avoid missing or obscuring certain experiences due to homogenous, biased samples.
+
+We intend for the Diversity Dimensions Checklist to prompt authors to use or create measures that capture important DEI-related characteristics of their population. Researchers can work in partnership with community members to develop demographic surveys, ensuring that the questions use appropriate, understandable language and terminology. Accordingly, the checklist could also inform data collection for research, such as decisions about how and when to administer certain measures and/or create new ones. For instance, if data are collected in the context of clinical care where these DEI variables are not usually obtained, a demographic survey could be incorporated into her routine measures administered for clinical purposes, such as an intake form or ongoing symptom assessment.
+
+When collecting data on DEI-related dimensions, it is important to assess intersectionality to facilitate nuanced insights into the complexity of participants' lived experiences. We also want to acknowledge that such a comprehensive goal is one that can be tackled as a team via research partnerships - for example, through a participatory action research approach, as described above. However, constraints may exist - such as resources, time, or geographical restrictions (e.g., a graduate student collecting dissertation data may have limited resources to be able to pursue in-person recruitment; insufficient funding may prevent a researcher recruiting from multiple geographic areas that could have enhanced the diversity of the sample). Despite these constraints, the Diversity Dimensions Checklist can facilitate a team's awareness as to what DEI data they have represented in their sample and why certain DEI-related dimensions are critical to best understand the population of interest. For example, authors should be attuned to the characteristics of samples on which questionnaires were developed and validated, which may not represent the participants being recruited (American Psychological Association, 2023b). Although constraints can occur, our aspiration should be to overcome them to engage in the best practices possible.
+
+In terms of analysis and interpretation, authors can use the Diversity Dimensions Checklist as a resource in their process of defining and describing groups included in their research (e.g., on different diversity dimensions, as suggested by APA Journal Article Reporting Standards [JARS]), move beyond group comparison analyses, and when possible, take an intersectional approach. With respect to group comparisons, for example, authors should use a DEI-informed perspective to choose which comparisons to make based on the representation of individuals enrolled, rather than grouping different participants together simply to attain adequate cell sizes or frame one group as "normative" (e.g., t test comparing White participants to Black participants, instead of a single comparison of White participants to all participants of color). Of note, this may result in some individuals (e.g., due to small sample size) being excluded from some analyses; detailed reporting of sample size for each analysis will therefore be necessary. When collapsing across groups, researchers should provide a clear rationale, describe specifically what was done, and address the limitations and implications of the decision for interpreting results. Similarly, the potential impact of the research setting, measures or variables targeted, and other factors should be carefully considered in the context of sample characteristics when interpreting study results. Interpretation should also take into consideration the historical and systemic context of diversity dimensions and explicitly name sources of oppression and harm when describing existing disparities in a population; that is, the use of systems-centered language is strongly recommended.
+
+
+

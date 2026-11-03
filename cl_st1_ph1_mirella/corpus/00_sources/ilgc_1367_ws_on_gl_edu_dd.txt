@@ -1,0 +1,57 @@
+DO    The Doctoral Training Centre can help you learn how to do that. 
+DON’T    The Doctoral Training Centre can help you learn the ropes.
+DO    Our HR team can help you get used to your new environment.
+DON’T    Our HR team can help you find your feet. 
+DO    Let’s be mindful of gaps in our knowledge.
+DON’T    Let’s be mindful of blindspots. 
+
+DO    Dr Tanisha Patel
+DON’T    Miss Patel (unless this is their preference) 
+DO    Professor James Naylor 
+DON’T    Mr James Naylor (unless this is their preference)
+
+DO    provide text alternatives for images and charts
+DON’T    rely on colour alone to convey meaning
+
+DO    Equality, Diversity and Inclusion
+DON’T    Equity*, equitability, diverseness, inclusivity, inclusiveness 
+DO    EDI 
+DON’T    DEI, D&I
+
+
+DO    British Pakistani students; Black scholars programme 
+DO    ethnic minorities* 
+DON’T    coloured; non-white; third-world
+
+
+DO    chair, spokesperson, humankind
+DON’T    chairwoman, spokesman, mankind, transgendered 
+DO    transgender
+DON’T    transgendered
+
+
+DO    If the applicant is shortlisted, they will be invited for interview.
+DON’T    alternate he/she; (s)he
+
+
+DO    lesbian, gay, bisexual, queer
+DON’T    homosexual (except in formal legal/medical contexts)
+
+
+DO    disabled students, students with disability, blind people
+DON’T    the disabled; suffering from dyslexia; the blind
+DO    neurodiversity, neurodivergent
+DON’T    neurodiverse
+
+
+DO    Happy Diwali OR Happy Diwali to those who celebrate
+DON’T    Happy Diwali to all our Indian staff and students
+
+DO    older people; people over 60
+DON’T    the elderly; pensioners (unless context requires)
+
+
+DO    lower-income students; socio-economic disadvantage
+DON’T    deprived*
+
+

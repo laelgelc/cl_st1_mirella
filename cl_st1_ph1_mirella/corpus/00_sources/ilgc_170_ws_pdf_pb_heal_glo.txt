@@ -1,0 +1,37 @@
+Cancer Disparity: A health disparity related to canceroutcomes.
+
+Discrimination: The unjust or prejudicial treatment of groups of people on the grounds of race, ethnicity, sexual orientation, gender identity, disability status, income level, education level, age, size, orlocation.
+
+Ableism: Discrimination against people with disabilities
+Ageism: Discrimination against older adults
+Classism: Discrimination based on social or economic class
+Cisgenderism/Transphobia: Discrimination against transgender people
+Colorism: Discrimination based on the construct that lighter skin color is favorable
+Ethnocentrism: Discrimination against people who speak English as a second language
+Heterosexism/Homophobia: Discrimination against LGBTQ+ people
+Racism: Discrimination based on race
+Sexism: Discrimination on the basis of gender identity and sex
+Sizeism: Discrimination based on someone's size or weight
+Xenophobia: Discrimination against people from other countries
+
+Diversity: Describes the many qualities and characteristics that make us alike or different and helps us identify as members of communities or groups.
+
+Equality: Providing everyone with the same tools and resources.
+
+Equity: Fair and just treatment, access, opportunity, and advancement for everyone, while addressing needs and eliminating barriers that prevent the full participation and success of all people.
+
+Health Disparity: A particular type of health difference that is closely linked with social, economic, and/or environmental disadvantages and other characteristics historically linked to discrimination or exclusion. Health disparities adversely affect groups of people who have systematically experienced greater obstacles to health. Changes in health disparities help us measure whether there is progress toward health equity.
+
+Inclusion: Refers to our behaviors and interactions with one another. It describes how we collaborate, seek, and value different perspectives and demonstrate mutual respect.
+
+
+Intersectionality: The understanding that people have overlapping identities, which are varied complex, and shaped by the systems they interface. Intersectionality acknowledges that no two people's lived experiences are the same, and that we experience discrimination, oppression, or privilege differently; this is based on the inter-connectedness of social categorizations such as race, class, disability, and gender identity in each of our lives.
+
+Marginalized: Being treated as if one is powerless or insignificant. Can be used as a general term, but try to be specific in your word choices to describe the community or person and how they are marginalized (ex: people in the neighborhood are marginalized due to discriminatory housing practices.) Alternate ways to say this would be "excluded" or "historically excluded", "disenfranchised", or "underrepresented". If you work in global health and are referring to people from a country that does not have a history of colonization, you can also say "traditionally excluded."
+
+Structural Racism: A system that reinforces and perpetuates racism through policies, practices, cultural representation, or other norms. Structural racism works within the major systems that we all exist in and rely on such as politics, health care, education, criminal justice, and the economy. Systemic racism and structural racism are closely related, but structural racism takes into consideration the historic, cultural, and socio-psychological aspects of our society (Source: The Aspen Institute.)
+
+Underrepresented: Not represented fairly or adequately. Can be used to describe communities or groups of people but must be put into context (ex: people of color were underrepresented at the meeting to discuss the Minority Health Month social media campaign.)
+
+Under-resourced: A community or group lacking access to major resources such as fair income, safe housing, healthy and affordable food, transportation, education, access to health care.
+Should only be used in a literal sense (ex: the neighborhood is under-resourced in terms of access to cancer care or treatment centers.)

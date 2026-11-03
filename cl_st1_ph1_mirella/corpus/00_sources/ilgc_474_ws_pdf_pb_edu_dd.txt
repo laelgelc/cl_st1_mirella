@@ -1,0 +1,53 @@
+Use This: -> Avoid This:
+
+*  intersex ->  hermaphrodite
+*  assigned [male/female] at birth ->  born [male/female]
+*  male, female ->  Male, Female
+*  transgender (adj.) ->  transgender (n.), transgendered
+*  first-year student(s) ->  freshman, freshmen
+*  humankind, people (this is gender-neutral language) ->  mankind, manpower (this is gendered language)
+*  they (singular-either as a person's pronoun or to refer to one individual if their gender isn't known) ->  he/she, he or she, him or her
+*  pronouns, gender pronouns ->  preferred pronouns (pronouns are not preferences; they are the words that accurately describe a person)
+*  alum (n., singular), alumni (n., plural), alumni (adjective), graduate (n.) ->  alumnus, alumna, alumnae
+*  [specific sex and gender] ->  the other sex, the other gender (language that implies only two options)
+*  sexual orientation ->  sexual preference, lifestyle
+*  straight, heterosexual (as adjectives) ->  traditional
+*  gay, lesbian, queer ->  homosexual, alternative
+
+*  Black people, White people ->  black people, white people (caps for Black and White), Blacks, Whites (don't use as nouns)
+*  African American ->  African-American
+*  legacy, preexisting ->  grandfathered (note that the term is problematic primarily because of race)
+*  Latino, Latina, Latine ->  Latinx
+*  students from diverse backgrounds ->  diverse students
+*  person/people of color (POC), student(s) of color (SOC) (these are preferred, but BIPOC is acceptable) ->  non-White
+*  multiracial, multiethnic ->  mixed, mixed race
+*  Asian ->  Oriental
+*  cheat ->  gyp
+*  Minority Serving Institutions (MSIs), Historically Black Colleges and Universities (HBCUs), Hispanic Serving Institutions (HSIs), Tribal Colleges and Universities (TCUs)
+
+*  living with (a disability or diagnosis) ->  suffering from
+*  person/people without disabilities ->  able bodied
+*  person/people with disability/disabilities ->  the disabled (n.), differently abled
+*  uses a wheelchair, is a wheelchair user ->  wheelchair-bound, confined to a wheelchair
+*  has a disability ->  is handicapped
+*  blind, legally blind, low vision ->  visually impaired
+*  Deaf (the community), deaf (audiological status), partial hearing loss, hard of hearing ->  hearing impaired
+*  has a learning disability ->  dumb, slow learner
+*  complicated, wild, absurd ->  crazy, insane
+*  a problematic webinar, a malware-infected system ->  lame, crippled, cripple (v.) (to describe objects or activities)
+
+*  low-income, people experiencing poverty ->  poor, impoverished
+*  people experiencing homelessness ->  homeless (n.)
+*  emerging economy (when possible, name the country) ->  third-world country, developing country
+
+*  Gen X, Gen Y / Millennial, Gen Z ->  digital native
+*  older, experienced, people over [age] ->  elderly, senior citizen, senior (n.), of a certain age
+*  youth, young person, teen/teenager/preteen ->  immature, childish
+
+*  allow, allowlist, safe senders list, disallow, disallowlist, denylist, blocklist ->  whitelist, blacklist
+*  primary/secondary, main/subordinate ->  master/slave
+*  perimeter network ->  demilitarized zone (DMZ)
+*  placeholder value ->  dummy value
+*  ethical hacking, security assessment test ->  penetration test
+*  plug, socket/jack, connector and receptacle, pin and receptacle ->  male, female (when referring to cable connectors)
+

@@ -1,0 +1,98 @@
+Person-First Language
+
+Patients are individuals first and should not be defined by their disease. Person-first language literally puts the person before their diagnosis (eg, a person with lung cancer rather than a lung cancer patient). An illness or disease is something individuals have (ie, it is used grammatically as a noun) rather than a descriptive, defining characteristic of who they are (ie, it is not used as an adjective). Person-first language avoids inadvertently dehumanizing individuals. 
+
+
+Identity-First Language
+
+Identifying the community of people with a history of cancer using a common term may be useful for communicating recommendations and improving care across this broad group. In this case, the use of identity-first language is employed. Identity-first language puts a disability, medical condition, or other physical or cognitive difference first in a description, allowing a person or group to reject stigma and identify themselves as part of a community. Although there are differences across age groups, diagnoses, and prognoses, most individuals who have completed cancer treatment identify as cancer survivors.
+
+The term survivor will continue to be used in NCCN publications. Some examples:
+
+It's OK to use this...
+
+Survivor(s)
+Cancer survivor(s)
+Breast cancer survivor(s)
+
+Language Without Blame and Stigma
+
+Patients are not to blame for their disease or the course of their disease. Patients should not be belittled or made to feel stigmatized by their age, their size, or their past or current behaviors.
+
+
+Disease Progression, Treatment, Management, Completion, and Symptoms
+
+Disease progression and treatment: With the prevalence of war metaphors describing cancer and cancer treatment in the mainstream media (eg, she is fighting cancer; they lost their battle with cancer; the war on cancer), words such as failure or failed can make people feel that they did not fight hard enough or were insufficiently strong, and that disease progression is somehow their fault. Similarly, the terms salvage or rescue therapy can make people feel like they have failed and now need to be saved.
+
+Disease management: Cancer and other medical conditions can be managed; however, using language that infers that patients are managed is patronizing and paternalistic. Use of such language introduces hierarchy, condescension, or even coercion to patient care. NCCN publications therefore use language such as care or treatment of patients, depending on the context.
+
+Treatment completion: Many factors can contribute to incomplete or aborted treatment plans. There may be system and provider barriers (eg, ineffective communication from the health care team, inadequate support for managing side effects, systemic discrimination) and individual patient barriers (eg, lack of family/community support, lack of financial resources/insurance, time constraints, lack of transportation, and other barriers related to social determinants of health). The term non-compliance is commonly used, but implies that patients should passively comply with instructions and suggests blame on the patient if the treatment does not work. It also places blame on individuals for what may not be an individual patient barrier. Non-adherence may be a better term since it implies that the patient can be involved in formulating the treatment plan, is not solely responsible if the treatment plan is not followed, and can contribute to solutions to overcome difficulties. When possible, include discussions on barriers to treatment completion for people with cancer - and on possible solutions - rather than use the term non-adherence.
+
+Symptoms: Patients should not be blamed for having symptoms/side effects. Therefore, NCCN publications avoid saying that patients complain about symptoms, using report symptoms instead.
+
+Stigma Based on Things Such as Weight, Age, Substance Use, HIV, HPV
+
+Weight: Language should not stigmatize people based on their weight. Overweight and obesity are medical conditions with complex etiology. Among other factors, social determinants of health can play a major role. Many healthcare providers incorrectly believe overweight and obesity are caused mainly by individual behaviors, and these clinicians show implicit or explicit weight bias. Individuals who have higher BMIs can therefore be disparaged and even discriminated against in healthcare. This stigma can result in poor physical and psychological health and a lower likelihood of receiving adequate/appropriate healthcare. In addition, people with BMIs below the normal range can also feel stigmatized and self-report discrimination for having underweight, another medical condition. Therefore, NCCN publications use overweight, obese, and underweight as nouns.
+
+Age: Individuals should not be denigrated or experience discrimination based on their age. Age bias or ageism by healthcare providers towards patients is common. It can be implicit or explicit and can impact treatment decisions and outcomes in people with cancer. Words that imply stereotypes or prejudice, such as seniors and the elderly, should be avoided.
+
+Candidacy for treatment: Individuals who do not meet the criteria for certain treatments should not be described as unfit. NCCN publications continue to use frail if needed when it is based on a specific frailty index and is a medical diagnostic term, associated with ICD-10 codes.
+
+Substance Use: Do not define the individual based on their substance use or addiction. Use person-first language and avoid terms associated with stigma and negative bias when discussing substance use. Feeling stigma can prevent people with a substance use disorder from seeking treatment. NCCN publications use language that does not perpetuate stigma and that reduces implicit or explicit bias of healthcare professionals that can impact the care they provide to individuals with a substance use disorder.
+
+HIV and other viruses: Never use infected as an adjective to describe a person. AIDS is a syndrome with a range of conditions that can follow HIV infection because of a weakened immune system. Do not use AIDS if HIV is meant. Use person-first language that avoids blame and stigma.
+
+Mental health: Patients should not be blamed for having issues related to mental health. Therefore, do not use mental health problems. Use mental health concerns or mental health diagnoses depending on context.
+
+Germline mutations: Although it can be stigmatizing to carry a genetic mutation, NCCN publications will continue to use mutation carriers, with additional consideration for the use of people with germline mutations.
+
+Inclusive Language for LGBTQ+/Sexual Orientation and Gender Identification (SOGI) groups
+
+Gendered language within treatment materials and recommendations can be excluding and confusing for LGBTQ+ patients, or those of varying SOGI groups, and the clinicians who care for them. Therefore, NCCN recommendations should be developed to be inclusive of individuals of all sexual and gender identities to the greatest extent possible, with language that is inclusive and affirming. This is important to ensure the best care for LGBTQ+ individuals. The following points are general guidance and examples on how gendered language may be revised in different scenarios.
+
+For a glossary of terms, see Table 1 here: https://ascopubs.org/doi/abs/10.1200/EDBK_350175?role=tab
+
+
+General Guidance for Updating Gendered Language
+
+1) Use people, individuals, or patients rather than men or women or omit reference to gender whenever possible, including when the statement refers to anatomy. Note that the anatomy is usually what matters, and it is important to remember that most transgender men have a cervix, for example, and most transgender woman have a prostate.
+
+Examples:
+
+A quadrivalent HPV vaccine is available and has been shown to be effective in women in preventing persistent cervical infection with HPV-6, -11, -16, or -18 as well as in preventing high-grade cervical intraepithelial neoplasia related to these strains of the virus.
+It has also been shown to be effective at preventing high-grade cervical intraepithelial neoplasias in young women people.
+
+Men Patients with prostate cancer...
+Men Individuals with a prostate should be screened...
+
+2) Sex assigned at birth refers to the designation made at birth based on a baby's external anatomy. Use patients assigned female at birth or patients assigned male at birth when that is accurately what is meant within sex-specific recommendations. Examples:
+
+a. Testing is clinically indicated in the following scenario: Breast cancer diagnosis in men individuals assigned male at birth.
+
+b. Breast cancer in women those assigned female at birth with intact breast tissue
+
+3) When it is necessary to specify sex assigned at birth multiple times for clarity of the recommendations, use AMAB or AFAB abbreviations, defined at first mention. Example: Breast cancer in individuals AMAB is treated similarly to breast cancer in individuals AFAB.
+
+4) When writing for laypersons, gendered terms may be used in combination with inclusive terms for clarity/understanding. For example: "Men and anyone with a prostate should discuss prostate cancer screening with their doctors."
+
+5) NCCN publications will continue to use the terms men, women, female, and male when citing statistics, recommendations, or data from other organizations or sources that do not use inclusive terms. Mirror the language used in external sources and consider noting the limitations as appropriate.
+
+6) Use of the words female and male may be used to differentiate between organs that occur in all sexes but have important differences in relation to cancer. NCCN publications use female or male as adjectives to describe organ systems when deemed necessary to promote understanding (eg, the female urethra).
+
+7) Language surrounding menstruation and pregnancy should be inclusive. Some transgender men menstruate and can and do get pregnant:
+
+a. Ensure appropriate opioid prescribing and screening for Opioid Use Disorder (OUD) for reproductive age female survivors of childbearing potential.
+
+b. Survivors who have become amenorrhoeic and are sexually active should be counseled on the need for contraception to prevent unintended pregnancy if they do not meet the definition of menopause and if they participate in sexual activity that could result in pregnancy.
+
+8) For fertility recommendations, use gender-neutral, biology-based or procedure-based language. Examples:
+
+a. Fertility discussions for female patients with ovaries should include...
+
+b. Fertility preservation options for men include sperm banking and semen cryopreservation.
+
+9) For recommendations that are designed for one gender that would require expertise not available on the NCCN Panel to adjust for transgender, non-binary, or intersex individuals (eg, sexual function), NCCN publications use language such as the example below, tailored to the situation:
+
+a. Sexual function and management of hormone-related symptoms are important aspects of quality of life for all cancer survivors. The recommendations here are intended for cisgender survivors based on the availability of data in this population, but should be followed for transgender, non-binary, intersex, and other gender-diverse survivors as applicable, with the involvement of the appropriate healthcare specialists.
+
+

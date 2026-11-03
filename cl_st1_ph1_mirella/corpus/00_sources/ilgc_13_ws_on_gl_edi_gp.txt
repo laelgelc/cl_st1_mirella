@@ -1,0 +1,73 @@
+Unconscious bias
+What is unconscious bias?  Unconscious bias, also known as implicit bias, happens when we act on subconscious, deeply ingrained biases, stereotypes, and attitudes formed from our inherent human cognition, experiences, upbringing, and environment.’ Please see  https://theewgroup.com/unconscious-bias-in-the-workplace-how-its-defined-and-how-to-stop-it/ for more details.
+Introspection & Identification: It is important to be vigilant in order to reduce the influence of bias on decision making. To effectively address unconscious bias, try to become a conscious decision maker by making the connection between the biases one holds, and how this impacts behaviour and decisions made. If left unrecognised and unchecked, unconscious bias can commandeer both behaviour and rational thought processes. The key to addressing unconscious bias is to translate awareness into action, the following practises can aid this process:
+Action points:
+Slowing down the speed of decision making, as interacting with people in pressurising, stress-inducing decision making environments increases the likelihood of being governed by your biases. It is important to be mindful and slow when making judgements to avoid unconscious bias infringing upon decision making and producing judgements based on a preference in favour, for instance, treating a certain ethnicity with partiality when selecting editorial board members.
+Developing understanding and knowledge is integral to countering unconscious bias. Consider reading around unconscious bias, which has been shown to increase a person’s willingness to acknowledge their own susceptibility to bias. This can impact the collaborative work of editors, for instance, in understanding the importance of inclusive language in daily interactions. The resources below are a useful place to begin.
+Reconsider the reasoning for your decisions and question stereotypes that may seem truthful in your daily work by diversifying choices. For example, when selecting reviewers, consider inviting early career researchers, recognising the benefit of this additional, fresh perspective, particularly for societies, who can gain from recruiting and providing opportunities to the next generation of leaders in their field.
+It is important to have perspective and remain open minded to limit the influence of unconscious bias. For example, if research concentrates on regional data, understand the benefit of enlisting reviewers in this area of study. Looking beyond one’s own region diversifies the pool, resulting in high quality, specialist knowledge from those who are most familiar with regional content, while also addressing groupthink and bias. Widening your reviewer pool also helps reduce the burden on the current pool: Guest Post: What a new Publons Report on Peer Review Says About Diversity, and More - The Scholarly Kitchen (sspnet.org).
+Advice: It is possible to improve the quality of decision making through a commitment to questioning stereotypes. The act of recognising that one has hidden biases enables a person to mentally monitor and attempt to ameliorate hidden attitudes before they materialise in decision making.
+
+
+Supporting non-native English speakers
+We acknowledge that non-native English speakers are often faced with bias and disadvantages in scholarly communication. In order to proactively support a constantly growing international academic community while English remains the vehicle language, we must strive to provide support for those authors, reviewers, editors and editorial board members who are non-native speakers and ensure their views and contributions are fairly considered.
+
+Author Support
+
+The following section collects resources available to our Editors to help support authors who are English L2 speakers.
+
+Sage Author Services
+
+The Sage Author Services provide authors with professional end-to-end publication support. Services offered are especially aimed to authors with English as their second language and include English language editing, translation of articles and manuscript formatting.
+
+How to get published resources
+
+How to Get Published guide – sets out clear tips on how to get published in a Sage Journal.
+
+How to Get Published Webinar – our free webinar guides authors through the author journey, from beginning to end.
+
+Online courses on getting published – Sage Campus has published online courses to help researchers get started in their publishing journey. The courses teach an overview of the journal publishing landscape and how to write an article that will get published. Researchers can browse the courses and sign up to the demo hub to take free modules today and librarians can subscribe for institution-wide access to the Sage Campus platform.
+
+Further actions you can take as Editor to support your non-native English speaker authors
+
+Review your journal’s style guide for authors: standardising or simplifying your journal’s style guide can go a long way with ensuring English non-native speakers are feeling confident with writing for your journal.
+Understand L2 speakers’ challenges when communicating scholarly research can go beyond the language: authors may have an excellent grasp of the English language but still have a hard time writing and publishing English contributions. Most researchers will learn to write in academic language in their native language before moving on to English. The style, structure and thought process development will differ depending on the language used to communicate because of inherent cultural nuances and distinct ways of thinking.
+Seek advice from your Editorial Board: Research shows that journals with diverse editorial boards are more likely to publish more diverse research articles – in terms of diversity of topics and diversity of authors. Editorial Board members who share a native language and culture with your authors can help identify both language and cultural barriers. Read here for tips on how to diversify your editorial board.
+Take your time reviewing articles: invest the time in supporting writers whose first language is not English to write their papers in a suitable academic style.
+Acknowledging your bias against non-native English speakers
+While it is important to tackle these issues when they affect authors and their contributions in writing, we must not forget about acknowledging bias in general and against any peers who are English L2 speakers when interacting with them within the professional scholarly publishing environment (see Kasia Repeta’s article published in the Scholarly Kitchen).
+
+Below is a collection of resources aimed to better inform and acknowledge this form of discrimination:
+
+Why don't we believe non-native speakers? The influence of accent on credibility
+The impact of foreign accent on social interaction and cognitive processes
+The effect of foreign accent on employability: a study of the aural dimensions of aesthetic labour in customer-facing and non-customer-facing jobs
+Sounding ‘native’: The impact of gender, identity, and peer groups on second language pronunciation
+Supporting non-native speaker student writers making the transition from school to an English-medium university
+How to catch problematic or offensive language
+Offensive language and assumptions within contributions is an ongoing as well as a historical issue. Offensive or problematic language can be described as language that causes upset, discomfort, or resent to an individual or a group of individuals. This offensive content has and can appear in the contributions we publish and can take many forms and cause harm to both individuals and the reputation of the journal.
+
+Offensive content can take many forms and so there are many challenges when tackling this issue, such as defining what is offensive content in the first place, the scale of it and what to do when offensive content has been found. We often also find that some historical content was pervasive at the time of publication but is now considered inappropriate.
+
+Problematic content can include content that uses language that is considered inappropriate or harmful; content that is not offensive it itself but has been misused to support a harmful view or agenda; language with themes that might perpetuate stereotypes; or scientific research that has or could potentially harm certain marginalised groups.
+
+We encourage all Editors to watch this recorded COPE webinar on Diversity, equity and inclusion in scholarly research and publishing[1] which includes a presentation of how to tackle issues of historical offensive language. When in doubt or faced with a challenge on this matter, please feel free to consult with your Publishing Editor for further advice. Corrective actions on these matters may include the retraction of articles including offensive language.
+
+Support for Authors with Disabilities
+We are passionate about supporting Diversity, Equity, and Inclusion in wider society through our publishing activities, including ensuring that our content and digital platforms are inclusive and accessible, and publishing work that challenges bias and stereotypes. As part of the Sage Journals: Diversity, Equity, and Inclusion Pledge, we have vowed to ensure research is widely accessible. Editors should be aware of both physical and neurological disabilities, remembering that 80% of disabilities are “invisible”—that is, not visible to others.  Please see the guide for editors working with contributors (authors) with neuro-diverse disabilities.
+
+Sage Journals Platform Accessibility Information
+
+We pledge to continually enhance the Sage Journals platform and expand our content delivery to reach the broadest audience. We are committed to disseminating research and teaching materials widely, and we support informational mining. We strive to embrace accessibility improvements to ensure as many as possible can access our research and journal content.
+
+The Sage Journals Accessibility Guide outlines our continuous and frequent improvements to make our site more accessible.  Sage routinely assesses and schedules iterative enhancements to improve the accessibility of our online platforms. In the Accessibility Guide, we provide specific guidance for visually impaired users, including information on screen reader compatibility, text alternatives for visual content, podcast transcripts, and more.
+
+To request Sage platform-specific accessibility documentation or to raise platform-related accessibility queries please email us at online.accessibility@sagepub.com. If you're interested in the accessibility of other Sage products and formats, or accessibility at Sage generally, see our global accessibility statement.
+
+Sage Track Peer Review Site Accessibility Enhancements
+
+In addition to our research, we strive to make our submission process widely accessible for authors, reviewers, and editors. Currently, we are scoping a trial with a select number of journals within our Sage Track peer review system the inclusion of a field enabling authors to ask for specific assistance at the point of submission. This is with a view to alerting editors to specific needs an individual may have relating to a disability or neurodiverse condition, that may affect the handling of their paper. After the trial, we hope to roll this out more widely, eventually throughout our 1,100+ journals’ submission sites.
+
+Language
+
+As part of our pledge, we promise to encourage diverse and equitable language and referencing, which includes using language that is inclusive and sensitive to our communities. We are in the early stages of a cultural shift Sage Journals is undertaking. We recently announced our plans to remove the term “blind” and implement “anonymized” in reference to our peer review language. Use of “blind” in relation to peer review risks perpetuating ableism. We hope this will become the industry norm over time. Over the next few months, we will be updating journal submission guidelines and replacing the peer review language in Sage Track wherever this appears. We are also updating all external and internal documentation and resources. We feel that this is an important language shift to ensure authors, reviewers, editors, researchers, and readers feel welcomed and included when reading and submitting to Sage Journals.

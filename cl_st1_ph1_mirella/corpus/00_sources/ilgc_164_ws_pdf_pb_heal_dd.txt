@@ -1,0 +1,189 @@
+Instead of this …
+•	Vulnerable groups
+•	Marginalized communities
+•	Hard-to-reach communities
+•	Underserved communities
+•	Underprivileged communities
+•	Disadvantaged groups
+•	High-risk groups
+•	At-risk groups
+•	High-burden groups
+Try this …
+•	Groups that have been economically/socially marginalized
+•	Groups that have been historically marginalized or made vulnerable; historically marginalized
+•	Groups that are struggling against economic marginalization
+•	Communities that are underserved by/with limited access to (specific service/resource)
+•	Under-resourced communities
+•	Groups experiencing disadvantage because of (reason)
+•	Groups placed at increased risk/put at increased risk of (outcome)
+•	Groups with higher risk of (outcome)
+•	For scientific publications:
+– Disproportionately affected groups
+– Groups experiencing disproportionate prevalence/rates of (condition)
+Instead of this …
+•	The obese or the morbidly obese
+•	COVID-19 cases
+•	The homeless
+•	Disabled person
+•	Handicapped
+•	Inmates
+•	Victims
+•	Cases or subjects (when referring to affected persons)
+Try this …
+•	Individuals
+•	People experiencing (health outcome or life circumstance)
+•	People with obesity; people with severe obesity
+•	Patients or persons with COVID-19
+•	People who are experiencing (condition or disability type)
+•	Person with mobility disability
+•	Person with vision impairments
+•	People who are experiencing homelessness
+•	Survivors
+Instead of this …
+•	Minorities
+•	Minority
+•	Ethnic groups
+•	Racial groups
+Try this …
+•	Specify the type of subpopulation:
+– (People from) racial and ethnic groups
+– (People from) racial and ethnic minority groups
+– (People from) sexual/gender/linguistic/religious minority groups
+– (People with/living with) mobility/cognitive/vision/hearing/independent living/self-care disabilities
+
+Instead of this …
+•	Target communities for interventions
+•	Target population
+•	Tackle issues within the community
+•	Aimed at communities
+•	Combat (disease)
+•	War against (disease)
+Try this …
+•	Engage/prioritize/collaborate with/serve (population of focus)
+•	Consider the needs of/tailor to the needs of (population of focus)
+•	Communities/populations of focus
+•	Intended audience
+•	Eliminate (issue/disease)
+Instead of this …
+•	Workers who do not use PPE
+•	People who do not seek health care
+Try this …
+•	People with limited access to (specific service/resource)
+•	Workers under-resourced with (specific service/resource)
+Commonly Used Words/Phrases and Equity-Focused Alternatives and Additional Information
+Commonly used: black
+Equity-focused alternative: Black
+Reason: After years of debate, the Associated Press recommendation is clear: lowercase black denotes a color, not a person. Their style guide aligns with the long-standing capitalization of other racial and ethnic identifiers such as Latino and Asian American.
+The Associated Press recommends not capitalizing white, recognizing that “white people generally do not share the same history and culture, or the experience of being discriminated against because of skin color.” In contrast, the AMA Manual of Style currently recommends capitalizing both Black and White. Pressure may well mount for this to change.
+ 
+Commonly used: Caucasian
+Equity-focused alternative: white
+Reason: The term Caucasian originated in the 18th century, with the work of the German anatomist Johann Blumembach. He developed a system of racial classification after visiting the Caucasus Mountains, by the Caspian and Black seas. Blumembach declared the inhabitants of that region “the most beautiful in the world,” an ideal type of human based on “God’s image,” and extended that category to include all light-skinned peoples from this region and Europe.
+Blumembach went on to name four other races in the world, which he considered degenerate forms of what he called “God’s original creation.” He categorized Africans, excluding light-skinned North Africans, as “Ethiopians” or “black.” He divided non-Caucasian Asians into two separate races: the “Mongolian” or “yellow” race of Japan and China, and the “Malayan” or “brown” race, which included Aboriginal Australians and Pacific Islanders. And he called Native Americans the “red” race. Blumembach’s racial classification system influenced many scientists of the time as well as the US legal system through the 1790 Naturalization Act, which restricted who was eligible to become a naturalized citizen in this country.
+ 
+Commonly used: Cultural competence
+Equity-focused alternative: Cultural humility / cultural safety / structural competence
+Reason: Cultural competence has been a component of medical education for the past 30 years. The cultural competence frameworks seek to promote “culturally sensitive” practice and describe the trained ability of a clinician to identify cross-cultural expressions of illness and health. Yet this framework has been criticized on several grounds: it presents overly reductionist, simplistic, and static depictions of culture, often reduced to race/ethnicity, and frames culture and race/ethnicity as residing only in the “other,” normalizing dominant white culture. Perhaps most negatively, cultural competence “is understood as something that can be attained, individualizing failure to do so. This misconstrues structured power relations that cannot be altered individually. Worse yet, competence is measured in terms of learner confidence and/or comfort, which may have little to do with working effectively across differences.”
+In contrast, cultural humility is based on a “lifelong commitment to self-evaluation and critique, to redressing the power imbalances in the physician-patient dynamic, and to developing mutually beneficial and non-paternalistic partnerships with communities on behalf of individuals and defined populations.”
+A second alternative is offered by the structural competency framework developed by Jonathan Metzl and Helena Hansen. It redefines cultural competency in structural terms, and calls for training in “five core competencies: (1) recognizing the structures that shape clinical interactions; (2) developing an extra-clinical language of structure; (3) rearticulating ‘cultural’ formulations in structural terms; (4) observing and imagining structural interventions; and (5) developing structural humility.”
+Another valuable alternative to cultural competence is the concept of cultural safety, developed in the 1980s in response to discontent with medical care in New Zealand. Cultural safety goes beyond the basic notion of cultural sensitivity that characterizes cultural competence to focus on analyzing power imbalances, institutional discrimination, and colonial relationships as they manifest in health care. Cultural safety calls on medical professionals and health care institutions to create spaces for patients to receive care that is responsive to their social, political, linguistic, economic, and spiritual realities. Culturally unsafe practices, in contrast, are actions that diminish, demean, or disempower the cultural identity and well-being of patients.
+ 
+Commonly used: Disadvantaged / under-resourced / underserved
+Equity-focused alternative: Historically and intentionally excluded; disinvested
+Reason: These terms should be used with caution and consideration. “Disadvantaged” has been used for many decades and is now widely contested for supporting a deficit-based, rather than asset-based, model of people and communities. Many people find the term pejorative, and it has been used as an implicit descriptor for minoritized and historically marginalized communities. In some circumstances, “under-resourced” and “underserved” are used — both terms begin to describe the historical disinvestment experienced by some communities — but these terms have also been critiqued, as some communities are “overserved,” with services and resources that are not working or lack coordination. At the same time, “disadvantaged” is still sometimes used to describe processes of exclusion, recognizing that there are dimensions beyond resourcing and service receipt that are not necessarily well captured by “under-resourced” or “underserved.”
+Alternatives include “historically and intentionally excluded” and “disinvested.”
+ 
+Commonly used: Disparities (or inequalities)
+Equity-focused alternative: Inequities
+Reason: Disparities typically refer to differences (though in some uses of this term, including in Healthy People 2020, the term is explicitly linked to economic, social, or environmental disadvantage). Health “inequities,” in contrast, are explicitly defined as health differences that are avoidable, unnecessary, unfair, and unjust.
+ 
+Commonly used: Equality
+Equity-focused alternative: Equity
+Reason: Equality as a process means providing the same amounts and types of resources across populations. Seeking to treat everyone the “same,” this ignores the historical legacy of disinvestment and deprivation through policy of historically marginalized and minoritized communities as well as contemporary forms of discrimination that limit opportunities. Through systematic oppression and deprivation from ethnocide, genocide, forced removal from land and slavery, Indigenous and Black people have been relegated to the lowest socioeconomic ranks of this country. The ongoing xenophobic treatment of undocumented brown people and immigrants (including Indigenous people dispossessed of their land in other countries) is another example. Intergenerational wealth has mainly benefited and exists for white families. The “equality” framework, as applied, also fails individual patients and communities. For example, high-quality and safe care for a person with a disability does not translate to “equal” care. A person with low vision receiving the “same” care might receive documents that are illegible, depriving them of the ability to safely consent to and participate in their treatment.
+ 
+Commonly used: Ex-con / felon
+Equity-focused alternative: Formerly incarcerated / returning citizen / persons with a history of incarceration
+Reason: “Formerly incarcerated” humanizes the individual. Consider this insight from An Open Letter to Our Friends on the Question of Language by Eddie Ellis:
+“One of our first initiatives is to respond to the negative public perception about our population as expressed in the language and concepts used to describe us. When we are not called mad dogs, animals, predators, offenders and other derogatory terms, we are referred to as inmates, convicts, prisoners and felons. All terms devoid of humanness which identify us as ‘things’ rather than as people. These terms are accepted as the ‘official’ language of the media, law enforcement, prison industrial complex and public policy agencies. However, they are no longer acceptable for us and we are asking people to stop using them. In an effort to assist our transition from prison to our communities as responsible citizens and to create a more positive human image of ourselves, we are asking everyone to stop using these negative terms and to simply refer to us as PEOPLE. People currently or formerly incarcerated, PEOPLE on parole, PEOPLE recently released from prison, PEOPLE in prison, PEOPLE with criminal convictions, but PEOPLE.” (emphasis in original quote)
+
+Commonly used: Fairness
+Equity-focused alternative: Social justice
+Reason: An important distinction separates the ideas of social justice, which is a standard of rightness, and fairness, which is a more limited concept. The latter pays no attention to how power relations in society establish themselves but primarily emphasizes outcomes within a pre-given set of rules. For instance, to focus on the allocation of society’s resources or benefits (income, wealth, natural resources) is itself the result of structures of power and the processes that produce such outcomes. Fairness is a hope for an outcome. In the legal system, one could say that each side in a trial having a lawyer to represent them is fair. But the justice system may favor the wealthy over the poor.
+ 
+Commonly used: Hispanic / Latina / Latino / Latinx
+Equity-focused alternative: Hispanic / Latina / Latino / Latinx
+Reason: Hispanic and Latina/Latino are often used interchangeably in the United States to describe the ethnic identity of people with Latin American or Spanish ancestry. The term Hispanic has been used by the US government since the 1970s and is used to signify descendants of Spain. The terms Latino/Latina gained popularity in the 1990s in both US government data collection and popular discourse because it was deemed more inclusive of Indigenous and African descendants in the Latin American continent, and it does not center Spanish descent or language fluency. Latinx is a newer term that also describes people who are of or relate to Latin American origin or descent. It is a gender-neutral and nonbinary alternative to Latina/Latino. While awareness and acceptance of Latinx is thought to be low, there is growing acceptance of the term Latinx in the United States, due to its inclusivity.
+Of note, many Hispanic, Latina/Latino/Latinx members prefer to identify using other terms including national origin. Furthermore, other terms like Chicano or Chicana are used historically and politically to signal social justice and advocacy inclusion and people still identify with this term, as well as terms that signify Indigenous heritage. Finally, the term Spanish is used regionally to identify descendants of Spain who also have other ethnic and national origins. Preferred terms vary regionally. Best practice is to consult the specific communities involved in discussion to ask their preference.
+ 
+Commonly used: Illegal immigrant
+Equity-focused alternative: Undocumented immigrant
+Reason: “Illegal” is a dehumanizing, derogatory term used to describe a person who resides in a country without proper documentation. No human being is illegal. “Undocumented” is a common and widely accepted term. Migrant rights literature also includes “informally authorized migrant,” a term that disrupts the idea that someone is missing or has failed to acquire proper documents (a discourse that individualizes the underlying issue), revealing that some migrants are actively denied resources (a structural issue).
+ 
+Commonly used: Indians
+Equity-focused alternative: Native peoples / Indigenous peoples / American Indian and Alaska Native
+Reason: Plurality (i.e., Native peoples) is often preferred, to avoid the homogenization of Indigenous peoples that so often occurs in dominant narratives. Native peoples/Indigenous peoples/American Indian should be used instead of “Indian.” According to the National Museum of the American Indian, “The consensus, however, is that whenever possible, Native people prefer to be called by their specific tribal name. In the United States, Native American has been widely used but is falling out of favor with some groups, and the terms American Indian or Indigenous American are preferred by many …”
+First Nations and First Nations peoples are accepted terms worldwide to refer to Indigenous peoples. It is critical to understand and acknowledge the diversity among Indigenous peoples along with their strengths and the structural challenges they endure. To determine the term that is most appropriate for your context, ask the person or group which term they prefer. When referring to Native groups, use the terminology the members of the community use to describe themselves. The Native American Journalists Association has published guidance on best practices for avoiding common stereotypes that readers may find useful.
+ 
+Commonly used: Master/slave (particularly in software/tech)
+Equity-focused alternative: Alternatives include active/standby, writer/reader, and leader/follower
+Reason: Master and slave have been used for decades in software and tech discourse to describe processes and tools where one component controls another. In 2018, the popular software language Python dropped both terms from use. In 2020, many people and groups in tech started to question the use of these terms.
+ 
+Commonly used: Minority
+Equity-focused alternative: Historically marginalized or minoritized or BIPOC
+Reason: Minority means “less than” and is now considered pejorative. In addition, groups have been made minorities by dominant culture and whiteness, thus minoritized. Importantly, marginalization and minoritization occurs not just with racial identities, but with other identities as well, including gender. At stake is the connection of status to power differentials. Minoritization is associated with a loss of power.
+BIPOC (Black, Indigenous, and people of color) is a relatively new term, expanding the previously used acronym POC (people of color). The term gained popularity in 2020 and is used “to highlight the unique relationship to whiteness that Indigenous and Black (including African American) people have, which shapes the experiences of and relationship to white supremacy for all people of color within a US context.” The acronym BIPOC is not without critics, however, and should not be used in quantitative reporting to unnecessarily aggregate groups; instead, disaggregated data should be used to depict the experiences of groups.
+ 
+Commonly used: Non-compliance
+Equity-focused alternative: Non-adherence
+Reason: Compliance describes purely passive behavior in which patients follow instructions. Non-compliance places blame for treatment failure solely on patients. Adherence is the preferred term, and can be defined as “a process, in which the appropriate treatment is decided after a proper discussion with the patient. It also implies that the patient is under no compulsion to accept a particular treatment, and is not to be held solely responsible for the occurrence of non-adherence.” Non-adherence may come from many sources, including frustration and legitimate mistrust of health care, structural barriers that limit availability and accessibility of medications (including cost, insurance barriers and pharmacy deserts), time and resource constraints (including work hours, family responsibilities), and lack of effective communication about severity of disease or symptoms.
+ 
+Commonly used: Race-based
+Equity-focused alternative: Race-conscious
+Reason: The practice of using race as a biological construct (i.e., racial essentialism) results in harm for historically marginalized and minoritized groups, exacerbating health inequities. New AMA policy passed in November 2020 explicitly calls for ending the practice of using race as a proxy for biology in medical education, research, and clinical practice. Race-based protocols exist and are being challenged in a wide range of areas: eGFR (estimated glomerular filtration rate), BMI risk for diabetes, FRAX (fracture risk assessment score), PFT (pulmonary function test), UTI (urinary tract infection), ASCVD (atherosclerotic cardiovascular disease), and more. In contrast to a race-based approach, a race-conscious framework can promote antiracist practices, shifting focus from race to racism in all its forms.
+ 
+Commonly used: Sex/gender/gender identity
+Equity-focused alternative: Sex assigned at birth / gender / gender identity; Sex-, sexual-, and gender-diverse community
+Reason: Sex and gender are different concepts that are often mistakenly used interchangeably. Indeed, many people confuse sex, gender, and gender identity. Sex—or more precisely, “sex assigned at birth”—is a label typically assigned by a doctor at birth based on the genitals you’re born with. This may or may not align with how a person identifies themselves.
+Gender, in contrast, refers to the “social, psychological, and emotional traits, attitudes, norms and behaviors, often influenced by society’s expectations, that classify someone as man, woman, both, or neither.” Gender identity refers to how people conceptualize themselves as gendered beings, including one’s innate and personal experience of gender.
+This may or may not align with one’s gender expression or biological sex. Per the American Academy of Pediatrics, gender identity is “one’s internal sense of who one is, which results from a multifaceted interaction of biological traits, developmental influences, and environmental conditions. It may be male, female, somewhere in between, a combination of both, or neither (i.e., not conforming to a binary conceptualization of gender).”
+Commonly used: Slave
+Equity-focused alternative: Enslaved person
+Reason: “Enslaved person” separates a person’s identity from their circumstance; the term describes humans first and foremost, acknowledging that they are not a commodity, but rather a person who has had slavery imposed upon them. Similarly, “enslaver” is now recommended in many contexts over “owner” or “master” — terms that empower the enslaver and dehumanize the enslaved person.
+Commonly used: Social problem
+Equity-focused alternative: Social injustice
+Reason: To refer to racism, for example, as a “problem” is to not only diminish its seriousness but also to potentially blame people for their own marginalization. Referring to racism as a social problem further presupposes a possible solution through conventional, technical, or bureaucratic approaches.
+ 
+Commonly used: Underrepresented minority
+Equity-focused alternative: Historically marginalized, minoritized, or excluded
+Reason: The term “underrepresented minority” (URM) has been used in many fields, including medicine, to refer to the low participation rates of particular racial and ethnic groups (Black/African American, Latinx, Native American/Alaska Native). There is now growing awareness of the limitations of this term. To be “underrepresented,” one is “not enough” and “below.” The term URM unnecessarily aggregates and confounds the experiences of diverse groups and renders invisible the processes that lead to exclusion. And a general focus on URM betrays a deficit framework that inhibits asking direct questions about what leads other groups to be overrepresented.
+ 
+Commonly used: Vulnerable (or disadvantaged)
+Equity-focused alternative: Oppressed (or made vulnerable or disenfranchised)
+Reason: Vulnerable is a term often used to describe groups that have increased susceptibility to adverse health outcomes. We even describe individual people as vulnerable or not, often based on socioeconomic status. If we pause to examine our taken-for-granted narrative, we see that vulnerability can be understood in very different ways. In this case, as a characteristic of people or groups. But what if we shift the narrative from an individualistic lens to an equity lens? In doing so, we begin to ask questions about the structural origins of vulnerability.
+Vulnerability is the result of socially created processes that determine what resources and power groups have to avoid, resist, cope with, or recover from threats to their well-being.
+Instead of stigmatizing individuals and communities for being vulnerable or labeling them as poor, we begin to name and question the power relations that create vulnerability and poverty. People are not vulnerable; they are made vulnerable.
+Along these lines, one might refer to neighborhoods and communities as systematically divested rather than “vulnerable” or “poor.”
+ 
+Commonly used: White paper / whitelist / white label / blacklist / blackball / blackmail
+Equity-focused alternative: Reconsider need for white/black adjectives (e.g., whitelist can easily be changed to allow/deny list)
+Reason: There are many terms in the English language that indicate white privilege. For example, a “whitelist” denotes a list of approved or favored terms; a “blacklist” denotes people, places, and things that are viewed with suspicion or disapproval.
+
+Conventional
+What interventions can address health disparities?
+What social programs and services are necessary to address health inequity?
+How can individuals protect themselves against health problems?
+How can we promote healthy behavior?
+How do we treat the consequences of health inequity?
+How can we create more resilient communities?
+What are the ways public health can adapt innovative practices to changing times?
+
+Health equity perspective
+What generates health inequity in the first place?
+What types of social change are necessary to confront health inequity?
+What kind of public collective action is necessary to confront health inequity across identifiable populations?
+How can we democratize land use policies through greater public participation to ensure healthy living conditions?
+How do we act on root causes of inequality to meet human need?
+How can public health protect communities from disinvestment, redlining, predatory lending, serving as targets for hazardous waste?
+What are the ways public health, with their allies, can organize for social change directed to meeting human need for health and well-being?
+Source: NACCHO, “Advancing Public Narrative for Health Equity & Social Justice” report.
+

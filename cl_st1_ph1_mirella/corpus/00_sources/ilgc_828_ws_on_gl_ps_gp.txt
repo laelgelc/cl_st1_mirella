@@ -1,0 +1,53 @@
+Inclusive Language Guide
+
+When referring to someone with a disability, do not use the words "high (or low) functioning". "High functioning is not how an autistic person experiences being autistic, it's how society experiences the autistic person."
+
+Avoid the use of violent metaphors such as STONITH, rape, or murder when talking about technical topics. Most often, a more specific and literal term is more useful to the reader and more welcoming.
+
+Rather than describing a feature or tool as "so easy my mom/wife/grandma can use it," describe the skills or experience needed for the specific tool. (source)
+
+Many terms appropriate and disrespect Native and Indigenous traditions. "Hold down the fort," "on the warpath," and "circle the wagons" also have roots in the violent history of US colonization and should be avoided. (Learn more.)
+
+At Pantheon, we have standardized on:
+Allowlist / blocklist rather than whitelist / blacklist
+main rather than master for branch naming conventions
+
+Engineering work is ongoing to correct these naming conventions.
+
+Avoid referring to countries as "third world" or "under-developed".
+
+Doing Better
+
+Put the Person First
+
+When referring to someone, put the person ahead of their identity, characteristics, or position.
+
+For example, "a person who is deaf", "a woman who is a doctor", and "a person who has a traumatic brain injury" instead of "a deaf person", "a female doctor", and a "brain damaged person". When the individual's gender, race, age, sexual orientation, or ability is not relevant to the conversation, avoid mentioning it entirely.
+
+Avoid Idioms and Jargon
+
+Many of us habitually use language or phrases local to our community or industry that unintentionally exclude others. If you are in North America, for example, you might use phrases like "circle back" or "put a pin in it" and the meaning of these phrases will not be clear to a global audience.
+
+Similarly, communicating in acronyms assumes a level of knowledge and excludes those who might require an explanation or use different words to describe the same concept.
+
+Use Empowering Language
+
+It's detrimental to suggest victimhood in talking about any group of people. Avoid phrases such as "victim of", "afflicted by", "suffers from", "confined to", and "challenged in" when referring to any person or group of people.
+
+Be Aware of Unconscious Bias
+
+Unconscious biases are underlying stereotypes, attitudes, or generalizations we hold toward a group of people that may not be immediately obvious, but affect how we treat others.
+
+Unconscious biases influence how we communicate, make decisions, agree or disagree, hire people, and work with people. Awareness is the first step in avoiding unconscious biases, and there is training you can take to further your education.
+
+Consider Other Points of Reference
+
+No matter who you're communicating with or the method of your communication, it's essential to remember — everyone interacting with your content is bringing their own perspective and has their own point of reference. Dismissing, diminishing, or rejecting another person's point of view creates harm to that person and their community, and significantly weakens your own message, too.
+
+Inclusive Language and Our Community
+
+With a global community of WordPressers and Drupalistas, we are bound to have conflicts around how we speak to and write about one another. Rather than using a shifting and undocumented list of what's okay and what isn't, this list is intended to guide us toward respectful communication.
+
+To that end, we strongly encourage any community member with questions or concerns about this list to open an issue or reach out to community@pantheon.io for further discussion.
+
+

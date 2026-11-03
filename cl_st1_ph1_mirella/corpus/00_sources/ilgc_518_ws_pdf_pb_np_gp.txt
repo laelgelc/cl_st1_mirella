@@ -1,0 +1,250 @@
+USE OF GENDER-INCLUSIVE LANGUAGE APPLIED TO ENGLISH
+
+Singular use of They/Them/Theirs:
+
+In English, we can use the pronoun they and its derivatives them/theirs to refer to a single individual. This form made its first appearance in written texts in the 14th century, and we naturally do this when we don't know a person's gender identity (e.g. Anybody can give their suggestion) in casual speech.
+
+When employing it in a formal or technical text, ensure that the reader can easily understand whom they/them/theirs refer to when used for a single individual.
+
+Note: alternative to they/their/theirs as in neutral versions of the third-person pronoun, there is also the option of using Ze/Zie, Hir, Hirs, Hirself, although this is not yet widespread enough to ensure clarity. Other alternatives exist (e.g. Xe, Ver, Per, E/Ey), however they are even less known and recognisable.
+
+Use combined forms:
+
+As an alternative, you can employ combined (or paired) forms such as she/he/they or her/his/their, and their derivatives. These combined forms can be considered gender-inclusive, but they must be used thoughtfully as they risk making long texts hard to read or confusing.
+
+In fact, they can weigh down the text if repeated too frequently in the same sentence.
+
+Note: whatever your choice is, the use of they or she/he/they must always be preferred over combined forms such as she/he or s/he (and their derivatives) in order to be inclusive of all genders. These forms are in fact rooted in a binary gender structure (woman/man) which obliterates other gender identities, so use them only if necessary.
+
+If you prefer to use gender-neutral language, the best approach is to omit or replace gender-specific pronouns whenever possible. Bear in mind that rephrasing is sometimes required. 
+Keep consistent throughout the text:
+
+Whatever you choose, avoid alternating between masculine, feminine, gender-inclusive or gender-neutral forms when referring to the same individual or group/category of individuals.
+
+Avoid gender-specific titles:
+
+Titles such as Monsieur, Frau, Ms, etc. should be avoided in favour of the person's full name, unless it is known that the person wants to be referred to by a specific title (that is, for instance, if the title is signalled in the email signature).
+
+The titles Mrs or Miss used to refer to a woman's marital status (respectively, married or unmarried woman), whereas the term for men, Mr, was neutral in this regard (either married or unmarried). These titles derive from cultural conventions describing a woman's relationship to a man, rather than presenting her as an individual, and should not be used unless requested to do otherwise by the person you are addressing.
+
+Note: Dr (in the sense both of medical doctor and Ph.D.) and Professor (abbreviated Prof.) can be used for all genders.
+
+Avoid gendered job titles:
+
+In general, avoid irrelevant information about gender in job titles as it may have a discriminatory nature:
+
+It is by now long-established that job titles like doctor or lawyer are gender-neutral. In other cases as well, a gender-neutral substitute is available to avoid gendered job titles (e.g. firefighters, flight attendants instead of fireman, hostess/steward) – please see Appendix 2.
+
+Note: Notices of vacancies should be drafted in a gender-inclusive way in order to encourage candidates of all genders to apply.
+
+Avoid the generic use of man and its derivatives:
+
+In English, words that are not gender-specific and refer to people in general can still end in or include the unit man. However, we should opt for gender-neutral alternatives whenever possible.
+
+
+Revert the order of gendered terms:
+
+Some pairs of words are habitually used in a fixed order, often with the male version appearing first (e.g. husband and wife, boys and girls, King and Queen). This reflects and reinforces cultural values and a social hierarchy that subordinates women to men.
+
+You should be aware of the word order in your text and make sure that you are not always putting the masculine version first (or vice versa, if also gender-connotated).
+
+Note: please be aware that these forms perpetuate the gender binary, so use them if appropriate to the context (e.g. the married couple you are referring to is constituted by a man and a woman in the case of wife and husband/husband and wife).
+
+Avoid trivialisation:
+
+Trivialisation means using a language that (directly or indirectly) describes one gender, often women, as inferior, or that belittles them. It is closely related to subordination as it contributes to perpetrating gender stereotypes and marginalisation in society.
+
+One example of trivialisation is the additions of diminutive or other kind of affixes to denote that the referent is female (an example is usherette, while the correct form is usher for all genders, or the terms master and mistress, which have very different connotations).
+
+Also, language which refers to people who are not close to you in terms of endearment (for instance, Darling and Dear when used in speech or informal written communications) promotes trivialisation as it is patronising and condescending. Note that Dear is still accepted as an email greeting when it precedes the name (first or full name) of the recipient (e.g. Dear Paul or Dear Sara Monteiro).
+
+Another common way of trivialising women which should be avoided is referring to adult women as girls (or other versions of it, such as gals, young ladies, etc.).
+
+Note: although unrelated to trivialisation, when addressing a group of people, avoid the use of the term guys. As an alternative, you can replace it with everyone (e.g. Good morning, everyone! instead of Good morning, guys!).
+
+Avoid words that imply a gender connotation to describe an aspect of a person or an object:
+
+This is especially important where the gendered term is used to describe anything associated to feminine elements with negative connotations (often meaning weak, or infantilising/objectifying women). Assigning gender to an inanimate object by using gendered pronouns applies cultural connotations which are related to gender stereotypes and contribute to perpetuating them in society. 
+
+Needless to say, use the pronoun it and its derivatives to describe an object.
+
+Use gender-sensitive language, if needed:
+
+In order to be respectful of identities and to provide meaningful information on gender-specific issues, we should at times employ gender-sensitive language (where gendered forms are explicit).
+
+Gender-specific terms should be used:
+
+- if the gender of the person/group of people is relevant to the point being made (e.g. when presenting gender-disaggregated data)
+- when referring to individual persons whose gender identity is known, that is when they have communicated it explicitly and voluntarily (e.g. la Commissaire européenne à l'Égalité Helena Dalli)
+
+General recommendations:
+
+Do not make assumptions about someone's gender. For instance, someone's gender expression can differ from their gender identity.
+
+Avoid using certain words or expressions if someone alerts you to their hurtful or discriminating nature.
+
+If you are told how a person wishes to be addressed, make sure to use the name and pronouns they communicate to you.
+
+Adding pronouns to your e-mail signature can further show your commitment to inclusiveness: e.g. My pronouns are she/her or Silvia Demofonti (she/her).
+
+
+APPENDIXES
+
+Appendix 1: Use of gender-inclusive language applied to other EU languages
+
+In order to effectively use gender-inclusive language, appropriate solutions must be sought considering the grammatical class of each language.
+
+Grammatical gender languages (Bulgarian, Croatian, Czech, Dutch, French, German, Greek, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish), where every noun has a grammatical gender, and the gender of personal pronouns usually matches the referenced noun. Common gender divisions include masculine and feminine; masculine, feminine, and neuter; or animate and inanimate.
+
+Generic masculine terms are no longer universally used since they are often interpreted as discriminating against women. More and more, female equivalents are being created and/or employed for almost all masculine terms (for instance, Kanzlerin, assessora, etc.).
+
+Also, replacing the generic masculine with dual forms for specific referents (tutti i bambini e tutte le bambine) has gained acceptance in many grammatical gender languages.
+
+Lastly, combined forms (e.g. collaborateur·trice, un/une touriste, tutte/i) can be used, however do so carefully in order to keep the text easy to read.
+
+Note: unfortunately, very few to no gender-inclusive terms or forms have yet been created in grammatical gender languages. In Italy, for instance, proposals have been made to integrate gender-neutral forms into common practice. These methods include using the symbol * or the vowel schwa /ə/ or /u/ to replace the gendered suffixes a, o, e, i. However, these forms have been widely criticised and are seldom employed.
+
+Natural gender languages (Danish, Dutch, English, Norwegian, Swedish), where personal nouns are mostly gender-neutral and there are personal pronouns specific for each gender. Most of the recommendations for the English language can be extended to all languages belonging to this group.
+
+Genderless languages (Estonian, Finnish, Hungarian), where there is no grammatical gender and no pronominal gender. Those languages do not generally need a particular strategy to be gender-inclusive.
+
+
+Appendix 2: Professions and functions in the English language
+
+Actor/actress
+    All genders, use actress only if the person's gender is relevant
+
+Administrator
+    All genders
+
+Attaché
+    All genders, attachée does not appear to exist nor does a gender-neutral version
+
+Author
+    All genders
+
+Business person/executive (plural: business people)
+    All genders, not businessman - use businesswoman only if the person's gender is relevant
+
+Commissioner
+    All genders
+
+Director, Director-General
+    All genders
+
+Doctor
+    All genders
+
+Editor
+    All genders
+
+Engineer
+    All genders
+
+Firefighter
+    All genders, not fireman
+
+Fisherman/fishermen
+    Fisher and fisherfolk are not widely accepted
+
+Flight attendant (plural: flight crew)
+    All genders, not air hostess or stewardess
+
+Head/head teacher (of primary or secondary school)
+    All genders, not headmaster/headmistress
+
+Intern
+    All genders
+
+Interpreter
+    All genders
+
+Journalist
+    All genders
+
+Judge
+    All genders
+
+Lawyer
+    All genders
+
+Layperson (plural: lay people)
+    All genders, not layman/laymen
+
+Lecturer
+    All genders
+
+Manager
+    All genders
+
+Mayor
+    All genders
+
+Midwife
+    All genders, there is no accepted masculine or neutral version for this term
+
+Nurse
+    All genders
+
+Official
+    All genders
+
+Parents/Caregivers
+    All genders, avoid mother/father unless the gender is relevant
+
+Police officer
+    All genders, not policeman/policewoman unless the officer's gender is relevant
+
+Politician
+    All genders
+
+President
+    All genders
+
+Priest
+    All genders, only use woman priest if relevant (priestess only in a historical context, e.g. ancient Rome)
+
+Prime minister
+    All genders
+
+Professor
+    All genders
+
+Rector (of university)
+    All genders
+
+Sales representative
+    All genders, not salesman
+
+Scientist
+    All genders
+
+Speaker
+    All genders
+
+Teacher
+    All genders
+
+Technician
+    All genders
+
+Trainee
+    All genders
+
+Translator
+    All genders
+
+Usher
+    All genders, not usherette
+
+Waiter/waitress
+    No gender-neutral term has been successfully proposed
+
+Weather reporter/forecaster
+    All genders, not weatherman
+
+Writer
+    All genders
+
+
+

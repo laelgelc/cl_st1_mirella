@@ -1,0 +1,162 @@
+Key principles: think about the context, focus on the person, listen to the language they use to describe themselves, if in doubt – ask the person.
+
+Not all people identify with being a man or a woman. People who are gender non-conforming or non-binary may prefer gender neutral pronouns and titles such as "they/them/their" or "Mx"
+
+"Traditional Custodians"
+
+Focus on the accessibility or disability barrier, instead of the person's impairment
+Use person-first language "Persons of all abilities", "person with <identity e.g. low vision, disability>", "person who is <identity e.g. deaf or hard of hearing>" or "person without disability"
+
+Some people may prefer identity-first language "Autistic person". It is important to respect the language people use to describe themselves.
+
+Choose to share information about the disability faced and/or impairment rather than "disclose"
+
+Avoid
+
+Victim or objects of pity e.g. "suffering from…", "struck down by…", and "afflicted by/with…"
+
+"Disclosure", "declaration of disability", "identify as a person with disability"
+
+Why does inclusive language matter?
+
+The language we choose is vital to enabling everyone in our organisation to feel like they belong. When we use the words that others use to describe themselves, we create a workplace where everyone feels valued and is welcome to be themselves.
+
+Remember, whether we intend to or not, the words we choose to use may included or exclude those around us.
+
+
+Inclusive interactions
+
+Building inclusive interactions starts with developing self-awareness of your own blind spots. Research finds that we make judgements about a person's trustworthiness, competence, aggressiveness, likeability and attractiveness within the first 100 milliseconds of seeing a new face. Beginning with inclusive listening slows down these snap assumptions, and makes other people feel valued and understood.
+
+When listening to others, we tend to assume we understand and we reach conclusions based on our point of view and our biases. Inclusive listening doesn't make assumptions but instead requires actively engaging in critical thinking: noticing and questioning our assumptions and asking open questions. Consider taking the online anonymous Harvard Implicit Association Test to test your blind spots.
+
+Key principles: start with your own blind spots, engage in active listening and open questions.
+
+Give someone your full attention when they're talking
+Ask for the correct pronunciation of an unfamiliar name – make an effort to get it right
+Ask for permission before calling someone by a nickname (and think about who has a nickname and who doesn't and how using nicknames in an office setting can be exclusionary)
+Acknowledge people when you pass them in the office, not just those in your 'in-group'
+Provide feedback in a sensitive and caring manner, seeking permission to do so when appropriate
+Use open questioning to confirm and build on your understanding when you feel like you are making assumptions
+
+Avoid
+
+Assuming that acronyms are understood by all
+Assuming about accents/linking these assumptions to knowledge levels
+Associating women with warmth and men with competence. Many studies show these gendered assumptions are automatic, stereotypical and held by many according to gendered roles in our society
+Stereotypical comments or jokes about identity groups
+Assuming what a person is or is not capable of. If unsure, offer to help, instead of taking over
+Assuming all people are heterosexual. 
+Making assumptions around flexible or return to work arrangements
+Making assumptions about skin colour and culture
+
+Why do inclusive interactions matter?
+
+Even in situations where you might be trying to express a positive comment, consider if it is based on a stereotype or assumption - such as asking someone where they are from based on their accent.
+
+Assumptions, generalisations or stereotypes create exclusion and can put a negative focus on a person's individual identity.
+
+
+Inclusive decision making
+
+In our everyday lives, we make fast and competent decisions, however, fast thinking does not always lead us to make the most effective decisions. Research shows that well-managed diverse teams tend to outperform homogenous groups, even if the members of the latter group are more capable, due to slowing down thinking by considering different perspectives. Inclusive decision making activates diversity to improve innovation, engagement, and results.
+
+Key principles: share background and context, share complexities/ considerations, seek diverse perspectives, enable transparency.
+
+Ensure the decision making process includes representatives of people who the decision relates to
+Ask yourself which repeated decisions are the best to start with and gain early wins – and which decisions need to start from fresh
+Assess how often diverse perspectives are directly included in business decision-making processes
+Actively seek out multiple perspectives (especially those different to your own)
+Explicitly invite your peers to offer an alternative or dissenting view to avoid confirmation bias (looking for evidence to confirm our own beliefs or judgments and ignoring contradictory evidence)
+Use a range of communication channels to receive input on a project or idea – some team members will be more comfortable providing a follow up email or direct phone call rather than in a team setting
+Use decision devices such as pros/cons, evaluation sheets, grids to evaluate ideas
+Ensure others have a say in when/how/where they work
+
+Avoid
+
+Evaluating the person who is delivering the idea or making the decision; focus on the idea or decision on its merits
+Making assumptions about the age or ability of people and their experience, e.g. That younger people don't have enough experience, and older people are set in their ways
+Planting ideas or preconceived notions that lead others to a fixed outcome
+
+
+Inclusive information and design
+
+Behind inclusive and accessible information lies thought, empathy and inclusion. This doesn't happen by accident, it happens by planning and design. If you communicate with people, you need to know about accessibility that considers the varied needs (age, size, ability) of users.
+
+Accessibility checker
+
+Run Accessibility Checker before sending your email message or sharing your document or spreadsheet
+
+Link text
+
+Imagine not being able to quickly scan a page of content to find the information you need.
+
+Concisely describe the link's target – where it will take the reader
+Link makes sense when read out of context (i.e. Without reading the surrounding text)
+Front-load with the most important words, e.g. Use "barriers to inclusion in the workplace", instead of "learn more about barriers to inclusion in the workplace"
+If the link's purpose is a download, include the type and size of what will be downloaded, e.g. "'We all belong' workforce diversity and inclusion framework (PDF, 903KB)"
+Link is underlined and in a colour that stands out
+
+Avoid
+
+Ambiguous link text e.g. "read more" or "click here"
+
+Images
+
+Imagine how much information, entertainment and understanding you'd miss out on if you couldn't see pictures.
+
+Add image descriptions (alternative text or alt text) for each shape, picture, chart, SmartArt graphic, graphic, diagram and table;
+1. Right-click the object, click Format Object, Format Picture, Format Chart Area, or other, and then click Alt Text
+2. In the Description box, enter an explanation of the shape, picture, chart, SmartArt graphic, or other object. This box should always be filled in
+3. If you want, in the Title box, enter a brief summary. This box should only be filled in if you are entering a detailed or long explanation in the Description box
+Succinctly and accurately reflect the content or function of the image
+If the image contains text, replicate the text in the description
+If the image is used as a link, describe the link destination in the description or use real text (not image of text)
+If the image is purely decorative, describe as "decorative" or a null alt ("" in HTML)
+Try to consider diversity when selecting imagery, such as looking for images other than the traditional "nuclear" family. Do however try to avoid tokenism and only use images that are relevant to the message
+Avoid gender dominance – where a person of either gender stands in front of the other
+Take cultural protocol into consideration when using images
+
+
+Inclusive information and design (continued)
+
+Headings
+
+Imagine how difficult it would be to read a 200-page document without any headings. Imagine how frustrating it would be to find specific information within that document.
+
+Use 'true' headings
+e.g. Heading 1, Heading 2, Heading 3
+Outlook: found in the "Format Text" ribbon
+Word: found in the "Home" ribbon (styles)
+
+Videos
+
+Imagine watching your favourite movie without being able to see it or hear it.
+
+Include captions and audio-descriptions – an equivalent, synchronised, textual version of what is spoken throughout the video. (Closed captions can be turned on or off, whereas open captions are always visible)
+Include transcripts – a textual version of what is said during the video, and may include descriptions, explanations or comments
+Try to consider diversity when selecting imagery, such as looking for images other than the traditional "nuclear" family. Do however try to avoid tokenism and only use images that are relevant to the message
+Avoid gender dominance – where a person of either gender stands in front of the other
+Take cultural protocol into consideration
+
+If videos cannot be captioned or audio described, the presenter should supply any visual information that a person with low vision may not be able to access.
+
+Easy-read
+
+Clear, simple, inclusive language appropriate for your audience
+Left-align text
+Sans-serif fonts, such as Arial or Verdana
+Expand acronyms on first use and wherever else is reasonable
+Colour contrast between text and its background has a ratio of at least 4.5:1, Except for large text and purely incidental decorations (free tools to test this include vision Australia's colour contrast analyser)
+
+Avoid
+
+Excessive use of bold, capitals, italics and underlines
+Very small font sizes (ideally minimum 12pt)
+Using colour alone to convey information
+
+Alternative formats
+
+Written material is available in alternative formats, as required, before and after the event (e.g. braille, large print, audio, electronic, plain English/Easy English)
+
+

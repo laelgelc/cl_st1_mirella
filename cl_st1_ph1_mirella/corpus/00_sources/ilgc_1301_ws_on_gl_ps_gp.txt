@@ -1,0 +1,899 @@
+SECTION 1
+GENERAL INCLUSIVE WRITING GUIDELINES
+
+RESPECT IDENTITY
+
+At its heart, inclusive language strives to honor individuals and their humanity. One
+of the most important ways to do that is to refer to people as they refer to
+themselves. Being inclusive—that is, being welcoming and courteous, respecting
+and promoting people as valuable—often starts with using terms and language that
+they choose.
+
+Language changes with time, and individuals within groups sometimes disagree
+about the designations they use. Writers should make an effort to determine what
+is appropriate in context, especially when a group has reclaimed or reappropriated
+a term that was previously harmful. These terms likely retain some of their former
+derogatory tone for some members of those groups.
+
+Such reappropriated terms can lead to nuanced situations in which the most
+precise ways for others to refer to groups of people may be different than the way
+they refer to themselves. Yes, that means these general guidelines may conflict,
+and using the most precise, inclusive language possible in these situations is a best
+practice.
+
+Also, be sensitive to labels. Acknowledge humanity wherever possible, something
+many labels struggle to do.
+
+A GREAT RULE OF THUMB: ASK SOMEONE WHO IS DIFFERENT FROM YOURSELF TO
+READ YOUR WORK.
+
+BE PRECISE
+
+Precise language is not always inclusive, but inclusive language is always precise. In
+fact, many of the ways language has become more inclusive over time involves
+being more precise.
+
+STEP ONE: FOCUS ON RELEVANCY.
+
+Include only relevant information and specify characteristics only when necessary.
+Do not mention characteristics gratuitously; however, when in doubt, be specific
+and intentional.
+
+Define the appropriate level of specificity early in your writing process and use
+that determination to choose the appropriate terms. Using specific terms improves
+the credibility of your work and improves readers' ability to understand your
+writing.
+
+Imprecise writing can lead to bias, so write with accuracy and clarity whenever
+possible.
+
+STRIVE FOR CONSCIOUSNESS
+
+Acknowledge differences without prejudice. Evaluate the meaning of the word
+"difference" carefully in relation to the target population, not just the dominant
+group.
+
+What does that look like? It looks like avoiding language that perpetuates
+stereotypes or stigmas.
+
+INCLUSIVE WRITING USES LANGUAGE THAT IS FREE OF BIAS TO AVOID
+PERPETUATING PREJUDICIAL BELIEFS OR DEMEANING ATTITUDES (EVEN
+UNINTENTIONALLY).
+
+This approach will necessitate an additional step in your editing process as you
+check your writing for inclusivity just like you check for spelling, grammar,
+wordiness, etc.
+
+ADDRESSING BIAS
+
+To address bias, it's important to understand and recognize two different types of
+bias: conscious and unconscious. Both are prejudice in favor of or against one
+thing, person, or group compared with another. Bias can have both positive and
+negative consequences.
+
+HAVING BIAS IS NOT A FAILURE. WE ALL HAVE BIASES, AND WE CAN ALL WORK TO
+BECOME AWARE OF THEM AND ADDRESS THEM.
+
+You may be familiar with conscious bias. In conscious bias, a writer understands
+their feelings and attitudes so related writing is created with intent. This type of
+bias is processed neurologically at a conscious level in both memory and words.
+You can probably name some of your conscious biases (quick: what's your favorite
+sports team, band, or movie?).
+
+UNCONSCIOUS BIAS OPERATES OUTSIDE AWARENESS AND CAN BE IN DIRECT
+CONTRADICTION TO A WRITER'S ACTUAL BELIEFS AND VALUES.
+
+That's a big deal. Not only does this mean unconscious bias is tricky to keep track
+of, but it means that this type of bias automatically seeps into a person's writing.
+Luckily, unconscious biases are not permanent. Steps can be taken to limit its
+impact on your writing.
+
+Addressing unconscious bias in writing requires thoughtfulness at every level:
+
+Content Strategy and Brand
+Representation
+Who is being represented?
+How are groups being represented?
+
+Article/Blog/Page
+Framing
+How have we framed the topic?
+Does the outline create an equitable framework?
+
+Paragraphs and Sentences
+Portrayal
+How are the subjects being portrayed by the sentence structure.
+Is identity considered/acknowledged?
+
+Words
+Definition
+What is the actual meaning of the words we choose and what is the context in which we use them?
+What history do we need to understand to choose the right words?
+
+Furthermore, as an individual writer you can address unconscious bias by being
+self-aware:
+
+• Recognize your unconscious biases using a tool such as the Implicit
+Association Test
+• Avoid scenarios that may activate unconscious attitudes (for example,
+working under extreme time pressure)
+• Again, have someone different than yourself read your work
+
+EVERYTHING ELSE
+
+This guide is not exhaustive, especially with idioms, similes, or colloquial language.
+That said, be on the lookout for words that may exclude or harm. A good example:
+we're pretty sure Shakespeare didn't intend these two lines from "A Midsummer
+Night's Dream" as a racial slur.
+
+"And such a wall, as I would have you think
+That had in it a crannied hole or chink"
+– SHAKESPEARE (A Midsummer Night's Dream)
+
+But we're going to use "a crack in the armor" instead of "a chink in the wall" when
+referencing a weak point or flaw.
+
+Similarly, we have not offered an exhaustive list of every slur or term to avoid.
+
+WHILE CONSISTENT USE OF THE SPECIFIC LANGUAGE IN THIS GUIDE WILL HELP,
+THESE GENERAL GUIDELINES WILL SUPPORT YOU IN MANY OTHER SCENARIOS.
+
+SECTION 2
+SPECIFIC GUIDELINES
+
+These sections describe how to discuss age, disability, gender, racial and ethnic identity, sexual orientation,
+socioeconomic status, and intersectionality with inclusivity and respect in writing.
+
+AGE
+
+Be specific in providing age ranges, means, and medians. Avoid open-ended definitions.
+
+TERMS FOR AGE ARE OFTEN GENDERED
+
+Different terms are used for individuals of different ages, and these terms are
+often gendered. Use the terms individuals use to self-describe, whether these are
+binary gender categories of boy–girl or man–woman or descriptive and possibly
+nonbinary categories of transgender, genderqueer, agender, or gender-fluid.
+
+For an individual of any age, appropriate terms are "person," "individual," and so on.
+
+HOW TO USE "MALE" AND "FEMALE"
+
+In general, avoid using "males" and "females" as nouns; instead use "men" and
+"women" or other age- and gender-appropriate words. "Males" and "females" are
+appropriate when groups include individuals with a broad age range (e.g., "males"
+to describe a group that includes both boys and men).
+
+For an individual aged 12 years and younger, appropriate terms are:
+infant (for a very young child)
+child
+girl, boy
+transgender girl, transgender boy
+gender-fluid child
+
+For an individual aged 13 to 17 years, appropriate terms are:
+adolescent
+young person, youth
+young woman, young man
+female adolescent, male adolescent, agender adolescent
+
+For an individual aged 18 years and older, appropriate terms are:
+adult
+woman, man
+transgender man, trans man, transgender woman, trans woman
+genderqueer adult, cisgender adult
+
+OLDER ADULTS
+
+Older adults are a subgroup of adults, and the age groups of older adults may be
+described with adjectives. On first reference to a group of older people, be as
+specific as possible by including the age range, average age, and median age, when
+available.
+
+These terms, sometimes described as "othering" terms, can connote a stereotype
+and suggest that members of the group are not part of society but rather a group
+apart.
+
+Do not use these stigmatizing terms in your writing even if your participants use
+them to refer to themselves. Likewise, avoid negativistic and fatalistic attitudes
+toward aging, such as age as being an obstacle to overcome.
+
+Be sure your language conveys that aging is a normal part of the human experience
+and is separate from disease and disorder.
+
+When contrasting older adults with adults of other ages, describe that other age
+group specifically (e.g., young adults vs. older adults, middle-aged adults vs. older
+adults). You can use decade-specific descriptors if desired (e.g., octogenarian,
+centenarian). Generational descriptors such as "baby boomers," "Gen X,"
+"millennials," "centennials," "Gen Z," and so on should be used only when discussing
+studies related to the topic of generations.
+
+EXAMPLE: SPECIFIC TERMS FOR OLDER ADULTS
+
+Many of the terms to avoid perpetuate stereotypes about age and aging. "Seniors"
+and "senior citizens" are not uniformly recognized groups, so be specific about the
+age when possible.
+
+Use precise language, provide information about age range, mean, and median.
+This recognizes that older adults are diverse individuals.
+
+EXAMPLE: DISCUSSION OF SOCIAL SECURITY AND MEDICARE
+
+Social security and Medicare recipients or beneficiaries are not a specific age
+group because social security can begin at different ages and individuals with
+certain disabilities may receive social security and/or Medicare benefits.
+
+EXAMPLE: DEMENTIA
+
+Do not use language that implies that all older adults are experiencing perceptual
+or cognitive decline or have health problems, or that all older adults are frail.
+"Senile" is an outdated term with no agreed-upon meaning.
+
+DISABILITY
+
+The language to use where disability is concerned is evolving. The
+overall principle for using disability language is to maintain the
+integrity (worth and dignity) of all individuals as human beings
+wherever possible.
+
+Authors who write about disability are encouraged to use terms and
+descriptions that both honor and explain person-first and identity-first
+perspectives.
+
+Language should be selected with the understanding that the expressed
+preference of people with disabilities regarding identification supersedes matters
+of style.
+
+The members of some groups of people with disabilities—effectively subcultures
+within the larger culture of disability—have particular ways of referring to
+themselves that they would prefer others to adopt. When you use the disability
+language choices made by groups of disabled individuals, you honor their
+preference. Honoring the preference of the group is not only a sign of professional
+awareness and respect for any disability group but also a way to offer solidarity.
+
+As with other groups, insiders in disability culture may use negative and
+condescending terms with one another. It is not appropriate for an outsider
+(nondisabled person) to use these terms.
+
+PERSON-FIRST VS IDENTITY-FIRST APPROACHES
+
+In person-first language, the person is emphasized, not the individual's disabling or
+chronic condition. For example, use "a person with paraplegia" and "a youth with
+epilepsy" rather than "a paraplegic" or "an epileptic."
+
+This principle applies to groups of people as well. Use "people with substance use
+disorders" or "people with intellectual disabilities" rather than "substance abusers"
+or "the mentally retarded."
+
+In identity-first language, the disability becomes the focus, which allows the
+individual to claim the disability and choose their identity rather than permitting
+others (authors, educators, researchers) to name it or to select terms with negative
+implications.
+
+Identity-first language is often used as an expression of cultural pride and a
+reclamation of a disability that once conferred a negative identity. This type of
+language allows for constructions such as "blind person," "autistic person," and
+"amputee," whereas in person-first language, the constructions would be "person
+who is blind," "person with autism," and "person with an amputation," respectively.
+
+Both person-first and identity-first approaches to language are designed to respect
+disabled persons; both are fine choices overall. It is permissible to use either
+approach or to mix person-first and identity-first language until you know that a
+group clearly prefers one approach, in which case, you should use the preferred
+approach.
+
+AVOID NEGATIVE AND CONDESCENDING TERMINOLOGY
+
+Avoid language that uses pictorial metaphors or negativistic terms that imply
+restriction and that uses excessive and negative labels. 
+
+Also avoid terms that can be regarded as slurs in favor of person-first approaches
+as well. 
+
+Labels such as "high functioning" or "low functioning" are ineffective in describing
+the nuances of an individual's experience with a developmental and/or intellectual
+disability. Specifying the individual's strengths and weaknesses is more precise and
+focuses on the individual person.
+
+Avoid euphemisms when describing individuals with disabilities (e.g., "physically
+challenged," "handi-capable"). Many people with disabilities consider these terms
+patronizing or condescending.
+
+When writing about populations or participants with disabilities, emphasize both
+capabilities and concerns to avoid reducing them to a "bundle of deficiencies."
+
+Both "patients" and "clients" are appropriate within the context of a health care
+setting.
+
+INCLUSIVE LANGUAGE FOR MENTAL HEALTH CONDITIONS
+
+Choosing precise language when writing about mental health is especially
+important because there has long been a stigma associated with discussing mental
+health (not to mention seeking treatment or behavioral healthcare).
+
+Many casual terms associated with mental health conditions exacerbate that
+stigma by painting mental health conditions in their worst light, ignoring the range
+of recovery stages associated with mental healthcare, and implying judgment of
+people who have been diagnosed with mental health issues. Terms in this category
+include:
+Psycho(tic)
+Nuts
+Insane
+Schizo(phrenic)
+Loony
+Crazy
+
+Person-first approaches are best when describing people who have been
+diagnosed with mental health conditions; use terms like "Person with a mental
+health condition" or "person experiencing hallucinations."
+
+Other guidelines to keep in mind when discussing mental health:
+Don't equate diagnosis with identity
+Emphasize abilities over limitations
+Avoid implying that recovery is an anomaly
+Be precise in avoiding use of mental health conditions as negatives
+Stay away from sensationalizing mental illnesses
+
+SUICIDE
+
+Suicide is a sensitive topic, and it's important to avoid equating suicide as a crime
+or something that can be a failure or success. Instead, use nonjudgmental language
+such as "they died by suicide" or "they attempted to take their own life."
+
+
+EXAMPLE: MENTAL HEALTH CONDITIONS
+
+Start with person-first language. Don't equate diagnosis with identity, imply that
+recovery is an anomaly, or sensationalize mental illness. Be precise in avoiding use
+of mental health conditions as negatives.
+
+GENDER
+
+The terms related to gender and sex are often conflated, making
+precision essential to writing about gender and/or sex without bias.
+The language related to gender identity and sexual orientation has also
+evolved rapidly, and it is important to use the terms people use to
+describe themselves.
+
+GENDER VS SEX
+
+Using "gender" instead of "sex" also avoids ambiguity over whether "sex" means
+"sexual behavior." In some cases, there may not be a clear distinction between
+biological and acculturative factors, so a discussion of both sex and gender would
+be appropriate.
+
+GENDER IDENTITY
+
+Gender identity applies to all individuals and is not a characteristic only of
+transgender or gender-nonconforming individuals. Gender identity is distinct from
+sexual orientation, so be careful not to confuse the two. For example, a gay
+transgender man has a masculine gender identity and a gay sexual orientation, and
+a straight cisgender woman has a feminine gender identity and a straight sexual
+orientation. Precise language clarifies this distinction.
+
+CISGENDER(ISM)
+
+Cisgenderism or cissexism refers to the belief that being cisgender is inherently
+correct, as indicated by the assumption that individuals are cisgender unless
+otherwise specified. Genderism refers to the belief that there are only two genders
+and that gender is automatically linked to an individual's sex assigned at birth.
+
+DESCRIBING GENDER: TRANSGENDER AND GENDER-NONCONFORMING PEOPLE
+
+Individuals whose gender varies from presumptions based on their sex assigned at
+birth may use terms other than "transgender" to describe their gender, including
+"gender-nonconforming," "genderqueer," "gender-nonbinary," "gender-creative,"
+"agender," or "two-spirit." (Note that "two-spirit" is a term specific to Indigenous
+and Native American communities.)
+
+Diverse identity terms are used by transgender and gender-nonconforming (TGNC) people, and "TGNC" is a generally agreed-upon umbrella term. These terms are generally used in an identity-first way (e.g., "transgender people," "TGNC people").
+
+Be sure to use identity labels that are in accordance with the stated identities of
+the people you are describing, and clearly define how you are using such identity
+labels within your writing.
+
+DESCRIBING GENDER: SEX ASSIGNMENT
+
+The terms "birth sex" and "natal sex," are considered disparaging by scholars in
+TGNC psychological research, by many individuals who are transgender, gender-
+nonconforming, or nonbinary, and by intersex people. Additionally, "birth sex" and
+"natal sex" imply that sex is an immutable characteristic without sociocultural
+influence.
+
+It is more appropriate to use "assigned sex" or "sex assigned at birth," as this
+functionally describes the assignment of a sex term (frequently binary male or
+female; however, intersex is an accurate assignment for some) predicated on
+observation of genitalia and/or determination of chromosomes and anatomical
+structures of the body at birth, which necessarily is interpreted within a
+sociocultural context.
+
+"Tranny" and "transvestite" are similarly considered disparaging and should be
+avoided. The term "transsexual" is largely outdated, but some people identify with
+it; this term should be used only for an individual who specifically claims it.
+
+DESCRIBING GENDER: NOUN USAGE
+
+Refer to all people, including transgender people, by the name they use to refer to
+themselves, which may be different from their legal name or the name on their
+birth certificate, keeping in mind provisions for respecting confidentiality.
+
+Likewise, to reduce the possibility of stereotypic bias and avoid ambiguity, only use
+"male" and "female" as adjectives (e.g., a male participant, a female experimenter)
+when appropriate and relevant. When possible, use specific nouns to identify
+people or groups of people (e.g., women, men, transgender men, trans men,
+transgender women, trans women, cisgender women, cisgender men, gender-fluid
+people).
+
+Two important exceptions for using "male" and "female" as nouns are when the age
+range is broad or ambiguous or to identify a transgender person's sex assignment
+at birth. (That is, "person assigned female at birth" is correct, not "person assigned
+girl at birth.") Otherwise, avoid using "male" and "female" as nouns and instead use
+the specific nouns for people of different ages.
+
+Avoid gendered endings such as "man" in occupational titles, as these can be ambiguous and may
+imply incorrectly that all persons in the group are one gender. These substitutions
+are often simple.
+
+DESCRIBING GENDER: THE SINGULAR "THEY"
+
+Pronoun usage requires specificity and care on the author's part, in part because
+pronouns associated with a specific gender have been found to induce readers to
+think of individuals of that gender even when the pronoun use is intended to be
+generic. Indeed, exposure to gender-specific language in a professional context has
+been linked with a lower sense of belonging and reduced motivation for individuals
+who do not identify with that gender.
+
+When writers use the singular "they," it reduces bias in the way that readers
+perceive the individuals referred to in the text and thereby helps ensure that
+readers do not feel ostracized by that text.
+
+When writing about a known individual, use that person's identified pronouns.
+Some individuals use "they" as a singular pronoun; some use alternative pronouns
+such as "ze," "xe," "hir," "per," "ve," "ey," and "hen" (a Swedish gender-neutral
+pronoun), among others. Some individuals may alternate between "he" and "she" or
+between "he and/or she" and "they," whereas others use no pronouns at all and use
+their name in place of pronouns.
+
+Refer to a transgender person using language appropriate to the person's gender,
+regardless of sex assigned at birth—for example, use the pronouns "he," "him," and
+"his" in reference to a transgender man who indicates use of these pronouns.
+
+When referring to individuals whose identified pronouns are not known or when
+the gender of a generic or hypothetical person is irrelevant within the context, use
+the singular "they" to avoid making assumptions about an individual's gender. This
+includes using the forms "they," "them," "theirs," and so forth.
+
+Bias can occur when pronouns are used carelessly, as when the pronoun "he" is
+used to refer to all people, or when a gendered pronoun is used exclusively to
+define roles by sex (e.g., "the nurse . . . she").
+
+Alternatives for the singular "they" often fall short, such as when writers try
+alternating "he" and "she" in an attempt to use both terms as generic terms for
+gender. Other combinations such as "he or she," "she or he," "he/she," and "(s)he"
+likewise end up being confusing or awkward for readers. Their imprecise nature
+also maintains bias toward binary constructions of gender and exclude individuals
+who don't use these pronouns. However, the combinations "he or she" or "she or
+he" (but not the combinations with slashes or parentheses) can be used sparingly if
+all people being referred to by the pronouns use these.
+
+DESCRIBING GENDER: AVOIDING TERMS THAT IMPLY BINARIES
+
+Referring to one sex or gender as the "opposite sex" or "opposite gender" implies
+strong differences between two sexes or genders. Instead, use "another sex" or
+"another gender," especially since there are more similarities than differences
+among people of different genders or sexes.
+
+As noted previously, some individuals do not identify with either binary gender,
+and these phrases ignore the existence of individuals who have disorders or
+differences of sex development or who are intersex.
+
+Use the phrases "same gender" or "same sex" when the partners have the same gender or sex.
+
+Do not use "man" to refer to all human beings; many more inclusive terms are
+available.
+
+Use a gender-neutral term to avoid implying that all people in that role are of a
+particular gender.
+
+RACIAL AND ETHNIC IDENTITY
+
+Terms used to refer to racial and ethnic groups continue to change
+over time. One reason for this is simply personal preference; preferred
+terms are as varied as the people they name. Another reason is that
+these words can become dated over time and may hold negative
+connotations.
+
+THE DIFFERENCE BETWEEN RACE AND ETHNICITY
+
+For example, people might identify their race as Aboriginal, African
+American or Black, Asian, European American or White, Native American, Native
+Hawaiian or Pacific Islander, Māori, or some other race.
+
+For example, people might identify as Latino or another
+ethnicity.
+
+Be clear about whether you are referring to a racial group or to an ethnic group.
+Race is a social construct that is not universal, so one must be careful not to impose
+racial labels on ethnic groups. Whenever possible, use the terms that your
+participants themselves use.
+
+For example, instead of categorizing participants as Asian American or Hispanic
+American, you could use more specific labels that identify their nation or region of
+origin, such as Japanese American or Cuban American. Use commonly accepted
+terms (census categories work here) while being sensitive to individuals' preferred
+vocabulary.
+
+WRITING ABOUT "MINORITIES"
+
+To refer to non-White racial and ethnic groups collectively, use terms such as
+"people of color" or "underrepresented groups" rather than "minorities." The use of
+"minority" may be viewed as pejorative because it is usually equated with being
+less than, oppressed, or deficient in comparison with the majority.
+
+"Minority" may also simply be inaccurate: a minority group is a population
+subgroup with ethnic, racial, social, religious, or other characteristics different
+from those of the majority of the population and therefore should only be
+considered if accurate and precise. If a distinction is needed between the dominant
+racial group and nondominant racial groups, use a modifier (e.g., "ethnic," "racial")
+when using the word "minority" (e.g., ethnic minority, racial minority, racial-ethnic
+minority). When possible, use the specific name of the group or groups to which
+you are referring. This way, you are emphasizing the precise use of "minority"
+rather than the implications or connotations of the word.
+
+You'll note this guide suggests "underrepresented" rather than "underprivileged."
+Again, this is about precision: not all members of these groups are underprivileged.
+Underprivileged means having less money, education, resources, and so forth than
+the other people in a society and may refer to individuals or subgroups in any racial
+or ethnic group. Terms such as "economically marginalized" and "economically
+exploited" may be appropriate in certain contexts. Whenever possible, use more
+specific terms (e.g., "schools with majority Black populations that are
+underfunded") or refer to discrimination or systematic oppression as a whole.
+
+SPELLING AND CAPITALIZATION OF RACIAL AND ETHNIC TERMS
+
+Racial and ethnic groups are designated by proper nouns and are capitalized.
+Therefore, use "Black" and "White" instead of "black" and "white" (do not use colors
+to refer to other human groups; doing so is considered pejorative). Likewise,
+capitalize terms such as "Native American," "Hispanic," and so on. Capitalize
+"Indigenous" and "Aboriginal" whenever they are used.
+
+Capitalize "Indigenous People" or "Aboriginal People" when referring to a specific
+group (e.g., the Indigenous Peoples of Canada), but use lowercase for "people"
+when describing persons who are Indigenous or Aboriginal (e.g., "the authors were
+all Indigenous people but belonged to different nations").
+
+Do not use hyphens in multi word names, even if the names act as unit modifiers
+(e.g., write "Asian American participants," not "Asian-American participants"). If
+people belong to multiple racial or ethnic groups, the names of the specific groups
+are capitalized, but the terms "multiracial," "biracial," "multi-ethnic," and so on are
+lowercase.
+
+AVOID ESSENTIALISM
+
+Language that essentializes or reifies race is strongly discouraged. For example,
+phrases such as "the Black race" and "the White race" seek to boil groups down to
+generalizations, portray all members of groups as identical, and often perpetuate
+stereotypes.
+
+TERMS FOR SPECIFIC GROUPS
+
+These examples are not exhaustive; this is a complex topic!
+
+PEOPLE OF AFRICAN ORIGIN
+
+When writing about people of African ancestry, several factors inform the
+appropriate terms to use. People of African descent have widely varied cultural
+backgrounds, family histories, and family experiences.
+
+Some will be from Caribbean islands, Latin America, various regions in the United
+States, countries in Africa, or elsewhere. Some American people of African
+ancestry prefer "Black," and others prefer "African American"; both terms are
+acceptable. However, "African American" should not be used as an umbrella term
+for people of African ancestry worldwide because it obscures other ethnicities or
+national origins, such as Nigerian, Kenyan, Jamaican, or Bahamian; in these cases
+use "Black."
+
+The terms "Negro" and "Afro-American" are outdated; therefore, their use is
+generally inappropriate.
+
+PEOPLE OF ASIAN ORIGIN
+
+When writing about people of Asian ancestry from Asia, the term "Asian" is
+appropriate; for people of Asian descent from the United States or Canada, the
+appropriate term is "Asian American" or "Asian Canadian," respectively. "AAPI"
+stands for "Asian American Pacific Islander" and can contextually be used in place
+of "Asian American."
+
+It is problematic to group "Asian" and "Asian American" as if they are synonymous.
+This usage reinforces the idea that Asian Americans are perpetual foreigners.
+"Asian" refers to Asians in Asia, not in the United States, and should not be used to
+refer to Asian Americans.
+
+The older term "Oriental" is primarily used to refer to cultural objects such as
+carpets and is pejorative when used to refer to people.
+
+To provide more specificity, "Asian origin" may be divided regionally. The
+corresponding terms (e.g., East Asian) can be used; however, refer to the specific
+nation or region of origin when possible.
+
+PEOPLE OF EUROPEAN ORIGIN
+
+When writing about people of European ancestry, the terms "White" and
+"European American" are acceptable. Adjust the latter term as needed for location,
+for example, "European," "European American," and "European Australian" for
+people of European descent living in Europe, the United States, and Australia,
+respectively.
+
+The use of the term "Caucasian" as an alternative to "White" or "European" is
+discouraged because it originated as a way of classifying White people as a race to
+be favorably compared with other races.
+
+As with all discussions of race and ethnicity, it is preferable to be more specific
+about regional (e.g., Southern European, Scandinavian) or national (e.g., Italian,
+Irish, Swedish, French, Polish) origin when possible.
+
+PEOPLE OF MIDDLE EASTERN ORIGIN
+
+When writing about people of Middle Eastern and North African (MENA) descent,
+state the nation of origin (e.g., Iran, Iraq, Egypt, Lebanon, Israel) when possible.
+
+In some cases, people of MENA descent who claim Arab ancestry and reside in the
+United States may be referred to as "Arab Americans." In all cases, it is best to allow
+individuals to self-identify.
+
+PEOPLE OF HISPANIC OR LATINX ETHNICITY
+
+When writing about people who identify as Hispanic, Latino (or Latinx, etc.),
+Chicano, Tejano, or another related designation, authors should consult with their
+participants to determine the appropriate choice.
+
+"Hispanic" is not necessarily an all-encompassing term, and the labels "Hispanic"
+and "Latino" have different connotations. The term "Latino" (and its related forms)
+might be preferred by those originating from Latin America, including Brazil. Some
+use the word "Hispanic" to refer to those who speak Spanish; however, not every
+group in Latin America speaks Spanish (e.g., in Brazil, the official language is
+Portuguese). The word "Latino" is gendered (i.e., "Latino" is masculine and "Latina"
+is feminine), but "Latine" or "Latinx" can be used as a gender-neutral or nonbinary
+term inclusive of all genders.
+
+There are compelling reasons to use any of these terms, and various groups
+advocate for the use of different forms. As always, use the terms that the people
+you are writing about use to refer to themselves. If you are not working directly
+with this population but it is a focus of your research, it may be helpful to explain
+why you chose the term you used or to choose a more inclusive term like "Latinx."
+
+In general, naming a nation or region of origin is preferred (e.g., Bolivian,
+Salvadoran, or Costa Rican is more specific than Latino, Latinx, Latin American, or
+Hispanic).
+
+INDIGENOUS PEOPLES AROUND THE WORLD
+
+In North America: the collective terms "Native American" and "Native North
+American" are acceptable (and may be preferred to "American Indian"). "Indian"
+usually refers to people from India. Specify the nation or people if possible (e.g.,
+Cherokee, Navajo, Sioux). Hawaiian Natives may identify as "Native American,"
+"Hawaiian Native," "Indigenous Peoples of the Hawaiian Islands," and/or "Pacific
+Islander."
+
+In Canada: refer to the Indigenous Peoples collectively as "Indigenous Peoples" or
+"Aboriginal Peoples"; specify the nation or people if possible (e.g., People of the
+First Nations of Canada, People of the First Nations, or First Nations People;
+Métis; Inuit).
+
+In Alaska: the Indigenous People may identify as "Alaska Natives." The Indigenous
+Peoples in Alaska, Canada, Siberia, and Greenland may identify as a specific nation
+(e.g., Inuit, Iñupiat). Avoid the term "Eskimo" because it may be considered
+pejorative.
+
+In Latin America and the Caribbean: refer to the Indigenous Peoples collectively as
+"Indigenous Peoples" and by name if possible (e.g., Quechua, Aymara, Taíno,
+Nahuatl).
+
+In Australia: the Indigenous Peoples may identify as "Aboriginal People" or
+"Aboriginal Australians" and "Torres Strait Islander People" or "Torres Strait Island
+Australians." Refer to specific groups when people use these terms to refer to
+themselves (e.g., Anangu Pitjantjatjara, Arrernte).
+
+In New Zealand: the Indigenous People may identify as "Māori" or the "Māori
+people" (the proper spelling includes the diacritical macron over the "a").
+
+EXAMPLE: DESCRIPTION OF AFRICAN AMERICAN OR BLACK PEOPLE
+
+"Afro-American" and "Negro" have become dated; therefore, usage of these terms
+generally is inappropriate. Specify region or nation of origin when possible to avoid
+the impression that all people of African descent have the same cultural
+background, family history, or family experiences. Note that "Black" is appropriate
+rather than "African American" to describe people of African descent from various
+national origins (e.g., Haitian, Nigerian).
+
+EXAMPLE: DESCRIPTION OF ASIAN AMERICAN OR ASIAN PEOPLE
+
+"Orientals" is considered pejorative; use "Asian" for people from Asia, "Asian
+American" for people of Asian descent in North America, or be more specific by
+providing nation and region of origin (Japanese, Chinese, Vietnamese, etc.).
+
+EXAMPLE: DESCRIPTION OF INDIGENEOUS PEOPLE
+
+Native peoples of northern Canada, Alaska, eastern Siberia, and Greenland may
+prefer "Inuk" ("Inuit" for plural) to "Eskimo." Alaska Natives include many groups in
+addition to Eskimos. "Indigenous Peoples" may be used when the broader
+designation is appropriate.
+
+SEXUAL ORIENTATION
+
+Use the term "sexual orientation" rather than "sexual preference,"
+"sexual identity," or "sexual orientation identity" so as to avoid
+confusion with gender identity.
+
+CONCEPTUALIZING SEXUAL ORIENTATION
+
+For people who identify as sexual or demisexual, their attraction then may be
+directed toward people who are similarly gendered, differently gendered, and so
+on. That is, sexual orientation indicates the gendered directionality of attraction,
+even if that directionality is very inclusive (that is, nonbinary). Thus, a person might
+be attracted to men, women, both, neither, masculinity, femininity, and/or to
+people who have other gender identities such as genderqueer or androgynous, or a
+person may have an attraction that is not predicated on a perceived or known
+gender identity.
+
+TERMS FOR SEXUAL ORIENTATION
+
+Some examples of sexual orientation are lesbian, gay, heterosexual, straight,
+asexual, bisexual, queer, polysexual, and pansexual (also called multisexual and
+omnisexual). For example, a person who identifies as lesbian might describe herself
+as a woman (gender identity) who is attracted to women (sexual orientation)—the
+sexual orientation label of "lesbian" is predicated on a perceived or known gender
+identity of the other person. However, someone who identifies as pansexual might
+describe their attraction to people as being inclusive of gender identity but not
+determined or delineated by gender identity. Note that these definitions are
+evolving and that self-identification is best when possible.
+
+Use the umbrella term "sexual and gender minorities" to refer to multiple sexual
+and/or gender minority groups, or write about "sexual orientation and gender
+diversity" (these terms are used by the Office on Sexual Orientation and Gender
+Diversity at APA and the Sexual & Gender Minority Research Office at the
+National Institutes of Health).
+
+Abbreviations such as LGBT+, LGBTQ, LGBTQ+, LGBTQIA, and LGBTQIA+ may
+also be used to refer to multiple groups. There is no strong consensus about which
+abbreviation including or beyond LGBTQ to use. If you use the abbreviation
+LGBTQ (or a related one), define it and ensure that it is representative of the
+groups about which you are writing.
+
+Be specific about the groups to which you refer (e.g., do not use LGBTQ and related
+abbreviations to write about legislation that primarily affects transgender people;
+instead, specify the impacted group). However, if in doubt, use one of the umbrella
+terms rather than a potentially inaccurate abbreviation.
+
+When using specific terms for orientations, define them if there is ambiguity. For
+example, the adjective "gay" can be interpreted broadly, to include all genders, or
+more narrowly, to include only men, so define "gay" when you use it in your paper,
+or use the phrase "gay men" to clarify the usage. By convention, the term "lesbians"
+is appropriate to use interchangeably with "lesbian women," but "gay men" or "gay
+people" should be used, not "gays."
+
+INACCURATE OR PEJORATIVE TERMS
+
+Avoid the terms "homosexual" and "homosexuality." Instead, use specific, identity-
+first terms to describe people's sexual orientation (e.g., bisexual people, queer
+people). These specific terms refer primarily to identities and to the culture and
+communities that have developed among people who share those identities. It is
+inaccurate to collapse these communities into the term "homosexual."
+
+Furthermore, the term "homosexuality" has been and continues to be associated
+with negative stereotypes, pathology, and the reduction of people's identities to
+their sexual behavior.
+
+Homoprejudice, biprejudice, homonegativity, and so forth are terms used to
+denote prejudicial and discriminatory attitudes toward lesbians, gay men, bisexual
+individuals, or other sexual minorities. Heterosexism refers to the belief that
+heterosexuality is inherently correct, as indicated in the assumption that
+individuals are heterosexual unless otherwise specified.
+
+The terms "straight" and "heterosexual" are both acceptable to use when referring
+to people who are attracted to individuals of another gender; the term "straight"
+may help move the lexicon away from a dichotomy of heterosexual and
+homosexual.
+
+POTENTIALLY CONFLICTING GUIDELINES
+
+As mentioned elsewhere in this guide, rapidly evolving language, reappropriated
+language, and the general guideline "refer to people as they refer to themselves"
+can sometimes be at odds. For example, a group of lesbian women may
+interchangeably use "queer people" and "gays" to refer to themselves, but in the
+context of a written piece find one of these inappropriate (and not the other).
+Precision and definition are critical in these situations, but when in doubt, use
+more inclusive language and avoid using terms that other people - like your readers
+- may find problematic.
+
+EXAMPLE: USE OF "HOMOSEXUAL"
+
+Avoid use of "homosexual." Instead, specify the gender of participants. Note that
+the term "gay" may also be used to describe women or girls; specify its usage. The
+terminology will depend on the self-identification of the individuals being
+described.
+
+EXAMPLE: USE OF "HOMOSEXUALITY"
+
+Avoid the label "homosexuality," which has been and continues to be associated
+with negative stereotypes, pathology, and the reduction of people's identities to
+their sexual behavior. Use specific descriptors of "gay," "lesbian," and so forth only
+when these are known identifications; sexual orientation may be described by
+individuals using a multitude of descriptive self-identification labels (lesbian, gay,
+bisexual, pansexual, queer, and many others).
+
+EXAMPLE: DIFFERENTIATION OF SEXUAL ORIENTATION FROM SEXUAL BEHAVIOR
+
+Avoid confusing lesbian orientation with specific sexual behaviors.
+
+EXAMPLE: DIFFERENTIATION OF MARITAL STATUS
+
+The preferred example increases specificity and acknowledges that legal marriage
+is only one form of committed relationship. Marital status is sometimes not a
+reliable indicator of cohabitation (e.g., married couples may be separated), sexual
+activity, or sexual orientation.
+
+
+SOCIOECONOMIC STATUS
+
+Because SES is complex, there are not universal ways to reference it.
+Therefore, precise terminology that appropriately describes a level of
+specificity and sensitivity is essential to minimize bias in language.
+More specific, sensitive language helps writers avoid perpetuating
+stereotypes, pejorative terms, inaccurate implicit definitions and deficit
+based language.
+
+PEJORATIVE OR STEREOTYPING TERMS
+
+Avoid using broad, pejorative, and generalizing terms to discuss SES. Specifically,
+negative connotations are associated with terms such as "the homeless," "inner-
+city," "ghetto," "the projects," "poverty stricken," and "welfare reliant."
+
+Instead, use specific, person-first language such as "mothers who receive TANF
+benefits" rather than "welfare mothers" ("TANF" stands for "Temporary Assistance
+for Needy Families" and is the proper term for the current welfare program in the
+United States).
+
+When discussing people without a fixed, regular, or adequate nighttime residence,
+use specific language that addresses the quality or lack of housing or length of time
+without housing, not whether the people consider their residence a home.
+
+AVOIDING IMPLICIT DESCRIPTORS
+
+It is important to note that SES terms such as "low-income" and "poor" have
+historically served as implicit descriptors for racial and/or ethnic minority people.
+To avoid these connotations, include racial and/or ethnic descriptors within SES
+categories.
+
+Implicit biases around economic and occupational status can also lead to deficit-
+based language that blames individuals for their occupational, educational, or
+economic situation rather than recognizing a broader societal context that
+influences individual circumstances.
+
+DEFICIT-BASED LANGUAGE AND ADOPTING A STRENGTHS-BASED PERSPECTIVE
+
+Deficit-based language also focuses on what people lack rather than on what they
+possess.
+
+EXAMPLE: DESCRIPTION OF INCOME
+
+Many find the terms "low class" and "poor" pejorative. Use person-first language
+instead. Define income brackets and levels if possible.
+
+EXAMPLE: DESCRIPTION OF GOVERNMENT ASSISTANCE
+
+Use specific language that addresses the quality or lack of housing or length of
+time without housing rather than focusing on whether an individual considers a
+residence a home.
+
+Individuals can be precariously housed or experience chronic or transient
+homelessness. Avoid conflating social class and race or ethnicity by using coded
+language like "inner city," "projects," or "ghetto." Specify race or ethnicity and
+measures of socioeconomic standing separately.
+
+EXAMPLE: STRENGTHS-BASED PERSPECTIVES
+
+Avoid language that focuses on blaming the individual or on individual deficits;
+instead, focus on what people have, not what they lack. When comparing groups,
+use parallel terminology (e.g., people with a high school diploma vs. without a high
+school diploma or equivalent, not high-school dropouts vs. high-school graduates).

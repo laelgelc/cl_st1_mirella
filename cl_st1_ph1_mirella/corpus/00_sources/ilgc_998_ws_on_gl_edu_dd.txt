@@ -1,0 +1,350 @@
+Ableist
+Instead of | Consider using | Context
+
+addict | person with a substance use disorder | Using person-first language helps to not define people by just one of their characteristics.
+
+addicted | hooked, devoted | Trivializes the experiences of people who deal with substance abuse issues.
+
+basket case | nervous | Originally referred to one who has lost all four limbs and therefore needed to be carried around in a basket.
+
+blind review | anonymous review | Unintentionally perpetuates that disability is somehow abnormal or negative, furthering an ableist culture.
+
+blind study | masked study | Unintentionally perpetuates that disability is somehow abnormal or negative, furthering an ableist culture.
+
+committed suicide | died by suicide | Ableist language that trivializes the experiences of people living with mental health conditions.
+
+confined to a wheelchair | person who uses a wheelchair | Using person-first language helps to not define people by just one of their characteristics. Also, users of wheelchairs often find them to be an essential tool for their freedom instead of thinking of them as a prison.
+
+crazy | surprising/wild | Ableist language that trivializes the experiences of people living with mental health conditions.
+
+cripple (n), crippled (adj) | person with a disability | Ableist language that trivializes the experiences of people living with disabilities.
+
+crippled (v) | disabled, impaired or weakened | Unnecessarily equates the weakening of something with people living with disabilities.
+
+dumb | non-vocal, non-verbal | Once used to describe a person who could not speak and implied the person was incapable of expressing themselves.
+
+handicap parking | accessible parking | Ableist language that trivializes the experiences of people living with disabilities.
+
+handicapped | person with a disability | Using person-first language helps to not define people by just one of their characteristics.
+
+handicapped space | accessible space | Ableist language that trivializes the experiences of people living with disabilities.
+
+insane | surprising/wild | Ableist language that trivializes the experiences of people living with mental health conditions.
+
+lame | boring, uncool | Ableist language that can trivialize the experience of people living with disabilities.
+
+mentally ill | person living with a mental health condition | Using person-first language helps to not define people by just one of their characteristics.
+
+OCD | detail-oriented | Ableist language that trivializes the experiences of people living with mental health conditions.
+
+paraplegic | person with a spinal cord injury, person who is paralyzed | This term generalizes a population of people while also implying that people with disabilities are not capable.
+
+quadriplegic | person with a spinal cord injury, person who is paralyzed | This term generalizes a population of people while also implying that people with disabilities are not capable.
+
+retard (n) | person with a cognitive disability, person with autism, neurodivergent person | This term is a slur against those who are neurodivergent or have a cognitive disability.
+
+retarded (adj) | boring, uncool | This term is a slur against those who are neurodivergent or have a cognitive disability. It should not be used to make a point about a person, place or thing.
+
+sanity check | confidence check, coherence check, fact check | This term could be offensive to those dealing with mental health issues.
+
+spaz | clumsy | Ableist language that trivializes the experiences of people living with disabilities.
+
+stand up meeting | quick meeting | Ableist language that trivializes the experiences of people living with disabilities.
+
+tone deaf | unenlightened | Ableist language that trivializes the experiences of people living with disabilities.
+
+walk-in | drop-in, open office | Ableist language that trivializes the experiences of people living with disabilities.
+
+wheelchair bound | person who uses a wheelchair | Using person-first language helps to not define people by just one of their characteristics. Also, users of wheelchairs often find them to be an essential tool for their freedom instead of thinking of them as a prison.
+
+Ageism
+Instead of | Consider using | Context
+
+gray beard | the person's name | It calls out an older, and presumably more experienced, IT or cybersecurity person by referring to their age instead of their name.
+
+senile | person suffering from senility | This term is often used disparagingly to refer to older people whose mental faculties appear to be in decline.
+
+Colonialism
+Instead of | Consider using | Context
+
+Philippine Islands | Philippines or the Republic of the Philippines | The term is politically incorrect and denotes colonialism. Some people of Filipino heritage might use the term, though.
+
+Culturally Appropriative
+
+Instead of | Consider using | Context
+
+Brave (n) | none/do not use | This term perpetuates the stereotype of the "noble courageous savage," equating the Indigenous male as being less than a man.
+
+bury the hatchet | call for peace, call a truce | Using this term is cultural appropriation of a centuries-old tradition among some North American Indigenous Peoples who buried their tools of war as a symbol of peace.
+
+chief | the person's name | Calling a non-Indigenous person "chief" trivializes both the hereditary and elected chiefs in Indigenous communities. Calling an Indigenous person "chief" is a slur.
+
+Geronimo | none/only use when discussing the historical figure | Geronimo was a famous leader and medicine man whose name is used today as a caricature of the brave warrior, often during "macho" pursuits.
+
+guru | expert, subject matter expert (SME), primary, leader, teacher, guide | In the Buddhist and Hindu traditions, the word is a sign of respect. Using it casually negates its original value.
+
+low man on the totem pole | lacking seniority, don't have the power or prestige | Trivializes something that is sacred to Indigenous peoples. Also, in some First Nation communities, being low on the totem pole is actually a higher honor than being on top. The term also reinforces male-dominated language.
+
+on the warpath | mad, on the offensive | Cultural appropriation of a term that referred to the route taken by Indigenous people heading toward a battle with an enemy.
+Pocahontas | the person's name | This is a slur and should not be used to address an Indigenous woman unless that is her actual name.
+
+pow wow, powwow (verb) | meet, get together | Using this term in this manner demeans a term of cultural significance to Indigenous peoples.
+
+spirit animal | favorite animal, animal I most admire or would like to be | The term refers to an animal spirit that guides/protects one on a journey, so to equate it with an animal one likes is to demean the significance of the term.
+
+too many chiefs, not enough indians | a lack of clear direction, too many competing ideas | Trivializes the structure of Indigenous communities.
+
+tribal knowledge | institutional knowledge | This term trivializes the ancestral knowledge handed down through generations of Indigenous peoples.
+
+tribe | friends, network, family, support system | Historically used to equate Indigenous people with savages.
+
+Gender-Based
+
+Instead of | Consider using | Context
+
+"preferred" pronouns | pronouns | The word "preferred" suggests that non-binary gender identity is a choice and a preference.
+
+balls to the wall | accelerate efforts | Attributes personality traits to anatomy.
+ballsy | bold, risk-taker | Attributes personality traits to anatomy.
+
+chairman/chairwoman | chairperson, chair | Lumps a group of people using gender binary language, which doesn't include everyone.
+
+congressman/congresswoman | congressperson, legislator | Lumps a group of people using gender binary language, which doesn't include everyone.
+
+fireman/firemen | firefighter(s) | Lumps a group of people using masculine language and/or into gender binary groups, which don't include everyone.
+
+freshman | frosh, first-year student | Lumps a group of students using masculine language and/or into gender binary groups that don't include everyone.
+
+gentlemen | everyone | Lumps a group of people using masculine language and/or into gender binary groups, which don't include everyone.
+
+guys | folks, people, everyone | This term reinforces male-dominated language.
+have the balls to | bold, risk-taker | Attributes personality traits to anatomy.
+
+he | person's name or "they" | Unless you know the person you're addressing uses "he" as their pronoun, it is better to use "they" or to ask the person which pronouns they use.
+
+hermaphrodite (referring to a person) | intersex person | This term has historically been used as a slur against LGBTQ+ people.
+
+ladies | everyone | Lumps a group of people using gender binary language that doesn't include everyone.
+
+landlord/landlady | property owner | Lumps a group of people using gender binary language, which doesn't include everyone.
+
+mailman | mail person, postal carrier, letter carrier | Lumps a group of public servants using masculine language and/or into gender binary groups, which don't include everyone.
+man (verb) | staff | This term reinforces male-dominated language.
+
+man hours | person hours, effort hours, labor time | This term reinforces male-dominated language.
+
+man-in-the-middle | person-in-the-middle | This term reinforces male-dominated language.
+mankind | people, humankind, human beings | This term reinforces male-dominated language.
+manmade | made by hand | This term reinforces male-dominated language.
+
+manpower | workforce, staffing, staff resources, personnel resources | This term reinforces male-dominated language.
+
+policeman / policemen / policewoman / policewomen | police officer(s) | Lumps a group of people using gender binary language, which doesn't include everyone.
+
+seminal | leading, groundbreaking | This term reinforces male-dominated language.
+
+she | person's name or "they" | Unless you know the person you're addressing uses "she" as their pronoun, it is better to use "they" or to ask the person which pronouns they use.
+
+shemale | transgender woman, trans woman | This slur is often used disparagingly to refer to people who don't conform to gender expectations. Some in the community do identify with and self-describe as the term, though.
+
+tranny, trannie | transgender person, trans or non-gendering conforming folk | This slur is often used disparagingly to refer to people who don't conform to gender expectations. Some in the community do identify with and self-describe as the term, though.
+
+transgendered | transgender | This term avoids connections that being transgender is something that is done to a person and/or that some kind of transition is required.
+
+transsexual (unless used medically) | transgender person, trans or non-gendering conforming folk | This term has historically been used as a slur against LGBTQ+ people. Some in the community do identify with and self-describe as the term, though.
+
+you guys | folks, people, everyone | Lumps a group of people using masculine language and/or into gender binary groups, which don't include everyone.
+
+Imprecise Language
+
+Instead of | Consider using | Context
+
+abort | cancel/end | This term can unintentionally raise religious/moral concerns over abortion.
+American | US Citizen | This term often refers to people from the United States only, thereby insinuating that the US is the most important country in the Americas (which is actually made up of 42 countries).
+
+child prostitute | child who has been trafficked | Using person-first language helps to not define people by just one of their characteristics.
+
+circle the wagons | take a defensive position | Hollywood movies about settlers migrating west contributed greatly to the formation of this phrase, which means that "savages" are coming and a group of (White) people is about to be attacked. It also paints Indigenous Peoples as the aggressors.
+
+half-breed | person of multiple ethnicities | This term is generally considered to be a slur against those of mixed race. Some in the community do identify with and self-describe as the term, though.
+
+Hispanic | Latinx, use country of origin | Although widely used to describe people from Spanish-speaking countries outside of Spain, its roots lie in Spain's colonization of South American countries. Instead of referring to someone as Hispanic because of their name or appearance, ask them how they identify themselves first.
+
+Indian giver | person who takes something back that was given, one who expects an equivalent gift in return for one that was given | This term likely derives from misunderstandings about trade customs in early relationships between Indigenous people and White settlers. It is a slur that should not be used to describe anyone.
+
+Indian summer | late summer | This term infers that Indigenous people are chronically late. While it may be innocently used to describe a beautiful time of year, it could have an unintended negative impact on those who hear it.
+
+Karen | demanding or entitled White woman | This term is used to ridicule or demean a certain group of people based on their behaviors.
+
+Oriental | person of Asian descent. Better yet, use the specific cultural heritage (Chinese, Japanese, etc.) if known. | This term is seen as pejorative as it racializes people of Asian descent as forever opposite "others." (Occidental vs Oriental)
+
+peanut gallery | audience, hecklers or critics | This term refers to the cheapest and worst section in theaters where many Black people sat during the Vaudeville era.
+
+people of color (used generically) | BIPOC (Black, Indigenous, and People of Color) | If speaking about a specific group, name that group.
+
+straight | heterosexual | This term implies that anyone who is not heterosexual is bent or not "normal."
+
+stupid | boring, uncool | Once used to describe a person who could not speak and implied the person was incapable of expressing themselves.
+
+survivor | person who has experienced..., person who has been impacted by... | Using person-first language helps to not define people by just one of their experiences. If the person identifies with the term, then use it.
+
+tarbaby | difficult problem | This is a dismissive term for a Black person.
+
+thug | suspect or criminal | Although the term refers to a violent person or criminal, it often takes on a racist connotation when used in certain circles.
+
+user | client | While often associated with one who uses (software, systems, services), it can also negatively be associated with those who suffer from substance abuse issues or those who exploit others for their own gain.
+
+victim | person who has experienced..., person who has been impacted by... | Using person-first language helps to not define people by just one of their experiences. If the person identifies with the term, then use it.
+
+Institutionalized Racism
+
+Instead of | Consider using | Context
+
+barrio | specific name of neighborhood | The term indicates any socially segregated non-white neighborhood.
+
+black hat | malicious, criminal, unethical hacker | Assigns negative connotations to the color black, racializing the term.
+
+black mark | something that is held against one | Assigns negative connotations to the color black, racializing the term.
+
+black sheep (referring to a person) | outcast | Assigns negative connotations to the color black, racializing the term.
+
+blackballed | banned, denied | Assigns negative connotations to the color black, racializing the term.
+
+blackbox | hidden, mystery box, opaque box, flight recorder | Assigns negative connotations to the color black, racializing the term.
+
+blacklist/blacklisted | denylist/disallowed | Assigns negative connotations to the color black, racializing the term.
+
+brown bag | lunch and learn, tech talk | Historically associated with the "brown paper bag test" that certain Black sororities and fraternities used to judge skin color. Those whose skin color was darker than the brown bag were not allowed to join.
+
+cakewalk | easy, simple | Enslaved people covertly used exaggerated dance to mock their enslavers. This turned into "balls" that the White enslavers would hold for entertainment where the prize was a cake.
+
+gangbusters | very successful | Unnecessarily invokes the notion of police action against "gangs" in a positive light, which may have racial undertones.
+
+ghetto | use neighborhood's name | The term indicates any socially segregated non-white neighborhood.
+
+grandfather | legacy | This term has its roots in the "grandfather clause" adopted by Southern states to deny voting rights to Blacks.
+
+grandfathered | legacy status | This term has its roots in the "grandfather clause" adopted by Southern states to deny voting rights to Blacks.
+
+gray hat hacker | hacktivist | Hacker who exploits a weakness in cyber defense to bring the weakness to the attention of the owner, with the goal of improving security. This term combines black hat and white hat, which both hold racial connotations.
+
+master (adj) | primary, main | Historically, masters enslaved people, didn't consider them human and didn't allow them to express free will, so this term should generally be avoided.
+
+master (v) | become adept in | Historically, masters enslaved people, didn't consider them human and didn't allow them to express free will, so this term should generally be avoided.
+
+master list | list of record, canonical list | Historically, masters enslaved people, didn't consider them human and didn't allow them to express free will, so this term should generally be avoided.
+
+red team | cyber offense team | "Red" is often used disparagingly to refer to Indigenous peoples, so its use in this context could be offensive to some groups.
+
+scalper/scalping (referring to sales or trade) | reseller/opportunist | This term refers to the practice of removing a piece of an enemy's scalp with hair still attached. Although both colonizers and Indigenous Peoples performed the practice, it was used as proof of how savage the Natives were. Yet the colonizers were the ones who paid cash bounties for Native scalps, as has been documented in the United States, Canada and Mexico.
+
+Scrum Master | agile lead, scrum leader | Historically, masters enslaved people, didn't consider them human and didn't allow them to express free will, so this term should generally be avoided.
+
+slave (adj) | secondary, replica, worker | The historical context of this term involved oppression of a group of people who were enslaved, thought of as less than human and unable to exercise free will.
+
+slave labor | unfair work practices, underpaid, overworked | References a time when enslavement of people (in particular Black Americans) was allowed.
+
+sold down the river | betrayed | This term originally referred to a person who was enslaved who was sold as punishment.
+
+tarball | tar archive | While the term refers to an archive that has been created with the tar command, it can be negatively associated with the pejorative term tarbaby.
+
+to call a spade a spade/ calling a spade a spade | to call something what it is / calling something what it is | Although the term has its origins in Greek literature, the subsequent negative connotations with the word "spade" means that the phrase should be used with caution or not at all.
+
+uppity | arrogant, stuck up | Although the term originated in the Black community to describe another Black person who didn't know their socioeconomic place, it was quickly adopted by White Supremacists to describe any Black person who didn't act as "expected."
+
+webmaster, web master | web product owner | Historically, masters enslaved people, didn't consider them human and didn't allow them to express free will, so this term should generally be avoided.
+
+white hat hacker | ethical hacker | Assigns value connotations based on color (white = good), an act which is subconsciously racialized.
+
+white paper | position paper | Assigns value connotations based on color (white = good), an act which is subconsciously racialized.
+
+white team | cyber exercise cell | Assigns value connotations based on color (white = good), an act which is subconsciously racialized.
+
+whitebox | visible, clear box | Assigns value connotations based on color (white = good), an act which is subconsciously racialized.
+
+whitelist | allowlist | Assigns value connotations based on color (white = good), an act which is subconsciously racialized.
+
+whitespace | empty space | Assigns value connotations based on color (white = good), an act which is subconsciously racialized.
+
+yellow team | DevSecOps team | "Yellow" is often used disparagingly against people of Asian descent.
+
+Person-First
+
+Instead of | Consider using | Context
+
+convict | person who is/was incarcerated | Using person-first language helps to not define people by just one of their characteristics.
+
+disabled person | person with a disability | "Disabled person" implies that the disability defines a person, whereas "Person with a disability" gives the ownership of the disability to the person.
+
+homeless person | person without housing | Using person-first language helps to not define people by just one of their characteristics.
+
+immigrant | person who has immigrated, non-citizen | Using person-first language helps to not define people by just one of their characteristics.
+
+prisoner | person who is/was incarcerated | Using person-first language helps to not define people by just one of their characteristics.
+
+prostitute (n) | person who engages in sex work | Using person-first language helps to not define people by just one of their characteristics.
+
+Violent
+
+Instead of | Consider using | Context
+
+abusive relationship | relationship with an abusive person | The relationship doesn't commit abuse. A person does, so it is important to make that fact clear.
+
+beat(ing) a dead horse | refus(e/ing) to let something go | This expression normalizes violence against animals.
+
+crack the whip | double down, work hard(er), come down hard | Unnecessary use of violent imagery that paints the person being referred to as authoritarian or oppressive.
+
+go off the reservation | disagree with the group, defect from the group, go rogue, not think or function properly | This phrase is rooted in the violent removal of Indigenous people from their land and the horrible consequences for an Indigenous person who left the reservation. This phrase could also fit under the Cultural Appropriation category.
+
+kill(ing) two birds with one stone | accomplish(ing) two things at once | This expression normalizes violence against animals.
+
+killing it, killed it | doing a great job, did a great job | Doing a good job should not be equated with death. The term could also be triggering if someone close to the recipient actually was killed.
+
+more than one way to skin a cat | multiple ways to accomplish the task | This expression normalizes violence against animals.
+
+pull the trigger | give it a go, try | Unnecessarily uses violent imagery to encourage another person to do something.
+
+rule of thumb | standard rule, general rule | Although no written record exists today, this phrase is attributed to an old British law that allowed men to beat their wives with sticks no wider than their thumb.
+
+take a shot at, take your best shot at, take a stab at | give it a go, try | These terms represent the unnecessary use of the imagery of hurting someone or something.
+
+trigger warning | content note | The phrase can cause stress about what's to follow. Additionally, one can never know what may or may not trigger a particular person.
+war room | situation room | Unnecessary use of violent language.
+
+whipped into shape | organized, put in order | The phrase has its roots in the punishment of enslaved people to get them to follow the rules.
+
+wife beater (t-shirt) | white ribbed tank top, tank, undershirt | This phrase trivializes domestic violence by associating it with a piece of clothing.
+
+Additional Considerations
+These are terms that don't fit into the other categories but still are important enough to have attention drawn to them.
+
+Instead of | Consider using | Context
+
+African-American | Black | People who were born in the United States can interpret hyphenating their identity as "othering." As with many of the terms we're highlighting, some people do prefer to use/be addressed by this term, so it's best to ask a person which term they prefer to have used when addressing them. When used to refer to a person, the "b" should always be capitalized.
+
+circle the wagons | marshall forces, gather together | This phrase suggests an impending attack by the "savages" and should be avoided.
+
+gip (n) | Romani (if referring to a person of Romani descent) or cheat (if referring to someone who is dishonest) | This term is derived from "gypsy" and relates to the stereotype that Romani people are swindlers.
+
+gip (v) | cheat (if referring to what a dishonest person has done) | This term is derived from "gypsy" and relates to the stereotype that Romani people are swindlers.
+
+gyp (v), gypped (v) | to cheat (someone out of something), cheated/ripped off | These terms are derived from "gypsy" and relate to the stereotype that Romani people are swindlers.
+
+hick | uneducated or unsophisticated person | This term assumes that those who come from rural environments are uneducated and/or unsophisticated.
+
+hillbilly | person from the Appalachian or Ozark regions of the US | This is a derogatory term for someone based on the region in which they live or were born.
+
+hip-hip hurray, hip hip hooray | hooray | This term was used by German citizens during the Holocaust as a rallying cry when they would hunt down Jewish citizens living in segregated neighborhoods.
+
+hold down the fort | cover the role | This phrase stems from settlers and soldiers resisting "savages" when "on the warpath."
+
+Jewed | haggled down | This term is based on a stereotype that people of Jewish descent are cheap and/or hoard money.
+
+long time no see | I haven't seen you in so long! | This phrase was originally used to mock Indigenous peoples and Chinese who spoke pidgin English.
+
+no can do | I can't do it | Originated from stereotypes that mocked non-native English speakers.
+normal person | ordinary person, common person, conventional person | This phrase results in the "othering" of non-White people and those who live with disabilities, mental illness or disease as not being whole or regular.
+
+prostitute (v) | debase | Unnecessarily correlates corrupt or unworthy purposes with sex work.
+submit | process | Depending on the context, the term can imply allowing others to have power over you.
+

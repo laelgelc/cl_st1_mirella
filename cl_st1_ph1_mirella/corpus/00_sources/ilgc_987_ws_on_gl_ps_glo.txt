@@ -1,0 +1,50 @@
+
+Impaired (ie. hearing impaired/visually impaired, etc)
+While not every person who is deaf or blind takes issue with the term "impaired," it may be best to avoid. The Merriam-Webster dictionary defines "impaired" as "being in a less than perfect or whole condition: as disabled or functionally defective." 
+
+Important definitions and phrases to embrace
+
+Ableism
+Practices and dominant attitudes in society that assume there is an ideal body and mind that is better than all others
+
+Accessibility
+The practice of designing and developing web sites and web content that provide a great experience for all web users
+
+See below for writing-specific accessibility guidelines.
+And here are some of Sprout's more comprehensive accessibility guidelines.
+
+Ageism
+A system of beliefs, attitudes and actions that stereotype and discriminate against individuals or groups on the basis of their age
+
+Ally
+Someone who supports a group other than their own (in terms of racial identity, gender, faith identity, sexual orientation, etc.) Allies acknowledge disadvantage and oppression of other groups; take risks and action on the behalf of others; and invest in strengthening their own knowledge and awareness of oppression
+
+Affinity groups
+A group of people who choose to meet to explore a shared identity such as race, gender, age, religion, and sexual orientation. These groups can be further broken down into smaller groups within the two major affinities (i.e. women, LGBTQIA, non-binary, African American men/women, bi/multi-racial, etc.). At work these are sometimes called Employee Resource Groups, or ERGs
+
+Cisgender
+Individuals whose gender identity aligns with their birth assignment
+
+Dominant culture
+The cultural beliefs, values, and traditions that are centered and dominant in society's structures and practices. Dominant cultural practices are thought of as "normal" and, therefore, preferred and right. As a result, diverse ways of life are often devalued, marginalized and associated with low cultural capital. Conversely, in a multicultural society, various cultures are celebrated and respected equally.
+
+Inclusion
+A dynamic state of operating in which diversity is leveraged to create a fair, healthy and high-performing organization or community. An inclusive environment ensures equitable access to resources and opportunities for all. It also enables individuals and groups to feel safe, respected, engaged, motivated and valued, for who they are and for their contributions toward organizational and societal goals.
+
+LGBTQIA
+Acronym encompassing the diverse groups of lesbian, gay, bisexual, transgender, queer, intersex and asexual populations
+
+Avoid defaulting to umbrella terms like gay or homosexual. Use LGBTQIA to refer to a broad community or be specific when relevant: lesbian, gay man, bisexual woman, etc.
+
+When referring to the broader community, queer (as in queer people) or LGBTQIA (as in LGBTQIA people) is appropriate — gay, however, is not. LGBTQIA is only appropriate when referring to the broader community or groups of people, not when referring to individuals.
+
+POC
+An acronym standing for "person of color"
+
+Underrepresented group/under indexed group
+This term describes any subset of a population that holds a smaller percentage within a significant subgroup than it holds in the general population. Women are often an underrepresented group in science, technology, engineering, and mathematics, for example.
+
+Latinx (the gender-neutral form of Latino/a) is a descriptor of people who have ancestry from Latin America.
+
+Hispanic is a descriptor of people, nations and cultures that have a historical link to the Spanish language or the country of Spain.
+

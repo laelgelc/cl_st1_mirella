@@ -1,0 +1,131 @@
+Currently, the Committee is updating the sections on sex, gender, and sexual orientation. Guidance on language used to discuss age, socioeconomic status, and abilities, disabilities, conditions, and diseases will be updated in turn. Current guidance for reporting on sex and gender includes the following:
+
+- "Sex" should be used when reporting biological factors; "gender" should be used when reporting gender identity or psychosocial/cultural factors.
+- Explain methods used to obtain information on sex, gender, or both.
+- The distribution of study participants or samples should be reported in the Results section.
+- All categories should be reported, not just those that constitute the majority of the sample.
+- Avoid using sex- or gender-specific pronouns when irrelevant.
+- Use a person's identified pronouns if known; if unknown, the singular "they" may be used.
+- The terms "identified pronouns", "self-identified pronouns", and "pronouns" are suggested; avoid using "preferred" or "chosen" when referring to pronouns.
+- In non-research reports, choose sex-neutral terms that avoid bias, suit the material, and do not intrude on the reader's attention. Do not attempt to change all words with "man" to "person" (e.g., manhole). If possible, choose a sex-neutral equivalent such as "sewer hole".
+- Studies addressing pregnancy should follow these recommendations: If the gender identity of participants was not assessed, use the terms "pregnant participants", "pregnant individuals", "pregnant patients", etc, as appropriate.
+
+discussed that sexual orientation is different from gender or gender identity. The following guidelines for language discussing sexual orientation were shared:
+
+- Sexual orientation should be indicated in a manuscript only when scientifically relevant.
+- It is preferred to use sexual orientation terms as adjectives and not nouns (e.g., gay men, bisexual individuals, heterosexual women); however, it is acceptable to use "lesbian" as a noun or an adjective.
+- Inclusive abbreviations such as LGBTQ, LGBTQ+, and LGBTQIA, as well as other versions of this acronym, are acceptable, and are best for referring to groups. Individuals should be referred to by their specific sexual orientation, when relevant.
+
+The following guidelines on age were shared:
+
+- Individuals and groups can be described by the age range of the group (e.g., participants younger than 21 years, adults aged 20 to 64 years).
+- Collective terms can be used if the age range is described at first mention (e.g., younger patients, older adults, etc).
+- Avoid terms that could be considered ageist or connote discrimination or a negative stereotype (e.g., senior citizens, the elderly, etc).
+
+Additionally, shared the following guidelines on language regarding socioeconomic status (SES):
+
+- Avoid labelling people with their SES 
+- When referring to countries, the terms "limited-income", "low-income", "resource-limited", "resource-poor", and "transitional" are preferred.
+- Avoid the terms "first/third world" and "developed/developing" when describing or comparing countries or regions.
+
+Lastly, shared the following guidelines on discussing patient conditions, diseases, abilities, and disabilities:
+
+- Avoid labelling people with their disabilities or diseases (e.g., the blind, schizophrenics).
+- Person-first language is generally preferred; however, identity-first language is preferred when discussing autism or deafness.
+- Avoid describing persons as "victims" or with other emotional terms that describe helplessness (e.g., afflicted with, suffering from).
+- Avoid euphemistic descriptors (e.g., physically challenged, special, special needs).
+
+The updated guidelines on race and ethnicity terms have been added to the Inclusive Language section of the AMA Manual of Style: A Guide for Authors and Editors, have been published in JAMA,2 are linked to from all JAMA Network journals' Instructions for Authors, and are available as a free PDF on the AMA Manual of Style website.3 Plans are in place to update the additional inclusive language sections.
+
+General principles for avoiding bias (provided by the American Psychological Association).
+
+1. Describe people at the appropriate level of specificity. Focus on relevant characteristics.
+
+General (any person): person, individual, human
+More specific (e.g., age): adult, adolescent, teen, youth; child; infant, newborn
+Even more specific (e.g., age and gender): woman, man, nonbinary adult; female teen, male adolescent, nonbinary youth; girl, boy, transgender child
+
+2. Be sensitive to labels: Call people what they call themselves (when appropriate).
+
+Use person-first language: person with Down syndrome; person with substance use disorder
+Use identity-first language: blind person; autistic person
+Avoid nouning: the mentally retarded; the elderly
+Avoid euphemisms and fatalistic language: "special needs"; "confined to a wheelchair"
+
+Next,the American Chemical Society (ACS) spoke about the ACS Inclusivity Style Guide. This was developed by a cross-organizational team and was based on resources from journalistic groups, advocacy organizations, and the people ACS wants to write about. In addition to being available for free online, the guide is an Open Access chapter in the ACS Guide to Scholarly Communication.
+
+The ACS Inclusivity Style Guide is meant to guide decisions around language and images and help ACS meet its strategic goal to embrace and advance inclusion in chemistry. Its sections include general guidelines, language for specific topics and formats, guidelines for images, basic guidelines on accessibility, and related resources, such as documents to practice using inclusive language and images. discussed the following general guidelines:
+
+- Involve a diverse group of people. She advised that communicators trying to create a diverse team should avoid putting people on the spot. Other pitfalls to avoid include treating team members as spokespeople for a particular identity and asking someone's opinion only as it relates to their identity.
+
+- Be appropriately specific. Being too general can ignore important differences within a group, but being too narrow can exclude people. Try to name the groups you are talking about (e.g., "Black, Hispanic, and Indigenous people").
+
+- Ask people how they want to be described and follow through. The ability to choose self-descriptors is powerful, and using the language people ask you to use shows respect. If you can not ask the individual or group, seek advice from organizations that advocate for the identity you are trying to describe.
+
+- Recognize when to include personal information—it should be included only when relevant. Ask yourself if you are doing it evenly for everyone you are talking about or if the wording you are using implies an outlier (e.g., "male nurse").
+
+- Recognize and avoid words that assume a cultural norm or a universal standard (e.g., "exotic"). Look for idioms, consider your audience, and be as specific as appropriate.
+
+- Recognize when to use "diverse". The term should not be used with "person" or to mean "underrepresented" or "not dominant"; rather, it should be used to describe something that contains elements that differ from one another.
+
+finished by stating that it is important to commit to continuous learning, as language and people's preferences change.
+
+Next, Senior Director of American Psychological Association (APA) Style, spoke about the APA's approach to inclusive language in scientific style guides. She shared the history of inclusive language at APA: APA Style was founded in 1929, and in 1977 guidance to avoid sexist language was introduced. Guidance has been added and updated multiple times since then, with the comprehensive bias-free language guidelines first being introduced in 1994 and an inclusive language guide being published in 2021, with a revision expected later this year. The APA works with numerous committees and advocacy groups to develop the guidelines.
+
+then spoke about the APA's two main principles for avoiding bias: (1) describe people at the appropriate level of specificity and focus on relevant characteristics, and (2) be sensitive to labels and call people what they call themselves, when appropriate (Figure).
+
+Next, provided additional detail regarding the topics covered in the inclusive language guidelines. In terms of age, use terms that show aging is a normal part of the human experience, separate from disease and disorder and not an obstacle to be overcome. Decade-specific (e.g., octogenarian) and generational descriptors (e.g., millennials) are appropriate. When discussing disability, both person-first and identity-first language convey respect for disabled persons—use the approach that the person or group prefers. Avoid euphemistic language or statements like "such an inspiration".
+
+Gender-inclusive language should be used when gender is irrelevant. Avoid assuming gender or a gender binary; "female" and "male" should be used as adjectives. 
+
+and avoid gendered occupational terms. In terms of pronouns, use a person's identified pronouns when discussing specific people. When discussing hypothetical people or people of unknown gender, use the singular "they" as opposed to alternating gendered pronouns or combining pronouns (e.g., s/he, she/he, etc) to help move thinking away from a gender binary and toward gender inclusivity.
+
+Racial and ethnic descriptors, such as Black, White, Asian, Latine, and Indigenous Peoples, should be capitalized. When possible, specify the region or national origin of the people you are discussing.
+
+In terms of sexual orientation, the umbrella term "sexual orientation and gender diversity" should be used. LGBTQ+ (or variations thereof) should be used for people who are not straight and/or cisgender. The term "homosexuality" should be avoided as it promotes stereotypes, and "homosexual and heterosexual" should be avoided as it conveys a false dichotomy, given that there are many different types of sexual orientations.
+
+For language discussing SES, keep in mind that SES involves not only income but also educational attainment, job prestige, and perceptions of social status and class. When discussing SES, use terms to describe what people have rather than what they lack.
+
+Guidance on neurodiversity, pregnancy, body size, religious discrimination, and casual ableist language is forthcoming.
+
+The APA is committed to ensuring accessibility for all users. Additionally, they offer an Equity, Diversity, and Inclusion (EDI) Toolkit for journal editors, authors, reviewers, and publishing industry professionals looking to strengthen EDI efforts.
+
+Next, discussed inclusive language that will be included in CSE's Scientific Style and Format (SSF), Ninth Edition, scheduled to be published in late 2023 or early 2024. The majority of the changes will affect Chapters 7 and 8, and Jack provided some examples.
+
+In section 7.4.3, "Race, Ethnicity, Nationality, and Citizenship" readers can anticipate the following updates:
+
+- When pertinent to a study, terms based on color and customary usage should be capitalized (e.g., Black, White, Indigenous, Latinx, etc).
+- The relevance of race and ethnicity should be justified explicitly in studies, and the method of measuring the variable should be stated.
+- Because race does not have a precise definition, descriptions of human populations or large social groups should draw instead on sharply definable criteria whenever possible (e.g., country of birth and self-described identity).
+
+In section 8.3, "Human Groups", the following guidance will be added:
+
+- Terms for race should be capitalized.
+- Capitalize the names of groups of humans if they are derived from proper names of geographic entities or if they are names for ethnically or culturally homogeneous groups (e.g., Asian, Hispanic, Nordic, New Yorker).
+
+Because these guidelines are constantly evolving, CSE has added the following disclaimer to the preface to allow editors and authors flexibility to accommodate changing preferences between editions:
+
+- "The changes in the ninth edition were made with the understanding that societal standards will evolve."
+- "The guidelines in this edition reflect the revision team's advice at the time of publication."
+
+All updates to the manual were vetted by the CSE Diversity, Equity, and Inclusion (DEIA) Committee and SSF's Advisory group. The guiding principles for DEI review include:
+
+- Avoiding repeating or adding to historical trauma
+- Recognizing that representation matters during all stages of decision-making
+- Understanding that language is built from rules and frameworks
+- Providing honest versus passive feedback
+- Focusing on strength-based versus deficit-based lens
+- Fostering respect at the core of DEI: inclusive language must be intentional
+
+then discussed some other guidance and updates implemented to address DEI issues:
+
+- The "Bias-Free Language" section was renamed "Inclusive Language".
+- Use the singular "they" sparingly and judiciously.
+- Avoid depersonalizing terms that categorize people according to health problems.
+  - Use person-first descriptions.
+  - Avoid "mentally ill", "insane", and "mental defect".
+- The section entitled "Difficulties for Authors for Whom English Is a Second Language" was renamed to "Scientific English: Idiomatic Style for Multilingual Authors".
+- Many examples throughout the manual were replaced in order to highlight female scientists and researchers from around the world and investigators from a wide variety of disciplines.
+
+summarized the session by highlighting common themes across all guidelines, including being specific, avoiding labels, considering content, and committing to continuous learning. Preferences and guidelines are constantly evolving, and it is important that both are reflected in scientific communications.
+

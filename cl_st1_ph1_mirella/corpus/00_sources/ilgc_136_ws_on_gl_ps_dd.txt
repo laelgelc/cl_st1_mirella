@@ -1,0 +1,104 @@
+Best practice
+If you’re not sure how someone identifies and you think they'd be comfortable talking with you about it, ask and describe them that way going forward. Keep in mind that some people may not want to self-identify, and be sensitive to that. Consider what info is really necessary.
+
+Intuit has Employee Resource Groups with many resources and members who can give feedback and help you build empathy. 
+
+Avoid
+Don’t assume there’s one way to identify a group of people, or how one person identifies is representative of an entire group. For example, some people of Latin origin prefer Latinx as an inclusive descriptor, but others may prefer a different term.
+
+Best practice
+Be gracious with yourself and others. Nobody has all the answers. Learning about each other and how to describe people with respect is an ongoing endeavor. You may not always get it right, but continue to listen and do the work.
+
+Avoid
+Don’t dwell in your discomfort. It’s natural to feel uncomfortable, but see it as an opportunity to ask yourself why with genuine curiosity.
+
+Best practice
+folks, everyone, team, friends, peeps
+Be inclusive in your greetings and avoid unnecessarily gendered language.
+
+Avoid
+guys, dudes, bro, chicks
+sir, ma'am
+Don’t assume local slang is comfortable for everybody. If you greet a group of people with “hey guys,” does everyone you're addressing identify as male?
+
+And not everyone is a sir or ma’am. While many folks were raised to use those terms as a form of politeness, it’s OK to just use someone’s name when addressing them.
+
+Best practice
+Expand beyond Western culture. If you use examples, what types of names are you using? What type of family structure? If you’re using an illustration, who is represented in that illustration? More importantly, who is left out?
+
+Avoid
+Don’t use only cisgender or white-dominant cultural examples. Examine what you default to when designing and actively seek to widen your purview. For more guidance, check out our resources.
+
+Best practice
+Use names and examples that reflect a variety of ethnicities, genders, and pronouns. If you’re stuck, Intuit has a Name in Lights program where you can use Intuit employee names as part of sample data or fictitious examples. 
+
+Avoid
+Don’t use only Westernized, generic names like John Smith or Jane Doe. Our customers live all over the globe and should see themselves reflected in our content.
+
+Best practice
+Be thoughtful about the imagery that supports your content. Work with your design partner.  If your content uses text or imagery to depict people in certain occupations or settings, include a variety of ethnicities, genders, ages, body types, and abilities.
+
+Avoid
+Don’t change content if you receive feedback that reinforces bias. It’s important to stay true to our values of diversity, equity, and inclusion no matter what feedback you receive.
+
+This isn’t a complete list—just because something isn’t here doesn’t mean it’s OK.
+
+Best practice
+parent
+legacy
+person who is divorced
+Indigenous
+disabled, person with a disability
+older person
+person who uses a wheelchair
+person diagnosed with a mental health condition
+confidence check
+transgender, trans
+Avoid
+adopted parent
+grandfather clause
+divorcee
+Indian (unless referring to country)
+crippled, handicapped
+geezer
+wheelchair-bound, confined to a wheelchair
+crazy, insane, psycho
+sanity check
+transgendered, transvestite
+
+distinguished guests
+everyone
+customers
+developers (more specific)
+Avoid
+ladies and gentlemen
+Best practice
+everyone
+folks
+friends
+team
+Avoid
+men
+women
+guys
+Best practice
+children
+siblings
+Avoid
+boys and girls
+brothers and sisters
+These neutral choices might not be possible in other languages, but try to be as inclusive as possible when you can.
+
+Best practice
+If you add users, their dashboard looks different from yours.
+Add an accountant so you can work together in QuickBooks.
+Give developers their own web space for uploads.
+Managed users get their own user ID and password.
+Avoid
+If you add a user, his or her dashboard will look different from yours.
+Add an accountant so she/he can work with you in QuickBooks.
+Add an accountant so they can work with you in QuickBooks.
+Give each developer his own web space for uploads.
+One has one’s own web spaces for uploads.
+Each managed user gets his/her own user ID and password.
+Each managed user gets their own user ID and password.

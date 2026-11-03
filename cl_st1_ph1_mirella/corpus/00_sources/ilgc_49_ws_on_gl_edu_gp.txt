@@ -1,0 +1,75 @@
+The Chicago Manual of Style Online 
+
+Inclusive Language and Minimizing Bias
+
+Making conscious choices
+
+In recent years, many writers have become more attentive to how the words they choose may reflect bias based on race, ethnicity, sex, gender, disability, and other characteristics. Sometimes such a bias is intentional, designed to examine or provoke. But often it is unintentional, rooted in unknown or unconsidered etymologies of words {master; lame} or in unexamined assumptions about what is “normal” (male; cisgender). Eliminating all bias from a piece of writing is an unrealistic goal, but making conscious choices to avoid bias and be more inclusive where possible offers important benefits to both writer and readers.
+
+Maintaining credibility
+
+Biased language that is not central to the meaning of a work can distract or offend readers and therefore make the work less credible. It may cause readers to lose respect for the writer and focus not on the writer’s ideas but instead on the work’s political or social subtext. It may also activate their own biases in ways that prevent them from understanding what the writer is trying to say. While the topic of linguistic biases and whether and how to avoid them can be controversial, writers who are open to understanding the perspective they’re writing from and those of any marginalized groups they’re writing about are likely to make choices that more consciously and effectively represent their intended meaning.
+
+Evolving standards
+
+As awareness of the different ways in which language conveys bias evolves, so too do preferred terms and standards for inclusivity. Although some publishers recommend avoiding certain terms or specific usages in all cases, Chicago’s editorial staff does not maintain a list of words or usages considered unacceptable. Rather, we adhere to the reasoning presented here, which reflects standards at the time of publication, and apply it to individual cases.
+
+Common areas of biased language
+
+Consider language choices carefully when referring to individuals or groups based on race, ethnicity, sex, gender identity, sexual orientation, disability, age, weight, appearance, nationality, religion, social standing, or similar characteristics. Avoid irrelevant references to these characteristics.
+
+Labels
+
+Characteristics are often used as labels for individuals or groups of people. Ideally, a writer will use the label preferred by the individual or group written about or for. Research what is current, as labels are sometimes rapidly adopted or discarded. More than one may be acceptable {Black; African American}. Labels sometimes considered interchangeable may in fact refer to different people {First Nations; Inuit; Métis} or may be preferred in different geographic areas or demographic cohorts {Hispanic; Latino, Latina, Latinx, Latine; Chicano, Chicana}.
+
+Person, not characteristic
+
+In general, emphasize the person, not a characteristic. When a characteristic is mentioned for meaning or vividness, it’s often best to use an adjective instead of a noun, especially when referring to groups {the Vietnamese students in the library [not the Vietnamese in the library]}. Use care and think through the meaning of your phrasings and word choices. For instance, in the sentence United States Supreme Court Justice Ketanji Brown Jackson is one of the most successful Black female graduates of Harvard Law School, the phrase Black female may lead some readers to infer that Jackson is successful “for a female” but may be surpassed by many or all men, that she stands out only among Black graduates of Harvard Law School, or that it is abnormal for a woman or a Black person to sit on the US Supreme Court. But in Justice Ketanji Brown Jackson, a graduate of Harvard Law School, is the first Black woman to sit on the US Supreme Court, the purpose of the phrase Black woman is not likely to be misunderstood
+
+Person-first versus identity-first
+
+When someone’s disability or other condition is relevant, two approaches to labeling it are possible. One is using person-first language to emphasize the person rather than the condition {an editor who is deaf}. The other is to emphasize the person’s identity by putting the condition first {an autistic illustrator}. The former is often recommended because it focuses on the person. But some readers see it as stigmatizing the disability or other condition by trying to diminish its presence. Those readers may prefer identity-first language that includes the condition as an integral fact of a person’s identity, as well as an element of social and political identity. The approach will depend on the audience and, when known, the person’s own preference.
+
+
+Ableism
+
+Language that privileges physical and mental fitness and devalues disability is ubiquitous in the English language. Dealing with the issue requires sensitivity. When writing about disability, euphemisms such as differently abled or special needs can have the unfortunate result of both obscuring meaning and suggesting shame through avoidance. Word choices can subtly challenge (or reinforce) bias that favors nondisabled people by emphasizing disabled agency rather than limitations, as with wheelchair user (rather than confined to a wheelchair) or speech impediment (rather than speech defect). It’s always best to use terminology that is currently accepted by the individuals or communities in question. Figurative language based on disabilities will predictably offend some readers {deaf as a post} {a lame excuse} {willfully blind} and should be avoided in favor of options that don’t implicitly objectify or discredit people with disabilities {can’t hear a thing} {a bogus excuse} {refuses to see}.
+
+Gender-neutral nouns
+
+The trend in American English has long been toward eliminating gender-specific suffixes. For example, author and testator are preferable to authoress and testatrix, and actor or female actor are increasingly used in place of actress. The suffix ‑person rarely functions well as a substitute for ‑man; chairperson and anchorperson sound more pompous and wooden than the simpler (and effective) chair and anchor. With a little thought, you can identify many gender-free choices in different contexts: business owner or entrepreneur instead of businessman or businesswoman; crew, staff, or workers instead of manpower; humans, human beings, or people instead of mankind; supervisor, chief, or leader (or presiding juror in the legal sense) instead of foreman; and ancestors instead of forefathers. Even founding fathers, while technically accurate in reference to those who participated directly in establishing the US Constitution and the American form of government, may reflect a limited perspective on whose contributions deserve credit in this effort.
+
+Gender-specific labels as adjectives
+
+When gender is relevant, it may be acceptable to use a gendered noun such as female or male as a modifier {the patient requested a female doctor} {the first female president}. The adjective nonbinary, on the other hand, may be used to refer to someone who doesn’t identify with a sex-specific modifier. When parallel references to specific sexes are required, male and female are typically the most serviceable modifiers {the vaccine-study group has 834 male and 635 female participants}; these terms are, however, often avoided as nouns in reference to humans {the females were on the right, the males on the left}. By contrast, because man is rarely used as a modifier, adjectival use of woman may unacceptably suggest that it’s peculiar or exceptional for a woman to be something {a woman astronaut will lead the expedition} or may sound dismissive or derogatory {the woman plumber successfully replaced the pipe}. Lady, as a noun or as an adjective, is no longer normally advisable.
+
+Options for gender neutrality in pronoun use
+
+Now that singular they is increasingly acceptable in formal prose as well as speech and informal contexts, many writers use it as a gender-neutral alternative to he. But this option has its drawbacks, including potential confusion between referents and between singular and plural uses of they. In many contexts, an alternative solution might work better. The language is now in a transitional period, and no single approach to this issue will find universal favor among writers and their readers. Here are nine methods to consider, depending on context.
+
+Omit the pronoun. Sometimes a personal pronoun is not really necessary. For instance, in the programmer should update the records when data is transferred to her by the head office, if there is only one programmer, the pronoun phrase to her can be omitted: the programmer should update the records when data is transferred by the head office. Note that the shorter sentence is tighter as well as gender-free.
+Repeat the noun. If a noun and its pronoun are separated by many words, try repeating the noun. For instance, a writer should be careful not to needlessly antagonize readers, because her credibility would otherwise suffer becomes a writer should be careful not to needlessly antagonize readers, because the writer’s credibility would otherwise suffer. Take care not to overuse this technique. Repeating a noun too frequently will irritate readers. If you have to repeat a noun more than twice in a sentence or repeat it too soon, you should probably rewrite the sentence.
+Use a plural antecedent. By using a plural antecedent, you eliminate the need for a singular pronoun. For instance, a contestant must conduct himself with dignity at all times becomes contestants must conduct themselves with dignity at all times. The method may cause a slight change in connotation. In the example, a duty becomes a collective responsibility rather than an individual one.
+Use an article instead of a pronoun. Try replacing the singular personal pronoun with a definite or indefinite article. Quite often you’ll find that the effect on the sentence’s meaning is negligible. For instance, A student accused of cheating must actively waive his right to have his guidance counselor present becomes A student accused of cheating must actively waive the right to have a guidance counselor present.
+Use the neutral singular pronoun one. Try replacing the gender-specific personal pronoun with the gender-neutral singular pronoun one. For instance, an actor in New York is likely to earn more than he can in Paducah becomes an actor in New York is likely to earn more than one in Paducah.
+Use the relative pronoun who. This technique works best when it replaces a personal pronoun that follows if. It also requires revising the sentence slightly. For instance, employers presume that if an applicant can’t write well, he won’t be a good employee becomes employers presume that an applicant who can’t write well won’t be a good employee. Note that the rewritten sentence is tighter as well as gender-free.
+Use the imperative mood. The imperative eliminates the need for an explicit pronoun. Although its usefulness is limited in some types of writing, you may find that it avoids prolixity and more forcefully addresses the target audience. For instance, a lifeguard must keep a close watch over children while he is monitoring the pool becomes keep a close watch over children while monitoring the pool.
+Use singular they and their. If you can’t rewrite a sentence to improve it without using a singular personal pronoun, and if the person’s gender is unimportant or unknown or must be concealed for reasons of privacy, consider the singular they (construed with a plural verb) {a student needn’t have the teacher’s permission if they drop the class before the third session}.
+Revise the sentence in some other way. If no other technique produces a sentence that reads well, rewrite the sentence so that personal pronouns aren’t needed at all. The amount of revision will vary depending on the audience, the purpose, and the desired level of formality. For instance, if a student misbehaves, their privileges will be revoked might become misbehavior will be punished by the loss of privileges.
+
+Uses of singular “they”
+
+Singular they is useful primarily in three circumstances. (1) It can be used with indefinite pronouns as a substitute for feminine or masculine forms {no one in the group could remember their great-grandfather’s middle name} {given the chance, anybody would try to improve their life}. When an indefinite pronoun has or could have a plural sense, themselves is the better reflexive choice {everyone buying lunch for themselves will need to bring cash}. But when the sense is clearly singular, themself is often used {each should serve themself}. (2) It can be used when the antecedent’s gender is unknown or irrelevant or must remain confidential {will the driver of the pink sedan please move their car} {the author wants their privacy protected}. If an easy and unambiguous revision serves as well as or better than the version with singular they, you might prefer that version. (3) Some people use they and them (or some other nonbinary singular pronoun) rather than he and him or she and her; this usage, when known to apply to a specific individual, should be respected.
+
+Ability status or disability
+
+Terms describing groups or individuals according to abilities and disabilities are usually lowercased. For person-first versus identity-first language
+
+wheelchair users
+people with autism; an autistic person or a person with autism
+neurotypical people; a neurodivergent (not neurodiverse) person; neurodiversity
+blind people (or persons); a blind person
+deafness; a person who is deaf; but Deaf culture (see text below)
+Writers often capitalize deaf when referring to people who identify themselves as members of the distinct linguistic and cultural group whose primary language is ASL (American Sign Language) or another signed language—the Deaf community—and lowercase it when referring to the audiological condition of deafness or as an all-inclusive way to refer to deaf people, including those who are hard of hearing or who lost their hearing after having acquired spoken-language skills. A similar distinction is made for the term deafblind, often capitalized as DeafBlind. 
+
+

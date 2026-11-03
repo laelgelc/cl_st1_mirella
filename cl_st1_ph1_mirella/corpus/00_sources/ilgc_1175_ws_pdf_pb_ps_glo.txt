@@ -1,0 +1,32 @@
+Use in technology: Whitelist is often used to describe something that is "good" or "allowed" while blacklist is used to describe something that is "bad" and should be blocked or "denied". Typically used to infer an approved list of programs, software, or system files that may be allowed access from a computer, or device.
+
+Use in technology: Master/Slave when used together is typically uses to infer some form of dominance, or hierarchy, such as database or server architecture, or backup regime.
+
+Use in technology: 'White Hat' is typically used to refer to an unauthorised user who accesses a system without harmful intent, whilst 'Black Hat' is typically used to infer an unauthorised user that accesses a system with harmful intent. In this context, white is used to describe something that is 'good', whilst 'black' is something that is bad.
+
+Use in technology: 'Black Market' is typically used to infer an illegal, underground or shadow market, that operates outside normal rules and regulations, and where the trade of goods or services may be prohibited by law.
+
+Use in technology: 'Grandfather-Father-Son' is typically used to infer a level of age or hierarchy in infrastructure or backups, where 'Grandfather' is an older generation of technology, or backup, whereas 'Son' is a newer generation or copy. Typically infers that 'Grandfather' takes longer to restore, whilst 'Son' is quicker to restore.
+
+Use in technology: 'Penetration' testing is typically used to infer an authorised security test to simulate a cyberattack, to see how far an attacker could infiltrate into the network, or systems without being detected, and to identify weaknesses in controls
+
+Use in technology: 'Man-in-the-middle' is typically used to infer a type of cyberattack that aims to intercept network communications between two parties; to observe, steal or re-route communications.
+
+Use in technology: Connectors are assigned as 'Male' or 'Female' when there is one or more protrusions from the 'Male' connector which fits into corresponding indentations in the 'Female' connector.
+
+Use in technology: 'Sanity check' is typically used to infer a test of software or a formula to identify false or unexpected results, mistakes, or whether the results are 'rational'
+
+Use in technology: 'Dummy' is typically used to infer a lack of knowledge, or understanding in a subject, and therefore technical or difficult terms need to be explained at a lower level. Dummy can also be utilised in the context of coding, to describe a non-functional part of a programme.
+
+Use in technology: 'Repeat offender' is typically used to infer that someone in the organisation has violated a security policy multiple times, either accidentally or maliciously.
+
+Use in technology: The 'Cyber Kill Chain' is typically used to explain the different phases of an active cyberattack and the mitigation required to defend and recover from an attack.
+
+Use in technology: A 'wargame' is typically used to simulate a cyberattack in near real-time conditions, to practice the incident response strategy and plan, by all parties involved
+
+
+
+
+
+
+

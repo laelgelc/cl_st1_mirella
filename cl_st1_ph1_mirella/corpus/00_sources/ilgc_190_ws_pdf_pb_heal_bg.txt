@@ -1,0 +1,203 @@
+Advancing Health Equity: A Guide to Language, Narrative and Concepts
+
+Preamble
+The field of equity, like all other scholarly domains, has developed specific norms that convey authenticity, precision and meaning. Just as the general structure of a business document varies from that of a physics document, so too is the case with an equity document. One example is the inclusion of a "Land and Labor Acknowledgement" like the one below. It is common that discussions in the field of equity begin with the recognition that our current state is built on the land and labor of others in ways that violated the fundamental principles of equity.
+
+
+Land and Labor Acknowledgement
+
+The Association of American Medical Colleges' headquarters is located in Washington, D.C., the traditional homelands of the Nacotchtank, Piscataway and Pamunkey people. The American Medical Association's headquarters is located in the Chicago area on taken ancestral lands of indigenous tribes, such as the Council of the Three Fires, composed of the Ojibwe, Odawa and Potawatomi Nations, as well as the Miami, Ho-Chunk, Menominee, Sac, Fox, Kickapoo and Illinois Nations.
+With more than 65,000 Native Americans and Indigenous peoples represented in
+175 different tribes, Chicago today has the third-largest urban Indigenous population in the U.S. More than 4,000 American Indians and Indigenous peoples still reside in the District of Columbia. We acknowledge their ancestors were forced out by colonization, genocide, disease and war.
+
+The AAMC and AMA also acknowledge the extraction of brilliance, energy and life for labor forced upon millions of people of African descent for more than 400 years.
+We recognize the significant contributions that Native Americans/Indigenous peoples and people of African descent have made to this country, particularly to the fields of medicine and science. We celebrate the resilience and strength that all Indigenous people and descendants of Africa have shown in this country and worldwide. Their land, labor,
+bodies and minds-and those from other historically marginalized people and groups over the course of our nation's history-have contributed to the wealth of this nation and, by extension, to the AAMC and AMA.
+
+The AAMC and AMA also mourn the loss of life and liberty of millions of others who have historically been oppressed, exploited, excluded, segregated, experimented upon and dehumanized in the U.S. over centuries, and acknowledges their historical trauma and the long-lasting impact this has had on them as an individual, their families and their communities.
+The AAMC and AMA understand that while the goal of health equity is inclusive of all communities, it cannot be achieved without explicit recognition and reconciliation of our country's twin, fundamental injustices of genocide and forced labor. We must remember that we carry our ancestors in us, and we are continually called to be better as we lead this work toward the pursuit of racial justice, equity and liberation.
+
+Introduction 
+The field of health equity, as a scholarly domain and as a central issue in medicine, has evolved a great deal in recent years. A lot has been learned, and important progress has been made; yet there is still much that is being debated. Just as we would when
+exploring any new topic or area of study, when we want to learn more about the science and evidence in a particular area, one of the first tasks is to find trusted resources, so that one can learn more. In that spirit, teams from the American Medical Association and the Association of American Medical Colleges (AAMC) Center for Health Justice came together to produce this document, "Advancing Health Equity: A Guide to Language, Narrative and Concepts," providing physicians, health care workers and others a valuable foundational toolkit for health equity.
+
+To be sure, this is not about personal intentions. The majority of us have the right intentions in place; we wish to see improved health outcomes for all. Yet the evidence-the science- shows that even despite great intentions, some decisions made at the practice and institution level, and by individuals themselves, are not meeting our intended desired impact to ensure the full potential for optimal health for our patients. Most alarmingly, there are signs some of our systems continue to exert harm, creating and perpetuating inequities.
+
+By health inequities, we mean gaps that are "unjust, avoidable, unnecessary and unfair."1,2 They are neither natural nor inevitable. Rather, they are produced and sustained by deeply entrenched social systems that intentionally and unintentionally prevent people from reaching their full potential. Inequities cannot be understood or adequately addressed if we focus only on individuals, their behavior or their biology.3,4 We have the opportunity- and the obligation-to do better, and to achieve more equitable outcomes. We believe that a critical component of that effort involves a deep analysis of the language, narrative and concepts that we use in our work.
+
+Advancing health equity
+The devastating toll of COVID-19 on communities who are minoritized and or historically marginalized, coupled with worldwide protests against racism and other systems that exclude, has brought many people and a wide spectrum of institutions into conversations about racial justice and health equity. Many groups are now examining the dire statistics detailing inequities (or injustices) in health, the root causes of those statistics, and the role our institutions have played in producing and perpetuating this harm.5,6 This effort involves confronting the mounting evidence of the health effects of structural racism, while grappling with understanding intersecting, complex, and deeply entrenched "systems of power and oppression," including white supremacy (the false notion of a hierarchy of human value based on skin color with white being considered as supreme), classism, homophobia, xenophobia, ableism and sexism.7 *
+
+Health equity work requires an acknowledgment and reconsideration of previously taken for granted beliefs about health (and how it is produced), the health care and public health systems (and how they work), and society (and how it is set up to advantage some and disadvantage others). Central to this work is a consideration of our language, and the narratives that shape our thinking. As we explore in this guide, dominant narratives (also called malignant narratives), particularly those about "race," individualism and meritocracy, as well as narratives surrounding medicine itself, limit our understanding of the root causes of health inequities. Dominant narratives create harm, undermining public health and the advancement of health equity; they must be named, disrupted and corrected.
+
+Narratives, stories and language are, of course, deeply interconnected. Importantly, opportunity exists at each level of this narrative ecosystem (see Figure 1) to either perpetuate the status quo or to challenge and dismantle existing injustice.
+
+The Narrative Ecosystem
+
+Deep Narrative Narrative Story
+
+Deeply held values that have been repeated and reproduced over time. They are "baked in."
+
+Collection of stories/messages that represent an idea or belief. Narratives highlight values, define the problem/causes and determine the solutions/actions
+
+An account of a series of related events or experiences
+
+Words, Images, and/or sounds that convey an idea or belief
+
+Race Forward's model of a narrative ecosystem is straightforward but powerful: at the most abstract level, we have deeply held values that are repeated and reproduced over time and often not easily visible to many of us. From these narratives, we derive stories-accounts of events or experiences. Stories are told with words and images.9 As Race Forward explains, "when our stories and messages align with the narratives we want to elevate, we create impact."8
+
+Much is at stake in whose narratives dominate, receive traction and thrive. Narratives grounded in white supremacy and sustaining structural racism, for example, perpetuate cumulative disadvantage for some populations and cumulative advantage for white people, and especially white men. Patriarchal narratives enforce rigidly defined traditional norms, and reinforce inequities based on gender. Narratives that uncritically center meritocracy and individualism render invisible the very real constraints generated and reinforced by poverty, discrimination and ultimately exclusion. Yet a rich tradition of work in health equity and related fields, including critical race theory (defined in the glossary), gender studies, disability studies, as well as scholarship from social medicine, gives us a foundation for an alternative narrative, one that challenges the status quo, one that moves health care towards justice.
+
+We begin with an acknowledgement that health inequities-defined as differences in health that are avoidable, systematic, measurable and unjust-are well documented throughout the U.S.2,10 They are perhaps most tangible in epidemiological indicators, including life expectancy, infant mortality and other measures of population health.11 Yet as health services research shows, inequities are also evident in the health care system itself-through bias, prejudice and stereotyping on the part of health care providers,12 racial bias in the tools used to make clinical decisions,13 and through policies and systems that limit access to quality treatment.14,15
+
+Health inequities are directly related, indeed, produced and reinforced by inequities in other parts of society, including the workplace, housing, education and criminal justice systems. These inequities are produced by historical, contemporary, individual and collective decisions made by people; they are not natural or inevitable.
+
+Achieving health equity is not a utopian dream. On the contrary, we have the technical capacity and material resources to make health equity a reality-to assure that all communities have the conditions, resources, opportunities and power to attain optimal health, and to know that health is a human right. Among the first steps in this work is developing an honest account of our deeply ingrained mental models and everyday assumptions about health and society. For this to occur, physicians and other health care workers, who first and foremost care for patients and their medical needs, must develop a critical consciousness of the root causes and structural drivers of health inequities in their communities.4,16
+
+We are convinced that learning to notice and question dominant narratives is an important step toward disrupting and correcting them, and a vital component of health equity work. One way to make dominant narratives visible is to develop a capacity to critically examine the language we use in our communication. This guide is intended to raise questions about language and commonly used phrases and terms, with the goal of cultivating awareness about dominant narratives and offering equity-based, equity- explicit, and person-first alternatives.
+
+Part 2: 
+Why narratives matter 
+Narratives can be understood as collective stories, or systems of meaning. These stories are woven into the fabric of everyday life; they circulate widely and are embedded in our national psyche. They "provide the necessary mental models, patterns, and beliefs to make sense of the world and our place within it."38 They shape our language, our thinking, and our actions. They are mostly taken for granted and accepted as natural, when in fact they are not. They are expressed in a wide variety of formats, including legal codes, the arts, mass media, corporate reports and scientific literature.
+
+Narratives are embedded in the structure of the health care system, and in the ways in which we think about patients, families, communities and neighborhoods we serve-and even ourselves. For example, certain narratives guide physicians' and other health care providers' thinking about "non-compliance" (itself an outdated term rooted in a power differential that places blame on patients), just as other narratives guide their thinking about cultural norms in the communities they serve. Narratives shape public opinions regarding health care reform and guide our interpretation of health equity statistics, along with the questions we ask about the causes of adverse health outcomes.
+
+Consider the narratives that come to mind when you begin to think of the following situations:
+
+A 44-year-old Puerto Rican man comes to a free clinic with acute exacerbation of back pain. He has diabetes and hypertension. He is hesitant to seek health care. He expresses a mistrust of institutions because of negative experiences with the criminal justice system.39 ‡
+
+A 60-year-old Black woman presents at the emergency department of a community hospital in the south side of Chicago with a breast lump. She does not have a regular doctor.14
+
+Narratives shape what questions we ask in these cases and what solutions we might develop. They even shape our descriptions of the situation, what attributes of the person and the situation are emphasized in our summary of the cases. The circumstances of the 44-year-old man suffering from back pain ultimately requires us to grapple with the immediate concern of back pain, the longer term concerns about controlling his diabetes and hypertension, and the structural violence associated with hyperincarceration. In the case of the 60-year-old woman, we are tasked with helping her access appropriate testing and treatment while confronting the structural racism that has shaped the economic opportunities as well as limited access to quality treatment in her community. Even the use of "free clinic" puts a pejorative narrative that undermines equity and exposes the reality of a two-tier, segregated health care system. Both cases represent an opportunity to "shift the narrative"-from the traditional biomedical focus on the individual and their behavior to a health equity focus on the well-being of communities, as shaped by social and structural drivers.
+
+This guide discusses how dominant narratives obscure historical legacies and harmful power structures that affect people's well-being. Dominant narratives serve to uphold social and economic relations that privilege some and marginalize others. They shape our thinking and assessment of the world around us. They determine who we "see" and whose needs are and aren't prioritized. Importantly, dominant narratives shape our understanding of what we deem possible and not possible.
+
+These examples reveal a deeper point: our language reflects underlying systems of power. Ibram X. Kendi, in Stamped from the Beginning: The Definitive History of Racist Ideas in America, describes how racist ideas grow out of discriminatory policies, not the other way around. Ideas, expressed in words and narratives, are grounded in economic and political power that advantage some and disadvantage others.
+
+Reframing our language in this way (for example, rethinking our use of "vulnerability") opens up possibilities for reimagining health interventions; it shifts the focus from the personal/ behavioral to the structural. Jonathan Metzl and Helena Hansen describe this as "structural competence," the trained ability to understand how issues typically defined clinically as symptoms, attitudes or diseases (e.g., depression, hypertension, obesity, smoking, medication "non-compliance," and even trauma) also represent the downstream manifestations of a number of upstream structural drivers: social inequities, institutional policies and living conditions.22 There are now a growing set of tools for assessing "structural vulnerability"
+in health care settings and a growing commitment among many health systems to push upstream to address the root causes of health inequities in their communities.
+
+Examining dominant narratives
+Dominant narratives reflect the values and interests of the dominant group-white, wealthy, hetero-, able-bodied, male, Christian, U.S.-born. Challenging dominant narratives often involves, indeed requires, re-thinking language and word choice from the perspective of those outside this group. Twenty years ago, for example, health equity was a term rarely used in the United States. Instead, we often used health disparities, a term now widely recognized as limited to a description of difference. Health inequities, in contrast, came to be defined as health differences that are unjust, avoidable, unnecessary, and unfair-no longer a simple calculus of difference, but an assessment based on a value judgment. The change in terminology was important, signaling a shift in our understanding and interpretation of the data. The shift in narrative ushered social justice concerns from the margins to the center.
+
+Generally, narratives are collections of related, shared stories or explanations that circulate in society and produce systems of meaning enabling people to make sense of the world and how it works.9 They provide shared explanations of who we are as a nation and what functions government should perform. Because these narratives become inscribed in our consciousness from an early age, often as common sense, who is telling the stories is not always clear.
+
+Dominant narratives are deeply rooted, ingrained, widespread stories, explanations or cultural practices that give preference to the interests of society's most powerful social groups, often based on race, class, gender, sexual orientation, physical ability and other characteristics used to oppress other groups. For example, dominant narratives explain economic inequities as the result of market forces, or the large gaps in life expectancy found among different population groups as due to individual behavior. These narratives are powerful because they can influence the legitimacy of public agendas and acceptable policy. Subconsciously reinforcing and repeating stories over time can sustain inequity by obscuring its causes (and responsible parties), making injustice appear natural and inevitable. 
+
+Dominant narratives are found everywhere in culture, not only in language. They exist in the public consciousness and cultural memory, reinforced in stories, images, symbols, myths, practices, customs, art, mass media, textbooks, fiction and more. Often resistant
+to change, they become normalized and unquestioned, like stories about the founding of the United States, a slave-holding society where only propertied white men could vote.
+Dominant narratives protect and advance the interests of privileged social groups, often dividing populations with common concerns, and obscuring alternative visions of what is possible.
+
+The important purpose that underlies the close examination of dominant narratives is to demystify and correct distortions of reality, thereby revealing the interests and history behind structures of power that perpetuate social injustice. One important aspect of health equity work is to create the conditions for telling the stories of those who have been excluded.
+
+Yet, narratives are not static. They are constantly changing due to contradictions and resistance, and require continuous validation. Earlier in this guide, we introduced two medical cases: a 44-year-old man with acute back pain and a 60-year-old woman presenting at a community hospital with a lump in her breast.Both situations could be interpreted within the dominant narrative, focusing on biomedical issues and individual behaviors. Yet both situations also called for a much deeper and nuanced analysis to fully understand the dynamics of structural violence at play. In both cases, one could change the narrative and generate alternative explanations (and possible solutions) for the cases.
+
+Consider, for example, the overwhelming focus on changing individual behavior to improve health, mostly avoiding the social and economic conditions which generate poor health outcomes-this individualistic focus reflects dominant narratives.3 ¶ Or the narratives
+often present in medical discourse around patient "non-compliance." Non-compliance is often used to blame patients for not following through with their health plan-ignoring the significant barriers faced by patients in their lives, from not having enough money to pay for their medications, or not having the capability to take time off work, or not being able to secure affordable childcare to participate in an activity or follow up appointment. Conventional and equity-focused root-cause narratives are illustrated in Table 5:
+
+
+Dominant narratives' power to override alternative viewpoints precludes the imagining of a more just society. Omnipresent and insidious, dominant narratives can slip inside our heads and actions without our awareness, as the Grassroots Policy Project observes. Dominant narratives are created and advanced for a purpose and can endure for generations. Yet dominant narratives lose some of their power when they are unmasked for what they are-tools for creating and reinforcing power.
+
+Consider, for example, the workings of the following two dominant narratives (which hold power in society overall and in health in particular), the narrative of race and the narrative of individualism.
+
+
+The narrative of race
+Camara Jones defines race as "a socially constructed way of grouping people, based on skin color and other apparent physical differences, which has no genetic or scientific basis."45
+Yet in many aspects of medicine, race continues to be used as a biological concept.13 The practice of using race as a biological construct (racial essentialism) results in harm for historically marginalized and minoritized groups, exacerbating health inequities. Race-based protocols currently exist (and are being challenged) in a wide range of areas: eGFR (estimated glomerular filtration rate), BMI risk for diabetes, FRAX (fracture risk assessment score), PFT (pulmonary function test), UTI (urinary tract infection), ASCVD (atherosclerotic cardiovascular disease) and more. As seen in Figure 2, race-based medicine leads directly to racial health inequities (adding to and compounding the health effects of racism that exists outside of the medical sector), with harmful practices in research, medical education and clinical practice.35
+
+Figure 2: How Race-based Medicine Leads to Racial Health Inequities Through Research, Medical Education and Clinical Practice
+
+Race-based medicine
+Race ill-defined and inferred to have biological significance.
+
+Research
+Epidemiological and clinical studies link race with disease.
+Basic or translational science studies link race with biology.
+
+Medical education
+Racial groups understood as inherently diseased.
+Biologised concepts of race reinforced.
+
+Clinical practice
+Health-care bias and stereotyping.
+Racially tailored clinical practices.
+
+Racial health inequities.
+
+Race-conscious medicine
+Race defined as a social and power construct.
+
+Research
+Effects of structural racism analysed.
+
+Medical education
+Consequences of racism on health taught.
+
+Support provided to overcome structural barriers to health.
+
+Reduction in racial health inequities.
+
+Clinical practice
+
+Directly challenging dominant narratives about race, new AMA policies passed in 2020 explicitly (a) denounce racism as a public health threat; (b) call for the elimination of race as a proxy for ancestry, genetics, and biology in medical education, research, and clinical practice; and (c) decry racial essentialism in medicine. Also in 2020, the AAMC released a new framework, "Addressing and Eliminating Racism at the AAMC, in Academic Medicine, and Beyond," that outlines concrete steps the AAMC will take to address structural racism across all fronts: as individuals, as an association, as part of the academic medicine community, and as members of society. Senior leaders in medical education have worked
+with the AAMC to provide guidance to educators on actions towards anti-racism in medical education including acknowledging the misuse of race throughout medical training that creates an improper connection for learners and perpetuates the theory of biologically derived racial differences (racial essentialism).
+
+This is a true turning point. The use of race as a proxy variable across centuries of medical, epidemiological, and genetics research has contributed to histories of painful interventions, delayed medical treatment, erroneous medical decision-making, and has
+oftentimes locked historically marginalized and minoritized peoples out of life-enhancing or life-saving healthcare delivery. A biological narrative of race is threaded within the fibers of our oldest social institutions, and the policies that govern them.
+
+The implications of this are profound. As explained by Dorothy Roberts:
+
+"There is a long history of using a biological definition of race to make social inequities seem natural-the result of inherent difference instead of societal injustice. ... The claim that race-based biotechnologies will shrink the gap based on genetic difference is a powerful way to deflect concerns about their unjust social impact and the social inequality that actually drives poor health in marginalized/minoritized groups. We should be against an approach that promotes individual health through technological cures as a way of ignoring larger social inequities."52
+
+Yet narratives that reinforce racial essentialism exist everywhere in society, expressed in beliefs, symbols, stereotypes, values, and institutional practices in banking, education, criminal justice, and in the health care system itself. These narratives constantly shift and adapt as conditions change and serve to rationalize the privileges of racism that sustain white supremacy. They perpetuate cumulative advantage and unearned
+benefits for whites, often blaming people of color for their own conditions, avoiding social accountability for racist oppression. Thus, racism functions as a "fundamental cause of disease," impacting multiple health outcomes through various pathways: close off one and others are there to maintain the relationship between racism and health.55
+
+One does not have to read very far in the medical literature before coming across research on racial differences in health that posit biological or genetic reasons for observed differences. Rhea Boyd et al. have issued a powerful rebuke of this practice: "In the absence of a rigorous examination of racism, assertions that unmeasured genetic or biological factors may account for racial differences in health outcomes are troublingly frequent." They draw out critical implications:
+
+"The academic publication process, through authors, reviewers, and editors, has legitimized scholarship that obfuscates the role of racism in determining health and health care. This renders racism less visible and thus less accessible as a preventable etiology of inequity. It enables the health care infrastructure to
+unduly blame individual patients for the neglect and harm of systemic processes that undergird individual and population health inequities. It subjects countless patients, spanning generations in communities of color, to ineffective behaviorist approaches to problems that are actually institutional in nature."
+
+It is past time to shift the narrative from race to racism-recognizing, as critical race scholarship teaches us, that race is a socially-constructed system for producing and reinforcing power. Again, Dorothy Roberts explains and directly challenges physicians:
+
+"... [R]ace is not a biological category that naturally produces these health disparities because of genetic difference. Race is a social category that has staggering biological consequences ... because of the impact of social inequality on people's health.	What if doctors joined the forefront of a movement to end the
+structural inequities caused by racism, not by genetic difference?" (emphasis added)57
+
+
+Our work must recognize how systems of power intersect to create and reinforce inequities, particularly based on race. This means that we must invest in data infrastructure to collect race and ethnicity data, while continuing to challenge and disavow essentialist or biological explanations of race-based differences. In other words, we need race and ethnicity data to fully understand, challenge and overcome racial inequities in society.
+
+We lead with race because history and the evidence compel us to do so. Racial inequities, representing some of the largest gaps amongst populations in this country, exist and persist in every system examined across the country: health care, education, criminal justice, employment and housing.7 Conversations about race and racism also tend to
+be some of the most difficult for people in this country to participate in for numerous reasons, including a lack of knowledge or shared analysis of its historical and current underpinnings, as well as outright resistance and denial that racism exists. Given the deep divides that exist between groups in the United States, understanding and empathy can be extremely challenging for many because of an inability to really "walk a mile in another's shoes" in a racialized sense. This creates fissures that have to be overcome when seeking to achieve a space of understanding. Engaging in anti-racist work requires both
+a personal commitment to an internal process of working through the trappings of white supremacy and dominant narratives.
+
+We recognize that across other dimensions of marginalization (including gender, gender identity, sexual orientation, disability, age, class/socioeconomic status, citizenship status and language), structural racism remains a significant injustice. It is critical to address
+all areas of marginalization and inequity due to sexism, class oppression, homophobia, xenophobia and ableism. This recognition calls for us to apply an intersectional approach, a "race AND 	" approach, in which we continually acknowledge that these overlapping identities create unique modes of advantage and oppression.
+
+The narrative of individualism
+Individualism is a philosophy and group of ideas, expressed in symbols, practices, and stories that supports a belief that self-sufficient individuals are rational beings that freely make consumer-like choices, independent of political influences, living conditions or historical context. Among these ideas is the concept of meritocracy, a social system in which advancement in society is based on an individual's capabilities and merits rather than on the basis of family, wealth or social background. Individualism is problematic in obscuring the dynamics of group domination, especially socioeconomic privilege and racism.58 In health care, this narrative appears as an over-emphasis on changing individuals and individual behavior instead of the institutional and structural causes of disease.
+
+This narrative acknowledges that class inequities may be unfortunate, but falls short of declaring them unjust, thus obscuring political, structural and social determinants of health inequities. Diseases become the main target rather than the social and economic conditions that produce health inequities.59 This focus ignores the role of political struggle in the advances that have been made over time.60 For example, the major advances in
+life expectancy in the early 20th century resulted from the actions of social movements to eliminate child labor, institute housing and factory codes, and raise living standards, not advances in technology or economic growth.60 Health promotion in medicine and public health typically means educating people as individuals about their health without
+acknowledging the influence of living conditions, which are themselves conditioned upon societal, structural inequalities.3,61,62 We argue that much can be gained by shifting this narrative, from the individual to the structural, in order to more fully understand the root causes of health inequities in our society.
+
+The purpose of a health equity-based narrative
+There are many dominant narratives that attribute health to personal choices (weight, drug/alcohol abuse, preventive health care) without taking into consideration equity in the greater society. However, it is almost impossible to be or stay healthy in an unhealthy environment. Consider the health effects of living in chronically disinvested
+neighborhoods, with poor quality and unsafe housing, with limited options for exercise and healthy foods, expensive or unreliable public transportation, a dearth of pharmacies and an overabundance of fast-food outlets. The harmful effects of these characteristics are the basis of the social determinants of health model, as well as newer models that go even further "upstream" to the root causes of health inequities.
+
+We have seen that a dominant narrative in health care regards health as a personal responsibility. The prominent social epidemiologist Nancy Krieger calls this the "medical and lifestyle" explanation of health inequities.3 It focuses on biological explanations of disease, treatable and amendable through health care and individual-level behavior change. Krieger argues that this narrative is limited and ignores social context, leading to a simplistic understanding of the causes of health inequities. This dominant narrative does not take into consideration social justice, but rather, looks at people and/or communities failing or succeeding with no bearing of responsibility by the systems and structures of power influencing their lives.
+
+
+The purpose is to make injustices that perpetuate health inequity visible. An effective, compelling health equity narrative is essential to transform power, end dominant privilege, and provide meanings that will galvanize possibilities for equitable cultural change.
+
+Learning to see and think critically through dialogue
+We now turn to a more explicit discussion of the skills and sensitivities necessary for developing narrative transformation through critical thinking and active dialogue.
+
+For our purposes, critical thinking and analysis is an ongoing, disciplined, evaluative process of learning about the social and political dynamics of how the world works. It requires attentiveness to the big picture: to social context and unexamined assumptions and preconceptions (about myths, stereotypes, power) that expose social and political contradictions and social injustice. Such an awareness prepares us to resist the normalization of dominant norms and develop effective strategies to oppose them. In that sense it can be said to be emancipatory, enhancing people's self-determination. This is done most effectively with a sense of what structural competency scholars call "structural humility," recognizing that shifting narratives is the beginning, rather than the end, of difficult and complex conversations and collaborations.
+
+Critical thinking calls for focused understanding of the influence of structures and institutions, especially how they benefit or oppress us. One objective is to end our own complicity in sustaining advantage or privilege. This involves recognizing the benefits we gain by not noticing or investigating the power of dominant narratives.
+
+
+
+
+
+
+

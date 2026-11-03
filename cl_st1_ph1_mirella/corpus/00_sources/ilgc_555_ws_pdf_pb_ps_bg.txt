@@ -1,0 +1,6 @@
+WRITE INCLUSIVE DOCUMENTATION
+Google style guide — Google for Developers
+
+Note: This document includes references to terms that Google considers disrespectful or offensive. The terms are used here to provide usage guidance and alternative terms.
+
+We write our developer documentation with inclusivity and diversity in mind. This page is not an exhaustive reference, but provides some general guidelines and examples that illustrate some best practices for writing inclusive documentation.

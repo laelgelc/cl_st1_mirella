@@ -1,0 +1,6 @@
+* Instead of "Latino", use "Puerto Rican", "Mexican", "Cuban", etc.
+* Instead of "Africa", use "Morocco", "Egypt", "Namibia", etc.
+* Instead of "people of color", use "Black", "Latinx", etc.
+* Instead of "people with disabilities", use "wheelchair users", "neurodivergent people", "blind and/or deaf students", etc.
+* Instead of "America", use "United States"
+* Instead of "our culture", use "U.S. culture", "mainstream U.S. culture"

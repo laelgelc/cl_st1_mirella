@@ -1,0 +1,5 @@
+Looking to the Future
+
+Because language constantly evolves, we welcome and encourage additions and alterations to this document from Pantheon employees and community members. Our guide on contributing to Pantheon documentation can help you get started.
+
+

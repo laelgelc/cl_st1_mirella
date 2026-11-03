@@ -1,0 +1,7 @@
+Seneca Polytechnic
+3.2 Inclusive Communication
+
+Inclusive language is integral to communication, and the business field is no exception. When you communicate, you want to ensure that your language conveys respect and creates a safe environment for your audience. Inclusive language means words, phrases or tones that do not contain discriminatory, stereotyped, or prejudiced ideas of groups of people. By being inclusive in the way you write, you will not exclude any members of your audience.
+
+As discussed in Chapter 2.3, LLMs have been trained on massive amounts of text and data; as a result, their output will reflect the information contained in that training material, including discrimination, stereotypes, and prejudices. For this reason, when reviewing output created by LLMs, you should carefully check to ensure that the content you transfer to your messages and document is free of these biases.
+
